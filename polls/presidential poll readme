@@ -1,0 +1,106 @@
+# National presidential general election polls, 2000–2024
+
+Builds `polls`, a long tibble (one row per poll) with four columns:
+
+| column | meaning |
+|---|---|
+| `date` | **field end date** of the poll |
+| `gop_pct` | share for the GOP candidate (%) |
+| `dem_pct` | share for the DEM candidate (%) |
+| `cycle` | election year (2000, 2004, …, 2024) |
+
+Built by [`buiilding a 2000-2024 presidential election polls.R`](buiilding%20a%202000-2024%20presidential%20election%20polls.R);
+saved to `presidential polls national 00-24.csv`.
+
+## Sources
+
+- **2020 + 2024:** `t1` — RealClearPolitics poll export
+  (`president_polls_historical.csv` from `github.com/thomasjwood/ps7160`).
+  Long format: one row per candidate answer, with `poll_id`, `question_id`,
+  `cycle`, `party`, `candidate_name`, `pct`, `start_date`/`end_date`, `state`,
+  `stage`.
+- **2000, 2004, 2008, 2012, 2016:** the CSVs in `rcp polls/` (`l1`), scraped
+  from the RCP (2004–2016) and pollingreport.com (2000) national
+  general-election pages. One row per poll, wide format, party columns in the
+  headers.
+
+## Scope rules
+
+- **National polls only** (`state` is NA in `t1`; the scraped pages are national).
+- **General-election polls only** (`stage == "general"` in `t1`).
+- **Two-candidate nominee matchups only:**
+  - 2020: Biden/Trump (the whole cycle, including 2018–19 polls).
+  - 2024: Biden/Trump for polls ending **before 7/21/2024** (Biden's
+    withdrawal), Harris/Trump for polls ending on/after that date. A poll
+    fielding both questions contributes the one matching its end date.
+  - 2000–2016: the scraped pages already contain only the top-2 pairing
+    (verified via the `spread` column: no non-nominee candidate names appear).
+  - In `t1` this means keeping only `question_id`s with exactly one DEM and one
+    REP answer; polls with 3+ candidates or other pairings are dropped.
+- **Sample universes are mixed** (LV, RV, A, etc.) — RCP's tables are, and no
+  universe column is kept in the output.
+
+## Year inference for the 2004–2016 files (the tricky part)
+
+Those files have **no year** on dates: `"M/D - M/D"` (e.g. `"10/27 - 11/1"`).
+The tables are ordered newest-first, so the year must be rolled **backwards**
+from the election year as you read down the file:
+
+1. Parse the **start** month of each `M/D - M/D` field period.
+2. The first row gets the election year (the last polls happen in the
+   election year).
+3. Each time the start month jumps **1 → 12**, decrement the year.
+4. The reported `date` is the **end** date of the field period (plus one year
+   if the period crosses a year boundary, i.e. end month < start month).
+
+**Important caveat:** the tables are newest-first but *not perfectly ordered*.
+Start months occasionally tick up within the same year (`10/29` → `11/3`,
+`7/31` → `8/1`, one case `5/16` → `8/14`), so "any month increase = new year"
+is wrong. Only a 1 → 12 jump is a genuine year boundary. Each 1 → 12 jump was
+verified against polling history (a false boundary would place polls in
+impossible years — e.g. Trump/Clinton polls in December 2016 *after* the
+election, or Obama/Romney polls before Romney's 2011 announcement).
+
+Resulting spans: 2004 stays in 2004; 2008 runs Nov 2006 – Nov 2008;
+2012 runs Apr 2009 – Nov 2012; 2016 runs May 2015 – Nov 2016.
+
+## Why the older cycles start years early
+
+The RCP pages include **pre-nomination "top-2" polls**: the two party
+front-runners matched up before/around the time they became the actual
+nominees (e.g. McCain/Obama hypotheticals in late 2006, Obama/Romney from
+2009, Trump/Clinton from days after Trump's June 2015 announcement). Since
+those pairings *are* the two eventual nominees, they are kept. (The 2000
+page likewise covers the whole calendar year 2000.)
+
+## Rows dropped
+
+- `RCP Average` and `Final Results` rows in the 2004–2016 files.
+- Rows with missing/unparseable dates or missing percentages (`-`, `—`).
+- In `t1`: state polls, non-general polls, 3+ candidate questions, and
+  questions that are not the nominee matchup (e.g. Trump/Sanders,
+  Biden/Sanders, 4-way questions).
+
+## Output
+
+`polls` (also written to `presidential polls national 00-24.csv`):
+
+| cycle | n polls | date range |
+|---|---|---|
+| 2000 | 526 | 2000-01-05 – 2000-11-06 |
+| 2004 | 233 | 2004-01-31 – 2004-11-01 |
+| 2008 | 319 | 2006-11-07 – 2008-11-03 |
+| 2012 | 326 | 2009-04-19 – 2012-11-05 |
+| 2016 | 259 | 2015-05-26 – 2016-11-07 |
+| 2020 | 1,642 | 2018-12-17 – 2020-11-03 |
+| 2024 | 2,494 | 2021-04-07 – 2024-11-04 |
+
+## Caveats for teaching
+
+- `date` is the field **end** date; a poll fielded over a long period (some
+  span weeks) is dated at its close.
+- Because universes (LV/RV/A) are mixed and pollsters vary, day-to-day
+  volatility includes sampling error — good material for the polling-accuracy
+  lecture.
+- Spot values verified against the source tables (e.g. Marist 11/3/2008
+  Obama 52 / McCain 43; Bloomberg 11/6/2016 Clinton 46 / Trump 43).
