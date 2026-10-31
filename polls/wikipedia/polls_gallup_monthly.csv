@@ -1,0 +1,1130 @@
+cycle,poll_seq,row_type,month_label,month,candidate,party,pct,source
+1936,1.0,poll,July,7.0,Franklin D. Roosevelt,D,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1936,1.0,poll,July,7.0,Alf Landon,R,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1936,2.0,poll,August,8.0,Franklin D. Roosevelt,D,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1936,2.0,poll,August,8.0,Alf Landon,R,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1936,3.0,poll,August,8.0,Franklin D. Roosevelt,D,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1936,3.0,poll,August,8.0,Alf Landon,R,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1936,4.0,poll,August,8.0,Franklin D. Roosevelt,D,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1936,4.0,poll,August,8.0,Alf Landon,R,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1936,5.0,poll,September,9.0,Franklin D. Roosevelt,D,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1936,5.0,poll,September,9.0,Alf Landon,R,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1936,6.0,poll,September,9.0,Franklin D. Roosevelt,D,50.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1936,6.0,poll,September,9.0,Alf Landon,R,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1936,7.0,poll,October,10.0,Franklin D. Roosevelt,D,51.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1936,7.0,poll,October,10.0,Alf Landon,R,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1936,8.0,poll,October,10.0,Franklin D. Roosevelt,D,51.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1936,8.0,poll,October,10.0,Alf Landon,R,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1936,9.0,poll,October,10.0,Franklin D. Roosevelt,D,56.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1936,9.0,poll,October,10.0,Alf Landon,R,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1936,,result,Actual result,,Franklin D. Roosevelt,D,60.8,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1936,,result,Actual result,,Alf Landon,R,36.54,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1940,1.0,poll,July,7.0,Franklin D. Roosevelt,D,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1940,1.0,poll,July,7.0,Wendell Willkie,R,42.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1940,2.0,poll,July,7.0,Franklin D. Roosevelt,D,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1940,2.0,poll,July,7.0,Wendell Willkie,R,43.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1940,3.0,poll,August,8.0,Franklin D. Roosevelt,D,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1940,3.0,poll,August,8.0,Wendell Willkie,R,43.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1940,4.0,poll,August,8.0,Franklin D. Roosevelt,D,46.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1940,4.0,poll,August,8.0,Wendell Willkie,R,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1940,5.0,poll,September,9.0,Franklin D. Roosevelt,D,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1940,5.0,poll,September,9.0,Wendell Willkie,R,40.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1940,6.0,poll,October,10.0,Franklin D. Roosevelt,D,50.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1940,6.0,poll,October,10.0,Wendell Willkie,R,40.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1940,7.0,poll,October,10.0,Franklin D. Roosevelt,D,51.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1940,7.0,poll,October,10.0,Wendell Willkie,R,42.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1940,8.0,poll,October,10.0,Franklin D. Roosevelt,D,52.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1940,8.0,poll,October,10.0,Wendell Willkie,R,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1940,,result,Actual result,,Franklin D. Roosevelt,D,54.72,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1940,,result,Actual result,,Wendell Willkie,R,44.77,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1944,1.0,poll,March,3.0,Franklin D. Roosevelt,D,55.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1944,1.0,poll,March,3.0,Thomas E. Dewey,R,41.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1944,2.0,poll,March,3.0,Franklin D. Roosevelt,D,53.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1944,2.0,poll,March,3.0,Thomas E. Dewey,R,42.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1944,3.0,poll,April,4.0,Franklin D. Roosevelt,D,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1944,3.0,poll,April,4.0,Thomas E. Dewey,R,46.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1944,4.0,poll,May,5.0,Franklin D. Roosevelt,D,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1944,4.0,poll,May,5.0,Thomas E. Dewey,R,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1944,5.0,poll,May,5.0,Franklin D. Roosevelt,D,50.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1944,5.0,poll,May,5.0,Thomas E. Dewey,R,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1944,6.0,poll,June,6.0,Franklin D. Roosevelt,D,51.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1944,6.0,poll,June,6.0,Thomas E. Dewey,R,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1944,7.0,poll,June,6.0,Franklin D. Roosevelt,D,51.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1944,7.0,poll,June,6.0,Thomas E. Dewey,R,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1944,8.0,poll,July,7.0,Franklin D. Roosevelt,D,46.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1944,8.0,poll,July,7.0,Thomas E. Dewey,R,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1944,9.0,poll,July,7.0,Franklin D. Roosevelt,D,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1944,9.0,poll,July,7.0,Thomas E. Dewey,R,41.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1944,10.0,poll,August,8.0,Franklin D. Roosevelt,D,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1944,10.0,poll,August,8.0,Thomas E. Dewey,R,42.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1944,11.0,poll,August,8.0,Franklin D. Roosevelt,D,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1944,11.0,poll,August,8.0,Thomas E. Dewey,R,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1944,12.0,poll,September,9.0,Franklin D. Roosevelt,D,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1944,12.0,poll,September,9.0,Thomas E. Dewey,R,42.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1944,13.0,poll,September,9.0,Franklin D. Roosevelt,D,50.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1944,13.0,poll,September,9.0,Thomas E. Dewey,R,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1944,14.0,poll,September,9.0,Franklin D. Roosevelt,D,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1944,14.0,poll,September,9.0,Thomas E. Dewey,R,41.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1944,15.0,poll,September,9.0,Franklin D. Roosevelt,D,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1944,15.0,poll,September,9.0,Thomas E. Dewey,R,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1944,16.0,poll,October,10.0,Franklin D. Roosevelt,D,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1944,16.0,poll,October,10.0,Thomas E. Dewey,R,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1944,17.0,poll,October,10.0,Franklin D. Roosevelt,D,50.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1944,17.0,poll,October,10.0,Thomas E. Dewey,R,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1944,18.0,poll,November,11.0,Franklin D. Roosevelt,D,51.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1944,18.0,poll,November,11.0,Thomas E. Dewey,R,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1944,,result,Actual result,,Franklin D. Roosevelt,D,53.39,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1944,,result,Actual result,,Thomas E. Dewey,R,45.89,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1948,1.0,poll,December 1947/January 1948,1.0,Harry S. Truman,D,46.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1948,1.0,poll,December 1947/January 1948,1.0,Thomas E. Dewey,R,41.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1948,1.0,poll,December 1947/January 1948,1.0,Henry A. Wallace,P,7.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1948,2.0,poll,February/March,3.0,Harry S. Truman,D,39.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1948,2.0,poll,February/March,3.0,Thomas E. Dewey,R,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1948,2.0,poll,February/March,3.0,Henry A. Wallace,P,7.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1948,3.0,poll,June/July,7.0,Harry S. Truman,D,38.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1948,3.0,poll,June/July,7.0,Thomas E. Dewey,R,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1948,3.0,poll,June/July,7.0,Henry A. Wallace,P,6.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1948,4.0,poll,June/July,7.0,Harry S. Truman,D,37.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1948,4.0,poll,June/July,7.0,Thomas E. Dewey,R,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1948,4.0,poll,June/July,7.0,Henry A. Wallace,P,5.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1948,5.0,poll,August/September,9.0,Harry S. Truman,D,37.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1948,5.0,poll,August/September,9.0,Thomas E. Dewey,R,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1948,5.0,poll,August/September,9.0,Henry A. Wallace,P,4.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1948,5.0,poll,August/September,9.0,Strom Thurmond,SR,2.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1948,6.0,poll,August/September,9.0,Harry S. Truman,D,36.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1948,6.0,poll,August/September,9.0,Thomas E. Dewey,R,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1948,6.0,poll,August/September,9.0,Henry A. Wallace,P,5.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1948,6.0,poll,August/September,9.0,Strom Thurmond,SR,3.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1948,7.0,poll,August/September,9.0,Harry S. Truman,D,39.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1948,7.0,poll,August/September,9.0,Thomas E. Dewey,R,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1948,7.0,poll,August/September,9.0,Henry A. Wallace,P,3.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1948,7.0,poll,August/September,9.0,Strom Thurmond,SR,2.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1948,8.0,poll,August/September,9.0,Harry S. Truman,D,39.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1948,8.0,poll,August/September,9.0,Thomas E. Dewey,R,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1948,8.0,poll,August/September,9.0,Henry A. Wallace,P,3.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1948,8.0,poll,August/September,9.0,Strom Thurmond,SR,2.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1948,9.0,poll,August/September,9.0,Harry S. Truman,D,40.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1948,9.0,poll,August/September,9.0,Thomas E. Dewey,R,46.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1948,9.0,poll,August/September,9.0,Henry A. Wallace,P,4.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1948,9.0,poll,August/September,9.0,Strom Thurmond,SR,2.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1948,10.0,poll,October,10.0,Harry S. Truman,D,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1948,10.0,poll,October,10.0,Thomas E. Dewey,R,50.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1948,10.0,poll,October,10.0,Henry A. Wallace,P,4.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1948,10.0,poll,October,10.0,Strom Thurmond,SR,2.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1948,,result,Actual result,,Harry S. Truman,D,49.55,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1948,,result,Actual result,,Thomas E. Dewey,R,45.07,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1948,,result,Actual result,,Henry A. Wallace,P,2.37,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1948,,result,Actual result,,Strom Thurmond,SR,2.41,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1952,1.0,poll,June,6.0,Dwight D. Eisenhower,R,59.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1952,1.0,poll,June,6.0,Adlai Stevenson II,D,31.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1952,2.0,poll,July,7.0,Dwight D. Eisenhower,R,50.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1952,2.0,poll,July,7.0,Adlai Stevenson II,D,43.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1952,3.0,poll,September,9.0,Dwight D. Eisenhower,R,55.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1952,3.0,poll,September,9.0,Adlai Stevenson II,D,40.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1952,4.0,poll,September,9.0,Dwight D. Eisenhower,R,55.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1952,4.0,poll,September,9.0,Adlai Stevenson II,D,41.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1952,5.0,poll,October,10.0,Dwight D. Eisenhower,R,53.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1952,5.0,poll,October,10.0,Adlai Stevenson II,D,41.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1952,6.0,poll,October,10.0,Dwight D. Eisenhower,R,51.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1952,6.0,poll,October,10.0,Adlai Stevenson II,D,38.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1952,7.0,poll,October,10.0,Dwight D. Eisenhower,R,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1952,7.0,poll,October,10.0,Adlai Stevenson II,D,39.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1952,8.0,poll,October,10.0,Dwight D. Eisenhower,R,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1952,8.0,poll,October,10.0,Adlai Stevenson II,D,39.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1952,9.0,poll,October,10.0,Dwight D. Eisenhower,R,51.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1952,9.0,poll,October,10.0,Adlai Stevenson II,D,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1952,,result,Actual result,,Dwight D. Eisenhower,R,55.14,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1952,,result,Actual result,,Adlai Stevenson II,D,44.38,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1956,1.0,poll,December 1955/January 1956,1.0,Dwight D. Eisenhower,R,61.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1956,1.0,poll,December 1955/January 1956,1.0,Adlai Stevenson II,D,35.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1956,2.0,poll,February/March,3.0,Dwight D. Eisenhower,R,63.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1956,2.0,poll,February/March,3.0,Adlai Stevenson II,D,33.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1956,3.0,poll,April/May,5.0,Dwight D. Eisenhower,R,61.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1956,3.0,poll,April/May,5.0,Adlai Stevenson II,D,37.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1956,4.0,poll,April/May,5.0,Dwight D. Eisenhower,R,62.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1956,4.0,poll,April/May,5.0,Adlai Stevenson II,D,33.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1956,5.0,poll,April/May,5.0,Dwight D. Eisenhower,R,62.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1956,5.0,poll,April/May,5.0,Adlai Stevenson II,D,35.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1956,6.0,poll,June/July,7.0,Dwight D. Eisenhower,R,62.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1956,6.0,poll,June/July,7.0,Adlai Stevenson II,D,35.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1956,7.0,poll,June/July,7.0,Dwight D. Eisenhower,R,61.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1956,7.0,poll,June/July,7.0,Adlai Stevenson II,D,37.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1956,8.0,poll,August/September,9.0,Dwight D. Eisenhower,R,52.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1956,8.0,poll,August/September,9.0,Adlai Stevenson II,D,41.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1956,9.0,poll,August/September,9.0,Dwight D. Eisenhower,R,52.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1956,9.0,poll,August/September,9.0,Adlai Stevenson II,D,41.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1956,10.0,poll,August/September,9.0,Dwight D. Eisenhower,R,52.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1956,10.0,poll,August/September,9.0,Adlai Stevenson II,D,40.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1956,11.0,poll,October/November,11.0,Dwight D. Eisenhower,R,51.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1956,11.0,poll,October/November,11.0,Adlai Stevenson II,D,41.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1956,12.0,poll,October/November,11.0,Dwight D. Eisenhower,R,59.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1956,12.0,poll,October/November,11.0,Adlai Stevenson II,D,40.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1956,,result,Actual result,,Dwight D. Eisenhower,R,57.37,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1956,,result,Actual result,,Adlai Stevenson II,D,41.97,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1960,1.0,poll,December 1959/January 1960,1.0,John F. Kennedy,D,43.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1960,1.0,poll,December 1959/January 1960,1.0,Richard Nixon,R,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1960,2.0,poll,February/March,3.0,John F. Kennedy,D,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1960,2.0,poll,February/March,3.0,Richard Nixon,R,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1960,3.0,poll,February/March,3.0,John F. Kennedy,D,50.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1960,3.0,poll,February/March,3.0,Richard Nixon,R,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1960,4.0,poll,April/May,5.0,John F. Kennedy,D,51.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1960,4.0,poll,April/May,5.0,Richard Nixon,R,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1960,5.0,poll,April/May,5.0,John F. Kennedy,D,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1960,5.0,poll,April/May,5.0,Richard Nixon,R,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1960,6.0,poll,April/May,5.0,John F. Kennedy,D,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1960,6.0,poll,April/May,5.0,Richard Nixon,R,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1960,7.0,poll,June/July,7.0,John F. Kennedy,D,50.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1960,7.0,poll,June/July,7.0,Richard Nixon,R,46.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1960,8.0,poll,August/September,9.0,John F. Kennedy,D,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1960,8.0,poll,August/September,9.0,Richard Nixon,R,50.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1960,9.0,poll,August/September,9.0,John F. Kennedy,D,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1960,9.0,poll,August/September,9.0,Richard Nixon,R,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1960,10.0,poll,August/September,9.0,John F. Kennedy,D,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1960,10.0,poll,August/September,9.0,Richard Nixon,R,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1960,11.0,poll,August/September,9.0,John F. Kennedy,D,46.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1960,11.0,poll,August/September,9.0,Richard Nixon,R,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1960,12.0,poll,October/November,11.0,John F. Kennedy,D,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1960,12.0,poll,October/November,11.0,Richard Nixon,R,46.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1960,13.0,poll,October/November,11.0,John F. Kennedy,D,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1960,13.0,poll,October/November,11.0,Richard Nixon,R,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1960,14.0,poll,October/November,11.0,John F. Kennedy,D,51.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1960,14.0,poll,October/November,11.0,Richard Nixon,R,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1960,,result,Actual result,,John F. Kennedy,D,49.72,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1960,,result,Actual result,,Richard Nixon,R,49.55,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1964,1.0,poll,June,6.0,Lyndon B. Johnson,D,77.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1964,1.0,poll,June,6.0,Barry Goldwater,R,18.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1964,2.0,poll,June,6.0,Lyndon B. Johnson,D,76.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1964,2.0,poll,June,6.0,Barry Goldwater,R,20.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1964,3.0,poll,July,7.0,Lyndon B. Johnson,D,62.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1964,3.0,poll,July,7.0,Barry Goldwater,R,26.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1964,4.0,poll,July,7.0,Lyndon B. Johnson,D,59.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1964,4.0,poll,July,7.0,Barry Goldwater,R,31.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1964,5.0,poll,August,8.0,Lyndon B. Johnson,D,65.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1964,5.0,poll,August,8.0,Barry Goldwater,R,29.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1964,6.0,poll,September,9.0,Lyndon B. Johnson,D,65.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1964,6.0,poll,September,9.0,Barry Goldwater,R,29.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1964,7.0,poll,September,9.0,Lyndon B. Johnson,D,62.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1964,7.0,poll,September,9.0,Barry Goldwater,R,32.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1964,8.0,poll,October,10.0,Lyndon B. Johnson,D,64.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1964,8.0,poll,October,10.0,Barry Goldwater,R,29.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1964,9.0,poll,October,10.0,Lyndon B. Johnson,D,64.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1964,9.0,poll,October,10.0,Barry Goldwater,R,36.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1964,,result,Actual result,,Lyndon B. Johnson,D,61.05,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1964,,result,Actual result,,Barry Goldwater,R,38.47,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1968,1.0,poll,April,4.0,Richard Nixon,R,43.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1968,1.0,poll,April,4.0,Hubert Humphrey,D,34.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1968,1.0,poll,April,4.0,George Wallace American,I,9.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1968,2.0,poll,May,5.0,Richard Nixon,R,39.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1968,2.0,poll,May,5.0,Hubert Humphrey,D,36.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1968,2.0,poll,May,5.0,George Wallace American,I,14.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1968,3.0,poll,May,5.0,Richard Nixon,R,36.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1968,3.0,poll,May,5.0,Hubert Humphrey,D,42.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1968,3.0,poll,May,5.0,George Wallace American,I,14.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1968,4.0,poll,June,6.0,Richard Nixon,R,37.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1968,4.0,poll,June,6.0,Hubert Humphrey,D,42.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1968,4.0,poll,June,6.0,George Wallace American,I,14.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1968,5.0,poll,July,7.0,Richard Nixon,R,35.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1968,5.0,poll,July,7.0,Hubert Humphrey,D,40.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1968,5.0,poll,July,7.0,George Wallace American,I,16.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1968,6.0,poll,July,7.0,Richard Nixon,R,40.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1968,6.0,poll,July,7.0,Hubert Humphrey,D,38.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1968,6.0,poll,July,7.0,George Wallace American,I,16.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1968,7.0,poll,August,8.0,Richard Nixon,R,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1968,7.0,poll,August,8.0,Hubert Humphrey,D,29.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1968,7.0,poll,August,8.0,George Wallace American,I,18.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1968,8.0,poll,September,9.0,Richard Nixon,R,43.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1968,8.0,poll,September,9.0,Hubert Humphrey,D,31.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1968,8.0,poll,September,9.0,George Wallace American,I,19.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1968,9.0,poll,September,9.0,Richard Nixon,R,43.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1968,9.0,poll,September,9.0,Hubert Humphrey,D,28.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1968,9.0,poll,September,9.0,George Wallace American,I,21.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1968,10.0,poll,September,9.0,Richard Nixon,R,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1968,10.0,poll,September,9.0,Hubert Humphrey,D,29.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1968,10.0,poll,September,9.0,George Wallace American,I,20.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1968,11.0,poll,October,10.0,Richard Nixon,R,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1968,11.0,poll,October,10.0,Hubert Humphrey,D,36.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1968,11.0,poll,October,10.0,George Wallace American,I,15.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1968,12.0,poll,November,11.0,Richard Nixon,R,43.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1968,12.0,poll,November,11.0,Hubert Humphrey,D,42.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1968,12.0,poll,November,11.0,George Wallace American,I,15.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1968,,result,Actual result,,Richard Nixon,R,43.42,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1968,,result,Actual result,,Hubert Humphrey,D,42.72,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1968,,result,Actual result,,George Wallace American,I,13.53,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1972,1.0,poll,May,5.0,Richard Nixon,R,53.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1972,1.0,poll,May,5.0,George McGovern,D,34.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1972,2.0,poll,June,6.0,Richard Nixon,R,53.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1972,2.0,poll,June,6.0,George McGovern,D,37.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1972,3.0,poll,July,7.0,Richard Nixon,R,56.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1972,3.0,poll,July,7.0,George McGovern,D,37.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1972,4.0,poll,August,8.0,Richard Nixon,R,57.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1972,4.0,poll,August,8.0,George McGovern,D,31.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1972,5.0,poll,August,8.0,Richard Nixon,R,64.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1972,5.0,poll,August,8.0,George McGovern,D,30.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1972,6.0,poll,September,9.0,Richard Nixon,R,61.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1972,6.0,poll,September,9.0,George McGovern,D,33.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1972,7.0,poll,October,10.0,Richard Nixon,R,60.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1972,7.0,poll,October,10.0,George McGovern,D,34.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1972,8.0,poll,October,10.0,Richard Nixon,R,59.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1972,8.0,poll,October,10.0,George McGovern,D,36.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1972,9.0,poll,November,11.0,Richard Nixon,R,62.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1972,9.0,poll,November,11.0,George McGovern,D,38.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1972,,result,Actual result,,Richard Nixon,R,60.67,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1972,,result,Actual result,,George McGovern,D,37.52,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1976,1.0,poll,March,3.0,Jimmy Carter,D,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1976,1.0,poll,March,3.0,Gerald Ford,R,42.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1976,2.0,poll,March,3.0,Jimmy Carter,D,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1976,2.0,poll,March,3.0,Gerald Ford,R,46.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1976,3.0,poll,March,3.0,Jimmy Carter,D,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1976,3.0,poll,March,3.0,Gerald Ford,R,46.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1976,4.0,poll,April,4.0,Jimmy Carter,D,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1976,4.0,poll,April,4.0,Gerald Ford,R,43.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1976,5.0,poll,May,5.0,Jimmy Carter,D,52.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1976,5.0,poll,May,5.0,Gerald Ford,R,42.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1976,6.0,poll,May,5.0,Jimmy Carter,D,53.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1976,6.0,poll,May,5.0,Gerald Ford,R,40.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1976,7.0,poll,June,6.0,Jimmy Carter,D,55.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1976,7.0,poll,June,6.0,Gerald Ford,R,37.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1976,8.0,poll,June,6.0,Jimmy Carter,D,53.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1976,8.0,poll,June,6.0,Gerald Ford,R,36.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1976,9.0,poll,July,7.0,Jimmy Carter,D,62.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1976,9.0,poll,July,7.0,Gerald Ford,R,29.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1976,10.0,poll,August,8.0,Jimmy Carter,D,54.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1976,10.0,poll,August,8.0,Gerald Ford,R,32.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1976,11.0,poll,August,8.0,Jimmy Carter,D,51.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1976,11.0,poll,August,8.0,Gerald Ford,R,36.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1976,12.0,poll,September,9.0,Jimmy Carter,D,51.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1976,12.0,poll,September,9.0,Gerald Ford,R,40.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1976,13.0,poll,October,10.0,Jimmy Carter,D,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1976,13.0,poll,October,10.0,Gerald Ford,R,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1976,14.0,poll,October,10.0,Jimmy Carter,D,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1976,14.0,poll,October,10.0,Gerald Ford,R,41.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1976,15.0,poll,October,10.0,Jimmy Carter,D,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1976,15.0,poll,October,10.0,Gerald Ford,R,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1976,,result,Actual result,,Jimmy Carter,D,50.08,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1976,,result,Actual result,,Gerald Ford,R,48.01,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1980,1.0,poll,December 1979/January 1980,1.0,Ronald Reagan,R,33.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1980,1.0,poll,December 1979/January 1980,1.0,Jimmy Carter,D,62.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1980,2.0,poll,February/March,3.0,Ronald Reagan,R,31.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1980,2.0,poll,February/March,3.0,Jimmy Carter,D,60.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1980,3.0,poll,February/March,3.0,Ronald Reagan,R,33.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1980,3.0,poll,February/March,3.0,Jimmy Carter,D,58.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1980,4.0,poll,February/March,3.0,Ronald Reagan,R,34.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1980,4.0,poll,February/March,3.0,Jimmy Carter,D,40.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1980,4.0,poll,February/March,3.0,John B. Anderson,I,21.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1980,5.0,poll,April/May,5.0,Ronald Reagan,R,34.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1980,5.0,poll,April/May,5.0,Jimmy Carter,D,41.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1980,5.0,poll,April/May,5.0,John B. Anderson,I,18.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1980,6.0,poll,April/May,5.0,Ronald Reagan,R,32.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1980,6.0,poll,April/May,5.0,Jimmy Carter,D,38.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1980,6.0,poll,April/May,5.0,John B. Anderson,I,21.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1980,7.0,poll,April/May,5.0,Ronald Reagan,R,32.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1980,7.0,poll,April/May,5.0,Jimmy Carter,D,40.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1980,7.0,poll,April/May,5.0,John B. Anderson,I,21.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1980,8.0,poll,June/July,7.0,Ronald Reagan,R,32.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1980,8.0,poll,June/July,7.0,Jimmy Carter,D,39.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1980,8.0,poll,June/July,7.0,John B. Anderson,I,21.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1980,9.0,poll,June/July,7.0,Ronald Reagan,R,33.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1980,9.0,poll,June/July,7.0,Jimmy Carter,D,35.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1980,9.0,poll,June/July,7.0,John B. Anderson,I,24.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1980,10.0,poll,June/July,7.0,Ronald Reagan,R,37.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1980,10.0,poll,June/July,7.0,Jimmy Carter,D,32.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1980,10.0,poll,June/July,7.0,John B. Anderson,I,22.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1980,11.0,poll,June/July,7.0,Ronald Reagan,R,37.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1980,11.0,poll,June/July,7.0,Jimmy Carter,D,34.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1980,11.0,poll,June/July,7.0,John B. Anderson,I,21.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1980,12.0,poll,August/September,9.0,Ronald Reagan,R,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1980,12.0,poll,August/September,9.0,Jimmy Carter,D,29.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1980,12.0,poll,August/September,9.0,John B. Anderson,I,14.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1980,13.0,poll,August/September,9.0,Ronald Reagan,R,38.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1980,13.0,poll,August/September,9.0,Jimmy Carter,D,39.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1980,13.0,poll,August/September,9.0,John B. Anderson,I,13.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1980,14.0,poll,August/September,9.0,Ronald Reagan,R,39.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1980,14.0,poll,August/September,9.0,Jimmy Carter,D,39.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1980,14.0,poll,August/September,9.0,John B. Anderson,I,14.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1980,15.0,poll,October/November,11.0,Ronald Reagan,R,40.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1980,15.0,poll,October/November,11.0,Jimmy Carter,D,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1980,15.0,poll,October/November,11.0,John B. Anderson,I,9.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1980,16.0,poll,October/November,11.0,Ronald Reagan,R,39.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1980,16.0,poll,October/November,11.0,Jimmy Carter,D,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1980,16.0,poll,October/November,11.0,John B. Anderson,I,9.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1980,17.0,poll,October/November,11.0,Ronald Reagan,R,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1980,17.0,poll,October/November,11.0,Jimmy Carter,D,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1980,17.0,poll,October/November,11.0,John B. Anderson,I,8.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1980,,result,Actual result,,Ronald Reagan,R,50.75,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1980,,result,Actual result,,Jimmy Carter,D,41.01,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1980,,result,Actual result,,John B. Anderson,I,6.61,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1984,1.0,poll,December 1983/January 1984,1.0,Ronald Reagan,R,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1984,1.0,poll,December 1983/January 1984,1.0,Walter Mondale,D,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1984,2.0,poll,December 1983/January 1984,1.0,Ronald Reagan,R,53.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1984,2.0,poll,December 1983/January 1984,1.0,Walter Mondale,D,43.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1984,3.0,poll,February/March,3.0,Ronald Reagan,R,52.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1984,3.0,poll,February/March,3.0,Walter Mondale,D,42.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1984,4.0,poll,February/March,3.0,Ronald Reagan,R,50.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1984,4.0,poll,February/March,3.0,Walter Mondale,D,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1984,5.0,poll,February/March,3.0,Ronald Reagan,R,52.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1984,5.0,poll,February/March,3.0,Walter Mondale,D,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1984,6.0,poll,April/May,5.0,Ronald Reagan,R,54.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1984,6.0,poll,April/May,5.0,Walter Mondale,D,41.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1984,7.0,poll,April/May,5.0,Ronald Reagan,R,52.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1984,7.0,poll,April/May,5.0,Walter Mondale,D,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1984,8.0,poll,April/May,5.0,Ronald Reagan,R,50.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1984,8.0,poll,April/May,5.0,Walter Mondale,D,46.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1984,9.0,poll,April/May,5.0,Ronald Reagan,R,53.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1984,9.0,poll,April/May,5.0,Walter Mondale,D,43.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1984,10.0,poll,June/July,7.0,Ronald Reagan,R,53.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1984,10.0,poll,June/July,7.0,Walter Mondale,D,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1984,11.0,poll,June/July,7.0,Ronald Reagan,R,55.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1984,11.0,poll,June/July,7.0,Walter Mondale,D,38.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1984,12.0,poll,June/July,7.0,Ronald Reagan,R,51.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1984,12.0,poll,June/July,7.0,Walter Mondale,D,43.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1984,13.0,poll,June/July,7.0,Ronald Reagan,R,53.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1984,13.0,poll,June/July,7.0,Walter Mondale,D,39.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1984,14.0,poll,June/July,7.0,Ronald Reagan,R,53.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1984,14.0,poll,June/July,7.0,Walter Mondale,D,41.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1984,15.0,poll,August/September,9.0,Ronald Reagan,R,52.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1984,15.0,poll,August/September,9.0,Walter Mondale,D,41.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1984,16.0,poll,August/September,9.0,Ronald Reagan,R,56.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1984,16.0,poll,August/September,9.0,Walter Mondale,D,37.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1984,17.0,poll,August/September,9.0,Ronald Reagan,R,58.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1984,17.0,poll,August/September,9.0,Walter Mondale,D,37.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1984,18.0,poll,August/September,9.0,Ronald Reagan,R,55.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1984,18.0,poll,August/September,9.0,Walter Mondale,D,39.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1984,19.0,poll,October/November,11.0,Ronald Reagan,R,58.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1984,19.0,poll,October/November,11.0,Walter Mondale,D,38.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1984,20.0,poll,October/November,11.0,Ronald Reagan,R,56.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1984,20.0,poll,October/November,11.0,Walter Mondale,D,39.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1984,21.0,poll,October/November,11.0,Ronald Reagan,R,59.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1984,21.0,poll,October/November,11.0,Walter Mondale,D,41.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1984,,result,Actual result,,Ronald Reagan,R,58.77,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1984,,result,Actual result,,Walter Mondale,D,40.56,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1988,1.0,poll,March,3.0,George H. W. Bush,R,52.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1988,1.0,poll,March,3.0,Michael Dukakis,D,40.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1988,2.0,poll,April,4.0,George H. W. Bush,R,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1988,2.0,poll,April,4.0,Michael Dukakis,D,43.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1988,3.0,poll,May,5.0,George H. W. Bush,R,38.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1988,3.0,poll,May,5.0,Michael Dukakis,D,54.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1988,4.0,poll,June,6.0,George H. W. Bush,R,38.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1988,4.0,poll,June,6.0,Michael Dukakis,D,52.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1988,5.0,poll,June,6.0,George H. W. Bush,R,41.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1988,5.0,poll,June,6.0,Michael Dukakis,D,46.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1988,6.0,poll,July,7.0,George H. W. Bush,R,41.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1988,6.0,poll,July,7.0,Michael Dukakis,D,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1988,7.0,poll,July,7.0,George H. W. Bush,R,37.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1988,7.0,poll,July,7.0,Michael Dukakis,D,54.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1988,8.0,poll,August,8.0,George H. W. Bush,R,42.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1988,8.0,poll,August,8.0,Michael Dukakis,D,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1988,9.0,poll,September,9.0,George H. W. Bush,R,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1988,9.0,poll,September,9.0,Michael Dukakis,D,41.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1988,10.0,poll,September,9.0,George H. W. Bush,R,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1988,10.0,poll,September,9.0,Michael Dukakis,D,42.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1988,11.0,poll,October,10.0,George H. W. Bush,R,50.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1988,11.0,poll,October,10.0,Michael Dukakis,D,40.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1988,12.0,poll,November,11.0,George H. W. Bush,R,56.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1988,12.0,poll,November,11.0,Michael Dukakis,D,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1988,,result,Actual result,,George H. W. Bush,R,53.37,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1988,,result,Actual result,,Michael Dukakis,D,45.65,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,1.0,poll,March,3.0,Bill Clinton,D,25.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,1.0,poll,March,3.0,George H. W. Bush,R,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,1.0,poll,March,3.0,Ross Perot,I,24.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,2.0,poll,April,4.0,Bill Clinton,D,26.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,2.0,poll,April,4.0,George H. W. Bush,R,41.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,2.0,poll,April,4.0,Ross Perot,I,25.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,3.0,poll,May,5.0,Bill Clinton,D,29.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,3.0,poll,May,5.0,George H. W. Bush,R,35.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,3.0,poll,May,5.0,Ross Perot,I,30.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,4.0,poll,May,5.0,Bill Clinton,D,25.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,4.0,poll,May,5.0,George H. W. Bush,R,35.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,4.0,poll,May,5.0,Ross Perot,I,35.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,5.0,poll,June,6.0,Bill Clinton,D,26.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,5.0,poll,June,6.0,George H. W. Bush,R,30.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,5.0,poll,June,6.0,Ross Perot,I,38.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,6.0,poll,June,6.0,Bill Clinton,D,25.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,6.0,poll,June,6.0,George H. W. Bush,R,31.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,6.0,poll,June,6.0,Ross Perot,I,39.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,7.0,poll,June,6.0,Bill Clinton,D,24.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,7.0,poll,June,6.0,George H. W. Bush,R,24.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,7.0,poll,June,6.0,Ross Perot,I,37.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,8.0,poll,June,6.0,Bill Clinton,D,24.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,8.0,poll,June,6.0,George H. W. Bush,R,32.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,8.0,poll,June,6.0,Ross Perot,I,34.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,9.0,poll,June,6.0,Bill Clinton,D,27.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,9.0,poll,June,6.0,George H. W. Bush,R,33.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,9.0,poll,June,6.0,Ross Perot,I,32.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,10.0,poll,July,7.0,Bill Clinton,D,40.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,10.0,poll,July,7.0,George H. W. Bush,R,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,11.0,poll,July,7.0,Bill Clinton,D,56.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,11.0,poll,July,7.0,George H. W. Bush,R,34.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,12.0,poll,July,7.0,Bill Clinton,D,56.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,12.0,poll,July,7.0,George H. W. Bush,R,36.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,13.0,poll,July,7.0,Bill Clinton,D,57.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,13.0,poll,July,7.0,George H. W. Bush,R,32.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,14.0,poll,August,8.0,Bill Clinton,D,56.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,14.0,poll,August,8.0,George H. W. Bush,R,37.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,15.0,poll,August,8.0,Bill Clinton,D,50.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,15.0,poll,August,8.0,George H. W. Bush,R,39.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,16.0,poll,August,8.0,Bill Clinton,D,52.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,16.0,poll,August,8.0,George H. W. Bush,R,42.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,17.0,poll,September,9.0,Bill Clinton,D,54.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,17.0,poll,September,9.0,George H. W. Bush,R,39.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,18.0,poll,September,9.0,Bill Clinton,D,51.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,18.0,poll,September,9.0,George H. W. Bush,R,42.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,19.0,poll,September,9.0,Bill Clinton,D,50.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,19.0,poll,September,9.0,George H. W. Bush,R,40.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,20.0,poll,September,9.0,Bill Clinton,D,54.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,20.0,poll,September,9.0,George H. W. Bush,R,38.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,21.0,poll,September,9.0,Bill Clinton,D,51.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,21.0,poll,September,9.0,George H. W. Bush,R,35.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,21.0,poll,September,9.0,Ross Perot,I,8.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,22.0,poll,October,10.0,Bill Clinton,D,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,22.0,poll,October,10.0,George H. W. Bush,R,35.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,22.0,poll,October,10.0,Ross Perot,I,10.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,23.0,poll,October,10.0,Bill Clinton,D,50.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,23.0,poll,October,10.0,George H. W. Bush,R,34.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,23.0,poll,October,10.0,Ross Perot,I,9.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,24.0,poll,October,10.0,Bill Clinton,D,51.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,24.0,poll,October,10.0,George H. W. Bush,R,33.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,24.0,poll,October,10.0,Ross Perot,I,10.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,25.0,poll,October,10.0,Bill Clinton,D,46.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,25.0,poll,October,10.0,George H. W. Bush,R,34.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,25.0,poll,October,10.0,Ross Perot,I,13.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,26.0,poll,October,10.0,Bill Clinton,D,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,26.0,poll,October,10.0,George H. W. Bush,R,34.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,26.0,poll,October,10.0,Ross Perot,I,14.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,27.0,poll,October,10.0,Bill Clinton,D,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,27.0,poll,October,10.0,George H. W. Bush,R,29.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,27.0,poll,October,10.0,Ross Perot,I,15.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,28.0,poll,October,10.0,Bill Clinton,D,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,28.0,poll,October,10.0,George H. W. Bush,R,32.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,28.0,poll,October,10.0,Ross Perot,I,17.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,29.0,poll,October,10.0,Bill Clinton,D,41.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,29.0,poll,October,10.0,George H. W. Bush,R,30.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,29.0,poll,October,10.0,Ross Perot,I,20.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,30.0,poll,October,10.0,Bill Clinton,D,42.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,30.0,poll,October,10.0,George H. W. Bush,R,31.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,30.0,poll,October,10.0,Ross Perot,I,19.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,31.0,poll,October,10.0,Bill Clinton,D,40.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,31.0,poll,October,10.0,George H. W. Bush,R,38.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,31.0,poll,October,10.0,Ross Perot,I,16.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,32.0,poll,October,10.0,Bill Clinton,D,41.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,32.0,poll,October,10.0,George H. W. Bush,R,40.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,32.0,poll,October,10.0,Ross Perot,I,14.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,33.0,poll,October,10.0,Bill Clinton,D,43.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,33.0,poll,October,10.0,George H. W. Bush,R,36.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,33.0,poll,October,10.0,Ross Perot,I,15.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,34.0,poll,November,11.0,Bill Clinton,D,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,34.0,poll,November,11.0,George H. W. Bush,R,37.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,34.0,poll,November,11.0,Ross Perot,I,14.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,,result,Actual result,,Bill Clinton,D,43.01,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,,result,Actual result,,George H. W. Bush,R,37.45,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1992,,result,Actual result,,Ross Perot,I,18.91,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,1.0,poll,January,1.0,Bill Clinton,D,43.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,1.0,poll,January,1.0,Bob Dole,R,39.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,1.0,poll,January,1.0,Ross Perot,Reform,16.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,2.0,poll,March,3.0,Bill Clinton,D,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,2.0,poll,March,3.0,Bob Dole,R,34.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,2.0,poll,March,3.0,Ross Perot,Reform,17.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,3.0,poll,April,4.0,Bill Clinton,D,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,3.0,poll,April,4.0,Bob Dole,R,35.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,3.0,poll,April,4.0,Ross Perot,Reform,15.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,4.0,poll,May,5.0,Bill Clinton,D,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,4.0,poll,May,5.0,Bob Dole,R,32.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,4.0,poll,May,5.0,Ross Perot,Reform,19.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,5.0,poll,May,5.0,Bill Clinton,D,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,5.0,poll,May,5.0,Bob Dole,R,35.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,5.0,poll,May,5.0,Ross Perot,Reform,15.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,6.0,poll,June,6.0,Bill Clinton,D,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,6.0,poll,June,6.0,Bob Dole,R,33.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,6.0,poll,June,6.0,Ross Perot,Reform,17.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,7.0,poll,July,7.0,Bill Clinton,D,50.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,7.0,poll,July,7.0,Bob Dole,R,33.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,7.0,poll,July,7.0,Ross Perot,Reform,12.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,8.0,poll,July,7.0,Bill Clinton,D,50.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,8.0,poll,July,7.0,Bob Dole,R,35.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,8.0,poll,July,7.0,Ross Perot,Reform,10.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,9.0,poll,August,8.0,Bill Clinton,D,52.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,9.0,poll,August,8.0,Bob Dole,R,30.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,9.0,poll,August,8.0,Ross Perot,Reform,12.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,10.0,poll,August,8.0,Bill Clinton,D,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,10.0,poll,August,8.0,Bob Dole,R,39.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,10.0,poll,August,8.0,Ross Perot,Reform,7.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,11.0,poll,August,8.0,Bill Clinton,D,50.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,11.0,poll,August,8.0,Bob Dole,R,38.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,11.0,poll,August,8.0,Ross Perot,Reform,7.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,12.0,poll,August,8.0,Bill Clinton,D,51.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,12.0,poll,August,8.0,Bob Dole,R,38.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,12.0,poll,August,8.0,Ross Perot,Reform,7.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,13.0,poll,August,8.0,Bill Clinton,D,55.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,13.0,poll,August,8.0,Bob Dole,R,34.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,13.0,poll,August,8.0,Ross Perot,Reform,6.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,14.0,poll,September,9.0,Bill Clinton,D,53.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,14.0,poll,September,9.0,Bob Dole,R,36.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,14.0,poll,September,9.0,Ross Perot,Reform,5.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,15.0,poll,September,9.0,Bill Clinton,D,54.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,15.0,poll,September,9.0,Bob Dole,R,36.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,15.0,poll,September,9.0,Ross Perot,Reform,4.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,16.0,poll,September,9.0,Bill Clinton,D,55.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,16.0,poll,September,9.0,Bob Dole,R,34.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,16.0,poll,September,9.0,Ross Perot,Reform,5.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,17.0,poll,September,9.0,Bill Clinton,D,55.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,17.0,poll,September,9.0,Bob Dole,R,34.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,17.0,poll,September,9.0,Ross Perot,Reform,5.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,18.0,poll,September,9.0,Bill Clinton,D,55.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,18.0,poll,September,9.0,Bob Dole,R,32.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,18.0,poll,September,9.0,Ross Perot,Reform,6.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,19.0,poll,September,9.0,Bill Clinton,D,51.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,19.0,poll,September,9.0,Bob Dole,R,34.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,19.0,poll,September,9.0,Ross Perot,Reform,8.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,20.0,poll,September,9.0,Bill Clinton,D,50.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,20.0,poll,September,9.0,Bob Dole,R,36.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,20.0,poll,September,9.0,Ross Perot,Reform,6.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,21.0,poll,September,9.0,Bill Clinton,D,52.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,21.0,poll,September,9.0,Bob Dole,R,36.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,21.0,poll,September,9.0,Ross Perot,Reform,4.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,22.0,poll,September,9.0,Bill Clinton,D,53.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,22.0,poll,September,9.0,Bob Dole,R,34.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,22.0,poll,September,9.0,Ross Perot,Reform,6.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,23.0,poll,September,9.0,Bill Clinton,D,51.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,23.0,poll,September,9.0,Bob Dole,R,38.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,23.0,poll,September,9.0,Ross Perot,Reform,5.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,24.0,poll,September,9.0,Bill Clinton,D,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,24.0,poll,September,9.0,Bob Dole,R,39.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,24.0,poll,September,9.0,Ross Perot,Reform,6.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,25.0,poll,September,9.0,Bill Clinton,D,51.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,25.0,poll,September,9.0,Bob Dole,R,37.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,25.0,poll,September,9.0,Ross Perot,Reform,6.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,26.0,poll,September,9.0,Bill Clinton,D,57.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,26.0,poll,September,9.0,Bob Dole,R,32.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,26.0,poll,September,9.0,Ross Perot,Reform,5.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,27.0,poll,October,10.0,Bill Clinton,D,53.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,27.0,poll,October,10.0,Bob Dole,R,36.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,27.0,poll,October,10.0,Ross Perot,Reform,6.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,28.0,poll,October,10.0,Bill Clinton,D,51.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,28.0,poll,October,10.0,Bob Dole,R,39.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,28.0,poll,October,10.0,Ross Perot,Reform,5.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,29.0,poll,October,10.0,Bill Clinton,D,55.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,29.0,poll,October,10.0,Bob Dole,R,35.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,29.0,poll,October,10.0,Ross Perot,Reform,5.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,30.0,poll,October,10.0,Bill Clinton,D,55.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,30.0,poll,October,10.0,Bob Dole,R,34.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,30.0,poll,October,10.0,Ross Perot,Reform,6.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,31.0,poll,October,10.0,Bill Clinton,D,51.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,31.0,poll,October,10.0,Bob Dole,R,38.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,31.0,poll,October,10.0,Ross Perot,Reform,5.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,32.0,poll,October,10.0,Bill Clinton,D,56.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,32.0,poll,October,10.0,Bob Dole,R,35.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,32.0,poll,October,10.0,Ross Perot,Reform,4.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,33.0,poll,October,10.0,Bill Clinton,D,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,33.0,poll,October,10.0,Bob Dole,R,39.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,33.0,poll,October,10.0,Ross Perot,Reform,5.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,34.0,poll,October,10.0,Bill Clinton,D,51.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,34.0,poll,October,10.0,Bob Dole,R,36.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,34.0,poll,October,10.0,Ross Perot,Reform,8.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,35.0,poll,October,10.0,Bill Clinton,D,54.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,35.0,poll,October,10.0,Bob Dole,R,35.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,35.0,poll,October,10.0,Ross Perot,Reform,6.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,36.0,poll,October,10.0,Bill Clinton,D,52.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,36.0,poll,October,10.0,Bob Dole,R,33.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,36.0,poll,October,10.0,Ross Perot,Reform,8.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,37.0,poll,October,10.0,Bill Clinton,D,53.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,37.0,poll,October,10.0,Bob Dole,R,34.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,37.0,poll,October,10.0,Ross Perot,Reform,6.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,38.0,poll,October,10.0,Bill Clinton,D,54.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,38.0,poll,October,10.0,Bob Dole,R,34.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,38.0,poll,October,10.0,Ross Perot,Reform,7.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,39.0,poll,October,10.0,Bill Clinton,D,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,39.0,poll,October,10.0,Bob Dole,R,37.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,39.0,poll,October,10.0,Ross Perot,Reform,7.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,40.0,poll,October,10.0,Bill Clinton,D,51.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,40.0,poll,October,10.0,Bob Dole,R,35.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,40.0,poll,October,10.0,Ross Perot,Reform,10.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,41.0,poll,October,10.0,Bill Clinton,D,50.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,41.0,poll,October,10.0,Bob Dole,R,37.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,41.0,poll,October,10.0,Ross Perot,Reform,7.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,42.0,poll,November,11.0,Bill Clinton,D,52.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,42.0,poll,November,11.0,Bob Dole,R,41.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,42.0,poll,November,11.0,Ross Perot,Reform,7.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,,result,Actual result,,Bill Clinton,D,49.24,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,,result,Actual result,,Bob Dole,R,40.71,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+1996,,result,Actual result,,Ross Perot,Reform,8.4,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,1.0,poll,April,4.0,George W. Bush,R,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,1.0,poll,April,4.0,Al Gore,D,41.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,1.0,poll,April,4.0,Ralph Nader,G,4.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,2.0,poll,June,6.0,George W. Bush,R,46.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,2.0,poll,June,6.0,Al Gore,D,41.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,2.0,poll,June,6.0,Ralph Nader,G,6.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,3.0,poll,June,6.0,George W. Bush,R,50.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,3.0,poll,June,6.0,Al Gore,D,38.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,3.0,poll,June,6.0,Ralph Nader,G,6.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,4.0,poll,July,7.0,George W. Bush,R,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,4.0,poll,July,7.0,Al Gore,D,43.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,4.0,poll,July,7.0,Ralph Nader,G,5.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,5.0,poll,July,7.0,George W. Bush,R,50.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,5.0,poll,July,7.0,Al Gore,D,39.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,5.0,poll,July,7.0,Ralph Nader,G,4.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,6.0,poll,August,8.0,George W. Bush,R,54.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,6.0,poll,August,8.0,Al Gore,D,37.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,6.0,poll,August,8.0,Ralph Nader,G,4.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,7.0,poll,August,8.0,George W. Bush,R,55.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,7.0,poll,August,8.0,Al Gore,D,39.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,7.0,poll,August,8.0,Ralph Nader,G,2.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,8.0,poll,August,8.0,George W. Bush,R,46.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,8.0,poll,August,8.0,Al Gore,D,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,8.0,poll,August,8.0,Ralph Nader,G,3.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,9.0,poll,August,8.0,George W. Bush,R,46.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,9.0,poll,August,8.0,Al Gore,D,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,9.0,poll,August,8.0,Ralph Nader,G,3.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,10.0,poll,September,9.0,George W. Bush,R,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,10.0,poll,September,9.0,Al Gore,D,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,10.0,poll,September,9.0,Ralph Nader,G,3.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,11.0,poll,September,9.0,George W. Bush,R,46.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,11.0,poll,September,9.0,Al Gore,D,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,11.0,poll,September,9.0,Ralph Nader,G,2.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,12.0,poll,September,9.0,George W. Bush,R,42.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,12.0,poll,September,9.0,Al Gore,D,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,12.0,poll,September,9.0,Ralph Nader,G,3.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,13.0,poll,September,9.0,George W. Bush,R,41.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,13.0,poll,September,9.0,Al Gore,D,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,13.0,poll,September,9.0,Ralph Nader,G,4.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,14.0,poll,September,9.0,George W. Bush,R,42.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,14.0,poll,September,9.0,Al Gore,D,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,14.0,poll,September,9.0,Ralph Nader,G,2.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,15.0,poll,September,9.0,George W. Bush,R,41.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,15.0,poll,September,9.0,Al Gore,D,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,15.0,poll,September,9.0,Ralph Nader,G,3.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,16.0,poll,September,9.0,George W. Bush,R,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,16.0,poll,September,9.0,Al Gore,D,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,16.0,poll,September,9.0,Ralph Nader,G,2.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,17.0,poll,September,9.0,George W. Bush,R,41.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,17.0,poll,September,9.0,Al Gore,D,51.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,17.0,poll,September,9.0,Ralph Nader,G,3.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,18.0,poll,September,9.0,George W. Bush,R,42.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,18.0,poll,September,9.0,Al Gore,D,50.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,18.0,poll,September,9.0,Ralph Nader,G,2.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,19.0,poll,September,9.0,George W. Bush,R,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,19.0,poll,September,9.0,Al Gore,D,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,19.0,poll,September,9.0,Ralph Nader,G,2.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,20.0,poll,September,9.0,George W. Bush,R,46.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,20.0,poll,September,9.0,Al Gore,D,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,20.0,poll,September,9.0,Ralph Nader,G,2.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,21.0,poll,September,9.0,George W. Bush,R,46.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,21.0,poll,September,9.0,Al Gore,D,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,21.0,poll,September,9.0,Ralph Nader,G,3.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,22.0,poll,September,9.0,George W. Bush,R,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,22.0,poll,September,9.0,Al Gore,D,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,22.0,poll,September,9.0,Ralph Nader,G,4.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,23.0,poll,October,10.0,George W. Bush,R,41.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,23.0,poll,October,10.0,Al Gore,D,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,23.0,poll,October,10.0,Ralph Nader,G,2.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,24.0,poll,October,10.0,George W. Bush,R,40.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,24.0,poll,October,10.0,Al Gore,D,51.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,24.0,poll,October,10.0,Ralph Nader,G,2.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,25.0,poll,October,10.0,George W. Bush,R,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,25.0,poll,October,10.0,Al Gore,D,41.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,25.0,poll,October,10.0,Ralph Nader,G,4.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,26.0,poll,October,10.0,George W. Bush,R,50.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,26.0,poll,October,10.0,Al Gore,D,42.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,26.0,poll,October,10.0,Ralph Nader,G,4.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,27.0,poll,October,10.0,George W. Bush,R,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,27.0,poll,October,10.0,Al Gore,D,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,27.0,poll,October,10.0,Ralph Nader,G,2.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,28.0,poll,October,10.0,George W. Bush,R,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,28.0,poll,October,10.0,Al Gore,D,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,28.0,poll,October,10.0,Ralph Nader,G,3.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,29.0,poll,October,10.0,George W. Bush,R,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,29.0,poll,October,10.0,Al Gore,D,43.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,29.0,poll,October,10.0,Ralph Nader,G,2.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,30.0,poll,October,10.0,George W. Bush,R,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,30.0,poll,October,10.0,Al Gore,D,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,30.0,poll,October,10.0,Ralph Nader,G,3.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,31.0,poll,October,10.0,George W. Bush,R,51.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,31.0,poll,October,10.0,Al Gore,D,40.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,31.0,poll,October,10.0,Ralph Nader,G,4.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,32.0,poll,October,10.0,George W. Bush,R,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,32.0,poll,October,10.0,Al Gore,D,46.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,32.0,poll,October,10.0,Ralph Nader,G,4.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,33.0,poll,October,10.0,George W. Bush,R,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,33.0,poll,October,10.0,Al Gore,D,42.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,33.0,poll,October,10.0,Ralph Nader,G,3.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,34.0,poll,October,10.0,George W. Bush,R,52.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,34.0,poll,October,10.0,Al Gore,D,39.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,34.0,poll,October,10.0,Ralph Nader,G,4.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,35.0,poll,October,10.0,George W. Bush,R,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,35.0,poll,October,10.0,Al Gore,D,42.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,35.0,poll,October,10.0,Ralph Nader,G,3.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,36.0,poll,October,10.0,George W. Bush,R,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,36.0,poll,October,10.0,Al Gore,D,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,36.0,poll,October,10.0,Ralph Nader,G,3.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,37.0,poll,October,10.0,George W. Bush,R,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,37.0,poll,October,10.0,Al Gore,D,43.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,37.0,poll,October,10.0,Ralph Nader,G,4.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,38.0,poll,November,11.0,George W. Bush,R,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,38.0,poll,November,11.0,Al Gore,D,43.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,38.0,poll,November,11.0,Ralph Nader,G,4.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,39.0,poll,November,11.0,George W. Bush,R,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,39.0,poll,November,11.0,Al Gore,D,46.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,39.0,poll,November,11.0,Ralph Nader,G,4.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,,result,Actual result,,George W. Bush,R,47.86,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,,result,Actual result,,Al Gore,D,48.38,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2000,,result,Actual result,,Ralph Nader,G,2.74,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2004,1.0,poll,March,3.0,George W. Bush,R,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2004,1.0,poll,March,3.0,John Kerry,D,50.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2004,2.0,poll,March,3.0,George W. Bush,R,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2004,2.0,poll,March,3.0,John Kerry,D,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2004,3.0,poll,April,4.0,George W. Bush,R,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2004,3.0,poll,April,4.0,John Kerry,D,43.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2004,4.0,poll,April,4.0,George W. Bush,R,50.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2004,4.0,poll,April,4.0,John Kerry,D,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2004,5.0,poll,May,5.0,George W. Bush,R,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2004,5.0,poll,May,5.0,John Kerry,D,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2004,6.0,poll,May,5.0,George W. Bush,R,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2004,6.0,poll,May,5.0,John Kerry,D,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2004,7.0,poll,May,5.0,George W. Bush,R,46.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2004,7.0,poll,May,5.0,John Kerry,D,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2004,8.0,poll,June,6.0,George W. Bush,R,43.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2004,8.0,poll,June,6.0,John Kerry,D,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2004,9.0,poll,June,6.0,George W. Bush,R,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2004,9.0,poll,June,6.0,John Kerry,D,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2004,10.0,poll,July,7.0,George W. Bush,R,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2004,10.0,poll,July,7.0,John Kerry,D,50.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2004,11.0,poll,July,7.0,George W. Bush,R,46.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2004,11.0,poll,July,7.0,John Kerry,D,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2004,12.0,poll,July,7.0,George W. Bush,R,51.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2004,12.0,poll,July,7.0,John Kerry,D,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2004,13.0,poll,August,8.0,George W. Bush,R,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2004,13.0,poll,August,8.0,John Kerry,D,46.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2004,14.0,poll,August,8.0,George W. Bush,R,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2004,14.0,poll,August,8.0,John Kerry,D,46.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2004,15.0,poll,September,9.0,George W. Bush,R,52.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2004,15.0,poll,September,9.0,John Kerry,D,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2004,16.0,poll,September,9.0,George W. Bush,R,52.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2004,16.0,poll,September,9.0,John Kerry,D,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2004,17.0,poll,October,10.0,George W. Bush,R,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2004,17.0,poll,October,10.0,John Kerry,D,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2004,18.0,poll,October,10.0,George W. Bush,R,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2004,18.0,poll,October,10.0,John Kerry,D,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2004,19.0,poll,October,10.0,George W. Bush,R,52.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2004,19.0,poll,October,10.0,John Kerry,D,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2004,20.0,poll,October,10.0,George W. Bush,R,51.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2004,20.0,poll,October,10.0,John Kerry,D,46.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2004,21.0,poll,October,10.0,George W. Bush,R,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2004,21.0,poll,October,10.0,John Kerry,D,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2004,,result,Actual result,,George W. Bush,R,50.73,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2004,,result,Actual result,,John Kerry,D,48.27,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2008,1.0,poll,March,3.0,Barack Obama,D,46.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2008,1.0,poll,March,3.0,John McCain,R,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2008,2.0,poll,March,3.0,Barack Obama,D,43.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2008,2.0,poll,March,3.0,John McCain,R,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2008,3.0,poll,April,4.0,Barack Obama,D,46.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2008,3.0,poll,April,4.0,John McCain,R,43.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2008,4.0,poll,April,4.0,Barack Obama,D,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2008,4.0,poll,April,4.0,John McCain,R,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2008,5.0,poll,May,5.0,Barack Obama,D,42.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2008,5.0,poll,May,5.0,John McCain,R,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2008,6.0,poll,May,5.0,Barack Obama,D,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2008,6.0,poll,May,5.0,John McCain,R,43.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2008,7.0,poll,May,5.0,Barack Obama,D,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2008,7.0,poll,May,5.0,John McCain,R,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2008,8.0,poll,June,6.0,Barack Obama,D,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2008,8.0,poll,June,6.0,John McCain,R,41.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2008,9.0,poll,June,6.0,Barack Obama,D,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2008,9.0,poll,June,6.0,John McCain,R,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2008,10.0,poll,July,7.0,Barack Obama,D,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2008,10.0,poll,July,7.0,John McCain,R,42.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2008,11.0,poll,July,7.0,Barack Obama,D,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2008,11.0,poll,July,7.0,John McCain,R,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2008,12.0,poll,July,7.0,Barack Obama,D,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2008,12.0,poll,July,7.0,John McCain,R,40.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2008,13.0,poll,July,7.0,Barack Obama,D,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2008,13.0,poll,July,7.0,John McCain,R,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2008,14.0,poll,August,8.0,Barack Obama,D,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2008,14.0,poll,August,8.0,John McCain,R,42.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2008,15.0,poll,August,8.0,Barack Obama,D,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2008,15.0,poll,August,8.0,John McCain,R,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2008,16.0,poll,August,8.0,Barack Obama,D,50.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2008,16.0,poll,August,8.0,John McCain,R,42.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2008,17.0,poll,September,9.0,Barack Obama,D,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2008,17.0,poll,September,9.0,John McCain,R,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2008,18.0,poll,September,9.0,Barack Obama,D,50.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2008,18.0,poll,September,9.0,John McCain,R,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2008,19.0,poll,September,9.0,Barack Obama,D,46.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2008,19.0,poll,September,9.0,John McCain,R,46.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2008,20.0,poll,October,10.0,Barack Obama,D,52.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2008,20.0,poll,October,10.0,John McCain,R,41.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2008,21.0,poll,October,10.0,Barack Obama,D,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2008,21.0,poll,October,10.0,John McCain,R,43.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2008,22.0,poll,October,10.0,Barack Obama,D,52.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2008,22.0,poll,October,10.0,John McCain,R,42.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2008,23.0,poll,October,10.0,Barack Obama,D,53.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2008,23.0,poll,October,10.0,John McCain,R,40.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2008,24.0,poll,October,10.0,Barack Obama,D,53.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2008,24.0,poll,October,10.0,John McCain,R,42.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2008,,result,Actual result,,Barack Obama,D,52.93,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2008,,result,Actual result,,John McCain,R,45.65,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,1.0,poll,February,2.0,Barack Obama,D,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,1.0,poll,February,2.0,Mitt Romney,R,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,2.0,poll,February,2.0,Barack Obama,D,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,2.0,poll,February,2.0,Mitt Romney,R,43.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,3.0,poll,February,2.0,Barack Obama,D,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,3.0,poll,February,2.0,Mitt Romney,R,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,4.0,poll,March,3.0,Barack Obama,D,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,4.0,poll,March,3.0,Mitt Romney,R,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,5.0,poll,March,3.0,Barack Obama,D,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,5.0,poll,March,3.0,Mitt Romney,R,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,6.0,poll,April,4.0,Barack Obama,D,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,6.0,poll,April,4.0,Mitt Romney,R,43.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,7.0,poll,April,4.0,Barack Obama,D,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,7.0,poll,April,4.0,Mitt Romney,R,43.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,8.0,poll,April,4.0,Barack Obama,D,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,8.0,poll,April,4.0,Mitt Romney,R,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,9.0,poll,April,4.0,Barack Obama,D,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,9.0,poll,April,4.0,Mitt Romney,R,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,10.0,poll,May,5.0,Barack Obama,D,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,10.0,poll,May,5.0,Mitt Romney,R,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,11.0,poll,May,5.0,Barack Obama,D,46.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,11.0,poll,May,5.0,Mitt Romney,R,46.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,12.0,poll,May,5.0,Barack Obama,D,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,12.0,poll,May,5.0,Mitt Romney,R,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,13.0,poll,May,5.0,Barack Obama,D,46.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,13.0,poll,May,5.0,Mitt Romney,R,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,14.0,poll,June,6.0,Barack Obama,D,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,14.0,poll,June,6.0,Mitt Romney,R,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,15.0,poll,June,6.0,Barack Obama,D,46.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,15.0,poll,June,6.0,Mitt Romney,R,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,16.0,poll,June,6.0,Barack Obama,D,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,16.0,poll,June,6.0,Mitt Romney,R,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,17.0,poll,July,7.0,Barack Obama,D,46.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,17.0,poll,July,7.0,Mitt Romney,R,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,18.0,poll,July,7.0,Barack Obama,D,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,18.0,poll,July,7.0,Mitt Romney,R,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,19.0,poll,July,7.0,Barack Obama,D,46.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,19.0,poll,July,7.0,Mitt Romney,R,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,20.0,poll,July,7.0,Barack Obama,D,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,20.0,poll,July,7.0,Mitt Romney,R,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,21.0,poll,August,8.0,Barack Obama,D,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,21.0,poll,August,8.0,Mitt Romney,R,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,22.0,poll,August,8.0,Barack Obama,D,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,22.0,poll,August,8.0,Mitt Romney,R,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,23.0,poll,August,8.0,Barack Obama,D,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,23.0,poll,August,8.0,Mitt Romney,R,46.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,24.0,poll,September,9.0,Barack Obama,D,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,24.0,poll,September,9.0,Mitt Romney,R,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,25.0,poll,September,9.0,Barack Obama,D,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,25.0,poll,September,9.0,Mitt Romney,R,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,26.0,poll,September,9.0,Barack Obama,D,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,26.0,poll,September,9.0,Mitt Romney,R,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,27.0,poll,September,9.0,Barack Obama,D,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,27.0,poll,September,9.0,Mitt Romney,R,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,28.0,poll,October,10.0,Barack Obama,D,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,28.0,poll,October,10.0,Mitt Romney,R,46.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,29.0,poll,October,10.0,Barack Obama,D,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,29.0,poll,October,10.0,Mitt Romney,R,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,30.0,poll,October,10.0,Barack Obama,D,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,30.0,poll,October,10.0,Mitt Romney,R,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,31.0,poll,October,10.0,Barack Obama,D,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,31.0,poll,October,10.0,Mitt Romney,R,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,32.0,poll,November,11.0,Barack Obama,D,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,32.0,poll,November,11.0,Mitt Romney,R,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,,result,Actual result,,Barack Obama,D,51.06,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2012,,result,Actual result,,Mitt Romney,R,47.2,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,1.0,poll,June,6.0,Donald Trump,R,36.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,1.0,poll,June,6.0,Hillary Clinton,D,41.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,1.0,poll,June,6.0,Gary Johnson,L,7.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,1.0,poll,June,6.0,Jill Stein,G,4.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,2.0,poll,June,6.0,Donald Trump,R,37.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,2.0,poll,June,6.0,Hillary Clinton,D,42.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,2.0,poll,June,6.0,Gary Johnson,L,8.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,2.0,poll,June,6.0,Jill Stein,G,5.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,3.0,poll,July,7.0,Donald Trump,R,37.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,3.0,poll,July,7.0,Hillary Clinton,D,41.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,3.0,poll,July,7.0,Gary Johnson,L,7.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,3.0,poll,July,7.0,Jill Stein,G,4.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,4.0,poll,July,7.0,Donald Trump,R,38.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,4.0,poll,July,7.0,Hillary Clinton,D,41.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,4.0,poll,July,7.0,Gary Johnson,L,9.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,4.0,poll,July,7.0,Jill Stein,G,4.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,5.0,poll,July,7.0,Donald Trump,R,40.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,5.0,poll,July,7.0,Hillary Clinton,D,40.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,5.0,poll,July,7.0,Gary Johnson,L,7.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,5.0,poll,July,7.0,Jill Stein,G,3.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,6.0,poll,August,8.0,Donald Trump,R,38.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,6.0,poll,August,8.0,Hillary Clinton,D,42.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,6.0,poll,August,8.0,Gary Johnson,L,7.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,6.0,poll,August,8.0,Jill Stein,G,3.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,7.0,poll,August,8.0,Donald Trump,R,36.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,7.0,poll,August,8.0,Hillary Clinton,D,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,7.0,poll,August,8.0,Gary Johnson,L,9.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,7.0,poll,August,8.0,Jill Stein,G,4.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,8.0,poll,August,8.0,Donald Trump,R,37.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,8.0,poll,August,8.0,Hillary Clinton,D,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,8.0,poll,August,8.0,Gary Johnson,L,9.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,8.0,poll,August,8.0,Jill Stein,G,3.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,9.0,poll,August,8.0,Donald Trump,R,37.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,9.0,poll,August,8.0,Hillary Clinton,D,42.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,9.0,poll,August,8.0,Gary Johnson,L,9.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,9.0,poll,August,8.0,Jill Stein,G,3.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,10.0,poll,August,8.0,Donald Trump,R,38.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,10.0,poll,August,8.0,Hillary Clinton,D,42.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,10.0,poll,August,8.0,Gary Johnson,L,8.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,10.0,poll,August,8.0,Jill Stein,G,3.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,11.0,poll,September,9.0,Donald Trump,R,39.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,11.0,poll,September,9.0,Hillary Clinton,D,41.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,11.0,poll,September,9.0,Gary Johnson,L,8.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,11.0,poll,September,9.0,Jill Stein,G,3.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,12.0,poll,September,9.0,Donald Trump,R,40.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,12.0,poll,September,9.0,Hillary Clinton,D,42.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,12.0,poll,September,9.0,Gary Johnson,L,9.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,12.0,poll,September,9.0,Jill Stein,G,3.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,13.0,poll,September,9.0,Donald Trump,R,40.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,13.0,poll,September,9.0,Hillary Clinton,D,41.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,13.0,poll,September,9.0,Gary Johnson,L,8.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,13.0,poll,September,9.0,Jill Stein,G,3.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,14.0,poll,September,9.0,Donald Trump,R,42.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,14.0,poll,September,9.0,Hillary Clinton,D,43.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,14.0,poll,September,9.0,Gary Johnson,L,7.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,14.0,poll,September,9.0,Jill Stein,G,2.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,15.0,poll,October,10.0,Donald Trump,R,41.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,15.0,poll,October,10.0,Hillary Clinton,D,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,15.0,poll,October,10.0,Gary Johnson,L,7.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,15.0,poll,October,10.0,Jill Stein,G,3.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,16.0,poll,October,10.0,Donald Trump,R,39.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,16.0,poll,October,10.0,Hillary Clinton,D,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,16.0,poll,October,10.0,Gary Johnson,L,7.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,16.0,poll,October,10.0,Jill Stein,G,2.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,17.0,poll,October,10.0,Donald Trump,R,39.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,17.0,poll,October,10.0,Hillary Clinton,D,46.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,17.0,poll,October,10.0,Gary Johnson,L,7.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,17.0,poll,October,10.0,Jill Stein,G,2.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,18.0,poll,October,10.0,Donald Trump,R,40.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,18.0,poll,October,10.0,Hillary Clinton,D,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,18.0,poll,October,10.0,Gary Johnson,L,6.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,18.0,poll,October,10.0,Jill Stein,G,2.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,19.0,poll,November,11.0,Donald Trump,R,43.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,19.0,poll,November,11.0,Hillary Clinton,D,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,19.0,poll,November,11.0,Gary Johnson,L,5.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,19.0,poll,November,11.0,Jill Stein,G,2.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,20.0,poll,November,11.0,Donald Trump,R,42.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,20.0,poll,November,11.0,Hillary Clinton,D,46.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,20.0,poll,November,11.0,Gary Johnson,L,5.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,20.0,poll,November,11.0,Jill Stein,G,2.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,,result,Actual result,,Donald Trump,R,46.09,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,,result,Actual result,,Hillary Clinton,D,48.18,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,,result,Actual result,,Gary Johnson,L,3.28,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2016,,result,Actual result,,Jill Stein,G,1.13,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2020,1.0,poll,February,2.0,Joe Biden,D,50.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2020,1.0,poll,February,2.0,Donald Trump,R,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2020,2.0,poll,February,2.0,Joe Biden,D,50.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2020,2.0,poll,February,2.0,Donald Trump,R,46.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2020,3.0,poll,March,3.0,Joe Biden,D,50.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2020,3.0,poll,March,3.0,Donald Trump,R,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2020,4.0,poll,March,3.0,Joe Biden,D,51.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2020,4.0,poll,March,3.0,Donald Trump,R,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2020,5.0,poll,March,3.0,Joe Biden,D,50.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2020,5.0,poll,March,3.0,Donald Trump,R,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2020,6.0,poll,April,4.0,Joe Biden,D,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2020,6.0,poll,April,4.0,Donald Trump,R,42.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2020,7.0,poll,April,4.0,Joe Biden,D,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2020,7.0,poll,April,4.0,Donald Trump,R,42.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2020,8.0,poll,May,5.0,Joe Biden,D,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2020,8.0,poll,May,5.0,Donald Trump,R,43.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2020,9.0,poll,May,5.0,Joe Biden,D,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2020,9.0,poll,May,5.0,Donald Trump,R,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2020,10.0,poll,May,5.0,Joe Biden,D,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2020,10.0,poll,May,5.0,Donald Trump,R,42.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2020,11.0,poll,June,6.0,Joe Biden,D,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2020,11.0,poll,June,6.0,Donald Trump,R,42.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2020,12.0,poll,June,6.0,Joe Biden,D,50.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2020,12.0,poll,June,6.0,Donald Trump,R,42.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2020,13.0,poll,June,6.0,Joe Biden,D,51.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2020,13.0,poll,June,6.0,Donald Trump,R,41.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2020,14.0,poll,June,6.0,Joe Biden,D,50.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2020,14.0,poll,June,6.0,Donald Trump,R,40.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2020,15.0,poll,July,7.0,Joe Biden,D,50.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2020,15.0,poll,July,7.0,Donald Trump,R,41.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2020,16.0,poll,July,7.0,Joe Biden,D,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2020,16.0,poll,July,7.0,Donald Trump,R,40.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2020,17.0,poll,July,7.0,Joe Biden,D,50.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2020,17.0,poll,July,7.0,Donald Trump,R,41.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2020,18.0,poll,July,7.0,Joe Biden,D,51.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2020,18.0,poll,July,7.0,Donald Trump,R,42.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2020,19.0,poll,August,8.0,Joe Biden,D,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2020,19.0,poll,August,8.0,Donald Trump,R,42.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2020,20.0,poll,August,8.0,Joe Biden,D,50.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2020,20.0,poll,August,8.0,Donald Trump,R,42.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2020,21.0,poll,September,9.0,Joe Biden,D,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2020,21.0,poll,September,9.0,Donald Trump,R,43.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2020,22.0,poll,September,9.0,Joe Biden,D,50.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2020,22.0,poll,September,9.0,Donald Trump,R,43.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2020,23.0,poll,September,9.0,Joe Biden,D,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2020,23.0,poll,September,9.0,Donald Trump,R,43.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2020,24.0,poll,October,10.0,Joe Biden,D,51.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2020,24.0,poll,October,10.0,Donald Trump,R,42.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2020,25.0,poll,October,10.0,Joe Biden,D,52.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2020,25.0,poll,October,10.0,Donald Trump,R,42.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2020,26.0,poll,October,10.0,Joe Biden,D,51.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2020,26.0,poll,October,10.0,Donald Trump,R,43.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2020,27.0,poll,November,11.0,Joe Biden,D,51.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2020,27.0,poll,November,11.0,Donald Trump,R,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2020,,result,Actual result,,Joe Biden,D,51.31,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2020,,result,Actual result,,Donald Trump,R,46.86,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,1.0,poll,February,2.0,Donald Trump,R,46.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,1.0,poll,February,2.0,Kamala Harris,D,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,2.0,poll,February,2.0,Donald Trump,R,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,2.0,poll,February,2.0,Kamala Harris,D,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,3.0,poll,February,2.0,Donald Trump,R,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,3.0,poll,February,2.0,Kamala Harris,D,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,4.0,poll,March,3.0,Donald Trump,R,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,4.0,poll,March,3.0,Kamala Harris,D,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,5.0,poll,March,3.0,Donald Trump,R,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,5.0,poll,March,3.0,Kamala Harris,D,46.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,6.0,poll,March,3.0,Donald Trump,R,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,6.0,poll,March,3.0,Kamala Harris,D,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,7.0,poll,April,4.0,Donald Trump,R,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,7.0,poll,April,4.0,Kamala Harris,D,46.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,8.0,poll,April,4.0,Donald Trump,R,46.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,8.0,poll,April,4.0,Kamala Harris,D,46.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,9.0,poll,April,4.0,Donald Trump,R,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,9.0,poll,April,4.0,Kamala Harris,D,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,10.0,poll,April,4.0,Donald Trump,R,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,10.0,poll,April,4.0,Kamala Harris,D,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,11.0,poll,April,4.0,Donald Trump,R,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,11.0,poll,April,4.0,Kamala Harris,D,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,12.0,poll,May,5.0,Donald Trump,R,46.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,12.0,poll,May,5.0,Kamala Harris,D,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,13.0,poll,May,5.0,Donald Trump,R,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,13.0,poll,May,5.0,Kamala Harris,D,46.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,14.0,poll,May,5.0,Donald Trump,R,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,14.0,poll,May,5.0,Kamala Harris,D,46.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,15.0,poll,June,6.0,Donald Trump,R,46.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,15.0,poll,June,6.0,Kamala Harris,D,46.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,16.0,poll,June,6.0,Donald Trump,R,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,16.0,poll,June,6.0,Kamala Harris,D,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,17.0,poll,June,6.0,Donald Trump,R,46.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,17.0,poll,June,6.0,Kamala Harris,D,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,18.0,poll,July,7.0,Donald Trump,R,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,18.0,poll,July,7.0,Kamala Harris,D,44.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,19.0,poll,July,7.0,Donald Trump,R,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,19.0,poll,July,7.0,Kamala Harris,D,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,20.0,poll,July,7.0,Donald Trump,R,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,20.0,poll,July,7.0,Kamala Harris,D,45.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,21.0,poll,July,7.0,Donald Trump,R,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,21.0,poll,July,7.0,Kamala Harris,D,46.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,22.0,poll,August,8.0,Donald Trump,R,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,22.0,poll,August,8.0,Kamala Harris,D,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,23.0,poll,August,8.0,Donald Trump,R,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,23.0,poll,August,8.0,Kamala Harris,D,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,24.0,poll,September,9.0,Donald Trump,R,46.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,24.0,poll,September,9.0,Kamala Harris,D,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,25.0,poll,September,9.0,Donald Trump,R,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,25.0,poll,September,9.0,Kamala Harris,D,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,26.0,poll,September,9.0,Donald Trump,R,47.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,26.0,poll,September,9.0,Kamala Harris,D,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,27.0,poll,October,10.0,Donald Trump,R,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,27.0,poll,October,10.0,Kamala Harris,D,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,28.0,poll,October,10.0,Donald Trump,R,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,28.0,poll,October,10.0,Kamala Harris,D,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,29.0,poll,October,10.0,Donald Trump,R,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,29.0,poll,October,10.0,Kamala Harris,D,48.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,30.0,poll,November,11.0,Donald Trump,R,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,30.0,poll,November,11.0,Kamala Harris,D,49.0,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,,result,Actual result,,Donald Trump,R,49.8,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
+2024,,result,Actual result,,Kamala Harris,D,48.32,https://en.wikipedia.org/wiki/Opinion_polling_for_United_States_presidential_elections
