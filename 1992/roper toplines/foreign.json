@@ -1,0 +1,2168 @@
+[
+ {
+  "key": "foreign",
+  "archiveId": 31089265,
+  "qname": "R2C",
+  "start": "02/28/1989",
+  "end": "03/02/1989",
+  "surveyBy": "Gallup Organization",
+  "conductedBy": null,
+  "study": "Gallup Poll # 1989-878: Guns/John Tower",
+  "text": "(Now let me ask you about some specific foreign and domestic problems. As I read off each problem, would you tell me whether you approve or disapprove of the way President Bush is handling that problem?)... Foreign policy",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    62
+   ],
+   [
+    "Disapprove",
+    15
+   ],
+   [
+    "No opinion",
+    23
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31091337,
+  "qname": "R02",
+  "start": "04/13/1989",
+  "end": "04/16/1989",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "National Survey, April 1989",
+  "text": "Do you approve or disapprove of the way (President) George Bush is handling foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    53
+   ],
+   [
+    "Disapprove",
+    20
+   ],
+   [
+    "Don't know/No answer",
+    27
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31105049,
+  "qname": "R02",
+  "start": "05/09/1989",
+  "end": "05/11/1989",
+  "surveyBy": "CBS News/The New York Times",
+  "conductedBy": null,
+  "study": "CBS News/The New York Times Poll: May 1989",
+  "text": "Do you approve or disapprove of the way (President) George Bush is handling foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    49
+   ],
+   [
+    "Disapprove",
+    26
+   ],
+   [
+    "Don't know/No answer",
+    25
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31091345,
+  "qname": "R02",
+  "start": "09/17/1989",
+  "end": "09/20/1989",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times National Survey, September, 1989",
+  "text": "Do you approve or disapprove of the way (President) George Bush is handling foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    60
+   ],
+   [
+    "Disapprove",
+    23
+   ],
+   [
+    "Don't know/No answer",
+    17
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31088661,
+  "qname": "R06H",
+  "start": "11/09/1989",
+  "end": "11/12/1989",
+  "surveyBy": "Gallup Organization",
+  "conductedBy": null,
+  "study": "Gallup News Service Poll: November, 1989",
+  "text": "(Now let me ask you about some specific problems facing this country. As I read off each one, would you tell me whether you approve or disapprove of the way President Bush is handling that problem?)... Foreign policy",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    65
+   ],
+   [
+    "Disapprove",
+    21
+   ],
+   [
+    "Don't know",
+    14
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31091341,
+  "qname": "R02",
+  "start": "11/26/1989",
+  "end": "11/28/1989",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Summit Poll, November, 1989",
+  "text": "Do you approve or disapprove of the way (President) George Bush is handling foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    55
+   ],
+   [
+    "Disapprove",
+    30
+   ],
+   [
+    "Don't know/No answer",
+    15
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31091351,
+  "qname": "R06",
+  "start": "01/13/1990",
+  "end": "01/15/1990",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times National Survey, January, 1990",
+  "text": "Do you approve or disapprove of the way (President) George Bush is handling foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    73
+   ],
+   [
+    "Disapprove",
+    17
+   ],
+   [
+    "Don't know/No answer",
+    10
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31091348,
+  "qname": "R02",
+  "start": "03/30/1990",
+  "end": "04/02/1990",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times National Survey, April, 1990",
+  "text": "Do you approve or disapprove of the way (President) George Bush is handling foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    61
+   ],
+   [
+    "Disapprove",
+    25
+   ],
+   [
+    "Don't know/No answer",
+    14
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31097996,
+  "qname": "R103B",
+  "start": "05/01/1990",
+  "end": "05/31/1990",
+  "surveyBy": "Times Mirror Center for the People & the Press",
+  "conductedBy": "Princeton Survey Research Associates",
+  "study": "Times Mirror Poll # 1990-PS0590: Spring 1990 Political Update",
+  "text": "(Now let me ask you about some specific foreign and domestic problems. As I read off each problem, would you tell me whether you approve or disapprove of the way President Bush is handling that problem.)... Foreign policy",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    58
+   ],
+   [
+    "Disapprove",
+    30
+   ],
+   [
+    "Don't know",
+    12
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31094710,
+  "qname": "R05B",
+  "start": "05/18/1990",
+  "end": "05/22/1990",
+  "surveyBy": "NBC News/Wall Street Journal",
+  "conductedBy": "Hart-Teeter Research Companies",
+  "study": "NBC News/Wall Street Journal Poll:",
+  "text": "In general, do you approve or disapprove of the job (President) George Bush is doing in handling our foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    67
+   ],
+   [
+    "Disapprove",
+    25
+   ],
+   [
+    "Not sure",
+    8
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31091352,
+  "qname": "R02",
+  "start": "05/22/1990",
+  "end": "05/24/1990",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Summit Poll, May, 1990",
+  "text": "Do you approve or disapprove of the way (President) George Bush is handling foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    57
+   ],
+   [
+    "Disapprove",
+    28
+   ],
+   [
+    "Don't know/No answer",
+    15
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31091617,
+  "qname": "R02",
+  "start": "06/05/1990",
+  "end": "06/07/1990",
+  "surveyBy": "Tokyo Broadcasting System",
+  "conductedBy": "CBS News/New York Times",
+  "study": "CBS News/New York Times Japan Survey, June, 1990",
+  "text": "Do you approve or disapprove of the way (President) George Bush is handling foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    62
+   ],
+   [
+    "Disapprove",
+    23
+   ],
+   [
+    "Don't know/No answer",
+    15
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31088682,
+  "qname": "R2H",
+  "start": "07/05/1990",
+  "end": "07/08/1990",
+  "surveyBy": "Gallup Organization",
+  "conductedBy": null,
+  "study": "Gallup News Service Poll: Bush Job Performance/Smoking",
+  "text": "(Now let me ask you about some specific problems facing the country. As I read off each one, would you tell me whether you approve or disapprove of the way President Bush is handling that problem?)... Foreign policy",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    62
+   ],
+   [
+    "Disapprove",
+    26
+   ],
+   [
+    "Don't know",
+    12
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31094708,
+  "qname": "R03C",
+  "start": "07/06/1990",
+  "end": "07/10/1990",
+  "surveyBy": "NBC News/Wall Street Journal",
+  "conductedBy": "Hart-Teeter Research Companies",
+  "study": "NBC News/Wall Street Journal Poll:",
+  "text": "In general, do you approve or disapprove of the job George Bush is doing in handling our foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    67
+   ],
+   [
+    "Disapprove",
+    22
+   ],
+   [
+    "Not sure",
+    11
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31091349,
+  "qname": "R02",
+  "start": "08/16/1990",
+  "end": "08/19/1990",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times National Survey, August, 1990",
+  "text": "Do you approve or disapprove of the way George Bush is handling foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    72
+   ],
+   [
+    "Disapprove",
+    19
+   ],
+   [
+    "Don't know/No answer",
+    9
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31094714,
+  "qname": "R02C",
+  "start": "09/15/1990",
+  "end": "09/18/1990",
+  "surveyBy": "NBC News/Wall Street Journal",
+  "conductedBy": "Hart-Teeter Research Companies",
+  "study": "NBC News/Wall Street Journal Poll:",
+  "text": "In general, do you approve or disapprove of the job George Bush is doing in handling our foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    75
+   ],
+   [
+    "Disapprove",
+    17
+   ],
+   [
+    "Not sure",
+    8
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31091354,
+  "qname": "R02",
+  "start": "10/08/1990",
+  "end": "10/10/1990",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  October Omnibus Survey",
+  "text": "Do you approve or disapprove of the way George Bush is handling foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    63
+   ],
+   [
+    "Disapprove",
+    26
+   ],
+   [
+    "Don't know/No answer",
+    11
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31088689,
+  "qname": "R10D",
+  "start": "10/11/1990",
+  "end": "10/14/1990",
+  "surveyBy": "Gallup Organization",
+  "conductedBy": null,
+  "study": "Gallup News Service Survey:  The Middle East/Bush Job Performance",
+  "text": "(Let me ask you about some specific problems facing the country. As I read off each one, would you tell me whether you approve or disapprove of the way President Bush is handling that problem?)... Foreign policy",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    61
+   ],
+   [
+    "Disapprove",
+    29
+   ],
+   [
+    "Don't know",
+    10
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31094711,
+  "qname": "R05C",
+  "start": "10/19/1990",
+  "end": "10/21/1990",
+  "surveyBy": "NBC News/Wall Street Journal",
+  "conductedBy": "Hart-Teeter Research Companies",
+  "study": "NBC News/Wall Street Journal Poll:  Omnibus, October 1991",
+  "text": "In general, do you approve or disapprove of the job George Bush is doing in handling our foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    63
+   ],
+   [
+    "Disapprove",
+    30
+   ],
+   [
+    "Not sure",
+    7
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31091355,
+  "qname": "R06",
+  "start": "10/28/1990",
+  "end": "10/31/1990",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  The Deficit, The Election and The Persian Gulf",
+  "text": "Do you approve or disapprove of the way George Bush is handling foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    58
+   ],
+   [
+    "Disapprove",
+    32
+   ],
+   [
+    "Don't know/No answer",
+    10
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31094706,
+  "qname": "R03C",
+  "start": "12/08/1990",
+  "end": "12/11/1990",
+  "surveyBy": "NBC News/Wall Street Journal",
+  "conductedBy": "Hart-Teeter Research Companies",
+  "study": "NBC News/Wall Street Journal Poll:  National Economy and Iraq",
+  "text": "In general, do you approve or disapprove of the job George Bush is doing handling our foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    56
+   ],
+   [
+    "Disapprove",
+    37
+   ],
+   [
+    "Not sure",
+    7
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31105329,
+  "qname": "R02",
+  "start": "12/12/1990",
+  "end": "12/14/1990",
+  "surveyBy": "New York Times",
+  "conductedBy": null,
+  "study": "New York Times Poll: December 1990",
+  "text": "Do you approve or disapprove of the way George Bush is handling foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    59
+   ],
+   [
+    "Disapprove",
+    30
+   ],
+   [
+    "Don't know/No answer",
+    11
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31090758,
+  "qname": "R03",
+  "start": "01/27/1991",
+  "end": "01/28/1991",
+  "surveyBy": "CBS News",
+  "conductedBy": null,
+  "study": "CBS News Poll # 1991-JAN91D:  State of the Union/War in the Middle East",
+  "text": "Do you approve or disapprove of the way George Bush is handling foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    74
+   ],
+   [
+    "Disapprove",
+    19
+   ],
+   [
+    "Don't know/No answer",
+    7
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31088703,
+  "qname": "R3",
+  "start": "02/28/1991",
+  "end": "03/03/1991",
+  "surveyBy": "Gallup Organization",
+  "conductedBy": null,
+  "study": "Gallup News Service Survey:  March Omnibus, Wave 1",
+  "text": "Do you approve or disapprove of the way George Bush is handling our foreign policy--that is, our relations with other nations?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    84
+   ],
+   [
+    "Disapprove",
+    11
+   ],
+   [
+    "No opinion",
+    5
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31091372,
+  "qname": "R04",
+  "start": "03/04/1991",
+  "end": "03/06/1991",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  March Omnibus Survey",
+  "text": "Do you approve or disapprove of the way George Bush is handling foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    83
+   ],
+   [
+    "Disapprove",
+    11
+   ],
+   [
+    "Don't know/No answer",
+    6
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31091372,
+  "qname": "R04",
+  "start": "03/04/1991",
+  "end": "03/06/1991",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  March Omnibus Survey",
+  "text": "Do you approve or disapprove of the way George Bush is handling foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    83
+   ],
+   [
+    "Disapprove",
+    11
+   ],
+   [
+    "Don't know/No answer",
+    6
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31088704,
+  "qname": "R3B",
+  "start": "03/07/1991",
+  "end": "03/10/1991",
+  "surveyBy": "Gallup Organization",
+  "conductedBy": null,
+  "study": "Gallup News Service Survey # 1991-122020:  George Bush/Persian Gulf War/Elections",
+  "text": "(Now let me ask you about some specific problems facing the country. As I read off each one, would you tell me whether you approve or disapprove of the way President Bush is handling that problem?)... (Rotated) Foreign policy",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    79
+   ],
+   [
+    "Disapprove",
+    11
+   ],
+   [
+    "No opinion",
+    10
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31094721,
+  "qname": "R04D",
+  "start": "03/15/1991",
+  "end": "03/19/1991",
+  "surveyBy": "NBC News/Wall Street Journal",
+  "conductedBy": "Hart-Teeter Research Companies",
+  "study": "NBC News/Wall Street Journal Poll:  Omnibus, March, 1991",
+  "text": "In general, do you approve or disapprove of the job George Bush is doing in handling our foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    83
+   ],
+   [
+    "Disapprove",
+    11
+   ],
+   [
+    "Not sure",
+    6
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31091356,
+  "qname": "R02",
+  "start": "04/01/1991",
+  "end": "04/03/1991",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  April Omnibus Survey",
+  "text": "Do you approve or disapprove of the way George Bush is handling foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    76
+   ],
+   [
+    "Disapprove",
+    16
+   ],
+   [
+    "Don't know/No answer",
+    8
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31091373,
+  "qname": "R02",
+  "start": "05/07/1991",
+  "end": "05/08/1991",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  May Omnibus Survey",
+  "text": "Do you approve or disapprove of the way George Bush is handling foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    74
+   ],
+   [
+    "Disapprove",
+    16
+   ],
+   [
+    "Don't know/No answer",
+    10
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31094722,
+  "qname": "R03C",
+  "start": "05/10/1991",
+  "end": "05/14/1991",
+  "surveyBy": "NBC News/Wall Street Journal",
+  "conductedBy": "Hart-Teeter Research Companies",
+  "study": "NBC News/Wall Street Journal Poll:  Omnibus, May, 1991",
+  "text": "In general, do you approve or disapprove of the job George Bush is doing in handling our foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    76
+   ],
+   [
+    "Disapprove",
+    18
+   ],
+   [
+    "Not sure",
+    6
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31091371,
+  "qname": "R02",
+  "start": "06/03/1991",
+  "end": "06/06/1991",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  June Omnibus Survey",
+  "text": "Do you approve or disapprove of the way George Bush is handling foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    68
+   ],
+   [
+    "Disapprove",
+    22
+   ],
+   [
+    "Don't know/No answer",
+    10
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31094720,
+  "qname": "R06",
+  "start": "06/22/1991",
+  "end": "06/25/1991",
+  "surveyBy": "NBC News/Wall Street Journal",
+  "conductedBy": "Hart-Teeter Research Companies",
+  "study": "NBC News/Wall Street Journal Poll:  Omnibus, June, 1991",
+  "text": "In general, do you approve or disapprove of the job George Bush is doing in handling our foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    74
+   ],
+   [
+    "Disapprove",
+    21
+   ],
+   [
+    "Not sure",
+    5
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31088719,
+  "qname": "R2B",
+  "start": "06/26/1991",
+  "end": "06/29/1991",
+  "surveyBy": "Gallup Organization",
+  "conductedBy": null,
+  "study": "Gallup News Service Poll: June Omnibus, Wave 4",
+  "text": "(Let me ask you about some specific problems facing the country. As I read off each one, would you tell me whether you approve or disapprove of the way President Bush is handling that problem?)... Foreign policy",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    64
+   ],
+   [
+    "Disapprove",
+    28
+   ],
+   [
+    "Don't know",
+    8
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31088721,
+  "qname": "R02H",
+  "start": "07/18/1991",
+  "end": "07/21/1991",
+  "surveyBy": "Gallup Organization",
+  "conductedBy": null,
+  "study": "Gallup News Service Poll: July Omnibus, Wave 3",
+  "text": "(Let me ask you about some specific problems facing the country. As I read off each one, would you tell me whether you approve or disapprove of the way President Bush is handling that problem?)... Foreign policy",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    71
+   ],
+   [
+    "Disapprove",
+    19
+   ],
+   [
+    "Don't know",
+    10
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31094719,
+  "qname": "R03C",
+  "start": "07/26/1991",
+  "end": "07/29/1991",
+  "surveyBy": "NBC News/Wall Street Journal",
+  "conductedBy": "Hart-Teeter Research Companies",
+  "study": "NBC News/Wall Street Journal Poll:  Omnibus, July, 1991",
+  "text": "In general, do you approve or disapprove of the job George Bush is doing in handling our foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    74
+   ],
+   [
+    "Disapprove",
+    21
+   ],
+   [
+    "Not sure",
+    5
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31088723,
+  "qname": "R2B",
+  "start": "08/08/1991",
+  "end": "08/11/1991",
+  "surveyBy": "Gallup Organization",
+  "conductedBy": null,
+  "study": "Gallup News Service Poll: August Omnibus, Wave 2",
+  "text": "(Let me ask you about some specific problems facing the country. As I read off each one, would you tell me whether you approve or disapprove of the way President Bush is handling that problem?)... Foreign policy",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    68
+   ],
+   [
+    "Disapprove",
+    25
+   ],
+   [
+    "No opinion",
+    7
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31091357,
+  "qname": "R02",
+  "start": "08/18/1991",
+  "end": "08/22/1991",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  Health Care",
+  "text": "Do you approve or disapprove of the way George Bush is handling foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    67
+   ],
+   [
+    "Disapprove",
+    23
+   ],
+   [
+    "Don't know/No answer",
+    10
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31088724,
+  "qname": "R05B",
+  "start": "08/23/1991",
+  "end": "08/25/1991",
+  "surveyBy": "Gallup Organization",
+  "conductedBy": null,
+  "study": "Gallup News Service Poll: August Omnibus, Wave 4",
+  "text": "Let me ask you about some specific problems facing the country. As I read off each one, would you tell me whether you approve or disapprove of the way President Bush is handling that problem? (Rotate) How about... foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    74
+   ],
+   [
+    "Disapprove",
+    20
+   ],
+   [
+    "Don't know",
+    6
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31105457,
+  "qname": "R03B",
+  "start": "09/13/1991",
+  "end": "09/15/1991",
+  "surveyBy": "Gallup Organization",
+  "conductedBy": null,
+  "study": "Gallup Organization Poll: September 1991",
+  "text": "(Let me ask you about some specific problems facing the country. As I read off each one, would you tell me whether you approve or disapprove of the way President Bush is handling that problem?)... Foreign policy",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    70
+   ],
+   [
+    "Disapprove",
+    21
+   ],
+   [
+    "Don't know",
+    9
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31094725,
+  "qname": "R03C",
+  "start": "09/20/1991",
+  "end": "09/24/1991",
+  "surveyBy": "NBC News/Wall Street Journal",
+  "conductedBy": "Hart-Teeter Research Companies",
+  "study": "NBC News/Wall Street Journal Poll:  Omnibus, September, 1991",
+  "text": "In general, do you approve or disapprove of the job George Bush is doing in handling our foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    71
+   ],
+   [
+    "Disapprove",
+    23
+   ],
+   [
+    "Not sure",
+    6
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31105458,
+  "qname": "R02B",
+  "start": "10/03/1991",
+  "end": "10/06/1991",
+  "surveyBy": "Gallup Organization",
+  "conductedBy": null,
+  "study": "Gallup Organization Poll: October 1991",
+  "text": "Let me ask you about some specific problems facing the country. As I read off each one, would you tell me whether you approve or disapprove of the way President Bush is handling that problem? How about... foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    70
+   ],
+   [
+    "Disapprove",
+    25
+   ],
+   [
+    "No opinion",
+    5
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31091375,
+  "qname": "R02",
+  "start": "10/05/1991",
+  "end": "10/07/1991",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  Foreign Policy/Congressional Scandal",
+  "text": "Do you approve or disapprove of the way George Bush is handling foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    63
+   ],
+   [
+    "Disapprove",
+    27
+   ],
+   [
+    "Don't know/No answer",
+    10
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31091377,
+  "qname": "R02",
+  "start": "10/15/1991",
+  "end": "10/17/1991",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  Politics",
+  "text": "Do you approve or disapprove of the way George Bush is handling foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    69
+   ],
+   [
+    "Disapprove",
+    22
+   ],
+   [
+    "Don't know/No answer",
+    9
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31088729,
+  "qname": "R02B",
+  "start": "10/24/1991",
+  "end": "10/27/1991",
+  "surveyBy": "Gallup Organization",
+  "conductedBy": null,
+  "study": "Gallup News Service Poll: Smoking",
+  "text": "(Let me ask you about some specific problems facing the country. As I read off each one, would you tell me whether you approve or disapprove of the way President Bush is handling that problem?) How about... foreign policy.",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    68
+   ],
+   [
+    "Disapprove",
+    26
+   ],
+   [
+    "No opinion",
+    6
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31094724,
+  "qname": "R05C",
+  "start": "10/25/1991",
+  "end": "10/29/1991",
+  "surveyBy": "NBC News/Wall Street Journal",
+  "conductedBy": "Hart-Teeter Research Companies",
+  "study": "NBC News/Wall Street Journal Poll:  Looking Ahead to the 1992 Presidential Election",
+  "text": "In general, do you approve or disapprove of the job George Bush is doing in handling our foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    70
+   ],
+   [
+    "Disapprove",
+    23
+   ],
+   [
+    "Not sure",
+    7
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31094187,
+  "qname": "R02A1",
+  "start": "11/07/1991",
+  "end": "11/20/1991",
+  "surveyBy": "Americans Talk Issues Foundation",
+  "conductedBy": "The Telephone Center",
+  "study": "Americans Talk Issues Survey:  Environment, Energy and Economic Competitiveness",
+  "text": "I am going to ask you how well you think George Bush is handling different things. Do you approve or disapprove of the way President Bush is handling... foreign policy? (If approve/disapprove, ask:) Is that strongly or somewhat approve/disapprove?",
+  "subpop": "Asked of Form A half sample",
+  "responses": [
+   [
+    "Strongly approve",
+    44
+   ],
+   [
+    "Somewhat approve",
+    24
+   ],
+   [
+    "Somewhat disapprove",
+    10
+   ],
+   [
+    "Strongly disapprove",
+    18
+   ],
+   [
+    "Don't know",
+    4
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31091370,
+  "qname": "R02",
+  "start": "11/18/1991",
+  "end": "11/21/1991",
+  "surveyBy": "CBS News/The New York Times/The Tokyo Broadcasting System",
+  "conductedBy": "CBS News/New York Times",
+  "study": "CBS News/New York Times Poll:  Japan",
+  "text": "Do you approve or disapprove of the way George Bush is handling foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    57
+   ],
+   [
+    "Disapprove",
+    32
+   ],
+   [
+    "Don't know/No answer",
+    11
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31105464,
+  "qname": "R13B",
+  "start": "12/05/1991",
+  "end": "12/08/1991",
+  "surveyBy": "New York Newsday (questions 12, 28 & 29)",
+  "conductedBy": "Gallup Organization",
+  "study": "New York Newsday (questions 12, 28 & 29) Poll: December 1991",
+  "text": "(Please tell me whether you approve or disapprove of the way George Bush is handling some specific problems facing the country.) ...Foreign policy.",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    64
+   ],
+   [
+    "Disapprove",
+    29
+   ],
+   [
+    "No opinion",
+    7
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31094716,
+  "qname": "R05C",
+  "start": "12/06/1991",
+  "end": "12/09/1991",
+  "surveyBy": "NBC News/Wall Street Journal",
+  "conductedBy": "Hart-Breglio Research Companies",
+  "study": "NBC News/Wall Street Journal Poll:  Omnibus, December, 1991",
+  "text": "In general, do you approve or disapprove of the job George Bush is doing handling our foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    68
+   ],
+   [
+    "Disapprove",
+    26
+   ],
+   [
+    "Not sure",
+    6
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31091387,
+  "qname": "R03",
+  "start": "01/06/1992",
+  "end": "01/08/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  January National Poll",
+  "text": "Do you approve or disapprove of the way George Bush is handling foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    59
+   ],
+   [
+    "Disapprove",
+    28
+   ],
+   [
+    "Don't know/No answer",
+    13
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31090762,
+  "qname": "R2",
+  "start": "01/14/1992",
+  "end": "01/19/1992",
+  "surveyBy": "CBS News",
+  "conductedBy": null,
+  "study": "CBS News Poll:  January Special Recruitment Poll",
+  "text": "Do you approve or disapprove of the way George Bush is handling foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    48
+   ],
+   [
+    "Disapprove",
+    40
+   ],
+   [
+    "Don't know/No answer",
+    12
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31094726,
+  "qname": "R10C",
+  "start": "01/17/1992",
+  "end": "01/21/1992",
+  "surveyBy": "NBC News/Wall Street Journal",
+  "conductedBy": "Hart-Breglio Research Companies",
+  "study": "NBC News/Wall Street Journal Poll:  1992 Presidential Election and the Economy",
+  "text": "In general, do you approve or disapprove of the job George Bush is doing in handling our foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    63
+   ],
+   [
+    "Disapprove",
+    30
+   ],
+   [
+    "Not sure",
+    7
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31091388,
+  "qname": "R06",
+  "start": "01/22/1992",
+  "end": "01/25/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  State of the Union Poll",
+  "text": "Do you approve or disapprove of the way George Bush is handling foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    46
+   ],
+   [
+    "Disapprove",
+    46
+   ],
+   [
+    "Don't know/No answer",
+    8
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31091383,
+  "qname": "R02",
+  "start": "02/19/1992",
+  "end": "02/20/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  February National Poll",
+  "text": "Do you approve or disapprove of the way George Bush is handling foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    51
+   ],
+   [
+    "Disapprove",
+    42
+   ],
+   [
+    "Don't know/No answer",
+    7
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31091384,
+  "qname": "R02",
+  "start": "02/26/1992",
+  "end": "03/01/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News Poll:  February National Poll II",
+  "text": "Do you approve or disapprove of the way George Bush is handling foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    47
+   ],
+   [
+    "Disapprove",
+    43
+   ],
+   [
+    "Don't know/No answer",
+    10
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31094727,
+  "qname": "R05C",
+  "start": "02/28/1992",
+  "end": "03/02/1992",
+  "surveyBy": "NBC News/Wall Street Journal",
+  "conductedBy": "Hart-Breglio Research Companies",
+  "study": "NBC News/Wall Street Journal Poll:  1992 Presidential Election and the Economy",
+  "text": "In general, do you approve or disapprove of the job George Bush is doing in handling our foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    60
+   ],
+   [
+    "Disapprove",
+    34
+   ],
+   [
+    "Not sure",
+    6
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31088735,
+  "qname": "R04B",
+  "start": "02/28/1992",
+  "end": "03/01/1992",
+  "surveyBy": "Gallup Organization",
+  "conductedBy": null,
+  "study": "Gallup News Service Poll: February Omnibus, Wave 2",
+  "text": "(Please tell me whether you approve or disapprove of the way George Bush is handling some specific problems facing the country.)... Foreign policy",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    55
+   ],
+   [
+    "Disapprove",
+    40
+   ],
+   [
+    "Don't know",
+    5
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31091392,
+  "qname": "R02",
+  "start": "03/26/1992",
+  "end": "03/29/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  March National Poll",
+  "text": "Do you approve or disapprove of the way George Bush is handling foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    50
+   ],
+   [
+    "Disapprove",
+    41
+   ],
+   [
+    "Don't know/No answer",
+    9
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31094728,
+  "qname": "R05C",
+  "start": "04/11/1992",
+  "end": "04/14/1992",
+  "surveyBy": "NBC News/Wall Street Journal",
+  "conductedBy": "Hart-Breglio Research Companies",
+  "study": "NBC News/Wall Street Journal Poll:  1992 Presidential Election, Ross Perot, and the Economy",
+  "text": "In general, do you approve or disapprove of the job George Bush is doing in handling our foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    59
+   ],
+   [
+    "Disapprove",
+    37
+   ],
+   [
+    "Not sure",
+    4
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31091379,
+  "qname": "R02",
+  "start": "04/20/1992",
+  "end": "04/23/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  April National Poll",
+  "text": "Do you approve or disapprove of the way George Bush is handling foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    44
+   ],
+   [
+    "Disapprove",
+    46
+   ],
+   [
+    "Don't know/No answer",
+    10
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31091393,
+  "qname": "R02",
+  "start": "05/06/1992",
+  "end": "05/08/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  May National Poll",
+  "text": "Do you approve or disapprove of the way George Bush is handling foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    47
+   ],
+   [
+    "Disapprove",
+    42
+   ],
+   [
+    "Don't know/No answer",
+    10
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31094729,
+  "qname": "R05C",
+  "start": "05/15/1992",
+  "end": "05/19/1992",
+  "surveyBy": "NBC News/Wall Street Journal",
+  "conductedBy": "Hart-Breglio Research Companies",
+  "study": "NBC News/Wall Street Journal Poll:  The Economy, the King Verdict and Abortion",
+  "text": "In general, do you approve or disapprove of the job George Bush is doing in handling our foreign policy?",
+  "subpop": "Asked of Form A half of sample",
+  "responses": [
+   [
+    "Approve",
+    54
+   ],
+   [
+    "Disapprove",
+    38
+   ],
+   [
+    "Not sure",
+    8
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31091391,
+  "qname": "R02",
+  "start": "06/17/1992",
+  "end": "06/20/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  June National Poll",
+  "text": "Do you approve or disapprove of the way George Bush is handling foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    46
+   ],
+   [
+    "Disapprove",
+    43
+   ],
+   [
+    "Don't know/No answer",
+    11
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31094730,
+  "qname": "R05C",
+  "start": "07/05/1992",
+  "end": "07/07/1992",
+  "surveyBy": "NBC News/Wall Street Journal",
+  "conductedBy": "Hart-Breglio Research Companies",
+  "study": "NBC News/Wall Street Journal Poll:  1992 Presidential Election and the Economy",
+  "text": "In general, do you approve or disapprove of the job George Bush is doing handling our foreign policy?",
+  "subpop": "Asked of Form A half sample",
+  "responses": [
+   [
+    "Approve",
+    51
+   ],
+   [
+    "Disapprove",
+    41
+   ],
+   [
+    "Not sure",
+    8
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31091389,
+  "qname": "R02",
+  "start": "07/08/1992",
+  "end": "07/11/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  July National Poll",
+  "text": "Do you approve or disapprove of the way George Bush is handling foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    47
+   ],
+   [
+    "Disapprove",
+    44
+   ],
+   [
+    "Don't know/No answer",
+    9
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31088741,
+  "qname": "Q04B",
+  "start": "07/24/1992",
+  "end": "07/26/1992",
+  "surveyBy": "Gallup Organization",
+  "conductedBy": null,
+  "study": "Gallup News Service Survey:  July, 1992 - Wave 1",
+  "text": "(Please tell me whether you approve or disapprove of the way George Bush is handling some specific problems facing the country.)... Foreign policy",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    50
+   ],
+   [
+    "Disapprove",
+    42
+   ],
+   [
+    "Don't know/Refused",
+    8
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31094731,
+  "qname": "R04B",
+  "start": "08/10/1992",
+  "end": "08/12/1992",
+  "surveyBy": "NBC News/Wall Street Journal",
+  "conductedBy": "Hart-Breglio Research Companies",
+  "study": "NBC News/Wall Street Journal Poll:  1992 Presidential Election",
+  "text": "In general, do you approve or disapprove of the job George Bush is doing in handling our foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    53
+   ],
+   [
+    "Disapprove",
+    39
+   ],
+   [
+    "Not sure",
+    8
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31091380,
+  "qname": "R56",
+  "start": "08/11/1992",
+  "end": "08/14/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  August National Poll",
+  "text": "Do you approve or disapprove of the way George Bush is handling foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    48
+   ],
+   [
+    "Disapprove",
+    42
+   ],
+   [
+    "Don't know/No answer",
+    10
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31090760,
+  "qname": "R20A",
+  "start": "08/18/1992",
+  "end": "08/19/1992",
+  "surveyBy": "CBS News",
+  "conductedBy": null,
+  "study": "CBS News Poll:  August National Poll II",
+  "text": "Do you approve or disapprove of the way George Bush is handling foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    55
+   ],
+   [
+    "Disapprove",
+    34
+   ],
+   [
+    "Don't know/No answer",
+    11
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31091381,
+  "qname": "R27",
+  "start": "08/20/1992",
+  "end": "08/24/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  August National Poll III",
+  "text": "Do you approve or disapprove of the way George Bush is handling foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    56
+   ],
+   [
+    "Disapprove",
+    34
+   ],
+   [
+    "Don't know/No answer",
+    10
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31091399,
+  "qname": "R48",
+  "start": "09/09/1992",
+  "end": "09/13/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll # 1992-SEPT92A:  September National Poll",
+  "text": "Do you approve or disapprove of the way George Bush is handling foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    56
+   ],
+   [
+    "Disapprove",
+    35
+   ],
+   [
+    "Don't know/No answer",
+    9
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31094732,
+  "qname": "R05C",
+  "start": "09/12/1992",
+  "end": "09/15/1992",
+  "surveyBy": "NBC News/Wall Street Journal",
+  "conductedBy": "Hart-Breglio Research Companies",
+  "study": "NBC News/Wall Street Journal Poll:  1992 Presidential Election",
+  "text": "In general, do you approve or disapprove of the job George Bush is doing in handling our foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    60
+   ],
+   [
+    "Disapprove",
+    33
+   ],
+   [
+    "Not sure",
+    7
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31091395,
+  "qname": "R59",
+  "start": "10/02/1992",
+  "end": "10/04/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  October National Survey",
+  "text": "Do you approve or disapprove of the way George Bush is handling foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    54
+   ],
+   [
+    "Disapprove",
+    38
+   ],
+   [
+    "Don't know/No answer",
+    8
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31094733,
+  "qname": "R04C",
+  "start": "10/20/1992",
+  "end": "10/21/1992",
+  "surveyBy": "NBC News/Wall Street Journal",
+  "conductedBy": "Hart-Breglio Research Companies",
+  "study": "NBC News/Wall Street Journal Poll:  1992 Presidential Election",
+  "text": "In general, do you approve or disapprove of the job George Bush is doing in handling our foreign policy?",
+  "subpop": "Asked of Form A half of registered voter sample",
+  "responses": [
+   [
+    "Approve",
+    62
+   ],
+   [
+    "Disapprove",
+    31
+   ],
+   [
+    "Not sure",
+    7
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31091396,
+  "qname": "R55",
+  "start": "10/21/1992",
+  "end": "10/23/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  October National Survey III",
+  "text": "Do you approve or disapprove of the way George Bush is handling foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    54
+   ],
+   [
+    "Disapprove",
+    36
+   ],
+   [
+    "Don't know/No answer",
+    10
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31091397,
+  "qname": "R28",
+  "start": "10/27/1992",
+  "end": "11/02/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  Pre-Election Tracking Survey",
+  "text": "Do you approve or disapprove of the way George Bush is handling foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    52
+   ],
+   [
+    "Disapprove",
+    37
+   ],
+   [
+    "Don't know/No Answer",
+    11
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31091397,
+  "qname": "R28",
+  "start": "10/27/1992",
+  "end": "11/02/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  Pre-Election Tracking Survey",
+  "text": "Do you approve or disapprove of the way George Bush is handling foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    52
+   ],
+   [
+    "Disapprove",
+    38
+   ],
+   [
+    "Don't know/No answer",
+    10
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31091397,
+  "qname": "R28",
+  "start": "10/27/1992",
+  "end": "11/02/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  Pre-Election Tracking Survey",
+  "text": "Do you approve or disapprove of the way George Bush is handling foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    53
+   ],
+   [
+    "Disapprove",
+    37
+   ],
+   [
+    "Don't know/No answer",
+    10
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31091397,
+  "qname": "R28",
+  "start": "10/27/1992",
+  "end": "11/02/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  Pre-Election Tracking Survey",
+  "text": "Do you approve or disapprove of the way George Bush is handling foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    53
+   ],
+   [
+    "Disapprove",
+    36
+   ],
+   [
+    "Don't know/No answer",
+    11
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31091397,
+  "qname": "R28",
+  "start": "10/27/1992",
+  "end": "11/02/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  Pre-Election Tracking Survey",
+  "text": "Do you approve or disapprove of the way George Bush is handling foreign policy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    52
+   ],
+   [
+    "Disapprove",
+    38
+   ],
+   [
+    "Don't know/No answer",
+    10
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31094736,
+  "qname": "R04C",
+  "start": "12/12/1992",
+  "end": "12/15/1992",
+  "surveyBy": "NBC News/Wall Street Journal",
+  "conductedBy": "Hart-Breglio Research Companies",
+  "study": "NBC News/Wall Street Journal Poll:  Hillary Clinton, the Economy, and Efforts in Somalia",
+  "text": "In general, do you approve or disapprove of the job George Bush is doing in handling our foreign policy?",
+  "subpop": "Asked of Form A half sample",
+  "responses": [
+   [
+    "Approve",
+    71
+   ],
+   [
+    "Disapprove",
+    22
+   ],
+   [
+    "Not sure",
+    6
+   ]
+  ]
+ },
+ {
+  "key": "foreign",
+  "archiveId": 31091402,
+  "qname": "R37",
+  "start": "01/12/1993",
+  "end": "01/14/1993",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  January National Poll",
+  "text": "Do you approve or disapprove of the way George Bush has handled foreign policy during the last four years?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    71
+   ],
+   [
+    "Disapprove",
+    24
+   ],
+   [
+    "Don't know/No answer",
+    5
+   ]
+  ]
+ }
+]

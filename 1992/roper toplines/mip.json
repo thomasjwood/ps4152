@@ -1,0 +1,8510 @@
+[
+ {
+  "key": "mip",
+  "archiveId": 31086394,
+  "qname": "R02",
+  "start": "01/12/1989",
+  "end": "01/16/1989",
+  "surveyBy": "ABC News",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News Poll:  Review on Reagan Administration/ Bush as President",
+  "text": "In your opinion, what do you think is the most important problem facing this country today? And what would you say is the second most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "Unemployment",
+    9
+   ],
+   [
+    "Federal budget deficit",
+    24
+   ],
+   [
+    "Other economic reason",
+    11
+   ],
+   [
+    "Taxes",
+    4
+   ],
+   [
+    "Inflation",
+    4
+   ],
+   [
+    "Trade deficit",
+    3
+   ],
+   [
+    "Crime",
+    9
+   ],
+   [
+    "Moral decline",
+    6
+   ],
+   [
+    "Health care/health care system Race relations/civil rights problems/",
+    3
+   ],
+   [
+    "problems of blacks",
+    3
+   ],
+   [
+    "Quality of education",
+    4
+   ],
+   [
+    "Drugs",
+    28
+   ],
+   [
+    "Poverty/Hunger/Homeless",
+    25
+   ],
+   [
+    "Environment/Pollution",
+    5
+   ],
+   [
+    "Alcohol",
+    1
+   ],
+   [
+    "Illegal immigrants",
+    1
+   ],
+   [
+    "AIDS (Acquired Immune Deficiency Syndrome)",
+    4
+   ],
+   [
+    "Abortion",
+    1
+   ],
+   [
+    "Other social/health problems",
+    5
+   ],
+   [
+    "Nuclear war/threat of war International problems/foreign policy/",
+    8
+   ],
+   [
+    "relation with other nations",
+    8
+   ],
+   [
+    "Communism/Soviet Union",
+    1
+   ],
+   [
+    "Problems in the Middle East",
+    1
+   ],
+   [
+    "Iran/Contra scandal",
+    1
+   ],
+   [
+    "Other international problems",
+    2
+   ],
+   [
+    "Other",
+    16
+   ],
+   [
+    "Dissatisfaction with government",
+    4
+   ],
+   [
+    "Terrorism",
+    3
+   ],
+   [
+    "Leadership",
+    2
+   ],
+   [
+    "No opinion",
+    1
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31091338,
+  "qname": "R06",
+  "start": "01/12/1989",
+  "end": "01/15/1989",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  National Survey, January 1989",
+  "text": "What do you think is the most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "Deficit",
+    17
+   ],
+   [
+    "Drugs",
+    15
+   ],
+   [
+    "Economy",
+    8
+   ],
+   [
+    "Homeless",
+    7
+   ],
+   [
+    "War/Peace",
+    6
+   ],
+   [
+    "Unemployment",
+    5
+   ],
+   [
+    "Foreign affairs",
+    3
+   ],
+   [
+    "Poverty",
+    3
+   ],
+   [
+    "Environment",
+    2
+   ],
+   [
+    "Middle East",
+    2
+   ],
+   [
+    "Terrorism/Libya",
+    2
+   ],
+   [
+    "Foreign trade",
+    2
+   ],
+   [
+    "Crime",
+    2
+   ],
+   [
+    "Education",
+    2
+   ],
+   [
+    "Morality",
+    2
+   ],
+   [
+    "Arms control",
+    1
+   ],
+   [
+    "Taxes",
+    1
+   ],
+   [
+    "Military spending",
+    1
+   ],
+   [
+    "Foreign aid",
+    1
+   ],
+   [
+    "AIDS (Acquired Immune Deficiency Syndrome)",
+    1
+   ],
+   [
+    "Health care",
+    1
+   ],
+   [
+    "Elderly/Social Security",
+    1
+   ],
+   [
+    "Ethics in government",
+    1
+   ],
+   [
+    "Minority issues",
+    1
+   ],
+   [
+    "Hunger",
+    1
+   ],
+   [
+    "Inflation",
+    1e-7
+   ],
+   [
+    "Other",
+    5
+   ],
+   [
+    "Don't know/No answer",
+    7
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31090754,
+  "qname": "R02",
+  "start": "03/15/1989",
+  "end": "03/15/1989",
+  "surveyBy": "CBS News",
+  "conductedBy": null,
+  "study": "CBS News Poll: Forty-Eight Hour Survey, March 1989",
+  "text": "What do you think is the most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "Drugs",
+    24
+   ],
+   [
+    "Deficit",
+    14
+   ],
+   [
+    "Homeless",
+    7
+   ],
+   [
+    "Jobs",
+    6
+   ],
+   [
+    "Economy",
+    5
+   ],
+   [
+    "Other",
+    31
+   ],
+   [
+    "Don't know/No answer",
+    13
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31092890,
+  "qname": "R45",
+  "start": "04/01/1989",
+  "end": "04/06/1989",
+  "surveyBy": "Los Angeles Times",
+  "conductedBy": null,
+  "study": "Los Angeles Times Poll:  Older Americans",
+  "text": "What do you think is the most important health problem facing this country today--or don't you think there are any major health problems? (If yes, major health problems)...Do you think the most important problem is AIDS (Acquired Immune Deficiency Syndrome), or alcoholism, or cancer, or health care costs, or cigarette smoking, or is the most important health problem drug addiction, or problems of the elderly, or physical fitness, or government health programs like Medicare and Medicaid, or is the most important health problem heart disease, or nutrition, or obesity, or toxic wastes, or what? I could repeat those, if you wish. (Wait for reply) Is there another one of those problems you consider almost as important?",
+  "subpop": null,
+  "responses": [
+   [
+    "None",
+    1
+   ],
+   [
+    "AIDS",
+    55
+   ],
+   [
+    "Alcoholism",
+    19
+   ],
+   [
+    "Cancer",
+    47
+   ],
+   [
+    "Health care costs",
+    14
+   ],
+   [
+    "Smoking",
+    7
+   ],
+   [
+    "Drugs",
+    37
+   ],
+   [
+    "Elderly",
+    6
+   ],
+   [
+    "Fitness",
+    2
+   ],
+   [
+    "Gov't health programs",
+    5
+   ],
+   [
+    "Heart disease",
+    22
+   ],
+   [
+    "Nutrition",
+    3
+   ],
+   [
+    "Obesity",
+    2
+   ],
+   [
+    "Toxic wastes",
+    10
+   ],
+   [
+    "Other (vol.)",
+    7
+   ],
+   [
+    "Not sure",
+    2
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31092893,
+  "qname": "R53",
+  "start": "04/22/1989",
+  "end": "04/25/1989",
+  "surveyBy": "Los Angeles Times",
+  "conductedBy": null,
+  "study": "Los Angeles Times Poll # 1989-181:  George Bush's First 100 Days",
+  "text": "What do you think is the most important problem facing this country today: Is arms control, or the federal budget deficit, or drugs, or the economy, or education, or the environment, or the homeless, or the possibility of war and peace, or what? (Wait for reply) Is there another one of those problems you consider almost as important? (Record up to two answers)",
+  "subpop": null,
+  "responses": [
+   [
+    "Arms control",
+    10
+   ],
+   [
+    "Deficit",
+    29
+   ],
+   [
+    "Drugs",
+    63
+   ],
+   [
+    "Economy",
+    23
+   ],
+   [
+    "Education",
+    17
+   ],
+   [
+    "Environment",
+    9
+   ],
+   [
+    "Homeless",
+    20
+   ],
+   [
+    "War",
+    5
+   ],
+   [
+    "Other (vol.)",
+    5
+   ],
+   [
+    "Not sure",
+    2
+   ],
+   [
+    "Refused",
+    1
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31105064,
+  "qname": "R01",
+  "start": "06/01/1989",
+  "end": "07/31/1989",
+  "surveyBy": "George H. Gallup International Foundation",
+  "conductedBy": "Gallup Organization",
+  "study": "George H. Gallup International Foundation Poll: June 1989",
+  "text": "What do you think is the most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "Drugs, drug abuse",
+    27
+   ],
+   [
+    "Poverty, homeless, hunger",
+    8
+   ],
+   [
+    "Economy in general",
+    7
+   ],
+   [
+    "Federal budget deficit",
+    6
+   ],
+   [
+    "Environment, pollution",
+    6
+   ],
+   [
+    "Fear of war, international tensions",
+    4
+   ],
+   [
+    "High cost of living, inflation",
+    3
+   ],
+   [
+    "Ethics, moral decline",
+    3
+   ],
+   [
+    "Crime",
+    3
+   ],
+   [
+    "Unemployment",
+    2
+   ],
+   [
+    "Trade deficit",
+    2
+   ],
+   [
+    "Dissatisfaction with government",
+    2
+   ],
+   [
+    "Abortion",
+    2
+   ],
+   [
+    "Quality of education",
+    1
+   ],
+   [
+    "Interest rates",
+    1e-7
+   ],
+   [
+    "Recession/depression",
+    1e-7
+   ],
+   [
+    "Other economic problems",
+    3
+   ],
+   [
+    "Other non-economic problems",
+    12
+   ],
+   [
+    "None/Don't know",
+    8
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31095210,
+  "qname": "R02",
+  "start": "06/20/1989",
+  "end": "06/25/1989",
+  "surveyBy": "New York Times",
+  "conductedBy": null,
+  "study": "New York Times Poll: Women's Issues",
+  "text": "What do you think is the most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "War, nuclear war",
+    2
+   ],
+   [
+    "Arms control, Summit",
+    2
+   ],
+   [
+    "Unemployment/jobs",
+    6
+   ],
+   [
+    "Economy",
+    9
+   ],
+   [
+    "Deficit",
+    9
+   ],
+   [
+    "Government",
+    1
+   ],
+   [
+    "Defense",
+    1
+   ],
+   [
+    "Environment, acid rain",
+    3
+   ],
+   [
+    "Foreign affairs",
+    3
+   ],
+   [
+    "Less foreign aid",
+    1
+   ],
+   [
+    "China",
+    2
+   ],
+   [
+    "Foreign trade",
+    1
+   ],
+   [
+    "AIDS (Acquired Immune Deficiency Syndrome)",
+    2
+   ],
+   [
+    "Elderly",
+    1
+   ],
+   [
+    "Health costs",
+    1
+   ],
+   [
+    "Poor",
+    2
+   ],
+   [
+    "Crime, violence",
+    3
+   ],
+   [
+    "Ethics",
+    1
+   ],
+   [
+    "Homeless",
+    5
+   ],
+   [
+    "Education",
+    2
+   ],
+   [
+    "Hunger",
+    1
+   ],
+   [
+    "Abortion",
+    1
+   ],
+   [
+    "Morality",
+    3
+   ],
+   [
+    "Drugs",
+    20
+   ],
+   [
+    "Family breakdown",
+    1
+   ],
+   [
+    "Racism",
+    1
+   ],
+   [
+    "Other",
+    3
+   ],
+   [
+    "Don't know/No answer",
+    14
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31088654,
+  "qname": "R1",
+  "start": "07/18/1989",
+  "end": "07/21/1989",
+  "surveyBy": "Gallup Organization",
+  "conductedBy": null,
+  "study": "Gallup News Service Poll: Work",
+  "text": "What do you think is the most important problem facing this country today? (Open-ended)",
+  "subpop": null,
+  "responses": [
+   [
+    "Economy (general)",
+    7
+   ],
+   [
+    "Federal budget deficit/failure to balance budget",
+    6
+   ],
+   [
+    "High cost of living/inflation",
+    3
+   ],
+   [
+    "Unemployment",
+    2
+   ],
+   [
+    "Trade deficit/trade relations/balance of trade",
+    2
+   ],
+   [
+    "High cost of borrowing/interest rates",
+    1e-7
+   ],
+   [
+    "Recession/depression",
+    1e-7
+   ],
+   [
+    "Other specific economic problems",
+    3
+   ],
+   [
+    "Drugs/drug abuse",
+    27
+   ],
+   [
+    "Poverty/hunger/homeless",
+    8
+   ],
+   [
+    "Environment/pollution",
+    6
+   ],
+   [
+    "Ethics in society/Moral decline",
+    3
+   ],
+   [
+    "Crime",
+    3
+   ],
+   [
+    "Dissatisfaction with government",
+    2
+   ],
+   [
+    "Abortion",
+    2
+   ],
+   [
+    "Fear of war/nuclear war",
+    2
+   ],
+   [
+    "International problems/foreign affairs",
+    2
+   ],
+   [
+    "Quality of education",
+    1
+   ],
+   [
+    "Other non-economic problems",
+    12
+   ],
+   [
+    "None/Don't know",
+    8
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31091339,
+  "qname": "R02",
+  "start": "07/25/1989",
+  "end": "07/28/1989",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  Women's Poll, July, 1989",
+  "text": "What do you think is the most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "War, nuclear war",
+    2
+   ],
+   [
+    "Arms control, Summit",
+    1
+   ],
+   [
+    "Unemployment/jobs",
+    8
+   ],
+   [
+    "Economy",
+    7
+   ],
+   [
+    "Deficit",
+    9
+   ],
+   [
+    "Government",
+    1
+   ],
+   [
+    "Defense",
+    1
+   ],
+   [
+    "Environment, acid rain",
+    5
+   ],
+   [
+    "Foreign affairs",
+    1
+   ],
+   [
+    "Foreign trade",
+    2
+   ],
+   [
+    "AIDS (Acquired Immune Deficiency Syndrome)",
+    2
+   ],
+   [
+    "Health costs",
+    1
+   ],
+   [
+    "Poor",
+    3
+   ],
+   [
+    "Crime, violence",
+    3
+   ],
+   [
+    "Ethics",
+    1
+   ],
+   [
+    "Homeless",
+    6
+   ],
+   [
+    "Education",
+    1
+   ],
+   [
+    "Hunger",
+    1
+   ],
+   [
+    "Abortion",
+    3
+   ],
+   [
+    "Morality",
+    2
+   ],
+   [
+    "Drugs",
+    22
+   ],
+   [
+    "Family breakdown",
+    1
+   ],
+   [
+    "Other",
+    3
+   ],
+   [
+    "Don't know/No answer",
+    13
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31086714,
+  "qname": "R01",
+  "start": "08/17/1989",
+  "end": "08/21/1989",
+  "surveyBy": "ABC News/Washington Post",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News/The Washington Post Poll: Omnibus-August, 1989",
+  "text": "What do you think is the most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "Unemployment",
+    2
+   ],
+   [
+    "Federal budget deficit",
+    4
+   ],
+   [
+    "Taxes",
+    1e-7
+   ],
+   [
+    "Inflation",
+    1
+   ],
+   [
+    "High interest rates",
+    1e-7
+   ],
+   [
+    "Trade deficit",
+    1e-7
+   ],
+   [
+    "Other economic reason",
+    4
+   ],
+   [
+    "Crime",
+    2
+   ],
+   [
+    "Moral decline",
+    2
+   ],
+   [
+    "Health care/Health care system Race relations/Civil rights/Problems of",
+    1
+   ],
+   [
+    "blacks",
+    1
+   ],
+   [
+    "Quality of education",
+    1
+   ],
+   [
+    "Drugs",
+    44
+   ],
+   [
+    "Poverty/Hunger/Homeless",
+    8
+   ],
+   [
+    "Teen pregnancy",
+    1e-7
+   ],
+   [
+    "Environment/Pollution",
+    4
+   ],
+   [
+    "Alcohol",
+    1e-7
+   ],
+   [
+    "AIDS (Acquired Immune Deficiency Syndrome)",
+    3
+   ],
+   [
+    "Other social/Health problems",
+    2
+   ],
+   [
+    "Abortion (new 1/89)",
+    1
+   ],
+   [
+    "Iran/Contra scandal",
+    1e-7
+   ],
+   [
+    "Nuclear war/Threat of war International problems/Foreign policy/",
+    2
+   ],
+   [
+    "Relations with other nations",
+    3
+   ],
+   [
+    "Communism/Soviet Union",
+    1e-7
+   ],
+   [
+    "Problems in the Middle East",
+    1
+   ],
+   [
+    "Other international problems",
+    1e-7
+   ],
+   [
+    "Terrorism",
+    1
+   ],
+   [
+    "Dissatisfaction with government",
+    1
+   ],
+   [
+    "Bush (Reagan prior to '89)",
+    1e-7
+   ],
+   [
+    "Energy",
+    1e-7
+   ],
+   [
+    "Leadership",
+    1e-7
+   ],
+   [
+    "Other",
+    8
+   ],
+   [
+    "No opinion",
+    2
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31091344,
+  "qname": "R02",
+  "start": "09/06/1989",
+  "end": "09/08/1989",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Drug Poll, September, 1989",
+  "text": "What do you think is the most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "Drugs",
+    64
+   ],
+   [
+    "Economy",
+    5
+   ],
+   [
+    "Poor",
+    3
+   ],
+   [
+    "Jobs",
+    2
+   ],
+   [
+    "Budget deficit",
+    2
+   ],
+   [
+    "Crime",
+    2
+   ],
+   [
+    "Homelessness",
+    2
+   ],
+   [
+    "Morality",
+    2
+   ],
+   [
+    "Government",
+    2
+   ],
+   [
+    "Other",
+    11
+   ],
+   [
+    "No opinion",
+    5
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31088657,
+  "qname": "R01",
+  "start": "09/07/1989",
+  "end": "09/10/1989",
+  "surveyBy": "Gallup Organization",
+  "conductedBy": null,
+  "study": "Gallup News Service Survey:  September, 1989",
+  "text": "What do you think is the most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "Economy (general)",
+    4
+   ],
+   [
+    "High cost of living/inflation",
+    1
+   ],
+   [
+    "High cost of borrowing/interest rates",
+    1e-7
+   ],
+   [
+    "Federal budget deficit/failure to balance budget",
+    5
+   ],
+   [
+    "Trade deficit/trade relations/balance of trade",
+    1
+   ],
+   [
+    "Unemployment",
+    2
+   ],
+   [
+    "Other specific economic problems",
+    3
+   ],
+   [
+    "Drugs/drug abuse",
+    63
+   ],
+   [
+    "Crime",
+    3
+   ],
+   [
+    "Poverty/Hunger/Homeless",
+    5
+   ],
+   [
+    "Environment/pollution",
+    1
+   ],
+   [
+    "Quality of education",
+    1
+   ],
+   [
+    "Ethics in society/moral decline",
+    1
+   ],
+   [
+    "Fear of war/nuclear war",
+    2
+   ],
+   [
+    "International problems/foreign affairs",
+    3
+   ],
+   [
+    "Abortion",
+    1
+   ],
+   [
+    "Dissatisfaction with government",
+    1e-7
+   ],
+   [
+    "Other non-economic problems",
+    8
+   ],
+   [
+    "None/Don't know",
+    4
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31093267,
+  "qname": "RA01",
+  "start": "09/14/1989",
+  "end": "09/24/1989",
+  "surveyBy": "Media General/Associated Press",
+  "conductedBy": null,
+  "study": "Media General/Associated Press Poll: National Poll # 28",
+  "text": "What do you think is the most important problem facing this country today? (Do not read list)",
+  "subpop": null,
+  "responses": [
+   [
+    "AIDS (Acquired Immune Deficiency Syndrome)",
+    1
+   ],
+   [
+    "Crime",
+    2
+   ],
+   [
+    "Drugs",
+    61
+   ],
+   [
+    "Economy",
+    3
+   ],
+   [
+    "Education",
+    2
+   ],
+   [
+    "Environment",
+    3
+   ],
+   [
+    "Federal deficit",
+    5
+   ],
+   [
+    "Homelessness",
+    3
+   ],
+   [
+    "Poverty",
+    2
+   ],
+   [
+    "Race relations",
+    1e-7
+   ],
+   [
+    "Terrorism",
+    1e-7
+   ],
+   [
+    "Unemployment",
+    1
+   ],
+   [
+    "War/Peace",
+    1
+   ],
+   [
+    "Other",
+    13
+   ],
+   [
+    "Don't know/No answer",
+    2
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31091345,
+  "qname": "R05",
+  "start": "09/17/1989",
+  "end": "09/20/1989",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times National Survey, September, 1989",
+  "text": "What do you think is the most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "Drugs",
+    54
+   ],
+   [
+    "Economy",
+    8
+   ],
+   [
+    "Jobs",
+    4
+   ],
+   [
+    "Deficit",
+    3
+   ],
+   [
+    "Homelessness",
+    3
+   ],
+   [
+    "Morality",
+    3
+   ],
+   [
+    "Education",
+    2
+   ],
+   [
+    "Poor",
+    2
+   ],
+   [
+    "Foreign policy",
+    2
+   ],
+   [
+    "Environment",
+    2
+   ],
+   [
+    "Other",
+    12
+   ],
+   [
+    "Don't know/No answer",
+    5
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31086715,
+  "qname": "R01",
+  "start": "09/28/1989",
+  "end": "10/03/1989",
+  "surveyBy": "ABC News/Washington Post",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News/The Washington Post Poll: Omnibus-September, 1989",
+  "text": "What do you think is the most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "Unemployment",
+    2
+   ],
+   [
+    "Federal budget deficit",
+    4
+   ],
+   [
+    "Taxes",
+    1
+   ],
+   [
+    "Inflation",
+    1
+   ],
+   [
+    "Trade deficit",
+    1
+   ],
+   [
+    "Other economic reason",
+    2
+   ],
+   [
+    "Crime",
+    2
+   ],
+   [
+    "Moral decline",
+    2
+   ],
+   [
+    "Health care/health care system",
+    1
+   ],
+   [
+    "Race relations/civil rights/problems of blacks",
+    2
+   ],
+   [
+    "Quality of education",
+    3
+   ],
+   [
+    "Drugs",
+    53
+   ],
+   [
+    "Poverty/Hunger/Homeless",
+    6
+   ],
+   [
+    "Teen pregnancy",
+    1e-7
+   ],
+   [
+    "Environment/Pollution",
+    3
+   ],
+   [
+    "Alcohol",
+    1e-7
+   ],
+   [
+    "Illegal immigrants",
+    1e-7
+   ],
+   [
+    "AIDS (Acquired Immune Deficiency Syndrome)",
+    2
+   ],
+   [
+    "Other social/health problems",
+    2
+   ],
+   [
+    "Abortion",
+    1
+   ],
+   [
+    "Nuclear war/threat of war International problems/foreign policy/relation",
+    2
+   ],
+   [
+    "with other nations",
+    1
+   ],
+   [
+    "Communism/Soviet Union",
+    1e-7
+   ],
+   [
+    "Other international problems",
+    1e-7
+   ],
+   [
+    "Terrorism",
+    1e-7
+   ],
+   [
+    "Dissatisfaction with government",
+    1
+   ],
+   [
+    "Bush",
+    1e-7
+   ],
+   [
+    "Energy",
+    1e-7
+   ],
+   [
+    "Leadership",
+    1e-7
+   ],
+   [
+    "Process of selecting president",
+    1e-7
+   ],
+   [
+    "Other",
+    8
+   ],
+   [
+    "No opinion",
+    1
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31088661,
+  "qname": "R05",
+  "start": "11/09/1989",
+  "end": "11/12/1989",
+  "surveyBy": "Gallup Organization",
+  "conductedBy": null,
+  "study": "Gallup News Service Poll: November, 1989",
+  "text": "What do you think is the most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "Economy (general)",
+    7
+   ],
+   [
+    "High cost of living/inflation",
+    2
+   ],
+   [
+    "High cost of borrowing/interest rates",
+    1e-7
+   ],
+   [
+    "Federal budget deficit/failure to balance budget",
+    7
+   ],
+   [
+    "Trade deficit/trade relations/balance of trade",
+    2
+   ],
+   [
+    "Unemployment",
+    3
+   ],
+   [
+    "Recession/depression",
+    1e-7
+   ],
+   [
+    "Other specific economic problems",
+    5
+   ],
+   [
+    "Drugs/drug abuse",
+    38
+   ],
+   [
+    "Crime",
+    3
+   ],
+   [
+    "Poverty/hunger/homeless",
+    10
+   ],
+   [
+    "Environment/pollution",
+    3
+   ],
+   [
+    "Ethics in society/moral decline",
+    3
+   ],
+   [
+    "Fear of war/nuclear war",
+    1
+   ],
+   [
+    "International problems/foreign affairs",
+    3
+   ],
+   [
+    "Abortion",
+    3
+   ],
+   [
+    "Dissatisfaction with government",
+    1
+   ],
+   [
+    "Other, non-economic problems",
+    9
+   ],
+   [
+    "None/Don't know",
+    6
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31092912,
+  "qname": "R08",
+  "start": "11/17/1989",
+  "end": "11/21/1989",
+  "surveyBy": "Los Angeles Times",
+  "conductedBy": null,
+  "study": "Los Angeles Times Poll: The Environment and The Bush-Gorbachev Summit in Malta",
+  "text": "What do you think is the most important problem facing this country today: curing AIDS (Acquired Immune Deficiency Syndrome), or reducing crime, or cutting the federal budget deficit, or negotiating substantial nuclear disarmament, or fighting drug abuse, or building up the nation's economy, or preserving the environment, or restoring the foreign trade balance, or halting the moral decline in society, or what? Is there another problem that you consider almost as important? (Accept up to two replies.)",
+  "subpop": null,
+  "responses": [
+   [
+    "AIDS",
+    22
+   ],
+   [
+    "Crime",
+    27
+   ],
+   [
+    "Deficit",
+    19
+   ],
+   [
+    "Disarmament",
+    5
+   ],
+   [
+    "Drugs",
+    55
+   ],
+   [
+    "Economy",
+    13
+   ],
+   [
+    "Environment",
+    15
+   ],
+   [
+    "Foreign trade",
+    3
+   ],
+   [
+    "Moral decline",
+    12
+   ],
+   [
+    "Other (vol.)",
+    8
+   ],
+   [
+    "Not sure",
+    2
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31092915,
+  "qname": "R15",
+  "start": "12/16/1989",
+  "end": "12/20/1989",
+  "surveyBy": "Los Angeles Times",
+  "conductedBy": null,
+  "study": "Los Angeles Times Poll: Annual Survey of Social, Economic and Political Indicators",
+  "text": "What do you think is the single most urgent problem facing this country today: crime, or education, or the environment, or foreign trade, or government spending, or inflation, or the moral decline of society, or unemployment, or the fear of war, or what? I could repeat those, if you wish. Is there another one of those problems you consider almost as important?",
+  "subpop": null,
+  "responses": [
+   [
+    "Crime",
+    59
+   ],
+   [
+    "Education",
+    28
+   ],
+   [
+    "Environment",
+    15
+   ],
+   [
+    "Foreign trade",
+    4
+   ],
+   [
+    "Government spending",
+    17
+   ],
+   [
+    "Inflation",
+    8
+   ],
+   [
+    "Moral decline",
+    22
+   ],
+   [
+    "Unemployment",
+    14
+   ],
+   [
+    "Fear of war",
+    5
+   ],
+   [
+    "Other (vol.)",
+    8
+   ],
+   [
+    "Not sure",
+    1
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31086716,
+  "qname": "R02",
+  "start": "01/11/1990",
+  "end": "01/16/1990",
+  "surveyBy": "ABC News/Washington Post",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News/The Washington Post Poll: Omnibus-January, 1990",
+  "text": "What do you think is the most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "Unemployment",
+    3
+   ],
+   [
+    "Federal budget deficit",
+    5
+   ],
+   [
+    "Taxes",
+    1
+   ],
+   [
+    "Inflation",
+    2
+   ],
+   [
+    "High interest rates",
+    1e-7
+   ],
+   [
+    "Trade deficit",
+    1
+   ],
+   [
+    "Decline in quality of U.S. products",
+    1e-7
+   ],
+   [
+    "Foreign ownership of U.S. companies",
+    1e-7
+   ],
+   [
+    "Other economic reason",
+    4
+   ],
+   [
+    "Crime",
+    2
+   ],
+   [
+    "Moral decline",
+    3
+   ],
+   [
+    "Health care/health care system Race relations/civil rights/problems",
+    1
+   ],
+   [
+    "of blacks",
+    1
+   ],
+   [
+    "Quality of education",
+    3
+   ],
+   [
+    "Drugs",
+    40
+   ],
+   [
+    "Poverty/Hunger/Homeless",
+    9
+   ],
+   [
+    "Teen pregnancy",
+    1e-7
+   ],
+   [
+    "Environment/Pollution",
+    4
+   ],
+   [
+    "Alcohol",
+    1e-7
+   ],
+   [
+    "Illegal immigrants",
+    1e-7
+   ],
+   [
+    "AIDS (Acquired Immune Deficiency Syndrome)",
+    1
+   ],
+   [
+    "Other social/health problems",
+    2
+   ],
+   [
+    "Abortion Nuclear war/threat of war/International problems/foreign policy/relations with",
+    1
+   ],
+   [
+    "other nations",
+    2
+   ],
+   [
+    "Communism/Soviet Union",
+    1e-7
+   ],
+   [
+    "Other international problems",
+    1e-7
+   ],
+   [
+    "Terrorism",
+    1e-7
+   ],
+   [
+    "Dissatisfaction with government",
+    1
+   ],
+   [
+    "Bush",
+    1e-7
+   ],
+   [
+    "Energy",
+    1e-7
+   ],
+   [
+    "Leadership",
+    1
+   ],
+   [
+    "Other",
+    9
+   ],
+   [
+    "No opinion",
+    1
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31086716,
+  "qname": "R03",
+  "start": "01/11/1990",
+  "end": "01/16/1990",
+  "surveyBy": "ABC News/Washington Post",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News/The Washington Post Poll: Omnibus-January, 1990",
+  "text": "What would you say is the second most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "Unemployment",
+    4
+   ],
+   [
+    "Federal budget deficit",
+    5
+   ],
+   [
+    "Other economic reason",
+    4
+   ],
+   [
+    "Taxes",
+    2
+   ],
+   [
+    "Inflation",
+    3
+   ],
+   [
+    "High interest rates",
+    1e-7
+   ],
+   [
+    "Trade deficit",
+    1
+   ],
+   [
+    "Decline in quality of U.S. products",
+    1e-7
+   ],
+   [
+    "Foreign ownership of U.S. companies",
+    1e-7
+   ],
+   [
+    "Crime",
+    5
+   ],
+   [
+    "Moral decline",
+    3
+   ],
+   [
+    "health care/health care system Race relations/civil rights problems/",
+    2
+   ],
+   [
+    "problems of blacks",
+    2
+   ],
+   [
+    "Quality of education",
+    4
+   ],
+   [
+    "Drugs",
+    16
+   ],
+   [
+    "Poverty/Hunger/Homeless",
+    12
+   ],
+   [
+    "Teen pregnancy",
+    1
+   ],
+   [
+    "Environment/Pollution",
+    4
+   ],
+   [
+    "Alcohol",
+    1
+   ],
+   [
+    "Illegal immigrants",
+    1e-7
+   ],
+   [
+    "AIDS (Acquired Immune Deficiency Syndrome)",
+    3
+   ],
+   [
+    "Abortion",
+    1
+   ],
+   [
+    "Other social health issues",
+    2
+   ],
+   [
+    "Nuclear war/threat of war International problems/foreign policy/",
+    2
+   ],
+   [
+    "relations with other nations",
+    4
+   ],
+   [
+    "Communism/Soviet Union",
+    1e-7
+   ],
+   [
+    "Iran/Contra scandal",
+    1e-7
+   ],
+   [
+    "Other international problems",
+    1e-7
+   ],
+   [
+    "Terrorism",
+    1e-7
+   ],
+   [
+    "Other",
+    16
+   ],
+   [
+    "Dissatisfaction with government",
+    2
+   ],
+   [
+    "Bush",
+    1e-7
+   ],
+   [
+    "Energy",
+    1e-7
+   ],
+   [
+    "Leadership",
+    1
+   ],
+   [
+    "Process of selecting presidents",
+    1e-7
+   ],
+   [
+    "Other",
+    13
+   ],
+   [
+    "Don't know/No opinion",
+    3
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31091351,
+  "qname": "R08",
+  "start": "01/13/1990",
+  "end": "01/15/1990",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times National Survey, January, 1990",
+  "text": "What do you think is the most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "Drugs",
+    33
+   ],
+   [
+    "Homelessness",
+    11
+   ],
+   [
+    "Deficit/National debt",
+    7
+   ],
+   [
+    "Economy",
+    6
+   ],
+   [
+    "Jobs",
+    5
+   ],
+   [
+    "Poverty",
+    4
+   ],
+   [
+    "Inflation",
+    2
+   ],
+   [
+    "Other",
+    26
+   ],
+   [
+    "Don't know/No answer",
+    6
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31092918,
+  "qname": "R07",
+  "start": "01/21/1990",
+  "end": "01/24/1990",
+  "surveyBy": "Los Angeles Times",
+  "conductedBy": null,
+  "study": "Los Angeles Times Poll: Health Care in the United States",
+  "text": "What do you think is the most important problem facing this country today: reducing crime, or cutting the federal budget deficit, or fighting drug abuse, or strengthening the economy, or restoring the foreign trade balance, or improving health care, or halting the moral decline in society, or bringing down unemployment, or what? I could repeat those, if you wish. (Wait for reply) Is there another problem that you consider almost as important?",
+  "subpop": null,
+  "responses": [
+   [
+    "Reducing crime",
+    26
+   ],
+   [
+    "Cutting the federal budget deficit",
+    19
+   ],
+   [
+    "Fighting drug abuse",
+    64
+   ],
+   [
+    "Strengthening the economy",
+    16
+   ],
+   [
+    "Restoring the foreign trade balance",
+    4
+   ],
+   [
+    "Improving health care",
+    14
+   ],
+   [
+    "Halting the moral decline in society",
+    11
+   ],
+   [
+    "Bringing down unemployment",
+    8
+   ],
+   [
+    "Other",
+    11
+   ],
+   [
+    "Not sure",
+    2
+   ],
+   [
+    "Refused",
+    1
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31086403,
+  "qname": "R01",
+  "start": "03/13/1990",
+  "end": "03/15/1990",
+  "surveyBy": "ABC News",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News Poll:  Japan",
+  "text": "In your opinion, what is the most important economic problem facing this country today? (Open-ended)",
+  "subpop": null,
+  "responses": [
+   [
+    "Unemployment",
+    11
+   ],
+   [
+    "Federal budget deficit",
+    18
+   ],
+   [
+    "Foreign business competition",
+    1
+   ],
+   [
+    "U.S. trade deficit Japan/competition from Japan/Japanese",
+    4
+   ],
+   [
+    "Products",
+    2
+   ],
+   [
+    "All other mentions",
+    57
+   ],
+   [
+    "Don't know/No opinion",
+    7
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31098905,
+  "qname": "R003",
+  "start": "03/22/1990",
+  "end": "03/26/1990",
+  "surveyBy": "Washington Post",
+  "conductedBy": null,
+  "study": "Washington Post Poll: March, 1990",
+  "text": "What do you think is the most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "Abortion",
+    1
+   ],
+   [
+    "AIDS",
+    1
+   ],
+   [
+    "Communism/Soviet Union",
+    1e-7
+   ],
+   [
+    "Crime",
+    2
+   ],
+   [
+    "Dissatisfaction with government",
+    1
+   ],
+   [
+    "Drugs",
+    34
+   ],
+   [
+    "Environment/Pollution",
+    5
+   ],
+   [
+    "Federal budget deficit",
+    8
+   ],
+   [
+    "Health care/Health care system",
+    2
+   ],
+   [
+    "High interest rates",
+    1e-7
+   ],
+   [
+    "Illegal immigrants",
+    1e-7
+   ],
+   [
+    "Inflation",
+    1
+   ],
+   [
+    "International problems/Foreign policy/ Relations with other nations",
+    3
+   ],
+   [
+    "Leadership",
+    1
+   ],
+   [
+    "Moral decline",
+    3
+   ],
+   [
+    "Nuclear war/Threat of war",
+    1
+   ],
+   [
+    "Other economic reason",
+    4
+   ],
+   [
+    "Other international problem",
+    1e-7
+   ],
+   [
+    "Other social/health problem",
+    1
+   ],
+   [
+    "Poverty/Hunger/Homeless",
+    11
+   ],
+   [
+    "Problems in the Middle East",
+    1e-7
+   ],
+   [
+    "Quality of education",
+    3
+   ],
+   [
+    "Race relations/Civil rights/Problems of blacks",
+    1
+   ],
+   [
+    "Taxes",
+    1
+   ],
+   [
+    "Trade deficit",
+    1
+   ],
+   [
+    "Defense/military spending",
+    1
+   ],
+   [
+    "Unemployment",
+    4
+   ],
+   [
+    "Other",
+    8
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31098905,
+  "qname": "R004",
+  "start": "03/22/1990",
+  "end": "03/26/1990",
+  "surveyBy": "Washington Post",
+  "conductedBy": null,
+  "study": "Washington Post Poll: March, 1990",
+  "text": "What would you say is the second most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "Abortion",
+    1
+   ],
+   [
+    "AIDS",
+    3
+   ],
+   [
+    "Alcohol",
+    1
+   ],
+   [
+    "Communism/Soviet Union",
+    1e-7
+   ],
+   [
+    "Crime",
+    4
+   ],
+   [
+    "Dissatisfaction with government",
+    1
+   ],
+   [
+    "Drugs",
+    11
+   ],
+   [
+    "Energy",
+    1e-7
+   ],
+   [
+    "Environment/pollution",
+    4
+   ],
+   [
+    "Federal budget deficit",
+    6
+   ],
+   [
+    "health care/health care system",
+    3
+   ],
+   [
+    "High interest rates",
+    1e-7
+   ],
+   [
+    "Illegal immigrants",
+    1
+   ],
+   [
+    "Inflation",
+    2
+   ],
+   [
+    "International problems/foreign policy/ relations with other nations",
+    5
+   ],
+   [
+    "Leadership",
+    1
+   ],
+   [
+    "Moral decline",
+    3
+   ],
+   [
+    "Nuclear war/threat of war",
+    2
+   ],
+   [
+    "Other economic reason",
+    3
+   ],
+   [
+    "Other international problem",
+    1e-7
+   ],
+   [
+    "Other social/health problem",
+    3
+   ],
+   [
+    "Poverty/hunger/homeless",
+    15
+   ],
+   [
+    "Problems in the Middle East",
+    1e-7
+   ],
+   [
+    "Quality of education",
+    4
+   ],
+   [
+    "Race relations/civil rights/problems of blacks",
+    1
+   ],
+   [
+    "Taxes",
+    2
+   ],
+   [
+    "Teen pregnancy",
+    1
+   ],
+   [
+    "Terrorism",
+    1e-7
+   ],
+   [
+    "Trade deficit",
+    2
+   ],
+   [
+    "Unemployment",
+    7
+   ],
+   [
+    "Defense/military spending",
+    1
+   ],
+   [
+    "Other",
+    10
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31088680,
+  "qname": "R01",
+  "start": "04/05/1990",
+  "end": "04/08/1990",
+  "surveyBy": "Gallup Organization",
+  "conductedBy": null,
+  "study": "Gallup News Service Survey # 1990-922007-W1: Environment/Abortion",
+  "text": "What do you think is the most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "Economy (general)",
+    7
+   ],
+   [
+    "Federal budget deficit/Failure to balance budget",
+    6
+   ],
+   [
+    "Unemployment",
+    3
+   ],
+   [
+    "Trade deficit/Trade relations/Balance of trade",
+    2
+   ],
+   [
+    "High cost of living/Inflation",
+    1
+   ],
+   [
+    "High cost of borrowing/Interest rates",
+    1e-7
+   ],
+   [
+    "Recession/Depression",
+    1e-7
+   ],
+   [
+    "Other specific economic problems",
+    3
+   ],
+   [
+    "Drugs/Drug abuse",
+    30
+   ],
+   [
+    "Poverty/Hunger/Homelessness",
+    11
+   ],
+   [
+    "Environment/Pollution",
+    8
+   ],
+   [
+    "Crime",
+    2
+   ],
+   [
+    "Quality of education",
+    1
+   ],
+   [
+    "Ethics in society/Moral decline",
+    1
+   ],
+   [
+    "Fear of war/Nuclear war",
+    1
+   ],
+   [
+    "International problems",
+    1
+   ],
+   [
+    "AIDS (Acquired Immune Deficiency Syndrome)",
+    1
+   ],
+   [
+    "Dissatisfaction with government",
+    1
+   ],
+   [
+    "Other non-economic problems",
+    11
+   ],
+   [
+    "Don't know",
+    9
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31097996,
+  "qname": "R101",
+  "start": "05/01/1990",
+  "end": "05/31/1990",
+  "surveyBy": "Times Mirror Center for the People & the Press",
+  "conductedBy": "Princeton Survey Research Associates",
+  "study": "Times Mirror Poll # 1990-PS0590: Spring 1990 Political Update",
+  "text": "What do you think is the most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "Federal deficit",
+    11
+   ],
+   [
+    "Homelessness",
+    8
+   ],
+   [
+    "Unemployment",
+    7
+   ],
+   [
+    "Economy (general)",
+    5
+   ],
+   [
+    "Poverty",
+    3
+   ],
+   [
+    "Inflation",
+    3
+   ],
+   [
+    "Housing",
+    2
+   ],
+   [
+    "Trade deficit",
+    1
+   ],
+   [
+    "Recession",
+    1e-7
+   ],
+   [
+    "Competitiveness",
+    1e-7
+   ],
+   [
+    "Interest rates",
+    1e-7
+   ],
+   [
+    "Drugs",
+    36
+   ],
+   [
+    "The environment",
+    8
+   ],
+   [
+    "Crime",
+    7
+   ],
+   [
+    "Education",
+    4
+   ],
+   [
+    "Health care",
+    2
+   ],
+   [
+    "AIDS",
+    2
+   ],
+   [
+    "Failure of government",
+    2
+   ],
+   [
+    "Hunger",
+    1
+   ],
+   [
+    "Abortion",
+    1
+   ],
+   [
+    "The military",
+    1
+   ],
+   [
+    "Alcoholism",
+    1
+   ],
+   [
+    "Social Security",
+    1e-7
+   ],
+   [
+    "Protect jobs",
+    1e-7
+   ],
+   [
+    "Moral failure",
+    3
+   ],
+   [
+    "Taxes",
+    3
+   ],
+   [
+    "Racial tensions",
+    2
+   ],
+   [
+    "The family",
+    2
+   ],
+   [
+    "The elderly",
+    2
+   ],
+   [
+    "Fear of war",
+    1
+   ],
+   [
+    "Welfare",
+    1
+   ],
+   [
+    "Rich get richer",
+    1
+   ],
+   [
+    "The Soviet Union",
+    1
+   ],
+   [
+    "The legal system",
+    1
+   ],
+   [
+    "Over population",
+    1e-7
+   ],
+   [
+    "Too much foreign aid",
+    3
+   ],
+   [
+    "the Hostages",
+    1
+   ],
+   [
+    "Japan",
+    1e-7
+   ],
+   [
+    "Eastern Europe",
+    1e-7
+   ],
+   [
+    "Germany",
+    1e-7
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31105231,
+  "qname": "RC3",
+  "start": "05/11/1990",
+  "end": "05/20/1990",
+  "surveyBy": "Associated Press/Media General",
+  "conductedBy": null,
+  "study": "Associated Press/Media General Poll: May 1990",
+  "text": "What do you think is the most important problem facing this country today? (Do not read list)",
+  "subpop": null,
+  "responses": [
+   [
+    "AIDS (Acquired Immune Deficiency Syndrome)",
+    1
+   ],
+   [
+    "Crime",
+    2
+   ],
+   [
+    "Drugs",
+    24
+   ],
+   [
+    "Economy",
+    8
+   ],
+   [
+    "Education",
+    3
+   ],
+   [
+    "Environment",
+    9
+   ],
+   [
+    "Federal deficit",
+    15
+   ],
+   [
+    "Homelessness",
+    5
+   ],
+   [
+    "Poverty",
+    4
+   ],
+   [
+    "Race relations",
+    2
+   ],
+   [
+    "Terrorism",
+    0
+   ],
+   [
+    "Unemployment",
+    4
+   ],
+   [
+    "War/Peace",
+    3
+   ],
+   [
+    "Other",
+    15
+   ],
+   [
+    "Don't know/No answer",
+    5
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31090756,
+  "qname": "R01",
+  "start": "05/30/1990",
+  "end": "06/02/1990",
+  "surveyBy": "CBS News",
+  "conductedBy": null,
+  "study": "CBS News Education Survey, June, 1990",
+  "text": "What do you think are the most important problems facing this country today? Anything else?",
+  "subpop": null,
+  "responses": [
+   [
+    "Drugs",
+    45
+   ],
+   [
+    "Homelessness",
+    16
+   ],
+   [
+    "Environment",
+    13
+   ],
+   [
+    "Budget deficit",
+    12
+   ],
+   [
+    "Economy",
+    11
+   ],
+   [
+    "Crime",
+    10
+   ],
+   [
+    "Unemployment",
+    9
+   ],
+   [
+    "Education",
+    8
+   ],
+   [
+    "Government",
+    6
+   ],
+   [
+    "High taxes",
+    5
+   ],
+   [
+    "AIDS",
+    5
+   ],
+   [
+    "Poverty",
+    5
+   ],
+   [
+    "Racism",
+    5
+   ],
+   [
+    "Morality",
+    5
+   ],
+   [
+    "War/Peace",
+    4
+   ],
+   [
+    "Other",
+    33
+   ],
+   [
+    "Don't know/No answer",
+    7
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31091349,
+  "qname": "R04",
+  "start": "08/16/1990",
+  "end": "08/19/1990",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times National Survey, August, 1990",
+  "text": "What do you think is the most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "Persian Gulf",
+    21
+   ],
+   [
+    "Economy",
+    10
+   ],
+   [
+    "Drugs",
+    10
+   ],
+   [
+    "Deficit",
+    8
+   ],
+   [
+    "Unemployment",
+    5
+   ],
+   [
+    "Homelessness",
+    4
+   ],
+   [
+    "Inflation",
+    3
+   ],
+   [
+    "Environment",
+    3
+   ],
+   [
+    "Foreign affairs",
+    2
+   ],
+   [
+    "War/Peace",
+    2
+   ],
+   [
+    "Education",
+    2
+   ],
+   [
+    "Ethics/Morality",
+    2
+   ],
+   [
+    "Other",
+    17
+   ],
+   [
+    "Don't know/No answer",
+    6
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31091349,
+  "qname": "R04",
+  "start": "08/16/1990",
+  "end": "08/19/1990",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times National Survey, August, 1990",
+  "text": "What do you think is the most important problem facing this country today?",
+  "subpop": "Registered voters (N=1,166)",
+  "responses": [
+   [
+    "Persian Gulf",
+    21
+   ],
+   [
+    "Economy",
+    10
+   ],
+   [
+    "Drugs",
+    9
+   ],
+   [
+    "Deficit",
+    8
+   ],
+   [
+    "Unemployment",
+    5
+   ],
+   [
+    "Homelessness",
+    4
+   ],
+   [
+    "Inflation",
+    3
+   ],
+   [
+    "Environment",
+    3
+   ],
+   [
+    "Foreign affairs",
+    2
+   ],
+   [
+    "War/Peace",
+    2
+   ],
+   [
+    "Education",
+    2
+   ],
+   [
+    "Ethics/Morality",
+    3
+   ],
+   [
+    "Other",
+    23
+   ],
+   [
+    "Don't know/No answer",
+    5
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31086723,
+  "qname": "R002",
+  "start": "09/06/1990",
+  "end": "09/09/1990",
+  "surveyBy": "ABC News/Washington Post",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News/The Washington Post Poll:  Omnibus-September,1990",
+  "text": "What do you think is the most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "Unemployment",
+    3
+   ],
+   [
+    "Federal budget deficit",
+    6
+   ],
+   [
+    "Taxes",
+    2
+   ],
+   [
+    "Inflation",
+    1
+   ],
+   [
+    "Trade deficit",
+    1
+   ],
+   [
+    "Other economic reason",
+    9
+   ],
+   [
+    "Crime",
+    3
+   ],
+   [
+    "Moral decline",
+    4
+   ],
+   [
+    "Health care/health care system Race relations/civil rights/problems",
+    1e-7
+   ],
+   [
+    "of blacks",
+    1
+   ],
+   [
+    "Quality of education",
+    3
+   ],
+   [
+    "Drugs",
+    16
+   ],
+   [
+    "Poverty/Hunger/Homeless",
+    4
+   ],
+   [
+    "Environment/Pollution",
+    2
+   ],
+   [
+    "Other social/health problems",
+    1
+   ],
+   [
+    "Abortion Iraq situation/Middle East situation/",
+    1e-7
+   ],
+   [
+    "Persian Gulf situation",
+    22
+   ],
+   [
+    "Nuclear war/threat of war International problems/foreign policy/",
+    2
+   ],
+   [
+    "relations with other nations",
+    1
+   ],
+   [
+    "Communism/Soviet Union",
+    1e-7
+   ],
+   [
+    "Other international problems",
+    1e-7
+   ],
+   [
+    "Terrorism",
+    1e-7
+   ],
+   [
+    "Dissatisfaction with government",
+    2
+   ],
+   [
+    "Bush",
+    1e-7
+   ],
+   [
+    "Energy",
+    1
+   ],
+   [
+    "Leadership",
+    1e-7
+   ],
+   [
+    "Other",
+    12
+   ],
+   [
+    "No opinion",
+    1e-7
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31088689,
+  "qname": "R11",
+  "start": "10/11/1990",
+  "end": "10/14/1990",
+  "surveyBy": "Gallup Organization",
+  "conductedBy": null,
+  "study": "Gallup News Service Survey:  The Middle East/Bush Job Performance",
+  "text": "What do you think is the most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "Economy",
+    10
+   ],
+   [
+    "Cost of living/Inflation",
+    1
+   ],
+   [
+    "Federal budget deficit/Failure to balance budget",
+    16
+   ],
+   [
+    "Trade deficit",
+    1
+   ],
+   [
+    "Unemployment",
+    3
+   ],
+   [
+    "Other economic",
+    2
+   ],
+   [
+    "Drugs/Drug abuse",
+    10
+   ],
+   [
+    "Crime",
+    2
+   ],
+   [
+    "Poverty/Homeless",
+    5
+   ],
+   [
+    "Environment",
+    2
+   ],
+   [
+    "Education",
+    2
+   ],
+   [
+    "Ethics/Morals",
+    4
+   ],
+   [
+    "Fear of war",
+    5
+   ],
+   [
+    "AIDS",
+    1
+   ],
+   [
+    "Dissatisfaction with government",
+    4
+   ],
+   [
+    "Non-economic",
+    4
+   ],
+   [
+    "Kuwait/Iraq",
+    10
+   ],
+   [
+    "Oil crisis/Fuel",
+    2
+   ],
+   [
+    "Medicare",
+    2
+   ],
+   [
+    "International",
+    5
+   ],
+   [
+    "Health care",
+    1
+   ],
+   [
+    "Recession",
+    1
+   ],
+   [
+    "Don't know",
+    5
+   ],
+   [
+    "Other",
+    2
+   ],
+   [
+    "None",
+    1
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31091355,
+  "qname": "R05",
+  "start": "10/28/1990",
+  "end": "10/31/1990",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  The Deficit, The Election and The Persian Gulf",
+  "text": "What do you think is the most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "Persian Gulf",
+    15
+   ],
+   [
+    "Economy",
+    12
+   ],
+   [
+    "Unemployment",
+    3
+   ],
+   [
+    "Inflation",
+    2
+   ],
+   [
+    "Deficit",
+    14
+   ],
+   [
+    "Drugs",
+    10
+   ],
+   [
+    "Spending and taxes",
+    6
+   ],
+   [
+    "Social problems",
+    10
+   ],
+   [
+    "Other",
+    19
+   ],
+   [
+    "Don't know/No answer",
+    4
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31088690,
+  "qname": "Q04",
+  "start": "11/01/1990",
+  "end": "11/04/1990",
+  "surveyBy": "Gallup Organization",
+  "conductedBy": null,
+  "study": "Gallup News Service Survey:  The Middle East/Religion",
+  "text": "What do you think is the most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "Economy (general)",
+    13
+   ],
+   [
+    "High cost of living/inflation",
+    2
+   ],
+   [
+    "Federal budget deficit/failure to balance budget",
+    12
+   ],
+   [
+    "Trade deficit/trade relations/balance of trade",
+    1
+   ],
+   [
+    "Unemployment",
+    3
+   ],
+   [
+    "Recession/depression",
+    1
+   ],
+   [
+    "Other specific economic problem",
+    1
+   ],
+   [
+    "Drugs/drug abuse",
+    8
+   ],
+   [
+    "Crime",
+    2
+   ],
+   [
+    "Poverty/hunger/homelessness",
+    5
+   ],
+   [
+    "Environment/pollution",
+    2
+   ],
+   [
+    "Quality of education",
+    2
+   ],
+   [
+    "Ethics in society/moral decline/greed",
+    7
+   ],
+   [
+    "Fear of war/nuclear war",
+    3
+   ],
+   [
+    "International problems",
+    1
+   ],
+   [
+    "AIDS",
+    1e-7
+   ],
+   [
+    "Dissatisfaction with government",
+    3
+   ],
+   [
+    "Other problems, non-economic",
+    5
+   ],
+   [
+    "Oil crisis/fuel/cost of oil",
+    2
+   ],
+   [
+    "Iraq and Kuwait/Middle East crisis/Persian Gulf crisis",
+    17
+   ],
+   [
+    "Medicare increases/senior citizen's insurance",
+    1
+   ],
+   [
+    "Health care/hospitals/cost of health care",
+    1
+   ],
+   [
+    "Taxes",
+    3
+   ],
+   [
+    "Other (specify)",
+    2
+   ],
+   [
+    "Don't know",
+    3
+   ],
+   [
+    "None",
+    1e-7
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31105146,
+  "qname": "R08",
+  "start": "11/05/1990",
+  "end": "11/06/1990",
+  "surveyBy": "ABC News",
+  "conductedBy": null,
+  "study": "ABC News Poll: November 1990",
+  "text": "What do you think is the most important problem facing this country today?",
+  "subpop": "Partial responses",
+  "responses": [
+   [
+    "Budget deficit",
+    18
+   ],
+   [
+    "Persian Gulf crisis",
+    19
+   ],
+   [
+    "Other economic issues",
+    18
+   ],
+   [
+    "Other social issues",
+    8
+   ],
+   [
+    "Drugs",
+    7
+   ],
+   [
+    "Taxes",
+    4
+   ],
+   [
+    "Other political issues",
+    3
+   ],
+   [
+    "Crime",
+    2
+   ],
+   [
+    "Environment",
+    2
+   ],
+   [
+    "Education",
+    2
+   ],
+   [
+    "Congress",
+    1
+   ],
+   [
+    "Other foreign issues",
+    2
+   ],
+   [
+    "Abortion",
+    1e-7
+   ],
+   [
+    "President",
+    1
+   ],
+   [
+    "Savings and Loan",
+    1e-7
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31105147,
+  "qname": "R11",
+  "start": "11/06/1990",
+  "end": "11/06/1990",
+  "surveyBy": "ABC News",
+  "conductedBy": null,
+  "study": "ABC News Poll: November 1990",
+  "text": "What do you think is the most important problem facing this country today?",
+  "subpop": "Partial responses",
+  "responses": [
+   [
+    "Budget deficit",
+    24
+   ],
+   [
+    "Persian Gulf crisis",
+    21
+   ],
+   [
+    "Other economic issues",
+    13
+   ],
+   [
+    "Other social issues",
+    9
+   ],
+   [
+    "Drugs",
+    7
+   ],
+   [
+    "Taxes",
+    3
+   ],
+   [
+    "Other political issues",
+    3
+   ],
+   [
+    "Crime",
+    2
+   ],
+   [
+    "Environment",
+    2
+   ],
+   [
+    "Education",
+    2
+   ],
+   [
+    "congress",
+    2
+   ],
+   [
+    "Other foreign issues",
+    1
+   ],
+   [
+    "Abortion",
+    1
+   ],
+   [
+    "President",
+    1
+   ],
+   [
+    "Savings and Loans",
+    1e-7
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31092941,
+  "qname": "R17",
+  "start": "12/08/1990",
+  "end": "12/12/1990",
+  "surveyBy": "Los Angeles Times",
+  "conductedBy": null,
+  "study": "Los Angeles Times Poll #239:  Second Annual Survey of Social, Economic and Political Indicators",
+  "text": "What do you think is the single most urgent problem facing this country today: crime or education, or the environment, or foreign trade, or government spending, or inflation, or the moral decline of society, or unemployment, or the fear of war, or what? Is there another one of those problems you consider almost as important?",
+  "subpop": null,
+  "responses": [
+   [
+    "Crime",
+    38
+   ],
+   [
+    "Education",
+    29
+   ],
+   [
+    "Environment",
+    12
+   ],
+   [
+    "Foreign trade",
+    4
+   ],
+   [
+    "Government spending",
+    28
+   ],
+   [
+    "Inflation",
+    13
+   ],
+   [
+    "Morals",
+    24
+   ],
+   [
+    "Unemployment",
+    16
+   ],
+   [
+    "War",
+    10
+   ],
+   [
+    "Other",
+    5
+   ],
+   [
+    "Not sure",
+    1
+   ],
+   [
+    "Refused",
+    1
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31088695,
+  "qname": "R04",
+  "start": "01/03/1991",
+  "end": "01/06/1991",
+  "surveyBy": "Gallup Organization",
+  "conductedBy": null,
+  "study": "Gallup News Service Poll: January Omnibus, Wave 1",
+  "text": "What do you think is the most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "Economy (general)",
+    15
+   ],
+   [
+    "High cost of living/inflation",
+    2
+   ],
+   [
+    "High cost of borrowing/interest rates",
+    1e-7
+   ],
+   [
+    "Federal budget deficit/failure to balance budget",
+    4
+   ],
+   [
+    "Trade deficit/trade relations/balance of trade",
+    1e-7
+   ],
+   [
+    "Unemployment",
+    4
+   ],
+   [
+    "Recession/depression",
+    3
+   ],
+   [
+    "Other specific economic problem",
+    1
+   ],
+   [
+    "Drugs/drug abuse",
+    9
+   ],
+   [
+    "Crime",
+    1
+   ],
+   [
+    "Poverty/hunger/homelessness",
+    6
+   ],
+   [
+    "Environment/pollution",
+    1
+   ],
+   [
+    "Quality of education",
+    2
+   ],
+   [
+    "Ethics in society/moral decline",
+    5
+   ],
+   [
+    "Fear of war/nuclear war",
+    4
+   ],
+   [
+    "International problems",
+    1
+   ],
+   [
+    "AIDS",
+    1e-7
+   ],
+   [
+    "Dissatisfaction with government",
+    3
+   ],
+   [
+    "Other problems, non-economic",
+    5
+   ],
+   [
+    "Oil crisis/fuel/cost of oil",
+    1e-7
+   ],
+   [
+    "Iraq and Kuwait/Middle east crisis/ Persian Gulf crisis",
+    25
+   ],
+   [
+    "Medicare increases/senior citizen's insurance",
+    1e-7
+   ],
+   [
+    "Health care/hospitals/cost of health care",
+    1
+   ],
+   [
+    "Taxes",
+    2
+   ],
+   [
+    "Other",
+    1
+   ],
+   [
+    "None",
+    1e-7
+   ],
+   [
+    "Don't know/Refused",
+    5
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31092942,
+  "qname": "R07",
+  "start": "01/08/1991",
+  "end": "01/12/1991",
+  "surveyBy": "Los Angeles Times",
+  "conductedBy": null,
+  "study": "Los Angeles Times Poll #240:  Bush Mid-Term Evaluation/Iraq Crisis",
+  "text": "What do you think is the most important problem facing this country today? Is it: the budget deficit, or crime, or the economy, or education, or the environment, or foreign trade, or the moral decline of society, or the threat of war in the Mideast, or unemployment, or what? Is there another one of those problems you consider almost as important? (Record up to two answers)",
+  "subpop": null,
+  "responses": [
+   [
+    "Deficit",
+    20
+   ],
+   [
+    "Crime",
+    20
+   ],
+   [
+    "Economy",
+    29
+   ],
+   [
+    "Education",
+    12
+   ],
+   [
+    "Environment",
+    7
+   ],
+   [
+    "Foreign trade",
+    2
+   ],
+   [
+    "Morals",
+    14
+   ],
+   [
+    "War",
+    67
+   ],
+   [
+    "Unemployment",
+    9
+   ],
+   [
+    "Other",
+    4
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31088699,
+  "qname": "R2",
+  "start": "01/30/1991",
+  "end": "02/02/1991",
+  "surveyBy": "Gallup Organization",
+  "conductedBy": null,
+  "study": "Gallup News Service Poll: February Omnibus, Wave 1",
+  "text": "What do you think is the most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "Economy in general",
+    16
+   ],
+   [
+    "Cost of living/Inflation",
+    1
+   ],
+   [
+    "Federal budget deficit/failure to balance",
+    6
+   ],
+   [
+    "Trade deficit",
+    1e-7
+   ],
+   [
+    "Unemployment",
+    5
+   ],
+   [
+    "Taxes",
+    1
+   ],
+   [
+    "Recession",
+    2
+   ],
+   [
+    "Other economic",
+    1
+   ],
+   [
+    "Drugs/drug abuse",
+    5
+   ],
+   [
+    "Crime",
+    1e-7
+   ],
+   [
+    "Poverty/Homeless",
+    6
+   ],
+   [
+    "Environment",
+    1
+   ],
+   [
+    "Education",
+    2
+   ],
+   [
+    "Ethics/Morals",
+    3
+   ],
+   [
+    "Fear of war",
+    3
+   ],
+   [
+    "Kuwait/Iraq/Middle East crisis/Gulf crisis/ The war",
+    37
+   ],
+   [
+    "AIDS",
+    1e-7
+   ],
+   [
+    "Dissatisfaction with government",
+    2
+   ],
+   [
+    "Oil crisis/Fuel",
+    1
+   ],
+   [
+    "Medicare",
+    1e-7
+   ],
+   [
+    "International",
+    1e-7
+   ],
+   [
+    "Health care",
+    1e-7
+   ],
+   [
+    "Other non-economic",
+    3
+   ],
+   [
+    "No opinion",
+    5
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31088699,
+  "qname": "R3",
+  "start": "01/30/1991",
+  "end": "02/02/1991",
+  "surveyBy": "Gallup Organization",
+  "conductedBy": null,
+  "study": "Gallup News Service Poll: February Omnibus, Wave 1",
+  "text": "What do you think is the next most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "Economy in general",
+    16
+   ],
+   [
+    "Federal budget deficit/failure to balance",
+    6
+   ],
+   [
+    "Recession/Depression",
+    5
+   ],
+   [
+    "Cost of living/Inflation",
+    3
+   ],
+   [
+    "Unemployment",
+    3
+   ],
+   [
+    "Interest rates/High cost of borrowing",
+    1
+   ],
+   [
+    "Taxes",
+    1
+   ],
+   [
+    "Trade deficit",
+    1
+   ],
+   [
+    "Other economic",
+    2
+   ],
+   [
+    "Kuwait/Iraq/Middle East crisis/Gulf crisis/ The war",
+    16
+   ],
+   [
+    "Poverty/Homeless/Hunger",
+    8
+   ],
+   [
+    "Drugs/Drug abuse",
+    5
+   ],
+   [
+    "Education",
+    4
+   ],
+   [
+    "Crime",
+    2
+   ],
+   [
+    "Environment/Pollution",
+    2
+   ],
+   [
+    "Ethics/Moral decline",
+    2
+   ],
+   [
+    "AIDS",
+    1
+   ],
+   [
+    "Cost of health care",
+    1
+   ],
+   [
+    "Dissatisfaction with government",
+    1
+   ],
+   [
+    "Fear of war/Nuclear war",
+    1
+   ],
+   [
+    "Oil crisis/Fuel/Cost of oil",
+    1
+   ],
+   [
+    "Other non-economic",
+    4
+   ],
+   [
+    "None",
+    2
+   ],
+   [
+    "No opinion",
+    12
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31086739,
+  "qname": "R01",
+  "start": "03/01/1991",
+  "end": "03/03/1991",
+  "surveyBy": "ABC News/Washington Post",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News/The Washington Post Poll:  Cease Fire",
+  "text": "What do you think is the most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "Unemployment",
+    7
+   ],
+   [
+    "Federal budget deficit",
+    8
+   ],
+   [
+    "Taxes",
+    1
+   ],
+   [
+    "Inflation",
+    4
+   ],
+   [
+    "High interest rates",
+    1e-7
+   ],
+   [
+    "Trade deficit",
+    1
+   ],
+   [
+    "Other economic reason",
+    12
+   ],
+   [
+    "Crime",
+    1
+   ],
+   [
+    "Moral decline",
+    3
+   ],
+   [
+    "Health care/health care system Race relations/civil rights/problems of",
+    1
+   ],
+   [
+    "blacks",
+    1
+   ],
+   [
+    "Quality of education",
+    3
+   ],
+   [
+    "Drugs",
+    11
+   ],
+   [
+    "Poverty/Hunger/Homeless",
+    9
+   ],
+   [
+    "Environment/Pollution",
+    4
+   ],
+   [
+    "Alcohol",
+    1e-7
+   ],
+   [
+    "Illegal immigrants",
+    1e-7
+   ],
+   [
+    "AIDS",
+    1
+   ],
+   [
+    "Other social/health problems",
+    2
+   ],
+   [
+    "Abortion Iraq situation/Middle East situation/Persian Gulf situation (formerly--problems in the",
+    1e-7
+   ],
+   [
+    "Middle East)",
+    13
+   ],
+   [
+    "Nuclear war/Threat of war International problems/Foreign policy/",
+    2
+   ],
+   [
+    "Relations with other nations",
+    1
+   ],
+   [
+    "Other international problems",
+    1e-7
+   ],
+   [
+    "Terrorism",
+    1e-7
+   ],
+   [
+    "Dissatisfaction with government",
+    1
+   ],
+   [
+    "Energy",
+    1e-7
+   ],
+   [
+    "Leadership",
+    1
+   ],
+   [
+    "Other",
+    13
+   ],
+   [
+    "No opinion",
+    1
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31091372,
+  "qname": "R08",
+  "start": "03/04/1991",
+  "end": "03/06/1991",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  March Omnibus Survey",
+  "text": "What do you think is the most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "Economy, general",
+    23
+   ],
+   [
+    "Jobs",
+    10
+   ],
+   [
+    "Other economy",
+    3
+   ],
+   [
+    "Drugs",
+    10
+   ],
+   [
+    "Mideast/Persian Gulf",
+    2
+   ],
+   [
+    "Other foreign policy",
+    5
+   ],
+   [
+    "Homelessness",
+    5
+   ],
+   [
+    "Education",
+    5
+   ],
+   [
+    "Other social problems",
+    7
+   ],
+   [
+    "Budget deficit",
+    7
+   ],
+   [
+    "Environment",
+    3
+   ],
+   [
+    "Crime",
+    3
+   ],
+   [
+    "Other",
+    10
+   ],
+   [
+    "Don't know/No answer",
+    7
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31088704,
+  "qname": "R1",
+  "start": "03/07/1991",
+  "end": "03/10/1991",
+  "surveyBy": "Gallup Organization",
+  "conductedBy": null,
+  "study": "Gallup News Service Survey # 1991-122020:  George Bush/Persian Gulf War/Elections",
+  "text": "What do you think is the most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "Economy in generally",
+    24
+   ],
+   [
+    "Cost of living/inflation",
+    2
+   ],
+   [
+    "Federal budget deficit/failure to balance",
+    8
+   ],
+   [
+    "Trade deficit",
+    1
+   ],
+   [
+    "Unemployment",
+    8
+   ],
+   [
+    "Taxes",
+    2
+   ],
+   [
+    "Recession",
+    4
+   ],
+   [
+    "Other economic",
+    1
+   ],
+   [
+    "Drugs/drug abuse",
+    11
+   ],
+   [
+    "Crime",
+    2
+   ],
+   [
+    "Poverty/homeless",
+    10
+   ],
+   [
+    "Environment",
+    2
+   ],
+   [
+    "Education",
+    2
+   ],
+   [
+    "Ethics/morals",
+    2
+   ],
+   [
+    "Fear of war",
+    2
+   ],
+   [
+    "Kuwait/Iraq/Middle East crisis/Gulf crisis/ the war",
+    4
+   ],
+   [
+    "AIDS",
+    1e-7
+   ],
+   [
+    "Dissatisfaction with government",
+    1e-7
+   ],
+   [
+    "Oil crisis/fuel",
+    1e-7
+   ],
+   [
+    "Medicare",
+    1
+   ],
+   [
+    "International",
+    1
+   ],
+   [
+    "Health care",
+    1
+   ],
+   [
+    "Other non-economic",
+    2
+   ],
+   [
+    "Racial tensions",
+    1
+   ],
+   [
+    "Other",
+    3
+   ],
+   [
+    "No opinion",
+    6
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31091356,
+  "qname": "R04",
+  "start": "04/01/1991",
+  "end": "04/03/1991",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  April Omnibus Survey",
+  "text": "What do you think is the most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "Economy, general",
+    20
+   ],
+   [
+    "Jobs",
+    12
+   ],
+   [
+    "Budget deficit",
+    4
+   ],
+   [
+    "Other economy",
+    5
+   ],
+   [
+    "Drugs",
+    11
+   ],
+   [
+    "Education",
+    5
+   ],
+   [
+    "Homelessness",
+    5
+   ],
+   [
+    "Poverty",
+    4
+   ],
+   [
+    "Crime",
+    4
+   ],
+   [
+    "Gulf war",
+    3
+   ],
+   [
+    "Other domestic problems",
+    13
+   ],
+   [
+    "Other foreign problems",
+    6
+   ],
+   [
+    "Don't know/No answer",
+    8
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31091356,
+  "qname": "R04A",
+  "start": "04/01/1991",
+  "end": "04/03/1991",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  April Omnibus Survey",
+  "text": "(Asked of respondents who named a most important problem facing this country today) Which political party do you think could do a better job of handling the problem you just mentioned--the Republican party or the Democratic party?",
+  "subpop": "Respondent named most important problem (92%)",
+  "responses": [
+   [
+    "Republican",
+    33
+   ],
+   [
+    "Democratic",
+    29
+   ],
+   [
+    "Both equal",
+    5
+   ],
+   [
+    "Neither",
+    17
+   ],
+   [
+    "Don't know/No answer",
+    16
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31088710,
+  "qname": "R1",
+  "start": "04/25/1991",
+  "end": "04/28/1991",
+  "surveyBy": "Gallup Organization",
+  "conductedBy": null,
+  "study": "Gallup News Service Poll: April Omnibus, Wave 4",
+  "text": "What do you think is the most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "Economy in general",
+    20
+   ],
+   [
+    "Cost of living/inflation",
+    2
+   ],
+   [
+    "Federal budget deficit/failure to balance",
+    6
+   ],
+   [
+    "Trade deficit",
+    1
+   ],
+   [
+    "Unemployment",
+    8
+   ],
+   [
+    "Taxes",
+    2
+   ],
+   [
+    "Recession",
+    2
+   ],
+   [
+    "Other economic",
+    1e-7
+   ],
+   [
+    "Drugs/drug abuse",
+    10
+   ],
+   [
+    "Crime",
+    2
+   ],
+   [
+    "Poverty/homeless",
+    13
+   ],
+   [
+    "Environment",
+    3
+   ],
+   [
+    "Education",
+    6
+   ],
+   [
+    "Ethics/morals",
+    4
+   ],
+   [
+    "Fear of war",
+    1
+   ],
+   [
+    "Kuwait/Iraq/Middle East crisis/Gulf crisis/ the war",
+    3
+   ],
+   [
+    "AIDS",
+    1
+   ],
+   [
+    "Dissatisfaction with government",
+    1
+   ],
+   [
+    "Oil crisis/fuel",
+    1e-7
+   ],
+   [
+    "Medicare",
+    2
+   ],
+   [
+    "International",
+    1
+   ],
+   [
+    "Health care",
+    1
+   ],
+   [
+    "Other non-economic",
+    4
+   ],
+   [
+    "No opinion",
+    7
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31092953,
+  "qname": "R06",
+  "start": "05/06/1991",
+  "end": "05/06/1991",
+  "surveyBy": "Los Angeles Times",
+  "conductedBy": null,
+  "study": "Los Angeles Times Poll: Dan Quayle's Presidential Qualifications and George Bush's Health",
+  "text": "What's the most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "Budget deficit",
+    6
+   ],
+   [
+    "Crime",
+    4
+   ],
+   [
+    "Drugs",
+    16
+   ],
+   [
+    "Economy",
+    19
+   ],
+   [
+    "Education",
+    4
+   ],
+   [
+    "Environment/Pollution",
+    4
+   ],
+   [
+    "Moral decline",
+    5
+   ],
+   [
+    "Mideast instability",
+    2
+   ],
+   [
+    "Unemployment",
+    9
+   ],
+   [
+    "Foreign relations",
+    1
+   ],
+   [
+    "Inflation",
+    1
+   ],
+   [
+    "Homelessness/Poverty",
+    7
+   ],
+   [
+    "Energy/Oil crisis",
+    1
+   ],
+   [
+    "Health care",
+    2
+   ],
+   [
+    "AIDS",
+    3
+   ],
+   [
+    "Other",
+    11
+   ],
+   [
+    "Not sure",
+    4
+   ],
+   [
+    "Refused",
+    1
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31088715,
+  "qname": "R03",
+  "start": "05/23/1991",
+  "end": "05/26/1991",
+  "surveyBy": "Gallup Organization",
+  "conductedBy": null,
+  "study": "Gallup News Service Poll: May Omnibus, Wave 4",
+  "text": "What do you think is the most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "Economy in general",
+    21
+   ],
+   [
+    "Cost of living/inflation",
+    2
+   ],
+   [
+    "Federal budget deficit/failure to balance",
+    6
+   ],
+   [
+    "Trade deficit",
+    1
+   ],
+   [
+    "Unemployment",
+    9
+   ],
+   [
+    "Taxes",
+    2
+   ],
+   [
+    "Recession/depression",
+    4
+   ],
+   [
+    "Other economic",
+    1
+   ],
+   [
+    "Drugs/drug abuse",
+    10
+   ],
+   [
+    "Crime",
+    3
+   ],
+   [
+    "Poverty/homeless",
+    12
+   ],
+   [
+    "Environment",
+    2
+   ],
+   [
+    "Education",
+    5
+   ],
+   [
+    "Ethics/morals",
+    4
+   ],
+   [
+    "Fear of war",
+    1
+   ],
+   [
+    "Kuwait/Iraq/Middle East crisis/Gulf crisis/ the war",
+    2
+   ],
+   [
+    "AIDS",
+    1
+   ],
+   [
+    "Dissatisfaction with government",
+    2
+   ],
+   [
+    "Medicare/seniors insurance",
+    1
+   ],
+   [
+    "International",
+    1e-7
+   ],
+   [
+    "Health care",
+    1
+   ],
+   [
+    "other non-economic",
+    5
+   ],
+   [
+    "No opinion",
+    6
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31091371,
+  "qname": "R04",
+  "start": "06/03/1991",
+  "end": "06/06/1991",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  June Omnibus Survey",
+  "text": "What do you think is the most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "Economy",
+    16
+   ],
+   [
+    "Unemployment",
+    12
+   ],
+   [
+    "Drugs",
+    8
+   ],
+   [
+    "Homelessness",
+    8
+   ],
+   [
+    "Budget deficit",
+    5
+   ],
+   [
+    "Education",
+    5
+   ],
+   [
+    "Poverty",
+    5
+   ],
+   [
+    "Health care",
+    4
+   ],
+   [
+    "High taxes",
+    2
+   ],
+   [
+    "Recession",
+    2
+   ],
+   [
+    "Trade deficit",
+    2
+   ],
+   [
+    "Foreign aid",
+    2
+   ],
+   [
+    "Foreign policy",
+    2
+   ],
+   [
+    "Environment",
+    2
+   ],
+   [
+    "Racial discrimination",
+    2
+   ],
+   [
+    "Crime",
+    2
+   ],
+   [
+    "Ethics/Morality",
+    2
+   ],
+   [
+    "Other",
+    12
+   ],
+   [
+    "Don't know/No answer",
+    7
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31092955,
+  "qname": "R07",
+  "start": "06/28/1991",
+  "end": "06/30/1991",
+  "surveyBy": "Los Angeles Times",
+  "conductedBy": null,
+  "study": "Los Angeles Times Poll #253:  Patriotism and Civil Liberties",
+  "text": "What's the most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "Budget deficit",
+    7
+   ],
+   [
+    "Crime",
+    5
+   ],
+   [
+    "Drugs",
+    10
+   ],
+   [
+    "Economy",
+    18
+   ],
+   [
+    "Education",
+    7
+   ],
+   [
+    "Environment/Pollution",
+    3
+   ],
+   [
+    "Foreign trade",
+    1
+   ],
+   [
+    "Moral decline",
+    7
+   ],
+   [
+    "Mideast instability",
+    1
+   ],
+   [
+    "Unemployment",
+    7
+   ],
+   [
+    "Foreign relations",
+    1
+   ],
+   [
+    "Inflation",
+    1
+   ],
+   [
+    "Homelessness/Poverty",
+    12
+   ],
+   [
+    "Health care",
+    4
+   ],
+   [
+    "AIDS",
+    2
+   ],
+   [
+    "Other",
+    12
+   ],
+   [
+    "Not sure",
+    3
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31088720,
+  "qname": "R04",
+  "start": "07/11/1991",
+  "end": "07/14/1991",
+  "surveyBy": "Gallup Organization",
+  "conductedBy": null,
+  "study": "Gallup News Service Poll: July Omnibus, Wave 2",
+  "text": "What do you think is the most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "Economy (general)",
+    16
+   ],
+   [
+    "High cost of living/Inflation",
+    1
+   ],
+   [
+    "High cost of borrowing/Interest rates",
+    1e-7
+   ],
+   [
+    "Federal budget deficit/Failure to balance budget",
+    6
+   ],
+   [
+    "Trade deficit/Trade relations/Balance of trade",
+    1
+   ],
+   [
+    "Unemployment",
+    8
+   ],
+   [
+    "Recession/Depression",
+    1
+   ],
+   [
+    "Other specific economic problem",
+    1
+   ],
+   [
+    "Drugs/Drug abuse",
+    13
+   ],
+   [
+    "Crime",
+    4
+   ],
+   [
+    "Poverty/Hunger/Homelessness",
+    10
+   ],
+   [
+    "Environment/Pollution",
+    2
+   ],
+   [
+    "Quality of education",
+    4
+   ],
+   [
+    "Ethics in society/Moral decline",
+    5
+   ],
+   [
+    "Fear of war/Nuclear war",
+    1
+   ],
+   [
+    "International problems",
+    1
+   ],
+   [
+    "AIDS",
+    1
+   ],
+   [
+    "Dissatisfaction with government",
+    2
+   ],
+   [
+    "Other problems, non-economic",
+    8
+   ],
+   [
+    "Oil crisis/Fuel/Cost of oil",
+    1e-7
+   ],
+   [
+    "Iraq and Kuwait/Middle East/Persian Gulf crisis",
+    1
+   ],
+   [
+    "Medicare increases/Senior citizen's insurance",
+    1
+   ],
+   [
+    "Health care/Hospitals/Cost of health care",
+    3
+   ],
+   [
+    "Taxes",
+    2
+   ],
+   [
+    "Other",
+    2
+   ],
+   [
+    "None",
+    1
+   ],
+   [
+    "Refused/Don't know",
+    5
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31091357,
+  "qname": "R05",
+  "start": "08/18/1991",
+  "end": "08/22/1991",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  Health Care",
+  "text": "What do you think is the most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "War, nuclear war",
+    1
+   ],
+   [
+    "Taxes",
+    1
+   ],
+   [
+    "Unemployment/jobs",
+    11
+   ],
+   [
+    "Economy",
+    20
+   ],
+   [
+    "Deficit",
+    5
+   ],
+   [
+    "Domestic affairs",
+    2
+   ],
+   [
+    "Inflation",
+    1
+   ],
+   [
+    "Recession",
+    2
+   ],
+   [
+    "Environment, acid rain",
+    2
+   ],
+   [
+    "Welfare",
+    1
+   ],
+   [
+    "Foreign affairs",
+    2
+   ],
+   [
+    "Foreign trade",
+    1
+   ],
+   [
+    "AIDS",
+    1
+   ],
+   [
+    "Elderly",
+    1
+   ],
+   [
+    "Health care",
+    5
+   ],
+   [
+    "Crime, violence",
+    2
+   ],
+   [
+    "Ethics",
+    2
+   ],
+   [
+    "Homelessness",
+    6
+   ],
+   [
+    "Education",
+    4
+   ],
+   [
+    "Hunger/poverty",
+    5
+   ],
+   [
+    "Drugs",
+    8
+   ],
+   [
+    "Government corruption",
+    1
+   ],
+   [
+    "Family",
+    1
+   ],
+   [
+    "Partisan politics",
+    1
+   ],
+   [
+    "Justice system",
+    1
+   ],
+   [
+    "Soviet Union",
+    1
+   ],
+   [
+    "Other",
+    1
+   ],
+   [
+    "Don't know/No answer",
+    7
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31092959,
+  "qname": "R06",
+  "start": "08/20/1991",
+  "end": "08/20/1991",
+  "surveyBy": "Los Angeles Times",
+  "conductedBy": null,
+  "study": "Los Angeles Times Poll #257:  The Soviet Leadership Crisis",
+  "text": "What's the most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "Budget Deficit",
+    5
+   ],
+   [
+    "Crime",
+    4
+   ],
+   [
+    "Drugs",
+    12
+   ],
+   [
+    "Economy",
+    21
+   ],
+   [
+    "Education",
+    4
+   ],
+   [
+    "Environment",
+    2
+   ],
+   [
+    "Moral Decline",
+    7
+   ],
+   [
+    "Mid-East Instability",
+    1
+   ],
+   [
+    "Unemployment",
+    7
+   ],
+   [
+    "Soviet Relations",
+    9
+   ],
+   [
+    "Foreign Relations",
+    2
+   ],
+   [
+    "Inflation",
+    1
+   ],
+   [
+    "Homelessness",
+    7
+   ],
+   [
+    "Health Care",
+    2
+   ],
+   [
+    "AIDS",
+    1
+   ],
+   [
+    "Other (Specify)",
+    9
+   ],
+   [
+    "Not Sure",
+    5
+   ],
+   [
+    "Refused",
+    1
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31098931,
+  "qname": "Q01",
+  "start": "08/29/1991",
+  "end": "09/01/1991",
+  "surveyBy": "Washington Post",
+  "conductedBy": null,
+  "study": "Washington Post Poll: Soviet Union",
+  "text": "What do you think is the most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "Abortion",
+    1e-7
+   ],
+   [
+    "AIDS",
+    2
+   ],
+   [
+    "Alcohol",
+    1e-7
+   ],
+   [
+    "Bush",
+    1e-7
+   ],
+   [
+    "Communism/Soviet Union",
+    1
+   ],
+   [
+    "Crime",
+    4
+   ],
+   [
+    "Dissatisfaction with government",
+    3
+   ],
+   [
+    "Drugs",
+    16
+   ],
+   [
+    "Environment/pollution",
+    3
+   ],
+   [
+    "Federal budget deficit",
+    7
+   ],
+   [
+    "Health care/health care system",
+    1
+   ],
+   [
+    "Illegal immigrants",
+    1e-7
+   ],
+   [
+    "Inflation",
+    2
+   ],
+   [
+    "International problems/foreign policy/relations with other nations",
+    3
+   ],
+   [
+    "Iraq situation/Middle East situation/Persian Gulf situation",
+    1e-7
+   ],
+   [
+    "Leadership",
+    1
+   ],
+   [
+    "Moral decline",
+    3
+   ],
+   [
+    "Nuclear war/threat of war",
+    2
+   ],
+   [
+    "Other economic reason",
+    6
+   ],
+   [
+    "Other social/health problems",
+    1
+   ],
+   [
+    "Poverty/hunger/homeless",
+    7
+   ],
+   [
+    "Quality of education",
+    3
+   ],
+   [
+    "Race relations/civil rights/problems of blacks",
+    1
+   ],
+   [
+    "Taxes",
+    2
+   ],
+   [
+    "Teen pregnancy",
+    2
+   ],
+   [
+    "Trade deficit",
+    1e-7
+   ],
+   [
+    "Unemployment",
+    8
+   ],
+   [
+    "Other",
+    15
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31094206,
+  "qname": "R06B",
+  "start": "09/05/1991",
+  "end": "09/13/1991",
+  "surveyBy": "The Council on Competitiveness",
+  "conductedBy": "Peter D. Hart Research Associates/American Viewpoint",
+  "study": "Competitiveness Survey, September, 1991",
+  "text": "Which of these (on this list) do you feel is the second most important economic problem (facing the country) today (other than the one you chose as most important)?",
+  "subpop": null,
+  "responses": [
+   [
+    "Inflation and the cost of living",
+    17
+   ],
+   [
+    "Unemployment and job opportunities",
+    19
+   ],
+   [
+    "The loss of key industries and America's technological leadership",
+    14
+   ],
+   [
+    "The federal budget deficit",
+    16
+   ],
+   [
+    "The trade deficit and foreign economic competition",
+    14
+   ],
+   [
+    "Federal taxes",
+    11
+   ],
+   [
+    "Other/None (vol.)",
+    1
+   ],
+   [
+    "Not sure",
+    2
+   ],
+   [
+    "No most important problem",
+    6
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31105456,
+  "qname": "R03",
+  "start": "09/05/1991",
+  "end": "09/08/1991",
+  "surveyBy": "Gallup Organization",
+  "conductedBy": null,
+  "study": "Gallup Organization Poll: September 1991",
+  "text": "What do you think is the most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "Economy",
+    16
+   ],
+   [
+    "Cost of living/Inflation",
+    1
+   ],
+   [
+    "Federal budget deficit/Failure to balance budget",
+    7
+   ],
+   [
+    "Recession",
+    2
+   ],
+   [
+    "Trade deficit",
+    1e-7
+   ],
+   [
+    "Unemployment",
+    11
+   ],
+   [
+    "Other economic",
+    1
+   ],
+   [
+    "Drugs",
+    12
+   ],
+   [
+    "Crime",
+    4
+   ],
+   [
+    "Poverty/Homeless",
+    12
+   ],
+   [
+    "Environment",
+    1
+   ],
+   [
+    "Education",
+    8
+   ],
+   [
+    "Ethics/Morals",
+    2
+   ],
+   [
+    "Fear of war",
+    1
+   ],
+   [
+    "AIDS",
+    1
+   ],
+   [
+    "Dissatisfaction with government",
+    1
+   ],
+   [
+    "Taxes",
+    1
+   ],
+   [
+    "Kuwait/Iraq",
+    1e-7
+   ],
+   [
+    "Oil crisis/Fuel",
+    1e-7
+   ],
+   [
+    "Medicare",
+    1
+   ],
+   [
+    "International",
+    2
+   ],
+   [
+    "Health care",
+    2
+   ],
+   [
+    "Other non-economic",
+    5
+   ],
+   [
+    "Don't know",
+    7
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31092960,
+  "qname": "R10",
+  "start": "09/21/1991",
+  "end": "09/25/1991",
+  "surveyBy": "Los Angeles Times",
+  "conductedBy": null,
+  "study": "Los Angeles Times Poll #259:  Judge Thomas, Race Relations and Ronald Reagan",
+  "text": "What's the most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "Budget deficit",
+    5
+   ],
+   [
+    "Crime",
+    4
+   ],
+   [
+    "Drugs",
+    13
+   ],
+   [
+    "Economy",
+    20
+   ],
+   [
+    "Education",
+    8
+   ],
+   [
+    "Environment",
+    3
+   ],
+   [
+    "Foreign trade",
+    1
+   ],
+   [
+    "Morality",
+    7
+   ],
+   [
+    "Mideast",
+    3
+   ],
+   [
+    "Unemployment Soviet relations",
+    9
+   ],
+   [
+    "Foreign relations",
+    2
+   ],
+   [
+    "Inflation",
+    2
+   ],
+   [
+    "Homelessness Energy",
+    9
+   ],
+   [
+    "Health care AIDS Quayle",
+    2
+   ],
+   [
+    "Other",
+    8
+   ],
+   [
+    "Not sure",
+    3
+   ],
+   [
+    "Refused",
+    1e-7
+   ],
+   [
+    "Race/relations",
+    1
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31091375,
+  "qname": "R04",
+  "start": "10/05/1991",
+  "end": "10/07/1991",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  Foreign Policy/Congressional Scandal",
+  "text": "What do you think is the most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "Unemployment",
+    20
+   ],
+   [
+    "Economy",
+    17
+   ],
+   [
+    "Education",
+    8
+   ],
+   [
+    "Drugs",
+    7
+   ],
+   [
+    "Homelessness",
+    7
+   ],
+   [
+    "Budget deficit",
+    4
+   ],
+   [
+    "Domestic affairs",
+    2
+   ],
+   [
+    "Foreign policy",
+    2
+   ],
+   [
+    "Poverty",
+    2
+   ],
+   [
+    "AIDS",
+    2
+   ],
+   [
+    "Health care",
+    2
+   ],
+   [
+    "Crime",
+    2
+   ],
+   [
+    "Ethic/Morality/Religion",
+    2
+   ],
+   [
+    "War/Peace/Nuclear threat",
+    2
+   ],
+   [
+    "Other",
+    15
+   ],
+   [
+    "Don't know/No answer",
+    6
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31086745,
+  "qname": "Q008",
+  "start": "10/15/1991",
+  "end": "10/20/1991",
+  "surveyBy": "ABC News/Washington Post",
+  "conductedBy": "Chilton Research Services",
+  "study": "Omnibus--October, 1991",
+  "text": "When it comes right down to it, do you think the federal government can or cannot significantly reduce that problem (the one you named as the most important problem facing this country today) in this country?",
+  "subpop": "Asked of those who named a problem (97%)",
+  "responses": [
+   [
+    "Can reduce",
+    82
+   ],
+   [
+    "Cannot reduce",
+    16
+   ],
+   [
+    "Don't know/No opinion",
+    2
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31086745,
+  "qname": "Q007",
+  "start": "10/15/1991",
+  "end": "10/20/1991",
+  "surveyBy": "ABC News/Washington Post",
+  "conductedBy": "Chilton Research Services",
+  "study": "Omnibus--October, 1991",
+  "text": "Who do you think is most responsible for doing something about this problem (the one you named as the most important problem facing this country today)? (If Government, ask:) Is that federal, state or local government?",
+  "subpop": "Asked of those who named a problem (97%)",
+  "responses": [
+   [
+    "Federal government",
+    11
+   ],
+   [
+    "State government",
+    5
+   ],
+   [
+    "Local government",
+    3
+   ],
+   [
+    "Government (unspecified)",
+    7
+   ],
+   [
+    "President",
+    28
+   ],
+   [
+    "Congress Other/Non-governmental/People themselves/",
+    13
+   ],
+   [
+    "Churches",
+    26
+   ],
+   [
+    "Don't know/No opinion",
+    6
+   ],
+   [
+    "No answer/Refused",
+    1
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31086745,
+  "qname": "Q011",
+  "start": "10/15/1991",
+  "end": "10/20/1991",
+  "surveyBy": "ABC News/Washington Post",
+  "conductedBy": "Chilton Research Services",
+  "study": "Omnibus--October, 1991",
+  "text": "What do you think is the third most important problem facing this country today?",
+  "subpop": "Asked of those who named a problem (97%)",
+  "responses": [
+   [
+    "Abortion",
+    1
+   ],
+   [
+    "AIDS",
+    2
+   ],
+   [
+    "Alcohol",
+    1e-7
+   ],
+   [
+    "Bush",
+    1e-7
+   ],
+   [
+    "Communism/Soviet Union",
+    1e-7
+   ],
+   [
+    "Crime",
+    7
+   ],
+   [
+    "Dissatisfaction with government",
+    2
+   ],
+   [
+    "Drugs",
+    7
+   ],
+   [
+    "Energy",
+    1e-7
+   ],
+   [
+    "Environment/Pollution",
+    4
+   ],
+   [
+    "Federal budget deficit",
+    2
+   ],
+   [
+    "Health care/Health care system",
+    6
+   ],
+   [
+    "High interest rates",
+    1e-7
+   ],
+   [
+    "Illegal immigrants",
+    1
+   ],
+   [
+    "Inflation International problems/Foreign policy/",
+    2
+   ],
+   [
+    "Relations with other nations Iraq situation/Middle East situation/Persian",
+    4
+   ],
+   [
+    "Gulf situation",
+    1
+   ],
+   [
+    "Leadership",
+    1
+   ],
+   [
+    "Moral decline",
+    3
+   ],
+   [
+    "Nuclear war/Threat of war",
+    1
+   ],
+   [
+    "Other economic reason",
+    4
+   ],
+   [
+    "Other international problem",
+    1e-7
+   ],
+   [
+    "Other social/health problem",
+    3
+   ],
+   [
+    "Poverty/Hunger/Homeless",
+    10
+   ],
+   [
+    "Quality of education",
+    8
+   ],
+   [
+    "Race relations/Civil rights/Problems of blacks",
+    3
+   ],
+   [
+    "Taxes",
+    2
+   ],
+   [
+    "Terrorism",
+    1e-7
+   ],
+   [
+    "Trade deficit",
+    1
+   ],
+   [
+    "Unemployment U.S. (United States) Senate/House of",
+    6
+   ],
+   [
+    "Representatives",
+    1e-7
+   ],
+   [
+    "Other",
+    13
+   ],
+   [
+    "Don't know/No opinion",
+    8
+   ],
+   [
+    "No answer/Refused",
+    1e-7
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31086745,
+  "qname": "Q006",
+  "start": "10/15/1991",
+  "end": "10/20/1991",
+  "surveyBy": "ABC News/Washington Post",
+  "conductedBy": "Chilton Research Services",
+  "study": "Omnibus--October, 1991",
+  "text": "Is progress being made on that problem (the one you named as the most important problem facing this country today) or not?",
+  "subpop": "Asked of those who named a problem (97%)",
+  "responses": [
+   [
+    "Yes",
+    18
+   ],
+   [
+    "No",
+    76
+   ],
+   [
+    "Staying about the same (vol.)",
+    3
+   ],
+   [
+    "Don't know/No opinion",
+    2
+   ],
+   [
+    "No answer/Refused",
+    1e-7
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31086745,
+  "qname": "Q009",
+  "start": "10/15/1991",
+  "end": "10/20/1991",
+  "surveyBy": "ABC News/Washington Post",
+  "conductedBy": "Chilton Research Services",
+  "study": "Omnibus--October, 1991",
+  "text": "What do you think is the second most important problem facing this country today?",
+  "subpop": "Asked of those who named a problem (97%)",
+  "responses": [
+   [
+    "Abortion",
+    1
+   ],
+   [
+    "AIDS",
+    2
+   ],
+   [
+    "Alcohol",
+    1e-7
+   ],
+   [
+    "Communism/Soviet Union",
+    1e-7
+   ],
+   [
+    "Crime",
+    7
+   ],
+   [
+    "Dissatisfaction with government",
+    1
+   ],
+   [
+    "Drugs",
+    10
+   ],
+   [
+    "Energy",
+    1e-7
+   ],
+   [
+    "Environment/Pollution",
+    3
+   ],
+   [
+    "Federal budget deficit",
+    3
+   ],
+   [
+    "Health care/Health care system",
+    6
+   ],
+   [
+    "High interest rates",
+    1e-7
+   ],
+   [
+    "Illegal immigrants",
+    1e-7
+   ],
+   [
+    "Inflation International problems/Foreign policy/",
+    2
+   ],
+   [
+    "Relations with other nations Iraq situation/Middle East situation/Persian",
+    3
+   ],
+   [
+    "Gulf situation",
+    1
+   ],
+   [
+    "Leadership",
+    1
+   ],
+   [
+    "Moral decline",
+    1
+   ],
+   [
+    "Nuclear war/Threat of war",
+    1
+   ],
+   [
+    "Other economic reason",
+    6
+   ],
+   [
+    "Other international problem",
+    1
+   ],
+   [
+    "Other social/health problem",
+    1
+   ],
+   [
+    "Poverty/Hunger/Homeless",
+    13
+   ],
+   [
+    "Quality of education",
+    7
+   ],
+   [
+    "Race relations/Civil rights/Problems of blacks",
+    2
+   ],
+   [
+    "Taxes",
+    2
+   ],
+   [
+    "Sexual harassment",
+    1e-7
+   ],
+   [
+    "Terrorism",
+    1e-7
+   ],
+   [
+    "Trade deficit",
+    1
+   ],
+   [
+    "Unemployment U.S. (United States) Senate/House of",
+    11
+   ],
+   [
+    "Representatives",
+    1e-7
+   ],
+   [
+    "Other",
+    8
+   ],
+   [
+    "Don't know/No opinion",
+    4
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31086745,
+  "qname": "Q005",
+  "start": "10/15/1991",
+  "end": "10/20/1991",
+  "surveyBy": "ABC News/Washington Post",
+  "conductedBy": "Chilton Research Services",
+  "study": "Omnibus--October, 1991",
+  "text": "What do you think is the most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "Abortion",
+    1
+   ],
+   [
+    "AIDS",
+    1
+   ],
+   [
+    "Bush",
+    1e-7
+   ],
+   [
+    "Communism/Soviet Union",
+    1e-7
+   ],
+   [
+    "Crime",
+    4
+   ],
+   [
+    "Dissatisfaction with government",
+    2
+   ],
+   [
+    "Drugs",
+    9
+   ],
+   [
+    "Environment/Pollution",
+    2
+   ],
+   [
+    "Federal budget deficit",
+    5
+   ],
+   [
+    "Health care/Health care system",
+    3
+   ],
+   [
+    "High interest rates",
+    1e-7
+   ],
+   [
+    "Illegal immigrants",
+    1e-7
+   ],
+   [
+    "Inflation International problems/Foreign policy/",
+    3
+   ],
+   [
+    "Relations with other nations Iraq situation/Middle East situation/Persian",
+    3
+   ],
+   [
+    "Gulf situation",
+    17
+   ],
+   [
+    "Leadership",
+    1
+   ],
+   [
+    "Moral decline",
+    2
+   ],
+   [
+    "Nuclear war/Threat of war",
+    1
+   ],
+   [
+    "Other economic reason",
+    13
+   ],
+   [
+    "Other international problem",
+    1
+   ],
+   [
+    "Other social/health problem",
+    1
+   ],
+   [
+    "Poverty/Hunger/Homeless",
+    12
+   ],
+   [
+    "Quality of education",
+    5
+   ],
+   [
+    "Race relations/Civil rights/Problems of blacks",
+    1
+   ],
+   [
+    "Taxes",
+    1
+   ],
+   [
+    "Sexual harassment",
+    1e-7
+   ],
+   [
+    "Terrorism",
+    1e-7
+   ],
+   [
+    "Trade deficit",
+    1
+   ],
+   [
+    "Unemployment U.S. (United States) Senate/House of",
+    19
+   ],
+   [
+    "Representatives",
+    1
+   ],
+   [
+    "Other",
+    9
+   ],
+   [
+    "Don't know/No opinion",
+    2
+   ],
+   [
+    "No answer/Refused",
+    1
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31091377,
+  "qname": "R06",
+  "start": "10/15/1991",
+  "end": "10/17/1991",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  Politics",
+  "text": "What do you think is the most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "Economy",
+    23
+   ],
+   [
+    "Unemployment",
+    16
+   ],
+   [
+    "Budget deficit",
+    5
+   ],
+   [
+    "Other economy",
+    3
+   ],
+   [
+    "Drugs",
+    8
+   ],
+   [
+    "Homelessness",
+    5
+   ],
+   [
+    "Education",
+    4
+   ],
+   [
+    "Ethics/Morality",
+    4
+   ],
+   [
+    "Government/Politics",
+    4
+   ],
+   [
+    "Crime",
+    3
+   ],
+   [
+    "Other domestic affairs",
+    10
+   ],
+   [
+    "Foreign affairs",
+    3
+   ],
+   [
+    "Other",
+    5
+   ],
+   [
+    "Don't know/No answer",
+    7
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31092963,
+  "qname": "R09",
+  "start": "11/21/1991",
+  "end": "11/24/1991",
+  "surveyBy": "Los Angeles Times",
+  "conductedBy": null,
+  "study": "Los Angeles Times Poll #263:  Presidential Politics and the Economy",
+  "text": "What's the most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "Budget deficit",
+    4
+   ],
+   [
+    "Crime",
+    4
+   ],
+   [
+    "Drugs",
+    9
+   ],
+   [
+    "Economy",
+    24
+   ],
+   [
+    "Education",
+    3
+   ],
+   [
+    "Environment/Pollution",
+    1
+   ],
+   [
+    "Foreign trade",
+    1
+   ],
+   [
+    "Moral decline",
+    8
+   ],
+   [
+    "Mid-East instability",
+    1
+   ],
+   [
+    "Unemployment",
+    13
+   ],
+   [
+    "Foreign relations",
+    1
+   ],
+   [
+    "Inflation/Cost of living",
+    2
+   ],
+   [
+    "Homelessness",
+    7
+   ],
+   [
+    "Health care",
+    3
+   ],
+   [
+    "AIDS",
+    3
+   ],
+   [
+    "Other",
+    12
+   ],
+   [
+    "Not sure",
+    4
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31088730,
+  "qname": "R02",
+  "start": "11/21/1991",
+  "end": "11/24/1991",
+  "surveyBy": "Gallup Organization",
+  "conductedBy": null,
+  "study": "Gallup News Service Poll: 50th Anniversary of Pearl Harbor",
+  "text": "What do you think is the most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "Economy in general",
+    32
+   ],
+   [
+    "Unemployment",
+    23
+   ],
+   [
+    "Recession/Depression",
+    5
+   ],
+   [
+    "Federal budget deficit/Failure to balance budget",
+    4
+   ],
+   [
+    "Trade deficit/Trade relations/Balance of trade",
+    4
+   ],
+   [
+    "Taxes",
+    3
+   ],
+   [
+    "High cost of living/Inflation",
+    3
+   ],
+   [
+    "High cost of borrowing/Interest rates",
+    1e-7
+   ],
+   [
+    "Other specific economic problems",
+    4
+   ],
+   [
+    "Poverty/Homelessness/Hunger",
+    16
+   ],
+   [
+    "Drugs/Drug abuse",
+    10
+   ],
+   [
+    "Crime",
+    6
+   ],
+   [
+    "Health care/Hospitals/Cost of health care",
+    6
+   ],
+   [
+    "Dissatisfaction with government",
+    5
+   ],
+   [
+    "AIDS",
+    5
+   ],
+   [
+    "Ethics is society/Moral decline",
+    4
+   ],
+   [
+    "Quality education",
+    4
+   ],
+   [
+    "Environment/Pollution",
+    3
+   ],
+   [
+    "International problems",
+    3
+   ],
+   [
+    "Medicare increases/Senior citizen's insurance",
+    2
+   ],
+   [
+    "Iraq and Kuwait/Middle East/Persian Gulf crisis",
+    2
+   ],
+   [
+    "Fear of war/Nuclear war",
+    1
+   ],
+   [
+    "Other problems--non-economic",
+    11
+   ],
+   [
+    "Other",
+    1
+   ],
+   [
+    "None",
+    1e-7
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31091387,
+  "qname": "R02",
+  "start": "01/06/1992",
+  "end": "01/08/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  January National Poll",
+  "text": "What do you think is the most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "Economy",
+    30
+   ],
+   [
+    "Unemployment",
+    19
+   ],
+   [
+    "Budget deficit",
+    4
+   ],
+   [
+    "Other economy",
+    10
+   ],
+   [
+    "Drugs",
+    4
+   ],
+   [
+    "Homeless",
+    4
+   ],
+   [
+    "Education",
+    2
+   ],
+   [
+    "Ethics/Morality",
+    1
+   ],
+   [
+    "Government/Politics",
+    1
+   ],
+   [
+    "Crime",
+    1
+   ],
+   [
+    "Other domestic affairs",
+    7
+   ],
+   [
+    "Foreign affairs",
+    2
+   ],
+   [
+    "Other",
+    6
+   ],
+   [
+    "Don't know/No answer",
+    9
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31091388,
+  "qname": "R15",
+  "start": "01/22/1992",
+  "end": "01/25/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  State of the Union Poll",
+  "text": "What do you think is the most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "Economy",
+    36
+   ],
+   [
+    "Unemployment/jobs",
+    15
+   ],
+   [
+    "Drugs",
+    5
+   ],
+   [
+    "Education",
+    4
+   ],
+   [
+    "Trade deficit",
+    3
+   ],
+   [
+    "Homelessness",
+    3
+   ],
+   [
+    "Health care/Insurance",
+    3
+   ],
+   [
+    "Ethics/Morality/Religion",
+    3
+   ],
+   [
+    "Budget deficit",
+    2
+   ],
+   [
+    "Recession",
+    2
+   ],
+   [
+    "Crime/Violence",
+    2
+   ],
+   [
+    "Other",
+    16
+   ],
+   [
+    "Don't know/No answer",
+    6
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31086752,
+  "qname": "R01",
+  "start": "01/30/1992",
+  "end": "02/02/1992",
+  "surveyBy": "ABC News/Washington Post",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News/The Washington Post Poll:  Omnibus - January, 1992",
+  "text": "What do you think is the most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "Unemployment",
+    26
+   ],
+   [
+    "Federal budget deficit",
+    6
+   ],
+   [
+    "Taxes",
+    2
+   ],
+   [
+    "Inflation",
+    4
+   ],
+   [
+    "High interest rates",
+    1e-7
+   ],
+   [
+    "Trade deficit",
+    1
+   ],
+   [
+    "Other economic reason",
+    18
+   ],
+   [
+    "Crime",
+    3
+   ],
+   [
+    "Moral decline",
+    2
+   ],
+   [
+    "Health care/Health care system",
+    3
+   ],
+   [
+    "Race relations/civil rights/problems of blacks",
+    1
+   ],
+   [
+    "Quality of education",
+    2
+   ],
+   [
+    "Drugs",
+    8
+   ],
+   [
+    "Poverty/Hunger/Homeless",
+    6
+   ],
+   [
+    "Teen pregnancy",
+    1e-7
+   ],
+   [
+    "Environment/Pollution",
+    1
+   ],
+   [
+    "Alcohol",
+    1
+   ],
+   [
+    "Illegal immigrants",
+    1e-7
+   ],
+   [
+    "AIDS",
+    3
+   ],
+   [
+    "Other social/health problems",
+    1
+   ],
+   [
+    "Abortion Iraq situation/Middle East situation/Persian",
+    1e-7
+   ],
+   [
+    "Gulf situation",
+    1e-7
+   ],
+   [
+    "Nuclear war/threat of war International problems/foreign policy/",
+    1e-7
+   ],
+   [
+    "relations with other nations",
+    1
+   ],
+   [
+    "communism/Soviet Union",
+    1e-7
+   ],
+   [
+    "Other international problems",
+    1e-7
+   ],
+   [
+    "Dissatisfaction with government",
+    1
+   ],
+   [
+    "Bush",
+    1e-7
+   ],
+   [
+    "Leadership",
+    1
+   ],
+   [
+    "U.S. Senate/House of Representatives",
+    1
+   ],
+   [
+    "Other",
+    7
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31092968,
+  "qname": "Q07",
+  "start": "01/31/1992",
+  "end": "02/03/1992",
+  "surveyBy": "Los Angeles Times",
+  "conductedBy": null,
+  "study": "Los Angeles Times Poll #268:  National Politics and the State of the Union",
+  "text": "What's the most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "Deficit",
+    4
+   ],
+   [
+    "Crime",
+    2
+   ],
+   [
+    "Drugs",
+    5
+   ],
+   [
+    "Economy",
+    35
+   ],
+   [
+    "Education",
+    4
+   ],
+   [
+    "Environment",
+    1
+   ],
+   [
+    "Foreign trade",
+    3
+   ],
+   [
+    "Bush's health",
+    1e-7
+   ],
+   [
+    "Morality",
+    5
+   ],
+   [
+    "Mideast",
+    1e-7
+   ],
+   [
+    "Unemployment",
+    17
+   ],
+   [
+    "Soviet relations",
+    1e-7
+   ],
+   [
+    "Foreign relations",
+    1
+   ],
+   [
+    "Inflation",
+    1
+   ],
+   [
+    "Homelessness",
+    6
+   ],
+   [
+    "Health care",
+    5
+   ],
+   [
+    "AIDS",
+    1
+   ],
+   [
+    "Quayle",
+    1e-7
+   ],
+   [
+    "Other",
+    8
+   ],
+   [
+    "Not sure",
+    2
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31105863,
+  "qname": "R02D",
+  "start": "03/16/1992",
+  "end": "03/19/1992",
+  "surveyBy": "Reader's Digest",
+  "conductedBy": "Wirthlin Group",
+  "study": "Reader's Digest Poll: March 1992",
+  "text": "The following is a list of possible causes for the crime problems we face in this country today. I'm going to read you a list of causes that some people think are to blame, and I'd like you to tell me which one you think is the least most important cause of crime in America today.",
+  "subpop": null,
+  "responses": [
+   [
+    "An unequal distribution of wealth",
+    42
+   ],
+   [
+    "A judicial system which lets most criminals go unpunished and unreformed",
+    16
+   ],
+   [
+    "A decline in moral standards in our society",
+    13
+   ],
+   [
+    "A lack of jobs and education opportunities for minorities and the underprivileged",
+    20
+   ],
+   [
+    "Other",
+    1e-7
+   ],
+   [
+    "Don't know/Refused",
+    9
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31105863,
+  "qname": "R02A",
+  "start": "03/16/1992",
+  "end": "03/19/1992",
+  "surveyBy": "Reader's Digest",
+  "conductedBy": "Wirthlin Group",
+  "study": "Reader's Digest Poll: March 1992",
+  "text": "The following is a list of possible causes for the crime problems we face in this country today. I'm going to read you a list of causes that some people think are to blame, and I'd like you to tell me which one you think is the most important cause of crime in America today.",
+  "subpop": null,
+  "responses": [
+   [
+    "An unequal distribution of wealth",
+    5
+   ],
+   [
+    "A judicial system which lets most criminals go unpunished and unreformed",
+    27
+   ],
+   [
+    "A decline in moral standards in our society",
+    37
+   ],
+   [
+    "A lack of jobs and education opportunities for minorities and the underprivileged",
+    26
+   ],
+   [
+    "Other",
+    2
+   ],
+   [
+    "Don't know/Refused",
+    3
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31105863,
+  "qname": "R02B",
+  "start": "03/16/1992",
+  "end": "03/19/1992",
+  "surveyBy": "Reader's Digest",
+  "conductedBy": "Wirthlin Group",
+  "study": "Reader's Digest Poll: March 1992",
+  "text": "The following is a list of possible causes for the crime problems we face in this country today. I'm going to read you a list of causes that some people think are to blame, and I'd like you to tell me which one you think is the second most important cause of crime in America today.",
+  "subpop": null,
+  "responses": [
+   [
+    "An unequal distribution of wealth",
+    13
+   ],
+   [
+    "A judicial system which lets most criminals go unpunished and unreformed",
+    30
+   ],
+   [
+    "A decline in moral standards in our society",
+    23
+   ],
+   [
+    "A lack of jobs and education opportunities for minorities and the underprivileged",
+    23
+   ],
+   [
+    "Other",
+    1e-7
+   ],
+   [
+    "Don't know/Refused",
+    10
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31105863,
+  "qname": "R02C",
+  "start": "03/16/1992",
+  "end": "03/19/1992",
+  "surveyBy": "Reader's Digest",
+  "conductedBy": "Wirthlin Group",
+  "study": "Reader's Digest Poll: March 1992",
+  "text": "The following is a list of possible causes for the crime problems we face in this country today. I'm going to read you a list of causes that some people think are to blame, and I'd like you to tell me which one you think is the third most important cause of crime in America today.",
+  "subpop": null,
+  "responses": [
+   [
+    "An unequal distribution of wealth",
+    29
+   ],
+   [
+    "A judicial system which lets most criminals go unpunished and unreformed",
+    18
+   ],
+   [
+    "A decline in moral standards in our society",
+    18
+   ],
+   [
+    "A lack of jobs and education opportunities for minorities and the underprivileged",
+    22
+   ],
+   [
+    "Don't know/Refused",
+    13
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31088736,
+  "qname": "R1",
+  "start": "03/26/1992",
+  "end": "03/29/1992",
+  "surveyBy": "Gallup Organization",
+  "conductedBy": null,
+  "study": "Gallup News Service Survey:  March Omnibus",
+  "text": "What do you think is the most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "Economy in general",
+    42
+   ],
+   [
+    "Unemployment",
+    25
+   ],
+   [
+    "Federal budget deficit",
+    8
+   ],
+   [
+    "Taxes",
+    6
+   ],
+   [
+    "Recession",
+    3
+   ],
+   [
+    "Trade deficit",
+    4
+   ],
+   [
+    "Poverty/Homelessness",
+    15
+   ],
+   [
+    "Health care",
+    12
+   ],
+   [
+    "Drugs",
+    8
+   ],
+   [
+    "Dissatisfaction with government",
+    8
+   ],
+   [
+    "Education quality",
+    8
+   ],
+   [
+    "Crime",
+    5
+   ],
+   [
+    "Ethics/Moral decline",
+    5
+   ],
+   [
+    "AIDS",
+    3
+   ],
+   [
+    "Environment",
+    3
+   ],
+   [
+    "International problems",
+    3
+   ],
+   [
+    "No opinion",
+    2
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31088738,
+  "qname": "Q07B",
+  "start": "05/07/1992",
+  "end": "05/10/1992",
+  "surveyBy": "Gallup Organization",
+  "conductedBy": null,
+  "study": "Gallup News Service Survey:  May Omnibus, Wave 1",
+  "text": "What do you think is the most important problem facing this country today? (Second Mention)",
+  "subpop": "Respondents who had a second mention (49%).",
+  "responses": [
+   [
+    "Economy (general)",
+    14
+   ],
+   [
+    "High cost of living/inflation",
+    1
+   ],
+   [
+    "Federal budget deficit/Failure to balance budget",
+    3
+   ],
+   [
+    "Trade deficit/trade relations/balance of trade",
+    4
+   ],
+   [
+    "Unemployment",
+    12
+   ],
+   [
+    "Recession/depression",
+    1
+   ],
+   [
+    "Drugs/drug abuse",
+    6
+   ],
+   [
+    "Crime",
+    6
+   ],
+   [
+    "Poverty/hunger/homelessness",
+    10
+   ],
+   [
+    "Environment/pollution",
+    2
+   ],
+   [
+    "Quality of education",
+    7
+   ],
+   [
+    "Ethics in society/moral decline",
+    3
+   ],
+   [
+    "Fear of war/nuclear war",
+    1
+   ],
+   [
+    "International problems",
+    1
+   ],
+   [
+    "AIDS",
+    1e-7
+   ],
+   [
+    "Dissatisfaction with government",
+    4
+   ],
+   [
+    "Other problems, non-economic",
+    7
+   ],
+   [
+    "Medicare increases/Senior citizen's insurance",
+    1
+   ],
+   [
+    "Health care/Hospitals/Cost of health care",
+    5
+   ],
+   [
+    "Taxes",
+    3
+   ],
+   [
+    "Racial problems/Racial unrest",
+    9
+   ],
+   [
+    "Other",
+    1e-7
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31088738,
+  "qname": "Q07C",
+  "start": "05/07/1992",
+  "end": "05/10/1992",
+  "surveyBy": "Gallup Organization",
+  "conductedBy": null,
+  "study": "Gallup News Service Survey:  May Omnibus, Wave 1",
+  "text": "What do you think is the most important problem facing this country today? (Third Mention)",
+  "subpop": "Respondents who had a third mention (27%)",
+  "responses": [
+   [
+    "Economy (general)",
+    7
+   ],
+   [
+    "High cost of living/inflation",
+    1
+   ],
+   [
+    "Federal budget deficit/Failure to balance budget",
+    1
+   ],
+   [
+    "Trade deficit/trade relations/balance of trade",
+    5
+   ],
+   [
+    "Unemployment",
+    8
+   ],
+   [
+    "Recession/Depression",
+    1e-7
+   ],
+   [
+    "Other specific economic problem",
+    1e-7
+   ],
+   [
+    "Drugs/drug abuse",
+    4
+   ],
+   [
+    "Crime",
+    2
+   ],
+   [
+    "Poverty/hunger/homelessness",
+    12
+   ],
+   [
+    "Environment/pollution",
+    3
+   ],
+   [
+    "Quality of education",
+    6
+   ],
+   [
+    "Ethics in society/moral decline",
+    5
+   ],
+   [
+    "Fear of war/nuclear war",
+    1
+   ],
+   [
+    "International problems",
+    1
+   ],
+   [
+    "Dissatisfaction with government",
+    9
+   ],
+   [
+    "Other problems, non-economic",
+    13
+   ],
+   [
+    "Iraq and Kuwait/Middle East/Persian Gulf crisis",
+    1e-7
+   ],
+   [
+    "Medicare increases/Senior citizen's insurance",
+    2
+   ],
+   [
+    "Health care/Hospitals/Cost of health care",
+    11
+   ],
+   [
+    "Taxes",
+    2
+   ],
+   [
+    "Racial problems/Racial unrest",
+    7
+   ],
+   [
+    "Other",
+    1
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31088738,
+  "qname": "Q07A",
+  "start": "05/07/1992",
+  "end": "05/10/1992",
+  "surveyBy": "Gallup Organization",
+  "conductedBy": null,
+  "study": "Gallup News Service Survey:  May Omnibus, Wave 1",
+  "text": "What do you think is the most important problem facing this country today? (First Mention)",
+  "subpop": null,
+  "responses": [
+   [
+    "Economy (general)",
+    20
+   ],
+   [
+    "High cost of living/inflation",
+    1e-7
+   ],
+   [
+    "Federal budget deficit/Failure to balance budget",
+    4
+   ],
+   [
+    "Trade deficit/trade relations/balance of trade",
+    2
+   ],
+   [
+    "Unemployment",
+    13
+   ],
+   [
+    "Recession/depression",
+    1
+   ],
+   [
+    "Other specific economic problem",
+    1
+   ],
+   [
+    "Drugs/drug abuse",
+    2
+   ],
+   [
+    "Crime",
+    4
+   ],
+   [
+    "Poverty/hunger/homelessness",
+    7
+   ],
+   [
+    "Environment/pollution",
+    1
+   ],
+   [
+    "Quality of education",
+    3
+   ],
+   [
+    "Ethics in society/moral decline",
+    4
+   ],
+   [
+    "Fear of war/nuclear war",
+    1e-7
+   ],
+   [
+    "International problems",
+    1
+   ],
+   [
+    "AIDS",
+    1
+   ],
+   [
+    "Dissatisfaction with government",
+    3
+   ],
+   [
+    "Other problems, non-economic",
+    4
+   ],
+   [
+    "Iraq and Kuwait/Middle East/Persian Gulf crisis",
+    1e-7
+   ],
+   [
+    "Medicare increases/Senior citizen's insurance",
+    1
+   ],
+   [
+    "Health care/Hospitals/Cost of health care",
+    2
+   ],
+   [
+    "Taxes",
+    1
+   ],
+   [
+    "Racial problems/Racial unrest",
+    9
+   ],
+   [
+    "Other",
+    16
+   ],
+   [
+    "None",
+    1e-7
+   ],
+   [
+    "Don't know",
+    2
+   ],
+   [
+    "Refused",
+    1e-7
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31086756,
+  "qname": "Q01",
+  "start": "05/08/1992",
+  "end": "05/11/1992",
+  "surveyBy": "ABC News/Washington Post",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News/The Washington Post Poll:  Race Relations",
+  "text": "What do you think is the most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "Abortion",
+    1e-7
+   ],
+   [
+    "AIDS",
+    3
+   ],
+   [
+    "Alcohol",
+    1e-7
+   ],
+   [
+    "Bush",
+    1e-7
+   ],
+   [
+    "Communism/Soviet Union",
+    1e-7
+   ],
+   [
+    "Crime",
+    5
+   ],
+   [
+    "Dissatisfaction with government",
+    5
+   ],
+   [
+    "Drugs",
+    9
+   ],
+   [
+    "Environment/Pollution",
+    1
+   ],
+   [
+    "Federal budget deficit",
+    6
+   ],
+   [
+    "Health care/Health care system",
+    3
+   ],
+   [
+    "Inflation International problems/Foreign policy/Relations",
+    2
+   ],
+   [
+    "with other nations",
+    1
+   ],
+   [
+    "Leadership",
+    1
+   ],
+   [
+    "Moral decline",
+    4
+   ],
+   [
+    "Nuclear war/Threat of war",
+    1e-7
+   ],
+   [
+    "Other economic reason",
+    10
+   ],
+   [
+    "Other international problem",
+    1e-7
+   ],
+   [
+    "Other social/health problem",
+    3
+   ],
+   [
+    "Poverty/Hunger/Homeless",
+    6
+   ],
+   [
+    "Quality of education",
+    3
+   ],
+   [
+    "Race relations/Civil rights/Problems of blacks",
+    7
+   ],
+   [
+    "Taxes",
+    1
+   ],
+   [
+    "Teen pregnancy",
+    1e-7
+   ],
+   [
+    "Trade deficit",
+    1e-7
+   ],
+   [
+    "Unemployment U.S. (United States) Senate/House of",
+    16
+   ],
+   [
+    "Representatives",
+    1e-7
+   ],
+   [
+    "Other",
+    10
+   ],
+   [
+    "Don't know/No opinion",
+    2
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31105845,
+  "qname": "R01",
+  "start": "05/11/1992",
+  "end": "05/12/1992",
+  "surveyBy": "Washington Post",
+  "conductedBy": null,
+  "study": "Washington Post Poll: May 1992",
+  "text": "What do you think is the most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "Unemployment",
+    16
+   ],
+   [
+    "Federal budget deficit",
+    6
+   ],
+   [
+    "Taxes",
+    1
+   ],
+   [
+    "Inflation",
+    2
+   ],
+   [
+    "Trade deficit",
+    1e-7
+   ],
+   [
+    "Other economic reason",
+    10
+   ],
+   [
+    "Crime",
+    5
+   ],
+   [
+    "Moral decline",
+    4
+   ],
+   [
+    "Health care/health care system",
+    3
+   ],
+   [
+    "Race relations/civil rights/problems of blacks",
+    7
+   ],
+   [
+    "Quality of education",
+    3
+   ],
+   [
+    "Drugs",
+    9
+   ],
+   [
+    "Poverty/Hunger/Homeless",
+    6
+   ],
+   [
+    "Teen pregnancy",
+    1e-7
+   ],
+   [
+    "Environment/Pollution",
+    1
+   ],
+   [
+    "Alcohol",
+    1e-7
+   ],
+   [
+    "AIDS",
+    3
+   ],
+   [
+    "Other social/health problems",
+    3
+   ],
+   [
+    "Abortion",
+    1
+   ],
+   [
+    "Nuclear war/threat of war",
+    1e-7
+   ],
+   [
+    "International problems/foreign policy/ relations with other nations",
+    1
+   ],
+   [
+    "Communism/Soviet Union",
+    1e-7
+   ],
+   [
+    "Other international problems",
+    1e-7
+   ],
+   [
+    "Dissatisfaction with government",
+    5
+   ],
+   [
+    "Bush",
+    1
+   ],
+   [
+    "Leadership",
+    1
+   ],
+   [
+    "U.S. (United States) Senate/House of Representatives",
+    1e-7
+   ],
+   [
+    "Other",
+    10
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31091389,
+  "qname": "R43",
+  "start": "07/08/1992",
+  "end": "07/11/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  July National Poll",
+  "text": "What do you think is the most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "Economy",
+    34
+   ],
+   [
+    "Unemployment",
+    20
+   ],
+   [
+    "Deficit",
+    5
+   ],
+   [
+    "Poverty",
+    4
+   ],
+   [
+    "Family breakdown",
+    4
+   ],
+   [
+    "Education",
+    3
+   ],
+   [
+    "Homelessness",
+    3
+   ],
+   [
+    "Health care/insurance",
+    2
+   ],
+   [
+    "Racial discrimination",
+    2
+   ],
+   [
+    "Other",
+    20
+   ],
+   [
+    "Don't know/No answer",
+    3
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31088130,
+  "qname": "Q04A",
+  "start": "08/28/1992",
+  "end": "09/02/1992",
+  "surveyBy": "Cable News Network (CNN)/Knight Ridder",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/CNN/Knight Ridder Poll:  Town Meeting Study",
+  "text": "What do you think is the most important problem facing this country today? (First Mention)",
+  "subpop": null,
+  "responses": [
+   [
+    "Economy (general)",
+    31
+   ],
+   [
+    "High cost of living/inflation",
+    1
+   ],
+   [
+    "High cost of borrowing/interest rates",
+    1e-7
+   ],
+   [
+    "Federal budget deficit/failure to balance budget",
+    5
+   ],
+   [
+    "Trade deficit/trade relations/balance of trade",
+    1
+   ],
+   [
+    "Unemployment",
+    18
+   ],
+   [
+    "Recession/depression",
+    1
+   ],
+   [
+    "Other specific economic problems",
+    1
+   ],
+   [
+    "Drugs/drug abuse",
+    3
+   ],
+   [
+    "Crime",
+    2
+   ],
+   [
+    "Poverty/hunger/homelessness",
+    6
+   ],
+   [
+    "Environment/pollution",
+    1
+   ],
+   [
+    "Education/Schools",
+    4
+   ],
+   [
+    "Ethics in society/moral decline",
+    4
+   ],
+   [
+    "Fear of war/nuclear war",
+    1
+   ],
+   [
+    "International problems",
+    1
+   ],
+   [
+    "AIDS",
+    1
+   ],
+   [
+    "Dissatisfaction with government",
+    5
+   ],
+   [
+    "Iraq/Persian Gulf/Saddam Hussein",
+    1
+   ],
+   [
+    "Medicare increases/senior citizen's insurance",
+    1e-7
+   ],
+   [
+    "Health care/hospitals/cost of health care",
+    3
+   ],
+   [
+    "Taxes",
+    1
+   ],
+   [
+    "Too much time/money spent overseas/take care of America first",
+    2
+   ],
+   [
+    "Abortion",
+    1
+   ],
+   [
+    "Other",
+    7
+   ],
+   [
+    "Don't know",
+    3
+   ],
+   [
+    "None",
+    1e-7
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31088130,
+  "qname": "Q04B",
+  "start": "08/28/1992",
+  "end": "09/02/1992",
+  "surveyBy": "Cable News Network (CNN)/Knight Ridder",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/CNN/Knight Ridder Poll:  Town Meeting Study",
+  "text": "What do you think is the most important problem facing this country today? (Second Mention)",
+  "subpop": null,
+  "responses": [
+   [
+    "Economy (general)",
+    4
+   ],
+   [
+    "High cost of living/inflation",
+    1
+   ],
+   [
+    "Federal budget deficit/failure to balance budget",
+    3
+   ],
+   [
+    "Trade deficit/trade relations/balance of trade",
+    1
+   ],
+   [
+    "Unemployment",
+    8
+   ],
+   [
+    "Recession/depression",
+    1e-7
+   ],
+   [
+    "Other specific economic problems",
+    1
+   ],
+   [
+    "Drugs/drug abuse",
+    2
+   ],
+   [
+    "Crime",
+    4
+   ],
+   [
+    "Poverty/hunger/homelessness",
+    4
+   ],
+   [
+    "Environment/pollution",
+    1
+   ],
+   [
+    "Education/Schools",
+    4
+   ],
+   [
+    "Ethics in society/moral decline",
+    2
+   ],
+   [
+    "Fear of war/nuclear war",
+    1e-7
+   ],
+   [
+    "International problems",
+    1
+   ],
+   [
+    "AIDS",
+    1
+   ],
+   [
+    "Dissatisfaction with government",
+    1
+   ],
+   [
+    "Iraq/Persian Gulf/Saddam Hussein",
+    1
+   ],
+   [
+    "Medicare increases/senior citizen's insurance",
+    1
+   ],
+   [
+    "Health care/hospitals/cost of health care",
+    5
+   ],
+   [
+    "Taxes",
+    2
+   ],
+   [
+    "Too much time/money spent overseas/take care of America first",
+    1
+   ],
+   [
+    "Abortion",
+    2
+   ],
+   [
+    "Other",
+    7
+   ],
+   [
+    "Not asked, no first mention, asked no second mention",
+    44
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31088130,
+  "qname": "R1",
+  "start": "08/28/1992",
+  "end": "09/02/1992",
+  "surveyBy": "Cable News Network (CNN)/Knight Ridder",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/CNN/Knight Ridder Poll:  Town Meeting Study",
+  "text": "What do you think is the most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "Economy (general)",
+    37
+   ],
+   [
+    "Unemployment",
+    27
+   ],
+   [
+    "Federal budget deficit/failure to balance",
+    9
+   ],
+   [
+    "Trade deficit",
+    2
+   ],
+   [
+    "Cost of living/inflation",
+    2
+   ],
+   [
+    "Recession/depression",
+    1
+   ],
+   [
+    "Cost of borrowing/high interest rates",
+    1e-7
+   ],
+   [
+    "Other specific economic",
+    3
+   ],
+   [
+    "Poverty/hunger/homelessness",
+    13
+   ],
+   [
+    "Health care/hospitals/high cost of health care",
+    12
+   ],
+   [
+    "Education/schools",
+    10
+   ],
+   [
+    "Crime",
+    7
+   ],
+   [
+    "Dissatisfaction with government",
+    7
+   ],
+   [
+    "Ethics/moral decline",
+    6
+   ],
+   [
+    "Drugs/drug abuse",
+    6
+   ],
+   [
+    "Taxes",
+    3
+   ],
+   [
+    "Environment/pollution",
+    3
+   ],
+   [
+    "Too much time/money spent overseas/America first",
+    3
+   ],
+   [
+    "Abortion",
+    3
+   ],
+   [
+    "International problems",
+    3
+   ],
+   [
+    "Medicare increases/senior citizens' insurance",
+    2
+   ],
+   [
+    "Kuwait/Iraq/Middle East crisis/Gulf crisis/ The war/Saddam Hussein",
+    2
+   ],
+   [
+    "AIDS",
+    1
+   ],
+   [
+    "Fear of war/nuclear war",
+    1
+   ],
+   [
+    "Other specific non-economic",
+    16
+   ],
+   [
+    "None/No opinion",
+    3
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31088172,
+  "qname": "Q11B",
+  "start": "01/08/1993",
+  "end": "01/11/1993",
+  "surveyBy": "Cable News Network (CNN)/USA Today",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/CNN/USA Today Poll:  Bush Review/The State of the Nation",
+  "text": "What do you think is the most important problem facing this country today? Second response",
+  "subpop": "Only respondents with a second response (41%)",
+  "responses": [
+   [
+    "Economy (general)",
+    9
+   ],
+   [
+    "High cost of living/inflation",
+    1e-7
+   ],
+   [
+    "High cost of borrowing/interest rates",
+    1e-7
+   ],
+   [
+    "Federal budget deficit/ Failure to balance budget",
+    3
+   ],
+   [
+    "Trade deficit/Trade relations/ Balance of trade",
+    2
+   ],
+   [
+    "Unemployment",
+    12
+   ],
+   [
+    "Recession/Depression",
+    1e-7
+   ],
+   [
+    "Other specific economic problem",
+    3
+   ],
+   [
+    "Drugs/Drug abuse",
+    4
+   ],
+   [
+    "Crime",
+    6
+   ],
+   [
+    "Poverty/Hunger/Homelessness",
+    10
+   ],
+   [
+    "Environment/Pollution",
+    3
+   ],
+   [
+    "Quality of education",
+    5
+   ],
+   [
+    "Ethics in society/moral decline",
+    3
+   ],
+   [
+    "Fear of war/nuclear war",
+    1
+   ],
+   [
+    "International problems",
+    4
+   ],
+   [
+    "AIDS",
+    1
+   ],
+   [
+    "Dissatisfaction with government",
+    4
+   ],
+   [
+    "Iraq and Kuwait/Middle East? Persian Gulf crisis",
+    2
+   ],
+   [
+    "Medicare increases/ Senior citizen's insurance",
+    1
+   ],
+   [
+    "Health care/Hospitals/ Cost of health care",
+    14
+   ],
+   [
+    "Taxes",
+    1
+   ],
+   [
+    "Somalia",
+    1
+   ],
+   [
+    "Other",
+    12
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31088172,
+  "qname": "Q11C",
+  "start": "01/08/1993",
+  "end": "01/11/1993",
+  "surveyBy": "Cable News Network (CNN)/USA Today",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/CNN/USA Today Poll:  Bush Review/The State of the Nation",
+  "text": "What do you think is the most important problem facing this country today? Third response",
+  "subpop": "Only respondents with a third response (32%)",
+  "responses": [
+   [
+    "Economy (general)",
+    6
+   ],
+   [
+    "High cost of living/inflation",
+    1e-7
+   ],
+   [
+    "Federal budget deficit/ Failure to balance budget",
+    5
+   ],
+   [
+    "Trade deficit/Trade relations/ Balance of trade",
+    2
+   ],
+   [
+    "Unemployment",
+    8
+   ],
+   [
+    "Recession/Depression",
+    1e-7
+   ],
+   [
+    "Other specific economic problem",
+    3
+   ],
+   [
+    "Drugs/Drug abuse",
+    5
+   ],
+   [
+    "Crime",
+    7
+   ],
+   [
+    "Poverty/Hunger/Homelessness",
+    6
+   ],
+   [
+    "Environment/Pollution",
+    2
+   ],
+   [
+    "Quality of education",
+    9
+   ],
+   [
+    "Ethics in society/moral decline",
+    3
+   ],
+   [
+    "Fear of war/nuclear war",
+    1
+   ],
+   [
+    "International problems",
+    4
+   ],
+   [
+    "AIDS",
+    3
+   ],
+   [
+    "Dissatisfaction with government",
+    3
+   ],
+   [
+    "Oil crisis/Fuel/Cost of oil",
+    1e-7
+   ],
+   [
+    "Iraq and Kuwait/Middle East/ Persian Gulf crisis",
+    1
+   ],
+   [
+    "Medicare increases/Senior citizen's insurance",
+    1
+   ],
+   [
+    "Health care/Hospitals/ Cost of health care",
+    11
+   ],
+   [
+    "Taxes",
+    2
+   ],
+   [
+    "Somalia",
+    1e-7
+   ],
+   [
+    "Other",
+    16
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31088172,
+  "qname": "Q11A",
+  "start": "01/08/1993",
+  "end": "01/11/1993",
+  "surveyBy": "Cable News Network (CNN)/USA Today",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/CNN/USA Today Poll:  Bush Review/The State of the Nation",
+  "text": "What do you think is the most important problem facing this country today? First response",
+  "subpop": null,
+  "responses": [
+   [
+    "Economy (general)",
+    29
+   ],
+   [
+    "High cost of living/inflation",
+    1e-7
+   ],
+   [
+    "Federal budget deficit/ Failure to balance budget",
+    10
+   ],
+   [
+    "Trade deficit/Trade relations/ Balance of trade",
+    1
+   ],
+   [
+    "Unemployment",
+    13
+   ],
+   [
+    "Recession/Depression",
+    1
+   ],
+   [
+    "Other specific economic problem",
+    2
+   ],
+   [
+    "Drugs/Drug abuse",
+    2
+   ],
+   [
+    "Crime",
+    3
+   ],
+   [
+    "Poverty/Hunger/Homelessness",
+    7
+   ],
+   [
+    "Environment/Pollution",
+    1
+   ],
+   [
+    "Quality of education",
+    2
+   ],
+   [
+    "Ethics in society/moral decline",
+    4
+   ],
+   [
+    "Fear of war/nuclear war",
+    1e-7
+   ],
+   [
+    "International problems",
+    1
+   ],
+   [
+    "AIDS",
+    1
+   ],
+   [
+    "Dissatisfaction with government",
+    3
+   ],
+   [
+    "Iraq and Kuwait/Middle East/ Persian Gulf crisis",
+    1
+   ],
+   [
+    "Medicare increases/ Senior citizen's insurance",
+    1
+   ],
+   [
+    "Health care/Hospitals/ Cost of health care",
+    7
+   ],
+   [
+    "Taxes",
+    1
+   ],
+   [
+    "Somalia",
+    1
+   ],
+   [
+    "Other",
+    7
+   ],
+   [
+    "None",
+    1e-7
+   ],
+   [
+    "Don't know",
+    2
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31092999,
+  "qname": "R08",
+  "start": "01/14/1993",
+  "end": "01/17/1993",
+  "surveyBy": "Los Angeles Times",
+  "conductedBy": null,
+  "study": "Los Angeles Times Poll:  Clinton Inauguration",
+  "text": "What's the most important problem facing this country today? Is there another problem you think is almost as important?",
+  "subpop": null,
+  "responses": [
+   [
+    "Economy",
+    29
+   ],
+   [
+    "Unemployment",
+    21
+   ],
+   [
+    "Budget deficit",
+    15
+   ],
+   [
+    "health care",
+    14
+   ],
+   [
+    "Homelessness",
+    11
+   ],
+   [
+    "Moral decline",
+    11
+   ],
+   [
+    "Crime",
+    10
+   ],
+   [
+    "Drugs",
+    9
+   ],
+   [
+    "Education",
+    8
+   ],
+   [
+    "Middle East",
+    6
+   ],
+   [
+    "Race relations",
+    4
+   ],
+   [
+    "Foreign relations",
+    4
+   ],
+   [
+    "AIDS",
+    3
+   ],
+   [
+    "Abortion",
+    2
+   ],
+   [
+    "Inflation",
+    2
+   ],
+   [
+    "Somalia",
+    2
+   ],
+   [
+    "Environment",
+    2
+   ],
+   [
+    "Foreign trade",
+    1
+   ],
+   [
+    "Clinton",
+    1
+   ],
+   [
+    "Welfare reform",
+    1
+   ],
+   [
+    "Other",
+    11
+   ],
+   [
+    "Don't know",
+    2
+   ]
+  ]
+ },
+ {
+  "key": "mip",
+  "archiveId": 31086776,
+  "qname": "R02",
+  "start": "01/14/1993",
+  "end": "01/17/1993",
+  "surveyBy": "ABC News/Washington Post",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News/The Washington Post Poll: The Economy/Clinton as President",
+  "text": "What do you think is the most important problem facing this country today?",
+  "subpop": null,
+  "responses": [
+   [
+    "Economic issues",
+    44
+   ],
+   [
+    "Social issues",
+    35
+   ],
+   [
+    "Foreign affairs",
+    5
+   ],
+   [
+    "Other",
+    16
+   ],
+   [
+    "Don't know/No answer",
+    1
+   ]
+  ]
+ }
+]

@@ -1,0 +1,5472 @@
+[
+ {
+  "key": "tracking",
+  "archiveId": 31088151,
+  "qname": "Q03",
+  "start": "09/28/1992",
+  "end": "09/30/1992",
+  "surveyBy": "Cable News Network (CNN)/USA Today",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/CNN/USA Today Poll: Fall Tracking Poll - Phase 1",
+  "text": "If the (1992) Presidential election were being held today, would you vote for the Republican candidates, George Bush and Dan Quayle, for the Democratic candidates, Bill Clinton and Al Gore, or for the Independent candidates, Ross Perot and James Stockdale? (If Other (vol.), Don't know/Refused, ask:) As of today, do you lean more to Bush and Quayle, the Republicans, to Clinton and Gore, the Democrats.",
+  "subpop": "Asked of registered voters/plan to register on election day (78%) Candidates names were rotated in Form A and B half samples",
+  "responses": [
+   [
+    "Bush/Quayle, including leaners",
+    36
+   ],
+   [
+    "Clinton/Gore, including leaners",
+    52
+   ],
+   [
+    "Perot/Stockdale (vol.)",
+    7
+   ],
+   [
+    "Other (vol.)",
+    1
+   ],
+   [
+    "Don't know",
+    4
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31088151,
+  "qname": "Q02",
+  "start": "09/28/1992",
+  "end": "09/30/1992",
+  "surveyBy": "Cable News Network (CNN)/USA Today",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/CNN/USA Today Poll: Fall Tracking Poll - Phase 1",
+  "text": "If the (1992) Presidential election were being held today, would you vote for the Republican candidates, George Bush and Dan Quayle, for the Democratic candidates, Bill Clinton and Al Gore.",
+  "subpop": "Asked of registered voters/plan to register on election day (78%) Candidates names were rotated in Form A and B half samples",
+  "responses": [
+   [
+    "Bush/Quayle",
+    33
+   ],
+   [
+    "Clinton/Gore",
+    48
+   ],
+   [
+    "Perot/Stockdale (vol.)",
+    7
+   ],
+   [
+    "Other (vol.)",
+    3
+   ],
+   [
+    "Don't know",
+    9
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31088152,
+  "qname": "Q03",
+  "start": "10/01/1992",
+  "end": "10/03/1992",
+  "surveyBy": "Cable News Network (CNN)/USA Today",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/CNN/USA Today Poll:  Fall Tracking Poll - Phase 1",
+  "text": "If the (1992) Presidential election were being held today, would you vote for the Republican candidates, George Bush and Dan Quayle, for the Democratic candidates, Bill Clinton and Al Gore, or for the Independent candidates, Ross Perot and James Stockdale? (If Other (vol.), Don't know/Refused, ask:) As of today, do you lean more to Bush and Quayle, the Republicans, to Clinton and Gore, the Democrats, or to Perot and Stockdale, the Independents?",
+  "subpop": "Asked of registered voters/plan to register on election day (79%) Candidates names were rotated in Form A and B half samples",
+  "responses": [
+   [
+    "Bush/Quayle, including leaners",
+    35
+   ],
+   [
+    "Clinton/Gore, including leaners",
+    47
+   ],
+   [
+    "Perot/Stockdale, including leaners",
+    10
+   ],
+   [
+    "Other (vol.)",
+    1
+   ],
+   [
+    "Don't know",
+    6
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31088152,
+  "qname": "Q02",
+  "start": "10/01/1992",
+  "end": "10/03/1992",
+  "surveyBy": "Cable News Network (CNN)/USA Today",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/CNN/USA Today Poll:  Fall Tracking Poll - Phase 1",
+  "text": "If the (1992) Presidential election were being held today, would you vote for the Republican candidates, George Bush and Dan Quayle, for the Democratic candidates, Bill Clinton and Al Gore, or for the Independent candidates, Ross Perot and James Stockdale?",
+  "subpop": "Asked of registered voters/plan to register on election day (79%) Candidates names were rotated in Form A and B half samples",
+  "responses": [
+   [
+    "Bush/Quayle",
+    33
+   ],
+   [
+    "Clinton/Gore",
+    44
+   ],
+   [
+    "Perot/Stockdale",
+    8
+   ],
+   [
+    "Other (vol.)",
+    1
+   ],
+   [
+    "Don't know",
+    14
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31092993,
+  "qname": "R10",
+  "start": "10/02/1992",
+  "end": "10/05/1992",
+  "surveyBy": "Los Angeles Times",
+  "conductedBy": null,
+  "study": "Los Angeles Times Poll:  National Politics",
+  "text": "If the 1992 general election for President were being held today and the candidates were Bill Clinton the Democrat, George Bush the Republican, and Ross Perot, an Independent, for whom would you vote, Clinton, Bush or Perot?",
+  "subpop": "Asked of registered voters.",
+  "responses": [
+   [
+    "Clinton",
+    49
+   ],
+   [
+    "Bush",
+    34
+   ],
+   [
+    "Perot",
+    10
+   ],
+   [
+    "Don't know",
+    7
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31094028,
+  "qname": "R11",
+  "start": "10/02/1992",
+  "end": "10/06/1992",
+  "surveyBy": "The Star Tribune",
+  "conductedBy": null,
+  "study": "The Minnesota Poll:  Elections, 1992",
+  "text": "There will be several names on the presidential ballot this November. If the election were held today, who would you vote for...George Bush, Bill Clinton, Ross Perot, or someone else?",
+  "subpop": "",
+  "responses": [
+   [
+    "Bush",
+    24
+   ],
+   [
+    "Clinton",
+    50
+   ],
+   [
+    "Perot",
+    11
+   ],
+   [
+    "Someone else",
+    3
+   ],
+   [
+    "None (Vol.)",
+    1
+   ],
+   [
+    "Don't know",
+    8
+   ],
+   [
+    "Refused",
+    2
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31105761,
+  "qname": "R1",
+  "start": "10/02/1992",
+  "end": "10/04/1992",
+  "surveyBy": "Louis Harris & Associates",
+  "conductedBy": null,
+  "study": "Louis Harris & Associates Poll: October 1992",
+  "text": "If the (1992) Presidential election were held today, who would you most likely vote for--George Bush for the Republicans or Bill Clinton for the Democrats or Ross Perot as an Independent? (If 'Not sure' or 'None of these,' ask:) Well if you had to say, would you lean toward George Bush or Bill Clinton or Ross Perot?",
+  "subpop": "Likely voters",
+  "responses": [
+   [
+    "George Bush including leaners",
+    36
+   ],
+   [
+    "Bill Clinton including leaners",
+    53
+   ],
+   [
+    "Ross Perot including leaners",
+    9
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31094028,
+  "qname": "R12",
+  "start": "10/02/1992",
+  "end": "10/06/1992",
+  "surveyBy": "The Star Tribune",
+  "conductedBy": null,
+  "study": "The Minnesota Poll:  Elections, 1992",
+  "text": "(There will be several names on the presidential ballot this November. If the election were held today, who would you vote for...George Bush, Bill Clinton, Ross Perot, or someone else?) (If None/Don't know/Refused, ask:) Which of these are you leaning toward right now?",
+  "subpop": "",
+  "responses": [
+   [
+    "Bush including leaners ",
+    26
+   ],
+   [
+    "Clinton including leaners ",
+    53
+   ],
+   [
+    "Perot including leaners ",
+    13
+   ],
+   [
+    "Someone else",
+    3
+   ],
+   [
+    "None (Vol.)",
+    1
+   ],
+   [
+    "Don't know",
+    2
+   ],
+   [
+    "Refused",
+    1
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31092993,
+  "qname": "R13",
+  "start": "10/02/1992",
+  "end": "10/05/1992",
+  "surveyBy": "Los Angeles Times",
+  "conductedBy": null,
+  "study": "Los Angeles Times Poll:  National Politics",
+  "text": "If the 1992 general election for President were being held today and the candidates were Bill Clinton and Al Gore, the Democrats, and George Bush and Dan Quayle the Republicans, for whom would you vote, Clinton and Gore or Bush and Quayle?",
+  "subpop": "Asked of registered voters",
+  "responses": [
+   [
+    "Clinton",
+    53
+   ],
+   [
+    "Bush",
+    39
+   ],
+   [
+    "Perot",
+    1
+   ],
+   [
+    "Don't know",
+    7
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31091395,
+  "qname": "R09A",
+  "start": "10/02/1992",
+  "end": "10/04/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  October National Survey",
+  "text": "In the 1992 presidential election were being held today, would you vote for George Bush for President and Dan Quayle for Vice President, the Republican candidates, or for Bill Clinton for President and Al Gore for Vice President, the Democratic candidates, or for Ross Perot for President and James Stockdale for Vice President, the Independent candidates? (If Don't know/No answer, ask:) Well, as of today, do you lean more towards Bush and Quayle, more towards Clinton and Gore, or more towards Perot and Stockdale?",
+  "subpop": "Probable electorate",
+  "responses": [
+   [
+    "George Bush/Dan Quayle, including leaners",
+    41
+   ],
+   [
+    "Bill Clinton/Al Gore, including leaners",
+    47
+   ],
+   [
+    "Ross Perot/James Stockdale, including leaners",
+    7
+   ],
+   [
+    "Wouldn't vote (vol.)",
+    1
+   ],
+   [
+    "Don't know/No answer",
+    3
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31091395,
+  "qname": "R13A",
+  "start": "10/02/1992",
+  "end": "10/04/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  October National Survey",
+  "text": "What if Ross Perot were not running. If the 1992 presidential election were being held today, would you vote for George Bush for President and Dan Quayle for Vice President, the Republican candidates, or for Bill Clinton for President and Al Gore for Vice President, the Democratic candidates? (If Don't know/No answer, ask:) Well, as of today, do you lean more towards Bush and Quayle, or more towards Clinton and Gore?",
+  "subpop": "Probable electorate",
+  "responses": [
+   [
+    "George Bush/Dan Quayle, including leaners",
+    43
+   ],
+   [
+    "Bill Clinton/Al Gore, including leaners",
+    51
+   ],
+   [
+    "Wouldn't vote (vol.)",
+    2
+   ],
+   [
+    "Don't know/No answer",
+    4
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31091395,
+  "qname": "R8A",
+  "start": "10/02/1992",
+  "end": "10/04/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  October National Survey",
+  "text": "If the (1992) presidential election were being held today, would you vote for George Bush for President and Dan Quayle for Vice President, the Republican candidates, or for Bill Clinton for President and Al Gore for Vice President, the Democratic candidates, or for Ross Perot for President and James Stockdale for Vice President, Independent candidates? (If Don't know/No answer, ask:) Well, as of today, do you lean more towards Clinton and Gore, or more towards Perot and Stockdale?",
+  "subpop": null,
+  "responses": [
+   [
+    "George Bush/Dan Quayle including leaners",
+    35
+   ],
+   [
+    "Bill Clinton/Al Gore including leaners",
+    47
+   ],
+   [
+    "Ross Perot/James Stockdale including leaners",
+    12
+   ],
+   [
+    "Don't know/No answer",
+    6
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31091395,
+  "qname": "R09",
+  "start": "10/02/1992",
+  "end": "10/04/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  October National Survey",
+  "text": "In the 1992 presidential election were being held today, would you vote for George Bush for President and Dan Quayle for Vice President, the Republican candidates, or for Bill Clinton for President and Al Gore for Vice President, the Democratic candidates, or for Ross Perot for President and James Stockdale for Vice President, the Independent candidates?",
+  "subpop": "Probable electorate",
+  "responses": [
+   [
+    "George Bush/Dan Quayle",
+    38
+   ],
+   [
+    "Bill Clinton/Al Gore",
+    46
+   ],
+   [
+    "Ross Perot/James Stockdale",
+    7
+   ],
+   [
+    "Wouldn't vote (vol.)",
+    1
+   ],
+   [
+    "Don't know/No answer",
+    9
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31091395,
+  "qname": "R13",
+  "start": "10/02/1992",
+  "end": "10/04/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  October National Survey",
+  "text": "What if Ross Perot were not running. If the 1992 presidential election were being held today, would you vote for George Bush for President and Dan Quayle for Vice President, the Republican candidates, or for Bill Clinton for President and Al Gore for Vice President, the Democratic candidates?",
+  "subpop": "Probable electorate",
+  "responses": [
+   [
+    "George Bush/Dan Quayle",
+    41
+   ],
+   [
+    "Bill Clinton/Al Gore",
+    51
+   ],
+   [
+    "Wouldn't vote (vol.)",
+    2
+   ],
+   [
+    "Don't know/No answer",
+    6
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31091395,
+  "qname": "R8",
+  "start": "10/02/1992",
+  "end": "10/04/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  October National Survey",
+  "text": "If the (1992) presidential election were being held today, would you vote for George Bush for President and Dan Quayle for Vice President, the Republican candidates, or for Bill Clinton for President and Al Gore for Vice President, the Democratic candidates, or for Ross Perot for President and James Stockdale for Vice President, Independent candidates?",
+  "subpop": null,
+  "responses": [
+   [
+    "George Bush/Dan Quayle",
+    33
+   ],
+   [
+    "Bill Clinton/Al Gore",
+    44
+   ],
+   [
+    "Ross Perot/James Stockdale",
+    11
+   ],
+   [
+    "Don't know/No answer",
+    12
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31086760,
+  "qname": "Q004",
+  "start": "10/04/1992",
+  "end": "10/04/1992",
+  "surveyBy": "ABC News/Washington Post",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News/The Washington Post Poll:  Election Poll #1",
+  "text": "The candidates in November's presidential election (1992) are George Bush and Dan Quayle, the Republicans, Bill Clinton and Al Gore, the Democrats, and Ross Perot and James Stockdale, the Independents. Suppose the election were being held today. For whom would you vote? (If Don't know/No opinion, No answer/Refused, ask:) Well, do you lean towards Bush, Clinton or Perot?",
+  "subpop": "Asked of registered voters (68%)",
+  "responses": [
+   [
+    "George Bush including leaners",
+    35
+   ],
+   [
+    "Bill Clinton including leaners",
+    47
+   ],
+   [
+    "Ross Perot including leaners",
+    9
+   ],
+   [
+    "Wouldn't vote (vol.)",
+    1
+   ],
+   [
+    "Vote for other (vol.)/Neither (vol.)",
+    4
+   ],
+   [
+    "Don't know/No opinion",
+    4
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31105784,
+  "qname": "R1",
+  "start": "10/04/1992",
+  "end": "10/05/1992",
+  "surveyBy": "NBC News",
+  "conductedBy": null,
+  "study": "NBC News Poll: October 1992",
+  "text": "If the 1992 presidential election were held today and the candidates were George Bush, the Republican, Bill Clinton, the Democrat and Ross Perot, the Independent, for whom would you vote--George Bush, Bill Clinton or Ross Perot. (If 'Not sure,' ask:) Well which way do you lean?",
+  "subpop": null,
+  "responses": [
+   [
+    "Bush including leaners",
+    32
+   ],
+   [
+    "Clinton including leaners",
+    46
+   ],
+   [
+    "Perot including leaners",
+    10
+   ],
+   [
+    "None (vol.)",
+    2
+   ],
+   [
+    "Not sure/Other",
+    10
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31086760,
+  "qname": "Q003",
+  "start": "10/04/1992",
+  "end": "10/04/1992",
+  "surveyBy": "ABC News/Washington Post",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News/The Washington Post Poll:  Election Poll #1",
+  "text": "The candidates in November's presidential election (1992) are George Bush and Dan Quayle, the Republicans, Bill Clinton and Al Gore, the Democrats, and Ross Perot and James Stockdale, the Independents. Suppose the election were being held today. For whom would you vote?",
+  "subpop": "Asked of registered voters (68%)",
+  "responses": [
+   [
+    "George Bush and Dan Quayle",
+    32
+   ],
+   [
+    "Bill Clinton and Al Gore",
+    44
+   ],
+   [
+    "Ross Perot and James Stockdale",
+    8
+   ],
+   [
+    "Wouldn't vote (vol.)",
+    1
+   ],
+   [
+    "Vote for other (vol.)/Neither (vol.)",
+    4
+   ],
+   [
+    "Don't know/No opinion",
+    11
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31088153,
+  "qname": "Q03",
+  "start": "10/04/1992",
+  "end": "10/06/1992",
+  "surveyBy": "Cable News Network (CNN)/USA Today",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/CNN/USA Today Poll:  Fall Tracking Poll - Phase 1",
+  "text": "If the (1992) Presidential election were being held today, would you vote for the Republican candidates, George Bush and Dan Quayle, for the Democratic candidates, Bill Clinton and Al Gore, or for the Independent candidates, Ross Perot and James Stockdale? (If Other (vol.), Don't know/Refused, ask:) As of today, do you lean more to Bush and Quayle, the Republicans, to Clinton and Gore, the Democrats, or to Perot and Stockdale, the Independents?",
+  "subpop": "Asked of registered voters/plan to register on election day (79%) Candidates names were rotated in Form A and B half samples * = less than .5 percent",
+  "responses": [
+   [
+    "Bush/Quayle, including leaners",
+    35
+   ],
+   [
+    "Clinton/Gore, including leaners",
+    48
+   ],
+   [
+    "Perot/Stockdale, including leaners",
+    10
+   ],
+   [
+    "Other (vol.)",
+    1e-7
+   ],
+   [
+    "Don't know",
+    6
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31088153,
+  "qname": "Q02",
+  "start": "10/04/1992",
+  "end": "10/06/1992",
+  "surveyBy": "Cable News Network (CNN)/USA Today",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/CNN/USA Today Poll:  Fall Tracking Poll - Phase 1",
+  "text": "If the (1992) Presidential election were being held today, would you vote for the Republican candidates, George Bush and Dan Quayle, for the Democratic candidates, Bill Clinton and Al Gore, or for the Independent candidates, Ross Perot and James Stockdale?",
+  "subpop": "Asked of registered voters/plan to register on election day (79%) Candidates names were rotated in Form A and B half samples",
+  "responses": [
+   [
+    "Bush/Quayle",
+    31
+   ],
+   [
+    "Clinton/Gore",
+    44
+   ],
+   [
+    "Perot/Stockdale",
+    9
+   ],
+   [
+    "Other (vol.)",
+    1
+   ],
+   [
+    "Don't know",
+    14
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31088154,
+  "qname": "Q03",
+  "start": "10/05/1992",
+  "end": "10/07/1992",
+  "surveyBy": "Cable News Network (CNN)/USA Today",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/CNN/USA Today Poll:  Fall Tracking Poll - Phase 1",
+  "text": "If the (1992) Presidential election were being held today, would you vote for the Republican candidates, George Bush and Dan Quayle, for the Democratic candidates, Bill Clinton and Al Gore, or for the Independent candidates, Ross Perot and James Stockdale? (If Other (vol.), Don't know/Refused, ask:) As of today, do you lean more to Bush and Quayle, the Republicans, to Clinton and Gore, the Democrats, or to Perot and Stockdale, the Independents?",
+  "subpop": "Asked of registered voters/plan to register on election day (80%) Candidates names were rotated in Form A and B half samples * = less than .5 percent",
+  "responses": [
+   [
+    "Bush/Quayle, including leaners",
+    35
+   ],
+   [
+    "Clinton/Gore, including leaners",
+    51
+   ],
+   [
+    "Perot/Stockdale, including leaners",
+    9
+   ],
+   [
+    "Other (vol.)",
+    1e-7
+   ],
+   [
+    "Don't know",
+    5
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31088154,
+  "qname": "Q02",
+  "start": "10/05/1992",
+  "end": "10/07/1992",
+  "surveyBy": "Cable News Network (CNN)/USA Today",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/CNN/USA Today Poll:  Fall Tracking Poll - Phase 1",
+  "text": "If the (1992) Presidential election were being held today, would you vote for the Republican candidates, George Bush and Dan Quayle, for the Democratic candidates, Bill Clinton and Al Gore, or for the Independent candidates, Ross Perot and James Stockdale?",
+  "subpop": "Asked of registered voters/plan to register on election day (80%) Candidates names were rotated in Form A and B half samples",
+  "responses": [
+   [
+    "Bush/Quayle",
+    31
+   ],
+   [
+    "Clinton/Gore",
+    47
+   ],
+   [
+    "Perot/Stockdale",
+    8
+   ],
+   [
+    "Other (vol.)",
+    1
+   ],
+   [
+    "Don't know",
+    12
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31086430,
+  "qname": "Q06",
+  "start": "10/06/1992",
+  "end": "11/02/1992",
+  "surveyBy": "ABC News",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News Poll:  1992 Election Daily Tracking Poll",
+  "text": "The candidates in November's presidential election (1992) are George Bush and Dan Quayle, the Republicans, Bill Clinton and Al Gore, the Democrats, and Ross Perot and James Stockdale, the Independents. Suppose the election were being held today, for whom would you vote? (If Don't know/No opinion/No answer/Refused, ask:) Do you lean more towards...George Bush, Bill Clinton, or Ross Perot?",
+  "subpop": "Asked of registered voters (72%)",
+  "responses": [
+   [
+    "George Bush including leaners",
+    34
+   ],
+   [
+    "Bill Clinton including leaners",
+    42
+   ],
+   [
+    "Ross Perot including leaners Vote for other (vol.)/Neither (vol.)",
+    18
+   ],
+   [
+    "including leaners",
+    1e-7
+   ],
+   [
+    "Don't know/No opinion",
+    5
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31086430,
+  "qname": "Q06",
+  "start": "10/06/1992",
+  "end": "11/02/1992",
+  "surveyBy": "ABC News",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News Poll:  1992 Election Daily Tracking Poll",
+  "text": "The candidates in November's presidential election (1992) are George Bush and Dan Quayle, the Republicans, Bill Clinton and Al Gore, the Democrats, and Ross Perot and James Stockdale, the Independents. Suppose the election were being held today, for whom would you vote? (If Don't know/No opinion/No answer/Refused, ask:) Do you lean more towards...George Bush, Bill Clinton, or Ross Perot?",
+  "subpop": "Asked of registered voters (73%)",
+  "responses": [
+   [
+    "George Bush including leaners",
+    34
+   ],
+   [
+    "Bill Clinton including leaners",
+    42
+   ],
+   [
+    "Ross Perot including leaners Vote for other (vol.)/Neither (vol.)",
+    18
+   ],
+   [
+    "including leaners",
+    2
+   ],
+   [
+    "Don't know/No opinion",
+    5
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31086430,
+  "qname": "Q04",
+  "start": "10/06/1992",
+  "end": "11/02/1992",
+  "surveyBy": "ABC News",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News Poll:  1992 Election Daily Tracking Poll",
+  "text": "The candidates in November's presidential election (1992) are George Bush and Dan Quayle, the Republicans, Bill Clinton and Al Gore, the Democrats, and Ross Perot and James Stockdale, the Independents. Suppose the election were being held today, for whom would you vote?",
+  "subpop": "Asked of registered voters (75%)",
+  "responses": [
+   [
+    "George Bush",
+    33
+   ],
+   [
+    "Bill Clinton",
+    44
+   ],
+   [
+    "Ross Perot",
+    7
+   ],
+   [
+    "Vote for other (vol.)/Neither (vol.)",
+    8
+   ],
+   [
+    "Don't know/No opinion",
+    8
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31086430,
+  "qname": "Q06",
+  "start": "10/06/1992",
+  "end": "11/02/1992",
+  "surveyBy": "ABC News",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News Poll:  1992 Election Daily Tracking Poll",
+  "text": "The candidates in November's presidential election (1992) are George Bush and Dan Quayle, the Republicans, Bill Clinton and Al Gore, the Democrats, and Ross Perot and James Stockdale, the Independents. Suppose the election were being held today, for whom would you vote? (If Don't know/No opinion/No answer/Refused, ask:) Do you lean more towards...George Bush, Bill Clinton, or Ross Perot?",
+  "subpop": "Asked of registered voters (72%)",
+  "responses": [
+   [
+    "George Bush including leaners",
+    31
+   ],
+   [
+    "Bill Clinton including leaners",
+    44
+   ],
+   [
+    "Ross Perot including leaners Vote for other (vol.)/Neither (vol.)",
+    18
+   ],
+   [
+    "including leaners",
+    1
+   ],
+   [
+    "Don't know/No opinion",
+    6
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31086430,
+  "qname": "Q06",
+  "start": "10/06/1992",
+  "end": "11/02/1992",
+  "surveyBy": "ABC News",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News Poll:  1992 Election Daily Tracking Poll",
+  "text": "The candidates in November's presidential election (1992) are George Bush and Dan Quayle, the Republicans, Bill Clinton and Al Gore, the Democrats, and Ross Perot and James Stockdale, the Independents. Suppose the election were being held today, for whom would you vote? (If Don't know/No opinion/No answer/Refused, ask:) Do you lean more towards...George Bush, Bill Clinton, or Ross Perot?",
+  "subpop": "Asked of registered voters (74%)",
+  "responses": [
+   [
+    "George Bush including leaners",
+    32
+   ],
+   [
+    "Bill Clinton including leaners",
+    44
+   ],
+   [
+    "Ross Perot including leaners",
+    14
+   ],
+   [
+    "Vote for other (vol.)/Neither (vol.) including leaners",
+    1
+   ],
+   [
+    "Don't know/No opinion",
+    9
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31086430,
+  "qname": "Q06",
+  "start": "10/06/1992",
+  "end": "11/02/1992",
+  "surveyBy": "ABC News",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News Poll:  1992 Election Daily Tracking Poll",
+  "text": "The candidates in November's presidential election (1992) are George Bush and Dan Quayle, the Republicans, Bill Clinton and Al Gore, the Democrats, and Ross Perot and James Stockdale, the Independents. Suppose the election were being held today, for whom would you vote? (If Don't know/No opinion/No answer/Refused, ask:) Do you lean more towards...George Bush, Bill Clinton, or Ross Perot?",
+  "subpop": "Asked of registered voters (69%)",
+  "responses": [
+   [
+    "George Bush including leaners",
+    34
+   ],
+   [
+    "Bill Clinton including leaners",
+    50
+   ],
+   [
+    "Ross Perot including leaners Vote for other (vol.)/Neither (vol.)",
+    6
+   ],
+   [
+    "including leaners",
+    5
+   ],
+   [
+    "Don't know/No opinion",
+    5
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31086430,
+  "qname": "Q06",
+  "start": "10/06/1992",
+  "end": "11/02/1992",
+  "surveyBy": "ABC News",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News Poll:  1992 Election Daily Tracking Poll",
+  "text": "The candidates in November's presidential election (1992) are George Bush and Dan Quayle, the Republicans, Bill Clinton and Al Gore, the Democrats, and Ross Perot and James Stockdale, the Independents. Suppose the election were being held today, for whom would you vote? (If Don't know/No opinion/No answer/Refused, ask:) Do you lean more towards...George Bush, Bill Clinton, or Ross Perot?",
+  "subpop": "Asked of registered voters (74%)",
+  "responses": [
+   [
+    "George Bush including leaners",
+    34
+   ],
+   [
+    "Bill Clinton including leaners",
+    48
+   ],
+   [
+    "Ross Perot including leaners Vote for other (vol.)/Neither (vol.)",
+    6
+   ],
+   [
+    "including leaners",
+    9
+   ],
+   [
+    "Don't know/No opinion",
+    3
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31086430,
+  "qname": "Q04",
+  "start": "10/06/1992",
+  "end": "11/02/1992",
+  "surveyBy": "ABC News",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News Poll:  1992 Election Daily Tracking Poll",
+  "text": "The candidates in November's presidential election (1992) are George Bush and Dan Quayle, the Republicans, Bill Clinton and Al Gore, the Democrats, and Ross Perot and James Stockdale, the Independents. Suppose the election were being held today, for whom would you vote?",
+  "subpop": "Asked of registered voters (74%)",
+  "responses": [
+   [
+    "George Bush",
+    28
+   ],
+   [
+    "Bill Clinton",
+    40
+   ],
+   [
+    "Ross Perot",
+    13
+   ],
+   [
+    "Vote for other (vol.)/Neither (vol.)",
+    1
+   ],
+   [
+    "Don't know/No opinion",
+    18
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31086430,
+  "qname": "Q06",
+  "start": "10/06/1992",
+  "end": "11/02/1992",
+  "surveyBy": "ABC News",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News Poll:  1992 Election Daily Tracking Poll",
+  "text": "The candidates in November's presidential election (1992) are George Bush and Dan Quayle, the Republicans, Bill Clinton and Al Gore, the Democrats, and Ross Perot and James Stockdale, the Independents. Suppose the election were being held today, for whom would you vote? (If Don't know/No opinion/No answer/Refused, ask:) Do you lean more towards...George Bush, Bill Clinton, or Ross Perot?",
+  "subpop": "Asked of registered voters (75%)",
+  "responses": [
+   [
+    "George Bush including leaners",
+    34
+   ],
+   [
+    "Bill Clinton including leaners",
+    41
+   ],
+   [
+    "Ross Perot including leaners Vote for other (vol.)/Neither (vol.)",
+    17
+   ],
+   [
+    "including leaners",
+    1
+   ],
+   [
+    "Don't know/No opinion",
+    7
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31086430,
+  "qname": "Q04",
+  "start": "10/06/1992",
+  "end": "11/02/1992",
+  "surveyBy": "ABC News",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News Poll:  1992 Election Daily Tracking Poll",
+  "text": "The candidates in November's presidential election (1992) are George Bush and Dan Quayle, the Republicans, Bill Clinton and Al Gore, the Democrats, and Ross Perot and James Stockdale, the Independents. Suppose the election were being held today, for whom would you vote?",
+  "subpop": "Asked of registered voters (72%)",
+  "responses": [
+   [
+    "George Bush",
+    28
+   ],
+   [
+    "Bill Clinton",
+    40
+   ],
+   [
+    "Ross Perot",
+    16
+   ],
+   [
+    "Vote for other (vol.)/Neither (vol.)",
+    1
+   ],
+   [
+    "Don't know/No opinion",
+    14
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31086430,
+  "qname": "Q04",
+  "start": "10/06/1992",
+  "end": "11/02/1992",
+  "surveyBy": "ABC News",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News Poll:  1992 Election Daily Tracking Poll",
+  "text": "The candidates in November's presidential election (1992) are George Bush and Dan Quayle, the Republicans, Bill Clinton and Al Gore, the Democrats, and Ross Perot and James Stockdale, the Independents. Suppose the election were being held today, for whom would you vote?",
+  "subpop": "Asked of registered voters (74%)",
+  "responses": [
+   [
+    "George Bush",
+    31
+   ],
+   [
+    "Bill Clinton",
+    39
+   ],
+   [
+    "Ross Perot",
+    18
+   ],
+   [
+    "Vote for other (vol.)/Neither (vol.)",
+    1
+   ],
+   [
+    "Don't know/No opinion",
+    11
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31086430,
+  "qname": "Q06",
+  "start": "10/06/1992",
+  "end": "11/02/1992",
+  "surveyBy": "ABC News",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News Poll:  1992 Election Daily Tracking Poll",
+  "text": "The candidates in November's presidential election (1992) are George Bush and Dan Quayle, the Republicans, Bill Clinton and Al Gore, the Democrats, and Ross Perot and James Stockdale, the Independents. Suppose the election were being held today, for whom would you vote? (If Don't know/No opinion/No answer/Refused, ask:) Do you lean more towards...George Bush, Bill Clinton, or Ross Perot?",
+  "subpop": "Asked of registered voters (75%)",
+  "responses": [
+   [
+    "George Bush including leaners",
+    35
+   ],
+   [
+    "Bill Clinton including leaners",
+    46
+   ],
+   [
+    "Ross Perot including leaners Vote for other (vol.)/Neither (vol.)",
+    7
+   ],
+   [
+    "including leaners",
+    9
+   ],
+   [
+    "Don't know/No opinion",
+    3
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31086430,
+  "qname": "Q06",
+  "start": "10/06/1992",
+  "end": "11/02/1992",
+  "surveyBy": "ABC News",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News Poll:  1992 Election Daily Tracking Poll",
+  "text": "The candidates in November's presidential election (1992) are George Bush and Dan Quayle, the Republicans, Bill Clinton and Al Gore, the Democrats, and Ross Perot and James Stockdale, the Independents. Suppose the election were being held today, for whom would you vote? (If Don't know/No opinion/No answer/Refused, ask:) Do you lean more towards...George Bush, Bill Clinton, or Ross Perot?",
+  "subpop": "Asked of registered voters (73%)",
+  "responses": [
+   [
+    "George Bush including leaners",
+    31
+   ],
+   [
+    "Bill Clinton including leaners",
+    43
+   ],
+   [
+    "Ross Perot including leaners Vote for other (vol.)/Neither (vol.)",
+    18
+   ],
+   [
+    "including leaners",
+    2
+   ],
+   [
+    "Don't know/No opinion",
+    7
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31086430,
+  "qname": "Q04",
+  "start": "10/06/1992",
+  "end": "11/02/1992",
+  "surveyBy": "ABC News",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News Poll:  1992 Election Daily Tracking Poll",
+  "text": "The candidates in November's presidential election (1992) are George Bush and Dan Quayle, the Republicans, Bill Clinton and Al Gore, the Democrats, and Ross Perot and James Stockdale, the Independents. Suppose the election were being held today, for whom would you vote?",
+  "subpop": "Asked of registered voters (74%)",
+  "responses": [
+   [
+    "George Bush",
+    32
+   ],
+   [
+    "Bill Clinton",
+    45
+   ],
+   [
+    "Ross Perot",
+    6
+   ],
+   [
+    "Vote for other (vol.)/Neither (vol.)",
+    9
+   ],
+   [
+    "Don't know/No opinion",
+    8
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31086430,
+  "qname": "Q04",
+  "start": "10/06/1992",
+  "end": "11/02/1992",
+  "surveyBy": "ABC News",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News Poll:  1992 Election Daily Tracking Poll",
+  "text": "The candidates in November's presidential election (1992) are George Bush and Dan Quayle, the Republicans, Bill Clinton and Al Gore, the Democrats, and Ross Perot and James Stockdale, the Independents. Suppose the election were being held today, for whom would you vote?",
+  "subpop": "Asked of registered voters (73%)",
+  "responses": [
+   [
+    "George Bush",
+    31
+   ],
+   [
+    "Bill Clinton",
+    40
+   ],
+   [
+    "Ross Perot",
+    10
+   ],
+   [
+    "Vote for other (vol.)/Neither (vol.)",
+    4
+   ],
+   [
+    "Don't know/No opinion",
+    15
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31086430,
+  "qname": "R03",
+  "start": "10/06/1992",
+  "end": "11/02/1992",
+  "surveyBy": "ABC News",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News Poll:  1992 Election Daily Tracking Poll",
+  "text": "The candidates in November's (1992) presidential election are George Bush and Dan Quayle the Republicans, Bill Clinton and Al Gore the Democrats, and Ross Perot and James Stockdale the Independents. Suppose the election were being held today. For whom would you vote?",
+  "subpop": "Asked of registered voters",
+  "responses": [
+   [
+    "George Bush including leaners",
+    32
+   ],
+   [
+    "Bill Clinton including leaners",
+    43
+   ],
+   [
+    "Ross Perot including leaners",
+    19
+   ],
+   [
+    "Other/Neither",
+    1
+   ],
+   [
+    "Don't know/No opinion",
+    5
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31086430,
+  "qname": "R03",
+  "start": "10/06/1992",
+  "end": "11/02/1992",
+  "surveyBy": "ABC News",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News Poll:  1992 Election Daily Tracking Poll",
+  "text": "The candidates in November's (1992) presidential election are George Bush and Dan Quayle the Republicans, Bill Clinton and Al Gore the Democrats, and Ross Perot and James Stockdale the Independents. Suppose the election were being held today. For whom would you vote?",
+  "subpop": "Asked of registered voters",
+  "responses": [
+   [
+    "George Bush including leaners",
+    31
+   ],
+   [
+    "Bill Clinton including leaners",
+    45
+   ],
+   [
+    "Ross Perot including leaners",
+    16
+   ],
+   [
+    "Other/Neither",
+    2
+   ],
+   [
+    "Don't know/No opinion",
+    6
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31086430,
+  "qname": "R03",
+  "start": "10/06/1992",
+  "end": "11/02/1992",
+  "surveyBy": "ABC News",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News Poll:  1992 Election Daily Tracking Poll",
+  "text": "The candidates in November's (1992) presidential election are George Bush and Dan Quayle the Republicans, Bill Clinton and Al Gore the Democrats, and Ross Perot and James Stockdale the Independents. Suppose the election were being held today. For whom would you vote?",
+  "subpop": "Asked of registered voters",
+  "responses": [
+   [
+    "George Bush including leaners",
+    34
+   ],
+   [
+    "Bill Clinton including leaners",
+    42
+   ],
+   [
+    "Ross Perot including leaners",
+    13
+   ],
+   [
+    "Other/Neither",
+    3
+   ],
+   [
+    "Don't know/No opinion",
+    8
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31086430,
+  "qname": "Q04",
+  "start": "10/06/1992",
+  "end": "11/02/1992",
+  "surveyBy": "ABC News",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News Poll:  1992 Election Daily Tracking Poll",
+  "text": "The candidates in November's presidential election (1992) are George Bush and Dan Quayle, the Republicans, Bill Clinton and Al Gore, the Democrats, and Ross Perot and James Stockdale, the Independents. Suppose the election were being held today, for whom would you vote?",
+  "subpop": "Asked of registered voters (72%)",
+  "responses": [
+   [
+    "George Bush",
+    33
+   ],
+   [
+    "Bill Clinton",
+    40
+   ],
+   [
+    "Ross Perot",
+    16
+   ],
+   [
+    "Vote for other (vol.)/Neither (vol.)",
+    1
+   ],
+   [
+    "Don't know/No opinion",
+    11
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31086430,
+  "qname": "Q04",
+  "start": "10/06/1992",
+  "end": "11/02/1992",
+  "surveyBy": "ABC News",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News Poll:  1992 Election Daily Tracking Poll",
+  "text": "The candidates in November's presidential election (1992) are George Bush and Dan Quayle, the Republicans, Bill Clinton and Al Gore, the Democrats, and Ross Perot and James Stockdale, the Independents. Suppose the election were being held today, for whom would you vote?",
+  "subpop": "Asked of registered voters (73%)",
+  "responses": [
+   [
+    "George Bush",
+    32
+   ],
+   [
+    "Bill Clinton",
+    40
+   ],
+   [
+    "Ross Perot",
+    17
+   ],
+   [
+    "Vote for other (vol.)/Neither (vol.)",
+    2
+   ],
+   [
+    "Don't know/No opinion",
+    10
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31086430,
+  "qname": "Q04",
+  "start": "10/06/1992",
+  "end": "11/02/1992",
+  "surveyBy": "ABC News",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News Poll:  1992 Election Daily Tracking Poll",
+  "text": "The candidates in November's presidential election (1992) are George Bush and Dan Quayle, the Republicans, Bill Clinton and Al Gore, the Democrats, and Ross Perot and James Stockdale, the Independents. Suppose the election were being held today, for whom would you vote?",
+  "subpop": "Asked of registered voters (73%)",
+  "responses": [
+   [
+    "George Bush",
+    27
+   ],
+   [
+    "Bill Clinton",
+    43
+   ],
+   [
+    "Ross Perot",
+    19
+   ],
+   [
+    "Vote for other (vol.)/Neither (vol.)",
+    1
+   ],
+   [
+    "Don't know/No opinion",
+    10
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31086430,
+  "qname": "Q04",
+  "start": "10/06/1992",
+  "end": "11/02/1992",
+  "surveyBy": "ABC News",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News Poll:  1992 Election Daily Tracking Poll",
+  "text": "The candidates in November's presidential election (1992) are George Bush and Dan Quayle, the Republicans, Bill Clinton and Al Gore, the Democrats, and Ross Perot and James Stockdale, the Independents. Suppose the election were being held today, for whom would you vote?",
+  "subpop": "Asked of registered voters (74%)",
+  "responses": [
+   [
+    "George Bush",
+    26
+   ],
+   [
+    "Bill Clinton",
+    45
+   ],
+   [
+    "Ross Perot",
+    12
+   ],
+   [
+    "Vote for other (vol.)/Neither (vol.)",
+    2
+   ],
+   [
+    "Don't know/No opinion",
+    16
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31086430,
+  "qname": "Q04",
+  "start": "10/06/1992",
+  "end": "11/02/1992",
+  "surveyBy": "ABC News",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News Poll:  1992 Election Daily Tracking Poll",
+  "text": "The candidates in November's presidential election (1992) are George Bush and Dan Quayle, the Republicans, Bill Clinton and Al Gore, the Democrats, and Ross Perot and James Stockdale, the Independents. Suppose the election were being held today, for whom would you vote?",
+  "subpop": "Asked of registered voters (73%)",
+  "responses": [
+   [
+    "George Bush",
+    28
+   ],
+   [
+    "Bill Clinton",
+    40
+   ],
+   [
+    "Ross Perot",
+    16
+   ],
+   [
+    "Vote for other (vol.)/Neither (vol.)",
+    2
+   ],
+   [
+    "Don't know/No opinion",
+    15
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31086430,
+  "qname": "Q04",
+  "start": "10/06/1992",
+  "end": "11/02/1992",
+  "surveyBy": "ABC News",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News Poll:  1992 Election Daily Tracking Poll",
+  "text": "The candidates in November's presidential election (1992) are George Bush and Dan Quayle, the Republicans, Bill Clinton and Al Gore, the Democrats, and Ross Perot and James Stockdale, the Independents. Suppose the election were being held today, for whom would you vote?",
+  "subpop": "Asked of registered voters (69%)",
+  "responses": [
+   [
+    "George Bush",
+    33
+   ],
+   [
+    "Bill Clinton",
+    47
+   ],
+   [
+    "Ross Perot",
+    5
+   ],
+   [
+    "Vote for other (vol.)/Neither (vol.)",
+    6
+   ],
+   [
+    "Don't know/No opinion",
+    9
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31086430,
+  "qname": "Q04",
+  "start": "10/06/1992",
+  "end": "11/02/1992",
+  "surveyBy": "ABC News",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News Poll:  1992 Election Daily Tracking Poll",
+  "text": "The candidates in November's presidential election (1992) are George Bush and Dan Quayle, the Republicans, Bill Clinton and Al Gore, the Democrats, and Ross Perot and James Stockdale, the Independents. Suppose the election were being held today, for whom would you vote?",
+  "subpop": "Asked of registered voters (72%)",
+  "responses": [
+   [
+    "George Bush",
+    29
+   ],
+   [
+    "Bill Clinton",
+    38
+   ],
+   [
+    "Ross Perot",
+    12
+   ],
+   [
+    "Vote for other (vol.)/Neither (vol.)",
+    3
+   ],
+   [
+    "Don't know/No opinion",
+    18
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31086430,
+  "qname": "Q04",
+  "start": "10/06/1992",
+  "end": "11/02/1992",
+  "surveyBy": "ABC News",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News Poll:  1992 Election Daily Tracking Poll",
+  "text": "The candidates in November's presidential election (1992) are George Bush and Dan Quayle, the Republicans, Bill Clinton and Al Gore, the Democrats, and Ross Perot and James Stockdale, the Independents. Suppose the election were being held today, for whom would you vote?",
+  "subpop": "Asked of registered voters (75%)",
+  "responses": [
+   [
+    "George Bush",
+    32
+   ],
+   [
+    "Bill Clinton",
+    38
+   ],
+   [
+    "Ross Perot",
+    15
+   ],
+   [
+    "Vote for other (vol.)/Neither (vol.)",
+    1
+   ],
+   [
+    "Don't know/No opinion",
+    14
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31086430,
+  "qname": "R03",
+  "start": "10/06/1992",
+  "end": "11/02/1992",
+  "surveyBy": "ABC News",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News Poll:  1992 Election Daily Tracking Poll",
+  "text": "The candidates in November's (1992) presidential election are George Bush and Dan Quayle the Republicans, Bill Clinton and Al Gore the Democrats, and Ross Perot and James Stockdale the Independents. Suppose the election were being held today. For whom would you vote?",
+  "subpop": "Asked of registered voters",
+  "responses": [
+   [
+    "George Bush including leaners",
+    30
+   ],
+   [
+    "Bill Clinton including leaners",
+    44
+   ],
+   [
+    "Ross Perot including leaners",
+    19
+   ],
+   [
+    "Other/Neither",
+    1
+   ],
+   [
+    "Don't know/No opinion",
+    5
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31086430,
+  "qname": "R03",
+  "start": "10/06/1992",
+  "end": "11/02/1992",
+  "surveyBy": "ABC News",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News Poll:  1992 Election Daily Tracking Poll",
+  "text": "The candidates in November's (1992) presidential election are George Bush and Dan Quayle the Republicans, Bill Clinton and Al Gore the Democrats, and Ross Perot and James Stockdale the Independents. Suppose the election were being held today. For whom would you vote?",
+  "subpop": "Asked of registered voters",
+  "responses": [
+   [
+    "George Bush including leaners",
+    32
+   ],
+   [
+    "Bill Clinton including leaners",
+    42
+   ],
+   [
+    "Ross Perot including leaners",
+    17
+   ],
+   [
+    "Other/Neither",
+    1
+   ],
+   [
+    "Don't know/No opinion",
+    8
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31086430,
+  "qname": "R03",
+  "start": "10/06/1992",
+  "end": "11/02/1992",
+  "surveyBy": "ABC News",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News Poll:  1992 Election Daily Tracking Poll",
+  "text": "The candidates in November's (1992) presidential election are George Bush and Dan Quayle the Republicans, Bill Clinton and Al Gore the Democrats, and Ross Perot and James Stockdale the Independents. Suppose the election were being held today. For whom would you vote?",
+  "subpop": "Asked of registered voters",
+  "responses": [
+   [
+    "George Bush including leaners",
+    32
+   ],
+   [
+    "Bill Clinton including leaners",
+    42
+   ],
+   [
+    "Ross Perot including leaners",
+    20
+   ],
+   [
+    "Other/Neither",
+    1
+   ],
+   [
+    "Don't know/No opinion",
+    5
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31086430,
+  "qname": "R03",
+  "start": "10/06/1992",
+  "end": "11/02/1992",
+  "surveyBy": "ABC News",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News Poll:  1992 Election Daily Tracking Poll",
+  "text": "The candidates in November's (1992) presidential election are George Bush and Dan Quayle the Republicans, Bill Clinton and Al Gore the Democrats, and Ross Perot and James Stockdale the Independents. Suppose the election were being held today. For whom would you vote?",
+  "subpop": "Asked of registered voters",
+  "responses": [
+   [
+    "George Bush including leaners",
+    36
+   ],
+   [
+    "Bill Clinton including leaners",
+    42
+   ],
+   [
+    "Ross Perot including leaners",
+    12
+   ],
+   [
+    "Other/Neither",
+    3
+   ],
+   [
+    "Don't know/No opinion",
+    7
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31086430,
+  "qname": "R03",
+  "start": "10/06/1992",
+  "end": "11/02/1992",
+  "surveyBy": "ABC News",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News Poll:  1992 Election Daily Tracking Poll",
+  "text": "The candidates in November's (1992) presidential election are George Bush and Dan Quayle the Republicans, Bill Clinton and Al Gore the Democrats, and Ross Perot and James Stockdale the Independents. Suppose the election were being held today. For whom would you vote?",
+  "subpop": "Asked of registered voters",
+  "responses": [
+   [
+    "George Bush including leaners",
+    31
+   ],
+   [
+    "Bill Clinton including leaners",
+    46
+   ],
+   [
+    "Ross Perot including leaners",
+    13
+   ],
+   [
+    "Other/Neither",
+    3
+   ],
+   [
+    "Don't know/No opinion",
+    8
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31086430,
+  "qname": "R03",
+  "start": "10/06/1992",
+  "end": "11/02/1992",
+  "surveyBy": "ABC News",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News Poll:  1992 Election Daily Tracking Poll",
+  "text": "The candidates in November's (1992) presidential election are George Bush and Dan Quayle the Republicans, Bill Clinton and Al Gore the Democrats, and Ross Perot and James Stockdale the Independents. Suppose the election were being held today. For whom would you vote?",
+  "subpop": "Asked of registered voters",
+  "responses": [
+   [
+    "George Bush including leaners",
+    33
+   ],
+   [
+    "Bill Clinton including leaners",
+    41
+   ],
+   [
+    "Ross Perot including leaners",
+    20
+   ],
+   [
+    "Other/Neither",
+    1
+   ],
+   [
+    "Don't know/No opinion",
+    5
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31086430,
+  "qname": "R03",
+  "start": "10/06/1992",
+  "end": "11/02/1992",
+  "surveyBy": "ABC News",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News Poll:  1992 Election Daily Tracking Poll",
+  "text": "The candidates in November's (1992) Presidential election are George Bush and Day Quayle, the Republicans, Bill Clinton and Al Gore, the Democrats, and Ross Perot and James Stockdale, the Independents. Suppose the election were being held today. For whom would you vote?",
+  "subpop": null,
+  "responses": [
+   [
+    "George Bush including leaners",
+    30
+   ],
+   [
+    "Bill Clinton including leaners",
+    49
+   ],
+   [
+    "Ross Perot including leaners",
+    13
+   ],
+   [
+    "Other/Neither (vol.)",
+    1
+   ],
+   [
+    "Don't know/No opinion",
+    7
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31086430,
+  "qname": "R03",
+  "start": "10/06/1992",
+  "end": "11/02/1992",
+  "surveyBy": "ABC News",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News Poll:  1992 Election Daily Tracking Poll",
+  "text": "The candidates in November's (1992) presidential election are George Bush and Dan Quayle the Republicans, Bill Clinton and Al Gore the Democrats, and Ross Perot and James Stockdale the Independents. Suppose the election were being held today. For whom would you vote?",
+  "subpop": "Asked of Republican voters",
+  "responses": [
+   [
+    "George Bush including leaners",
+    34
+   ],
+   [
+    "Bill Clinton including leaners",
+    42
+   ],
+   [
+    "Ross Perot including leaners",
+    12
+   ],
+   [
+    "Other/Neither",
+    4
+   ],
+   [
+    "Don't know/No opinion",
+    7
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31088155,
+  "qname": "Q03",
+  "start": "10/07/1992",
+  "end": "10/09/1992",
+  "surveyBy": "Cable News Network (CNN)/USA Today",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/CNN/USA Today Poll:  Fall Tracking Poll - Phase 1",
+  "text": "If the (1992) Presidential election were being held today, would you vote for the Republican candidates, George Bush and Dan Quayle, for the Democratic candidates, Bill Clinton and Al Gore, or for the Independent candidates, Ross Perot and James Stockdale? (If Other (vol.), Don't know/Refused, ask:) As of today, do you lean more to Bush and Quayle, the Republicans, to Clinton and Gore, the Democrats, or to Perot and Stockdale, the Independents?",
+  "subpop": "Asked of registered voters/plan to register on election day (81%) Candidates names were rotated in Form A and B half samples",
+  "responses": [
+   [
+    "Bush/Quayle, including leaners",
+    35
+   ],
+   [
+    "Clinton/Gore, including leaners",
+    50
+   ],
+   [
+    "Perot/Stockdale, including leaners",
+    11
+   ],
+   [
+    "Other (vol.)",
+    1e-7
+   ],
+   [
+    "Don't know",
+    4
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31088155,
+  "qname": "Q02",
+  "start": "10/07/1992",
+  "end": "10/09/1992",
+  "surveyBy": "Cable News Network (CNN)/USA Today",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/CNN/USA Today Poll:  Fall Tracking Poll - Phase 1",
+  "text": "If the (1992) Presidential election were being held today, would you vote for the Republican candidates, George Bush and Dan Quayle, for the Democratic candidates, Bill Clinton and Al Gore, or for the Independent candidates, Ross Perot and James Stockdale?",
+  "subpop": "Asked of registered voters/plan to register on election day (81%). Candidates names were rotated in Form A and B half samples",
+  "responses": [
+   [
+    "Bush/Quayle",
+    31
+   ],
+   [
+    "Clinton/Gore",
+    49
+   ],
+   [
+    "Perot/Stockdale",
+    9
+   ],
+   [
+    "Other (vol.)",
+    1
+   ],
+   [
+    "Don't know",
+    11
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31098016,
+  "qname": "R03",
+  "start": "10/08/1992",
+  "end": "10/11/1992",
+  "surveyBy": "Times Mirror Center for the People & the Press",
+  "conductedBy": "Princeton Survey Research Associates",
+  "study": "Times Mirror Poll # 1992-PS1092A: Pre Presidential Debate",
+  "text": "If the (1992) presidential election were being held today, would you vote for the Republican ticket of George Bush and Dan Quayle, for the Democratic ticket of Bill Clinton and Al Gore or for the ticket of Ross Perot and James Stockdale? (If 'Other' or 'Undecided,' ask:) As of today, do you lean more to Bush and Quayle the Republicans, more to Clinton and Gore the Democrats or more to Perot and Stockdale?",
+  "subpop": "Registered voters",
+  "responses": [
+   [
+    "Bush",
+    31
+   ],
+   [
+    "Lean Bush",
+    4
+   ],
+   [
+    "Clinton",
+    43
+   ],
+   [
+    "Lean Clinton",
+    5
+   ],
+   [
+    "Perot",
+    7
+   ],
+   [
+    "Lean Perot",
+    1
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31105716,
+  "qname": "R02",
+  "start": "10/08/1992",
+  "end": "10/10/1992",
+  "surveyBy": "VISN Television Network",
+  "conductedBy": "Blum & Weprin Associates, Inc.",
+  "study": "VISN Television Network Poll: October 1992",
+  "text": "If the (1992) election for President were being held today, would you vote for George Bush, the Republican, Bill Clinton, the Democrat, or Ross Perot, the Independent?",
+  "subpop": null,
+  "responses": [
+   [
+    "George Bush",
+    31
+   ],
+   [
+    "Bill Clinton",
+    42
+   ],
+   [
+    "Ross Perot",
+    6
+   ],
+   [
+    "Won't vote (vol.)",
+    1
+   ],
+   [
+    "Not sure (vol.)",
+    18
+   ],
+   [
+    "Refused",
+    2
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31088156,
+  "qname": "Q03",
+  "start": "10/09/1992",
+  "end": "10/11/1992",
+  "surveyBy": "Cable News Network (CNN)/USA Today",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/CNN/USA Today Poll:  Fall Tracking Poll - Phase 1",
+  "text": "If the (1992) Presidential election were being held today, would you vote for the Republican candidates, George Bush and Dan Quayle, for the Democratic candidates, Bill Clinton and Al Gore, or for the Independent candidates, Ross Perot and James Stockdale? (If Other (vol.), Don't know/Refused, ask:) As of today, do you lean more to Bush and Quayle, the Republicans, to Clinton and Gore, the Democrats, or to Perot and Stockdale, the Independents?",
+  "subpop": "Asked of registered voters/plan to register on election day (78%) Candidates names were rotated in Form A and B half samples * = less than .5 percent",
+  "responses": [
+   [
+    "Bush/Quayle, including leaners",
+    33
+   ],
+   [
+    "Clinton/Gore, including leaners",
+    50
+   ],
+   [
+    "Perot/Stockdale, including leaners",
+    10
+   ],
+   [
+    "Other (vol.)",
+    1e-7
+   ],
+   [
+    "Don't know",
+    5
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31088156,
+  "qname": "Q02",
+  "start": "10/09/1992",
+  "end": "10/11/1992",
+  "surveyBy": "Cable News Network (CNN)/USA Today",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/CNN/USA Today Poll:  Fall Tracking Poll - Phase 1",
+  "text": "If the (1992) Presidential election were being held today, would you vote for the Republican candidates, George Bush and Dan Quayle, for the Democratic candidates, Bill Clinton and Al Gore, or for the Independent candidates, Ross Perot and James Stockdale?",
+  "subpop": "Asked of registered voters/plan to register on election day (78%) Candidates names were rotated in Form A and B half samples",
+  "responses": [
+   [
+    "Bush/Quayle",
+    30
+   ],
+   [
+    "Clinton/Gore",
+    46
+   ],
+   [
+    "Perot/Stockdale",
+    9
+   ],
+   [
+    "Other (vol.)",
+    1
+   ],
+   [
+    "Don't know",
+    14
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31088157,
+  "qname": "Q03",
+  "start": "10/10/1992",
+  "end": "10/12/1992",
+  "surveyBy": "Cable News Network (CNN)/USA Today",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/CNN/USA Today Poll:  Fall Tracking Poll - Phase 1",
+  "text": "If the (1992) Presidential election were being held today, would you vote for the Republican candidates, George Bush and Dan Quayle, for the Democratic candidates, Bill Clinton and Al Gore, or for the Independent candidates, Ross Perot and James Stockdale? (If Other (vol.), Don't know/Refused, ask:) As of today, do you lean more to Bush and Quayle, the Republicans, to Clinton and Gore, the Democrats, or to Perot and Stockdale, the Independents?",
+  "subpop": "Asked of registered voters/plan to register on election day (82%). Candidates names were rotated in Form A and B half samples. * = less than .5 percent",
+  "responses": [
+   [
+    "Bush/Quayle, including leaners",
+    34
+   ],
+   [
+    "Clinton/Gore, including leaners",
+    48
+   ],
+   [
+    "Perot/Stockdale, including leaners",
+    12
+   ],
+   [
+    "Other (vol.)",
+    1e-7
+   ],
+   [
+    "Don't know",
+    6
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31088157,
+  "qname": "Q02",
+  "start": "10/10/1992",
+  "end": "10/12/1992",
+  "surveyBy": "Cable News Network (CNN)/USA Today",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/CNN/USA Today Poll:  Fall Tracking Poll - Phase 1",
+  "text": "If the (1992) Presidential election were being held today, would you vote for the Republican candidates, George Bush and Dan Quayle, for the Democratic candidates, Bill Clinton and Al Gore, or for the Independent candidates, Ross Perot and James Stockdale?",
+  "subpop": "Asked of registered voters/plan to register on election day (82%). Candidates names were rotated in Form A and B half samples",
+  "responses": [
+   [
+    "Bush/Quayle",
+    30
+   ],
+   [
+    "Clinton/Gore",
+    44
+   ],
+   [
+    "Perot/Stockdale",
+    10
+   ],
+   [
+    "Other (vol.)",
+    1
+   ],
+   [
+    "Don't know",
+    15
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31086431,
+  "qname": "Q9",
+  "start": "10/11/1992",
+  "end": "10/11/1992",
+  "surveyBy": "ABC News",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News Poll:  1992 Presidential Debate",
+  "text": "The candidates in November's presidential election (1992) are George Bush and Dan Quayle, the Republicans, Bill Clinton and Al Gore, the Democrats and Ross Perot and James Stockdale, the Independents. Suppose the election were being held today. For whom would you vote? (If Don't know/No opinion, No answer/Refused, ask:) Well, do you lean towards Bush, Clinton or Perot?",
+  "subpop": "Asked of those who watched the debate (88%)",
+  "responses": [
+   [
+    "George Bush including leaners",
+    31
+   ],
+   [
+    "Bill Clinton including leaners",
+    46
+   ],
+   [
+    "Ross Perot including leaners",
+    15
+   ],
+   [
+    "Vote for other/Neither (vol.)",
+    6
+   ],
+   [
+    "Don't know/No opinion",
+    1
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31089480,
+  "qname": "QA02",
+  "start": "10/11/1992",
+  "end": "10/11/1992",
+  "surveyBy": "Newsweek Magazine",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/Newsweek Poll # 1992-305050:  Post-First Presidential Debate",
+  "text": "If the (1992) presidential election were being held today, would you vote for the Republican candidates, George Bush and Dan Quayle, for the Democratic candidates, Bill Clinton and Al Gore, or for the Independent candidates, Ross Perot and James Stockdale? (If Other (vol.)/Don't know/Refused, ask:) As of today, do you lean more to Bush and Quayle, the Republican, to Clinton and Gore, the Democrats, or to Perot and Stockdale, the Independents?",
+  "subpop": "Panel of registered voter debate watchers--pre debate interview 10/8-9/92 * = less than .5 percent",
+  "responses": [
+   [
+    "Bush/Quayle including leaners",
+    36
+   ],
+   [
+    "Clinton/Gore including leaners",
+    48
+   ],
+   [
+    "Perot/Stockdale including leaners",
+    11
+   ],
+   [
+    "Other (vol.)",
+    1e-7
+   ],
+   [
+    "Don't know",
+    5
+   ],
+   [
+    "Refused",
+    1e-7
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31086431,
+  "qname": "Q8",
+  "start": "10/11/1992",
+  "end": "10/11/1992",
+  "surveyBy": "ABC News",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News Poll:  1992 Presidential Debate",
+  "text": "The candidates in November's presidential election (1992) are George Bush and Dan Quayle, the Republicans, Bill Clinton and Al Gore, the Democrats and Ross Perot and James Stockdale, the Independents. Suppose the election were being held today. For whom would you vote?",
+  "subpop": "Asked of those who watched the debate (88%)",
+  "responses": [
+   [
+    "George Bush and Dan Quayle",
+    31
+   ],
+   [
+    "Bill Clinton and Al Gore",
+    46
+   ],
+   [
+    "Ross Perot and James Stockdale",
+    14
+   ],
+   [
+    "Vote for other/Neither (vol.)",
+    6
+   ],
+   [
+    "Don't know/No opinion",
+    3
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31089480,
+  "qname": "QA01",
+  "start": "10/11/1992",
+  "end": "10/11/1992",
+  "surveyBy": "Newsweek Magazine",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/Newsweek Poll # 1992-305050:  Post-First Presidential Debate",
+  "text": "If the (1992) presidential election were being held today, would you vote for the Republican candidates, George Bush and Dan Quayle, for the Democratic candidates, Bill Clinton and Al Gore, or for the Independent candidates, Ross Perot and James Stockdale?",
+  "subpop": "Panel of registered voter debate watchers--pre debate interview 10/8-9/92",
+  "responses": [
+   [
+    "Bush/Quayle",
+    33
+   ],
+   [
+    "Clinton/Gore",
+    45
+   ],
+   [
+    "Perot/Stockdale",
+    10
+   ],
+   [
+    "Don't know",
+    11
+   ],
+   [
+    "Refused",
+    1
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31088158,
+  "qname": "Q03",
+  "start": "10/12/1992",
+  "end": "10/14/1992",
+  "surveyBy": "Cable News Network (CNN)/USA Today",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/CNN/USA Today Poll # 1992-322025-08:  Fall Tracking Poll - Phase 1",
+  "text": "If the (1992) Presidential election were being held today, would you vote for the Republican candidates, George Bush and Dan Quayle, for the Democratic candidates, Bill Clinton and Al Gore, or for the Independent candidates, Ross Perot and James Stockdale? (If Other (vol.), Don't know/Refused, ask:) As of today, do you lean more to Bush and Quayle, the Republicans, to Clinton and Gore, the Democrats, or to Perot and Stockdale, the Independents?",
+  "subpop": "Asked of registered voters/plan to register on election day (79%) Candidates names were rotated in Form A and B half samples * = less than .5 percent",
+  "responses": [
+   [
+    "Bush/Quayle, including leaners",
+    32
+   ],
+   [
+    "Clinton/Gore, including leaners",
+    47
+   ],
+   [
+    "Perot/Stockdale, including leaners",
+    15
+   ],
+   [
+    "Other (vol.)",
+    1e-7
+   ],
+   [
+    "Don't know",
+    5
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31091382,
+  "qname": "R09",
+  "start": "10/12/1992",
+  "end": "10/13/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll: Post Debate Reaction Poll",
+  "text": "If the (1992) presidential election were being held today, would you vote for George Bush for President and Dan Quayle for Vice President, the Republican candidates, or for Bill Clinton for President and Al Gore for Vice President, the Democratic candidates, or for Ross Perot for President and James Stockdale for Vice President, Independent candidates?",
+  "subpop": null,
+  "responses": [
+   [
+    "George Bush/Dan Quayle",
+    34
+   ],
+   [
+    "Bill Clinton/Al Gore",
+    47
+   ],
+   [
+    "Ross Perot/James Stockdale",
+    10
+   ],
+   [
+    "Wouldn't vote (vol.)",
+    1
+   ],
+   [
+    "Don't know/No answer",
+    8
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31091382,
+  "qname": "R09A",
+  "start": "10/12/1992",
+  "end": "10/13/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll: Post Debate Reaction Poll",
+  "text": "If the presidential election were being held today, would you vote for George Bush for president and Dan Quayle for vice president, the Republican candidates, Bill Clinton for president and Al Gore for vice-president, the Democratic candidates, or Ross Perot for president and James Stockdale for vice president, independent candidates?",
+  "subpop": null,
+  "responses": [
+   [
+    "Bush/Quayle including leaners",
+    34
+   ],
+   [
+    "Clinton/Gore including leaners",
+    47
+   ],
+   [
+    "Perot/Stockdale including leaners",
+    10
+   ],
+   [
+    "Wouldn't vote (vol.)",
+    1
+   ],
+   [
+    "Don't know/No answer",
+    8
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31088158,
+  "qname": "Q02",
+  "start": "10/12/1992",
+  "end": "10/14/1992",
+  "surveyBy": "Cable News Network (CNN)/USA Today",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/CNN/USA Today Poll # 1992-322025-08:  Fall Tracking Poll - Phase 1",
+  "text": "If the (1992) Presidential election were being held today, would you vote for the Republican candidates, George Bush and Dan Quayle, for the Democratic candidates, Bill Clinton and Al Gore, or for the Independent candidates, Ross Perot and James Stockdale?",
+  "subpop": "Asked of registered voters/plan to register on election day (79%) Candidates names were rotated in Form A and B half samples",
+  "responses": [
+   [
+    "Bush/Quayle",
+    30
+   ],
+   [
+    "Clinton/Gore",
+    44
+   ],
+   [
+    "Perot/Stockdale",
+    12
+   ],
+   [
+    "Other (vol.)",
+    1
+   ],
+   [
+    "Don't know",
+    14
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31086432,
+  "qname": "Q9",
+  "start": "10/13/1992",
+  "end": "10/13/1992",
+  "surveyBy": "ABC News",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News Poll:  1992 Vice-Presidential Debate",
+  "text": "The candidates in November's presidential election (1992) are George Bush and Dan Quayle, the Republicans, Bill Clinton and Al Gore, the Democrats and Ross Perot and James Stockdale, the Independents. Suppose the election were being held today. For whom would you vote? (If Don't know/No opinion, No answer/Refused, ask:) Well, do you lean towards Bush, Clinton or Perot?",
+  "subpop": "Asked of those who watched the debate (85%)",
+  "responses": [
+   [
+    "George Bush including leaners",
+    39
+   ],
+   [
+    "Bill Clinton including leaners",
+    48
+   ],
+   [
+    "Ross Perot including leaners",
+    12
+   ],
+   [
+    "Vote for other/Neither (vol.)",
+    1e-7
+   ],
+   [
+    "Don't know/No opinion",
+    1e-7
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31088159,
+  "qname": "Q03",
+  "start": "10/13/1992",
+  "end": "10/15/1992",
+  "surveyBy": "Cable News Network (CNN)/USA Today",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/CNN/USA Today Poll:  Fall Tracking Poll - Phase 1",
+  "text": "If the (1992) Presidential election were being held today, would you vote for the Republican candidates, George Bush and Dan Quayle, for the Democratic candidates, Bill Clinton and Al Gore, or for the Independent candidates, Ross Perot and James Stockdale? (If Other (vol.), Don't know/Refused, ask:) As of today, do you lean more to Bush and Quayle, the Republicans, to Clinton and Gore, the Democrats, or to Perot and Stockdale, the Independents?",
+  "subpop": "Asked of registered voters/plan to register on election day (80%) Candidates names were rotated in Form A and B half samples * = less than .5 percent",
+  "responses": [
+   [
+    "Bush/Quayle, including leaners",
+    34
+   ],
+   [
+    "Clinton/Gore, including leaners",
+    47
+   ],
+   [
+    "Perot/Stockdale, including leaners",
+    13
+   ],
+   [
+    "Other (vol.)",
+    1e-7
+   ],
+   [
+    "Don't know",
+    5
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31086432,
+  "qname": "Q8",
+  "start": "10/13/1992",
+  "end": "10/13/1992",
+  "surveyBy": "ABC News",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News Poll:  1992 Vice-Presidential Debate",
+  "text": "The candidates in November's presidential election (1992) are George Bush and Dan Quayle, the Republicans, Bill Clinton and Al Gore, the Democrats and Ross Perot and James Stockdale, the Independents. Suppose the election were being held today. For whom would you vote?",
+  "subpop": "Asked of those who watched the debate (85%)",
+  "responses": [
+   [
+    "George Bush and Dan Quayle",
+    38
+   ],
+   [
+    "Bill Clinton and Al Gore",
+    47
+   ],
+   [
+    "Ross Perot and James Stockdale",
+    11
+   ],
+   [
+    "Vote for other/Neither (vol.)",
+    1
+   ],
+   [
+    "Don't know/No opinion",
+    4
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31088159,
+  "qname": "Q02",
+  "start": "10/13/1992",
+  "end": "10/15/1992",
+  "surveyBy": "Cable News Network (CNN)/USA Today",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/CNN/USA Today Poll:  Fall Tracking Poll - Phase 1",
+  "text": "If the (1992) Presidential election were being held today, would you vote for the Republican candidates, George Bush and Dan Quayle, for the Democratic candidates, Bill Clinton and Al Gore, or for the Independent candidates, Ross Perot and James Stockdale?",
+  "subpop": "Asked of registered voters/plan to register on election day (80%) Candidates names were rotated in Form A and B half samples",
+  "responses": [
+   [
+    "Bush/Quayle",
+    32
+   ],
+   [
+    "Clinton/Gore",
+    43
+   ],
+   [
+    "Perot/Stockdale",
+    11
+   ],
+   [
+    "Other (vol.)",
+    1
+   ],
+   [
+    "Don't know",
+    13
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31090764,
+  "qname": "R13A",
+  "start": "10/16/1992",
+  "end": "10/17/1992",
+  "surveyBy": "CBS News",
+  "conductedBy": null,
+  "study": "CBS News Poll:  October National Survey II",
+  "text": "What if Ross Perot were not running. If the 1992 presidential election were being held today, would you vote for George Bush for President and Dan Quayle for Vice President, the Republican candidates, or for Bill Clinton for President and Al Gore for Vice President, the Democratic candidates? (If Don't know/No answer, ask:) Well, as of today, do you lean more towards Bush and Quayle, or more towards Clinton and Gore?",
+  "subpop": "Registered voters",
+  "responses": [
+   [
+    "George Bush/Dan Quayle including leaners",
+    39
+   ],
+   [
+    "Bill Clinton/Al Gore including leaners",
+    54
+   ],
+   [
+    "Wouldn't vote",
+    2
+   ],
+   [
+    "Don't know/No answer",
+    5
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31090764,
+  "qname": "R09A",
+  "start": "10/16/1992",
+  "end": "10/17/1992",
+  "surveyBy": "CBS News",
+  "conductedBy": null,
+  "study": "CBS News Poll:  October National Survey II",
+  "text": "If the 1992 presidential election were being held today, would you vote for George Bush for President and Dan Quayle for Vice President, the Republican candidates, or for Bill Clinton for President and Al Gore for Vice President, the Democratic candidates, or for Ross Perot for President and James Stockdale for Vice President, Independent candidates? (If Don't know/No answer, ask:) Well, as of today, do you lean more towards Bush and Quayle, more towards Clinton and Gore, or more towards Perot and Stockdale?",
+  "subpop": "Registered voters",
+  "responses": [
+   [
+    "George Bush/Dan Quayle including leaners",
+    33
+   ],
+   [
+    "Bill Clinton/Al Gore including leaners",
+    50
+   ],
+   [
+    "Ross Perot/James Stockdale including leaners",
+    13
+   ],
+   [
+    "Don't know/No answer",
+    4
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31088160,
+  "qname": "Q03",
+  "start": "10/16/1992",
+  "end": "10/18/1992",
+  "surveyBy": "Cable News Network (CNN)/USA Today",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/CNN/USA Today Poll:  Fall Tracking Poll - Phase 1",
+  "text": "If the (1992) Presidential election were being held today, would you vote for the Republican candidates, George Bush and Dan Quayle, for the Democratic candidates, Bill Clinton and Al Gore, or for the Independent candidates, Ross Perot and James Stockdale? (If Other (vol.), Don't know/Refused, ask:) As of today, do you lean more to Bush and Quayle, the Republicans, to Clinton and Gore, the Democrats, or to Perot and Stockdale, the Independents?",
+  "subpop": "Asked of registered voters/plan to register on election day (82%) Candidates names were rotated in Form A and B half samples * = less than .5 percent",
+  "responses": [
+   [
+    "Bush/Quayle, including leaners",
+    31
+   ],
+   [
+    "Clinton/Gore, including leaners",
+    49
+   ],
+   [
+    "Perot/Stockdale, including leaners",
+    15
+   ],
+   [
+    "Other (vol.)",
+    1e-7
+   ],
+   [
+    "Don't know",
+    6
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31090764,
+  "qname": "R13",
+  "start": "10/16/1992",
+  "end": "10/17/1992",
+  "surveyBy": "CBS News",
+  "conductedBy": null,
+  "study": "CBS News Poll:  October National Survey II",
+  "text": "What if Ross Perot were not running. If the 1992 presidential election were being held today, would you vote for George Bush for President and Dan Quayle for Vice President, the Republican candidates, or for Bill Clinton for President and Al Gore for Vice President, the Democratic candidates?",
+  "subpop": "Registered voters",
+  "responses": [
+   [
+    "George Bush/Dan Quayle",
+    39
+   ],
+   [
+    "Bill Clinton/Al Gore",
+    53
+   ],
+   [
+    "Wouldn't vote (vol.)",
+    2
+   ],
+   [
+    "Don't know/No answer",
+    6
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31088160,
+  "qname": "Q02",
+  "start": "10/16/1992",
+  "end": "10/18/1992",
+  "surveyBy": "Cable News Network (CNN)/USA Today",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/CNN/USA Today Poll:  Fall Tracking Poll - Phase 1",
+  "text": "If the (1992) Presidential election were being held today, would you vote for the Republican candidates, George Bush and Dan Quayle, for the Democratic candidates, Bill Clinton and Al Gore, or for the Independent candidates, Ross Perot and James Stockdale?",
+  "subpop": "Asked of registered voters/plan to register on election day (82%) Candidates names were rotated in Form A and B half samples * = less than .5 percent",
+  "responses": [
+   [
+    "Bush/Quayle",
+    28
+   ],
+   [
+    "Clinton/Gore",
+    45
+   ],
+   [
+    "Perot/Stockdale",
+    13
+   ],
+   [
+    "Other (vol.)",
+    1e-7
+   ],
+   [
+    "Don't know",
+    15
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31090764,
+  "qname": "R09",
+  "start": "10/16/1992",
+  "end": "10/17/1992",
+  "surveyBy": "CBS News",
+  "conductedBy": null,
+  "study": "CBS News Poll:  October National Survey II",
+  "text": "If the 1992 presidential election were being held today, would you vote for George Bush for President and Dan Quayle for Vice President, the Republican candidates, or for Bill Clinton for President and Al Gore for Vice President, the Democratic candidates, or for Ross Perot for President and James Stockdale for Vice President, Independent candidates?",
+  "subpop": "Registered voters",
+  "responses": [
+   [
+    "George Bush/Dan Quayle",
+    31
+   ],
+   [
+    "Bill Clinton/Al Gore",
+    47
+   ],
+   [
+    "Ross Perot/James Stockdale",
+    11
+   ],
+   [
+    "Don't know/No answer",
+    11
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31088161,
+  "qname": "Q03",
+  "start": "10/17/1992",
+  "end": "10/19/1992",
+  "surveyBy": "Cable News Network (CNN)/USA Today",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/CNN/USA Today Poll:  Fall Tracking Poll - Phase 1",
+  "text": "If the (1992) Presidential election were being held today, would you vote for the Republican candidates, George Bush and Dan Quayle, for the Democratic candidates, Bill Clinton and Al Gore, or for the Independent candidates, Ross Perot and James Stockdale? (If Other (vol.), Don't know/Refused, ask:) As of today, do you lean more to Bush and Quayle, the Republicans, to Clinton and Gore, the Democrats, or to Perot and Stockdale, the Independents?",
+  "subpop": "Asked of registered voters/plan to register on election day (81%) Candidates names were rotated in Form A and B half samples * = less than .5 percent",
+  "responses": [
+   [
+    "Bush/Quayle, including leaners",
+    30
+   ],
+   [
+    "Clinton/Gore, including leaners",
+    48
+   ],
+   [
+    "Perot/Stockdale, including leaners",
+    15
+   ],
+   [
+    "Other (vol.)",
+    1e-7
+   ],
+   [
+    "Don't know",
+    7
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31088161,
+  "qname": "Q02",
+  "start": "10/17/1992",
+  "end": "10/19/1992",
+  "surveyBy": "Cable News Network (CNN)/USA Today",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/CNN/USA Today Poll:  Fall Tracking Poll - Phase 1",
+  "text": "If the (1992) Presidential election were being held today, would you vote for the Republican candidates, George Bush and Dan Quayle, for the Democratic candidates, Bill Clinton and Al Gore, or for the Independent candidates, Ross Perot and James Stockdale?",
+  "subpop": "Asked of registered voters/plan to register on election day (81%) Candidates names were rotated in Form A and B half samples",
+  "responses": [
+   [
+    "Bush/Quayle",
+    27
+   ],
+   [
+    "Clinton/Gore",
+    44
+   ],
+   [
+    "Perot/Stockdale",
+    13
+   ],
+   [
+    "Other (vol.)",
+    1
+   ],
+   [
+    "Don't know",
+    15
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31086433,
+  "qname": "Q9",
+  "start": "10/19/1992",
+  "end": "10/19/1992",
+  "surveyBy": "ABC News",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News Poll:  1992 Presidential Debate #2",
+  "text": "The candidates in November's presidential election (1992) are George Bush and Dan Quayle, the Republicans, Bill Clinton and Al Gore, the Democrats and Ross Perot and James Stockdale, the Independents. Suppose the election were being held today. For whom would you vote? (If Don't know/No opinion, No answer/Refused, ask:) Well, do you lean towards Bush, Clinton or Perot?",
+  "subpop": "Asked of those who watched the debate (92%)",
+  "responses": [
+   [
+    "George Bush",
+    29
+   ],
+   [
+    "Bill Clinton",
+    49
+   ],
+   [
+    "Ross Perot",
+    20
+   ],
+   [
+    "Vote for other/Neither (vol.)",
+    1e-7
+   ],
+   [
+    "Don't know/No opinion",
+    2
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31086433,
+  "qname": "R2",
+  "start": "10/19/1992",
+  "end": "10/19/1992",
+  "surveyBy": "ABC News",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News Poll:  1992 Presidential Debate #2",
+  "text": "The candidates in November's (1992) Presidential election are George Bush and Day Quayle, the Republicans, Bill Clinton and Al Gore, the Democrats, and Ross Perot and James Stockdale the Independents. Suppose the election were being held today. For whom would you vote?",
+  "subpop": null,
+  "responses": [
+   [
+    "Bush",
+    29
+   ],
+   [
+    "Clinton",
+    48
+   ],
+   [
+    "Perot",
+    19
+   ],
+   [
+    "Don't know",
+    4
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31088165,
+  "qname": "QA03",
+  "start": "10/19/1992",
+  "end": "10/19/1992",
+  "surveyBy": "Cable News Network (CNN)/USA Today",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/CNN/USA Today Poll:  Second Debate Reaction Special",
+  "text": "If the (1992) presidential election were being held today, would you vote for the Republican candidates, George Bush and Dan Quayle, for the Democratic candidates, Bill Clinton and Al Gore, or for the Independent candidates, Ross Perot and James Stockdale? (If Other (vol.)/Don't know/Refused, ask:) As of today, do you lean more to Bush/Quayle, the Republicans, to Clinton and Gore, the Democrats, or to Perot and Stockdale, the Independents?",
+  "subpop": "Panel of registered voter debate watchers-pre debate interview October 15-18, 1992 The order of the candidate's names was reversed in each half sample A and B * = less than .5 percent",
+  "responses": [
+   [
+    "Bush/Quayle including leaners",
+    36
+   ],
+   [
+    "Clinton/Gore including leaners",
+    47
+   ],
+   [
+    "Perot/Stockdale including leaners",
+    13
+   ],
+   [
+    "Other (vol.)",
+    1e-7
+   ],
+   [
+    "Don't know",
+    4
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31105732,
+  "qname": "R06A",
+  "start": "10/19/1992",
+  "end": "10/19/1992",
+  "surveyBy": "CBS News",
+  "conductedBy": null,
+  "study": "CBS News Poll: October 1992",
+  "text": "If the (1992) presidential election were being held today, would you vote for George Bush for President and Dan Quayle for Vice President, the Republican candidates, Bill Clinton for President, and Al Gore for Vice President, the Democratic candidates, or Ross Perot for President and James Stockdale for Vice President, Independent candidates? (If Don't know/No answer, ask:) Well, as of today, do you lean more towards Bush and Quayle, or more towards Clinton and Gore, or more towards Perot and Stockdale?",
+  "subpop": null,
+  "responses": [
+   [
+    "Bush/Quayle including leaners",
+    33
+   ],
+   [
+    "Clinton/Gore including leaners",
+    48
+   ],
+   [
+    "Perot/Stockdale",
+    16
+   ],
+   [
+    "Don't know/No answer",
+    3
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31086433,
+  "qname": "Q8",
+  "start": "10/19/1992",
+  "end": "10/19/1992",
+  "surveyBy": "ABC News",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News Poll:  1992 Presidential Debate #2",
+  "text": "The candidates in November's presidential election (1992) are George Bush and Dan Quayle, the Republicans, Bill Clinton and Al Gore, the Democrats and Ross Perot and James Stockdale, the Independents. Suppose the election were being held today. For whom would you vote?",
+  "subpop": "Asked of those who watched the debate (92%)",
+  "responses": [
+   [
+    "George Bush and Dan Quayle",
+    28
+   ],
+   [
+    "Bill Clinton and Al Gore",
+    48
+   ],
+   [
+    "Ross Perot and James Stockdale",
+    19
+   ],
+   [
+    "Vote for other/Neither (vol.)",
+    1e-7
+   ],
+   [
+    "Don't know/No opinion",
+    5
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31105732,
+  "qname": "R06",
+  "start": "10/19/1992",
+  "end": "10/19/1992",
+  "surveyBy": "CBS News",
+  "conductedBy": null,
+  "study": "CBS News Poll: October 1992",
+  "text": "If the (1992) presidential election were being held today, would you vote for George Bush for President and Dan Quayle for Vice President, the Republican candidates, Bill Clinton for President, and Al Gore for Vice President, the Democratic candidates, or Ross Perot for President and James Stockdale for Vice President, Independent candidates?",
+  "subpop": null,
+  "responses": [
+   [
+    "Bush/Quayle",
+    33
+   ],
+   [
+    "Clinton/Gore",
+    44
+   ],
+   [
+    "Perot/Stockdale",
+    15
+   ],
+   [
+    "Don't know/No answer",
+    8
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31088165,
+  "qname": "QA02",
+  "start": "10/19/1992",
+  "end": "10/19/1992",
+  "surveyBy": "Cable News Network (CNN)/USA Today",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/CNN/USA Today Poll:  Second Debate Reaction Special",
+  "text": "If the (1992) presidential election were being held today, would you vote for the Republican candidates, George Bush and Dan Quayle, for the Democratic candidates, Bill Clinton and Al Gore, or for the Independent candidates, Ross Perot and James Stockdale?",
+  "subpop": "Panel of registered voter debate watchers-pre debate interview October 15-18, 1992 The order of the candidate's names was reversed in each half sample A and B",
+  "responses": [
+   [
+    "Bush/Quayle",
+    34
+   ],
+   [
+    "Clinton/Gore",
+    44
+   ],
+   [
+    "Perot/Stockdale",
+    12
+   ],
+   [
+    "Other (vol.)",
+    1
+   ],
+   [
+    "Don't know",
+    9
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31094733,
+  "qname": "R06A",
+  "start": "10/20/1992",
+  "end": "10/21/1992",
+  "surveyBy": "NBC News/Wall Street Journal",
+  "conductedBy": "Hart-Breglio Research Companies",
+  "study": "NBC News/Wall Street Journal Poll:  1992 Presidential Election",
+  "text": "If the 1992 presidential election were held today and the candidates were George Bush, the Republican, Bill Clinton, the Democrat, and Ross Perot, the Independent, for whom would you vote--George Bush, Bill Clinton, or Ross Perot? (If 'Not sure,' ask:) Well, which way do you lean?",
+  "subpop": null,
+  "responses": [
+   [
+    "George Bush",
+    25
+   ],
+   [
+    "Lean George Bush",
+    3
+   ],
+   [
+    "Bill Clinton",
+    44
+   ],
+   [
+    "Lean Bill Clinton",
+    3
+   ],
+   [
+    "Ross Perot",
+    17
+   ],
+   [
+    "Lean Ross Perot",
+    2
+   ],
+   [
+    "None (vol.)",
+    1
+   ],
+   [
+    "Not sure",
+    5
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31098017,
+  "qname": "R03",
+  "start": "10/20/1992",
+  "end": "10/22/1992",
+  "surveyBy": "Times Mirror Center for the People & the Press",
+  "conductedBy": "Princeton Survey Research Associates",
+  "study": "Times Mirror Poll # 1992-PS1092B: Post Presidential Debate--Callback",
+  "text": "If the (1992) presidential election were being held today, would you vote for the Republican ticket of George Bush and Dan Quayle, for the Democratic ticket of Bill Clinton and Al Gore or for the ticket of Ross Perot and James Stockdale? (If 'Other' or 'Undecided,' ask:) As of today, do you lean more to Bush and Quayle the Republicans, more to Clinton and Gore the Democrats or more to Perot and Stockdale?",
+  "subpop": null,
+  "responses": [
+   [
+    "Bush",
+    32
+   ],
+   [
+    "Lean Bush",
+    2
+   ],
+   [
+    "Clinton",
+    42
+   ],
+   [
+    "Lean Clinton",
+    2
+   ],
+   [
+    "Perot",
+    17
+   ],
+   [
+    "Lean Perot",
+    2
+   ],
+   [
+    "Other/Undecided",
+    3
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31105762,
+  "qname": "R1",
+  "start": "10/20/1992",
+  "end": "10/22/1992",
+  "surveyBy": "Louis Harris & Associates",
+  "conductedBy": null,
+  "study": "Louis Harris & Associates Poll: October 1992",
+  "text": "If the (1992) Presidential election were held today, who would you most likely vote for--George Bush for the Republicans or Bill Clinton for the Democrats (or Bill Clinton for the Democrats or George Bush for the Republicans) or Ross Perot as an Independent? (If 'Not sure' or 'None of these,' ask:) Well if you had to say, would you lean toward George Bush or Bill Clinton (or Bill Clinton or George Bush) or Ross Perot?",
+  "subpop": "Likely voters",
+  "responses": [
+   [
+    "George Bush including leaners",
+    32
+   ],
+   [
+    "Bill Clinton including leaners",
+    46
+   ],
+   [
+    "Ross Perot including leaners",
+    18
+   ],
+   [
+    "None of these (vol.)",
+    1e-7
+   ],
+   [
+    "Not sure",
+    4
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31099268,
+  "qname": "R04",
+  "start": "10/20/1992",
+  "end": "10/22/1992",
+  "surveyBy": "Time Magazine/Cable News Network (CNN)",
+  "conductedBy": "Yankelovich Clancy Shulman",
+  "study": "Yankelovich/Time Magazine/CNN Poll:  1992 Presidential Election",
+  "text": "Suppose the election for President were being held today, and you had to choose between George Bush and Dan Quayle, the Republican candidates, Bill Clinton and Al Gore, the Democratic candidates, and Ross Perot and James Stockdale, the Independent candidates. For whom would you vote--Bush and Quayle, Clinton and Gore, or Perot and Stockdale? (If Not sure, ask:) Even though you haven't made up your mind yet, do you lean toward supporting Bush, or toward supporting Clinton, or toward supporting Perot?",
+  "subpop": "Asked of registered voters (78%)",
+  "responses": [
+   [
+    "Bush including leaners",
+    33
+   ],
+   [
+    "Clinton including leaners",
+    41
+   ],
+   [
+    "Perot including leaners",
+    19
+   ],
+   [
+    "Not sure",
+    7
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31099268,
+  "qname": "R02",
+  "start": "10/20/1992",
+  "end": "10/22/1992",
+  "surveyBy": "Time Magazine/Cable News Network (CNN)",
+  "conductedBy": "Yankelovich Clancy Shulman",
+  "study": "Yankelovich/Time Magazine/CNN Poll:  1992 Presidential Election",
+  "text": "Suppose the (1992) election for President were being held today, and you had to choose between George Bush and Dan Quayle, the Republican candidates, Bill Clinton and Al Gore, the Democratic candidates, and Ross Perot and James Stockdale, the Independent candidates. For whom would you vote--Bush and Quayle, Clinton and Gore, or Perot and Stockdale?",
+  "subpop": "Asked of registered voters (78% of sample)",
+  "responses": [
+   [
+    "Bush",
+    31
+   ],
+   [
+    "Clinton",
+    38
+   ],
+   [
+    "Perot",
+    17
+   ],
+   [
+    "Not sure",
+    14
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31094733,
+  "qname": "R08",
+  "start": "10/20/1992",
+  "end": "10/21/1992",
+  "surveyBy": "NBC News/Wall Street Journal",
+  "conductedBy": "Hart-Breglio Research Companies",
+  "study": "NBC News/Wall Street Journal Poll:  1992 Presidential Election",
+  "text": "I would like to read you the full ticket of each candidate for President (1992). If the Presidential election were held today between George Bush and Dan Quayle, the Republicans, Bill Clinton and Al Gore, the Democrats, and Ross Perot and James Stockdale, the Independents, for whom would you vote--Bush and Quayle, Clinton and Gore, or Perot and Stockdale? (If 'Not sure,' ask:) Well, which way do you lean?",
+  "subpop": null,
+  "responses": [
+   [
+    "Bush and Quayle including leaners",
+    26
+   ],
+   [
+    "Clinton and Gore including leaners",
+    49
+   ],
+   [
+    "Perot and Stockdale including leaners",
+    18
+   ],
+   [
+    "None (vol.)",
+    1
+   ],
+   [
+    "Not sure",
+    4
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31088163,
+  "qname": "R1",
+  "start": "10/20/1992",
+  "end": "11/02/1992",
+  "surveyBy": "Cable News Network (CNN)/USA Today",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/CNN/USA Today Poll:  Fall Tracking Poll - Phase 2 and 3 Cumulative File",
+  "text": "If the presidential election were being held today, would you vote for the Republican candidates, George Bush and Dan Quayle, for the Democratic candidates, Bill Clinton and Al Gore, or for the Independent candidates, Ross Perot and James Stockdale? (If Undecided, ask:) As of today, do you lean more to Bush and Quayle, the Republicans, to Clinton and Gore, the Democrats, or to Perot and Stockdale, the Independents?",
+  "subpop": "Likely voters",
+  "responses": [
+   [
+    "Bush including leaners",
+    36
+   ],
+   [
+    "Clinton including leaners",
+    44
+   ],
+   [
+    "Perot including leaners",
+    14
+   ],
+   [
+    "Other/Undecided",
+    6
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31088162,
+  "qname": "Q03",
+  "start": "10/20/1992",
+  "end": "10/21/1992",
+  "surveyBy": "Cable News Network (CNN)/USA Today",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/CNN/USA Today Poll:  Fall Tracking Poll - Phase 1",
+  "text": "If the (1992) Presidential election were being held today, would you vote for the Republican candidates, George Bush and Dan Quayle, for the Democratic candidates, Bill Clinton and Al Gore, or for the Independent candidates, Ross Perot and James Stockdale? (If Other (vol.), Don't know/Refused, ask:) As of today, do you lean more to Bush and Quayle, the Republicans, to Clinton and Gore, the Democrats, or to Perot and Stockdale, the Independents?",
+  "subpop": "Asked of registered voters/plan to register on election day (80%) Candidates names were rotated in Form A and B half samples",
+  "responses": [
+   [
+    "Bush/Quayle, including leaners",
+    33
+   ],
+   [
+    "Clinton/Gore, including leaners",
+    45
+   ],
+   [
+    "Perot/Stockdale, including leaners",
+    17
+   ],
+   [
+    "Other (vol.)",
+    1e-7
+   ],
+   [
+    "Don't know",
+    5
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31088163,
+  "qname": "Q03",
+  "start": "10/20/1992",
+  "end": "11/02/1992",
+  "surveyBy": "Cable News Network (CNN)/USA Today",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/CNN/USA Today Poll:  Fall Tracking Poll - Phase 2 and 3 Cumulative File",
+  "text": "If the (1992) Presidential election were being held today, would you vote for the Republican candidates, George Bush and Dan Quayle, for the Democratic candidates, Bill Clinton and Al Gore, or for the Independent candidates, Ross Perot and James Stockdale? (If Other (vol.), Don't know/Refused, ask:) As of today, do you lean more to Bush and Quayle, the Republicans, to Clinton and Gore, the Democrats, or to Perot and Stockdale, the Independents?",
+  "subpop": "Registered voters/plan to register on election day who are likely to vote in the 1992 presidential election Candidates names were rotated in Form A and B half samples * = less than .5 percent",
+  "responses": [
+   [
+    "Bush/Quayle, including leaners",
+    34
+   ],
+   [
+    "Clinton/Gore, including leaners",
+    44
+   ],
+   [
+    "Perot/Stockdale, including leaners",
+    18
+   ],
+   [
+    "Other (vol.)",
+    1e-7
+   ],
+   [
+    "Don't know",
+    5
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31096474,
+  "qname": "R02",
+  "start": "10/20/1992",
+  "end": "10/21/1992",
+  "surveyBy": "U.S. News & World Report",
+  "conductedBy": "Princeton Survey Research Associates",
+  "study": "U.S. News and World Report Survey:  Economic Attitudes IV",
+  "text": "If the (1992) presidential election were being held today, would you vote for the Republican ticket of George Bush and Dan Quayle, for the Democratic ticket of Bill Clinton and Al Gore, or for the ticket of Ross Perot and James Stockdale? (If Other or Undecided, ask:) As of today, do you lean more to Bush and Quayle, the Republicans, to Clinton and Gore, the Democrats, or to Perot and Stockdale?",
+  "subpop": "Registered voters (85%)",
+  "responses": [
+   [
+    "Bush/Quayle including leaners",
+    31
+   ],
+   [
+    "Clinton/Gore including leaners",
+    45
+   ],
+   [
+    "Perot/Stockdale including leaners",
+    20
+   ],
+   [
+    "Other/Undecided",
+    4
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31088163,
+  "qname": "Q03",
+  "start": "10/20/1992",
+  "end": "11/02/1992",
+  "surveyBy": "Cable News Network (CNN)/USA Today",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/CNN/USA Today Poll:  Fall Tracking Poll - Phase 2 and 3 Cumulative File",
+  "text": "If the (1992) Presidential election were being held today, would you vote for the Republican candidates, George Bush and Dan Quayle, for the Democratic candidates, Bill Clinton and Al Gore, or for the Independent candidates, Ross Perot and James Stockdale? (If Other (vol.), Don't know/Refused, ask:) As of today, do you lean more to Bush and Quayle, the Republicans, to Clinton and Gore, the Democrats, or to Perot and Stockdale, the Independents?",
+  "subpop": "Registered voters/plan to register on election day who are likely to vote in the 1992 presidential election Candidates names were rotated in Form A and B half samples * = less than .5 percent",
+  "responses": [
+   [
+    "Bush/Quayle, including leaners",
+    38
+   ],
+   [
+    "Clinton/Gore, including leaners",
+    41
+   ],
+   [
+    "Perot/Stockdale, including leaners",
+    16
+   ],
+   [
+    "Other (vol.)",
+    1e-7
+   ],
+   [
+    "Don't know",
+    4
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31088163,
+  "qname": "Q03",
+  "start": "10/20/1992",
+  "end": "11/02/1992",
+  "surveyBy": "Cable News Network (CNN)/USA Today",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/CNN/USA Today Poll:  Fall Tracking Poll - Phase 2 and 3 Cumulative File",
+  "text": "If the (1992) Presidential election were being held today, would you vote for the Republican candidates, George Bush and Dan Quayle, for the Democratic candidates, Bill Clinton and Al Gore, or for the Independent candidates, Ross Perot and James Stockdale? (If Other (vol.), Don't know/Refused, ask:) As of today, do you lean more to Bush and Quayle, the Republicans, to Clinton and Gore, the Democrats, or to Perot and Stockdale, the Independents?",
+  "subpop": "Registered voters/plan to register on election day who are likely to vote in the 1992 presidential election Candidates names were rotated in Form A and B half samples * = less than .5 percent",
+  "responses": [
+   [
+    "Bush/Quayle, including leaners",
+    37
+   ],
+   [
+    "Clinton/Gore, including leaners",
+    45
+   ],
+   [
+    "Perot/Stockdale, including leaners",
+    14
+   ],
+   [
+    "Other (vol.)",
+    1e-7
+   ],
+   [
+    "Don't know",
+    3
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31088163,
+  "qname": "Q03",
+  "start": "10/20/1992",
+  "end": "11/02/1992",
+  "surveyBy": "Cable News Network (CNN)/USA Today",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/CNN/USA Today Poll:  Fall Tracking Poll - Phase 2 and 3 Cumulative File",
+  "text": "If the (1992) Presidential election were being held today, would you vote for the Republican candidates, George Bush and Dan Quayle, for the Democratic candidates, Bill Clinton and Al Gore, or for the Independent candidates, Ross Perot and James Stockdale? (If Other (vol.), Don't know/Refused, ask:) As of today, do you lean more to Bush and Quayle, the Republicans, to Clinton and Gore, the Democrats, or to Perot and Stockdale, the Independents?",
+  "subpop": "Registered voters/plan to register on election day who are likely to vote in the 1992 presidential election Candidates names were rotated in Form A and B half samples * = less than .5 percent",
+  "responses": [
+   [
+    "Bush/Quayle, including leaners",
+    33
+   ],
+   [
+    "Clinton/Gore, including leaners",
+    42
+   ],
+   [
+    "Perot/Stockdale, including leaners",
+    19
+   ],
+   [
+    "Other (vol.)",
+    1e-7
+   ],
+   [
+    "Don't know",
+    5
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31088163,
+  "qname": "Q03",
+  "start": "10/20/1992",
+  "end": "11/02/1992",
+  "surveyBy": "Cable News Network (CNN)/USA Today",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/CNN/USA Today Poll:  Fall Tracking Poll - Phase 2 and 3 Cumulative File",
+  "text": "If the (1992) Presidential election were being held today, would you vote for the Republican candidates, George Bush and Dan Quayle, for the Democratic candidates, Bill Clinton and Al Gore, or for the Independent candidates, Ross Perot and James Stockdale? (If Other (vol.), Don't know/Refused, ask:) As of today, do you lean more to Bush and Quayle, the Republicans, to Clinton and Gore, the Democrats, or to Perot and Stockdale, the Independents?",
+  "subpop": "Registered voters/plan to register on election day who are likely to vote in the 1992 presidential election Candidates names were rotated in Form A and B half samples * = less than .5 percent",
+  "responses": [
+   [
+    "Bush/Quayle, including leaners",
+    37
+   ],
+   [
+    "Clinton/Gore, including leaners",
+    43
+   ],
+   [
+    "Perot/Stockdale, including leaners",
+    16
+   ],
+   [
+    "Other (vol.)",
+    1e-7
+   ],
+   [
+    "Don't know",
+    3
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31088163,
+  "qname": "Q03",
+  "start": "10/20/1992",
+  "end": "11/02/1992",
+  "surveyBy": "Cable News Network (CNN)/USA Today",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/CNN/USA Today Poll:  Fall Tracking Poll - Phase 2 and 3 Cumulative File",
+  "text": "If the (1992) Presidential election were being held today, would you vote for the Republican candidates, George Bush and Dan Quayle, for the Democratic candidates, Bill Clinton and Al Gore, or for the Independent candidates, Ross Perot and James Stockdale? (If Other (vol.), Don't know/Refused, ask:) As of today, do you lean more to Bush and Quayle, the Republicans, to Clinton and Gore, the Democrats, or to Perot and Stockdale, the Independents?",
+  "subpop": "Registered voters/plan to register on election day who are likely to vote in the 1992 presidential election Candidates names were rotated in Form A and B half samples * = less than .5 percent",
+  "responses": [
+   [
+    "Bush/Quayle, including leaners",
+    41
+   ],
+   [
+    "Clinton/Gore, including leaners",
+    41
+   ],
+   [
+    "Perot/Stockdale, including leaners",
+    14
+   ],
+   [
+    "Other (vol.)",
+    1e-7
+   ],
+   [
+    "Don't know",
+    3
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31088163,
+  "qname": "Q02",
+  "start": "10/20/1992",
+  "end": "11/02/1992",
+  "surveyBy": "Cable News Network (CNN)/USA Today",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/CNN/USA Today Poll:  Fall Tracking Poll - Phase 2 and 3 Cumulative File",
+  "text": "If the (1992) Presidential election were being held today, would you vote for the Republican candidates, George Bush and Dan Quayle, for the Democratic candidates, Bill Clinton and Al Gore, or for the Independent candidates, Ross Perot and James Stockdale?",
+  "subpop": "Registered voters/plan to register on election day who are likely to vote in the 1992 presidential election Candidates names were rotated in Form A and B half samples",
+  "responses": [
+   [
+    "Bush/Quayle",
+    33
+   ],
+   [
+    "Clinton/Gore",
+    41
+   ],
+   [
+    "Perot/Stockdale",
+    17
+   ],
+   [
+    "Other (vol.)",
+    1
+   ],
+   [
+    "Don't know",
+    9
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31105822,
+  "qname": "R20",
+  "start": "10/20/1992",
+  "end": "11/02/1992",
+  "surveyBy": "Markle Foundation",
+  "conductedBy": "Princeton Survey Research Associates",
+  "study": "Markle Foundation Poll: October 1992",
+  "text": "If the presidential election (1992) were being held today, would you vote for the Republican ticket of George Bush and Dan Quayle, or for the Democratic ticket of Bill Clinton and Al Gore?",
+  "subpop": null,
+  "responses": [
+   [
+    "Bush/Quayle",
+    32
+   ],
+   [
+    "Clinton/Gore",
+    41
+   ],
+   [
+    "Perot/Stockdale (vol.)",
+    19
+   ],
+   [
+    "Other (vol.)",
+    1e-7
+   ],
+   [
+    "Don't plan to vote (vol.)",
+    1e-7
+   ],
+   [
+    "Not eligible to vote (vol.)",
+    1
+   ],
+   [
+    "Don't know",
+    4
+   ],
+   [
+    "Refused",
+    3
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31088163,
+  "qname": "Q02",
+  "start": "10/20/1992",
+  "end": "11/02/1992",
+  "surveyBy": "Cable News Network (CNN)/USA Today",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/CNN/USA Today Poll:  Fall Tracking Poll - Phase 2 and 3 Cumulative File",
+  "text": "If the (1992) Presidential election were being held today, would you vote for the Republican candidates, George Bush and Dan Quayle, for the Democratic candidates, Bill Clinton and Al Gore, or for the Independent candidates, Ross Perot and James Stockdale?",
+  "subpop": "Registered voters/plan to register on election day who are likely to vote in the 1992 presidential election Candidates names were rotated in Form A and B half samples",
+  "responses": [
+   [
+    "Bush/Quayle",
+    35
+   ],
+   [
+    "Clinton/Gore",
+    42
+   ],
+   [
+    "Perot/Stockdale",
+    14
+   ],
+   [
+    "Other (vol.)",
+    1
+   ],
+   [
+    "Don't know",
+    8
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31088163,
+  "qname": "Q02",
+  "start": "10/20/1992",
+  "end": "11/02/1992",
+  "surveyBy": "Cable News Network (CNN)/USA Today",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/CNN/USA Today Poll:  Fall Tracking Poll - Phase 2 and 3 Cumulative File",
+  "text": "If the (1992) Presidential election were being held today, would you vote for the Republican candidates, George Bush and Dan Quayle, for the Democratic candidates, Bill Clinton and Al Gore, or for the Independent candidates, Ross Perot and James Stockdale?",
+  "subpop": "Registered voters/plan to register on election day who are likely to vote in the 1992 presidential election Candidates names were rotated in Form A and B half samples",
+  "responses": [
+   [
+    "Bush/Quayle",
+    30
+   ],
+   [
+    "Clinton/Gore",
+    40
+   ],
+   [
+    "Perot/Stockdale",
+    17
+   ],
+   [
+    "Other (vol.)",
+    1
+   ],
+   [
+    "Don't know",
+    12
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31088163,
+  "qname": "Q02",
+  "start": "10/20/1992",
+  "end": "11/02/1992",
+  "surveyBy": "Cable News Network (CNN)/USA Today",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/CNN/USA Today Poll:  Fall Tracking Poll - Phase 2 and 3 Cumulative File",
+  "text": "If the (1992) Presidential election were being held today, would you vote for the Republican candidates, George Bush and Dan Quayle, for the Democratic candidates, Bill Clinton and Al Gore, or for the Independent candidates, Ross Perot and James Stockdale?",
+  "subpop": "Registered voters/plan to register on election day who are likely to vote in the 1992 presidential election Candidates names were rotated in Form A and B half samples",
+  "responses": [
+   [
+    "Bush/Quayle",
+    39
+   ],
+   [
+    "Clinton/Gore",
+    39
+   ],
+   [
+    "Perot/Stockdale",
+    13
+   ],
+   [
+    "Other (vol.)",
+    1
+   ],
+   [
+    "Don't know",
+    8
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31088162,
+  "qname": "Q02",
+  "start": "10/20/1992",
+  "end": "10/21/1992",
+  "surveyBy": "Cable News Network (CNN)/USA Today",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/CNN/USA Today Poll:  Fall Tracking Poll - Phase 1",
+  "text": "If the (1992) Presidential election were being held today, would you vote for the Republican candidates, George Bush and Dan Quayle, for the Democratic candidates, Bill Clinton and Al Gore, or for the Independent candidates, Ross Perot and James Stockdale?",
+  "subpop": "Asked of registered voters/plan to register on election day (80%) Candidates names were rotated in Form A and B half samples * = less than .5 percent",
+  "responses": [
+   [
+    "Bush/Quayle",
+    31
+   ],
+   [
+    "Clinton/Gore",
+    42
+   ],
+   [
+    "Perot/Stockdale",
+    15
+   ],
+   [
+    "Other (vol.)",
+    1e-7
+   ],
+   [
+    "Don't know",
+    12
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31088163,
+  "qname": "Q02",
+  "start": "10/20/1992",
+  "end": "11/02/1992",
+  "surveyBy": "Cable News Network (CNN)/USA Today",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/CNN/USA Today Poll:  Fall Tracking Poll - Phase 2 and 3 Cumulative File",
+  "text": "If the (1992) Presidential election were being held today, would you vote for the Republican candidates, George Bush and Dan Quayle, for the Democratic candidates, Bill Clinton and Al Gore, or for the Independent candidates, Ross Perot and James Stockdale?",
+  "subpop": "Registered voters/plan to register on election day who are likely to vote in the 1992 presidential election Candidates names were rotated in Form A and B half samples",
+  "responses": [
+   [
+    "Bush/Quayle",
+    36
+   ],
+   [
+    "Clinton/Gore",
+    43
+   ],
+   [
+    "Perot/Stockdale",
+    14
+   ],
+   [
+    "Other (vol.)",
+    1
+   ],
+   [
+    "Don't know",
+    8
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31088163,
+  "qname": "Q02",
+  "start": "10/20/1992",
+  "end": "11/02/1992",
+  "surveyBy": "Cable News Network (CNN)/USA Today",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/CNN/USA Today Poll:  Fall Tracking Poll - Phase 2 and 3 Cumulative File",
+  "text": "If the (1992) Presidential election were being held today, would you vote for the Republican candidates, George Bush and Dan Quayle, for the Democratic candidates, Bill Clinton and Al Gore, or for the Independent candidates, Ross Perot and James Stockdale?",
+  "subpop": "Registered voters/plan to register on election day who are likely to vote in the 1992 presidential election Candidates names were rotated in Form A and B half samples",
+  "responses": [
+   [
+    "Bush/Quayle",
+    36
+   ],
+   [
+    "Clinton/Gore",
+    39
+   ],
+   [
+    "Perot/Stockdale",
+    15
+   ],
+   [
+    "Other (vol.)",
+    1
+   ],
+   [
+    "Don't know",
+    9
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31098946,
+  "qname": "Q04",
+  "start": "10/21/1992",
+  "end": "10/25/1992",
+  "surveyBy": "Washington Post",
+  "conductedBy": null,
+  "study": "Washington Post Poll: Presidential Election and Confidence in the Federal Government",
+  "text": "The candidates in November's Presidential election (1992) are George Bush and Dan Quayle the Republicans, Bill Clinton and Al Gore the Democrats, Ross Perot and James Stockdale the Independents. Suppose the election were being held today. For whom would you vote? (If Other candidate/Neither (vol.), Wouldn't vote/Don't know/Refused ask:) Do you lean towards Bush, Clinton or Perot?",
+  "subpop": "Asked of registered voters (74%)",
+  "responses": [
+   [
+    "George Bush including leaners",
+    34
+   ],
+   [
+    "Bill Clinton including leaners",
+    45
+   ],
+   [
+    "Ross Perot including leaners",
+    17
+   ],
+   [
+    "Other candidate/Neither (vol.)",
+    1
+   ],
+   [
+    "Don't know",
+    3
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31091396,
+  "qname": "R13A",
+  "start": "10/21/1992",
+  "end": "10/23/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  October National Survey III",
+  "text": "What if Ross Perot were not running. If the 1992 presidential election were being held today, would you vote for George Bush for President and Dan Quayle for Vice President, the Republican candidates, or for Bill Clinton for President and Al Gore for Vice President, the Democratic candidates? (If Don't know/No answer, ask:) Well, as of today, do you lean more towards Bush and Quayle, or more towards Clinton and Gore?",
+  "subpop": "Probable electorate (93% of registered voters)",
+  "responses": [
+   [
+    "George Bush/Dan Quayle including leaners",
+    45
+   ],
+   [
+    "Bill Clinton/Al Gore including leaners",
+    49
+   ],
+   [
+    "Wouldn't vote (vol.)",
+    2
+   ],
+   [
+    "Don't know/No answer",
+    4
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31098946,
+  "qname": "Q03",
+  "start": "10/21/1992",
+  "end": "10/25/1992",
+  "surveyBy": "Washington Post",
+  "conductedBy": null,
+  "study": "Washington Post Poll: Presidential Election and Confidence in the Federal Government",
+  "text": "The candidates in November's Presidential election (1992) are George Bush and Dan Quayle the Republicans, Bill Clinton and Al Gore the Democrats, Ross Perot and James Stockdale the Independents. Suppose the election were being held today. For whom would you vote?",
+  "subpop": "Asked of registered voters (74%)",
+  "responses": [
+   [
+    "George Bush and Dan Quayle",
+    31
+   ],
+   [
+    "Bill Clinton and Al Gore",
+    42
+   ],
+   [
+    "Ross Perot and James Stockdale",
+    15
+   ],
+   [
+    "Other candidate/Neither (vol.)",
+    1e-7
+   ],
+   [
+    "Wouldn't vote (vol.)",
+    1e-7
+   ],
+   [
+    "Don't know",
+    12
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31091396,
+  "qname": "R09A",
+  "start": "10/21/1992",
+  "end": "10/23/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  October National Survey III",
+  "text": "If the 1992 presidential election were being held today, would you vote for George Bush for President and Dan Quayle for Vice President, the Republican candidates, or for Bill Clinton for President and Al Gore for Vice President, the Democratic candidates, or for Ross Perot for President and James Stockdale for Vice President, Independent candidates? (If Don't know/No answer, ask:) Well, as of today, do you lean more towards Bush and Quayle, more towards Clinton and Gore, or more towards Perot and Stockdale?",
+  "subpop": "Probable electorate (93% of registered voters)",
+  "responses": [
+   [
+    "George Bush/Dan Quayle including leaners",
+    37
+   ],
+   [
+    "Bill Clinton/Al Gore including leaners",
+    42
+   ],
+   [
+    "Ross Perot/James Stockdale including leaners",
+    17
+   ],
+   [
+    "Don't know/No answer",
+    4
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31091396,
+  "qname": "R13",
+  "start": "10/21/1992",
+  "end": "10/23/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  October National Survey III",
+  "text": "What if Ross Perot were not running. If the 1992 presidential election were being held today, would you vote for George Bush for President and Dan Quayle for Vice President, the Republican candidates, or for Bill Clinton for President and Al Gore for Vice President, the Democratic candidates?",
+  "subpop": "Probable electorate (93% of registered voters)",
+  "responses": [
+   [
+    "George Bush/Dan Quayle",
+    42
+   ],
+   [
+    "Bill Clinton/Al Gore",
+    47
+   ],
+   [
+    "Wouldn't vote (vol.)",
+    2
+   ],
+   [
+    "Don't know/No answer",
+    9
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31091396,
+  "qname": "R09",
+  "start": "10/21/1992",
+  "end": "10/23/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  October National Survey III",
+  "text": "If the 1992 presidential election were being held today, would you vote for George Bush for President and Dan Quayle for Vice President, the Republican candidates, or for Bill Clinton for President and Al Gore for Vice President, the Democratic candidates, or for Ross Perot for President and James Stockdale for Vice President, Independent candidates?",
+  "subpop": null,
+  "responses": [
+   [
+    "George Bush/Dan Quayle",
+    35
+   ],
+   [
+    "Bill Clinton/Al Gore",
+    40
+   ],
+   [
+    "Ross Perot/James Stockdale",
+    15
+   ],
+   [
+    "Don't know/No answer",
+    10
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31089478,
+  "qname": "Q02",
+  "start": "10/22/1992",
+  "end": "10/23/1992",
+  "surveyBy": "Newsweek Magazine",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/Newsweek Poll # 1992-305045:  Post-Debate Poll",
+  "text": "If the (1992) Presidential election were being held today, would you vote for the Republican candidates, George Bush and Dan Quayle, for the Democratic candidates, Bill Clinton and Al Gore, or for the Independent candidates, Ross Perot and James Stockdale? (If Other (vol.), Don't know/Refused, ask:) As of today, do you lean more to Bush and Quayle, the Republicans, to Clinton and Gore, the Democrats, or to Perot and Stockdale, the Independents?",
+  "subpop": "Asked of registered voters/plan to register on election day (82%) * = less than .5 percent Candidates names were rotated in Form A and B half samples",
+  "responses": [
+   [
+    "Bush/Quayle, including leaners",
+    30
+   ],
+   [
+    "Clinton/Gore, including leaners",
+    42
+   ],
+   [
+    "Perot/Stockdale, including leaners",
+    22
+   ],
+   [
+    "Other (vol.)",
+    1e-7
+   ],
+   [
+    "Don't know",
+    5
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31089478,
+  "qname": "Q01",
+  "start": "10/22/1992",
+  "end": "10/23/1992",
+  "surveyBy": "Newsweek Magazine",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/Newsweek Poll # 1992-305045:  Post-Debate Poll",
+  "text": "If the (1992) Presidential election were being held today, would you vote for the Republican candidates, George Bush and Dan Quayle, for the Democratic candidates, Bill Clinton and Al Gore, or for the Independent candidates, Ross Perot and James Stockdale?",
+  "subpop": "Asked of registered voters/plan to register on election day (82%) Candidates names were rotated in Form A and B half samples",
+  "responses": [
+   [
+    "Bush/Quayle",
+    27
+   ],
+   [
+    "Clinton/Gore",
+    39
+   ],
+   [
+    "Perot/Stockdale",
+    20
+   ],
+   [
+    "Other (vol.)",
+    1
+   ],
+   [
+    "Don't know",
+    12
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31088166,
+  "qname": "Q03",
+  "start": "10/23/1992",
+  "end": "10/25/1992",
+  "surveyBy": "CNN/USA Today",
+  "conductedBy": "Gallup Organization",
+  "study": "1992 Elections",
+  "text": "(If the presidential election were being held today, would you vote for the Republican candidates--George Bush and Dan Quayle, for the Democratic candidates--Bill Clinton and Al Gore, or for the Independent candidates--Ross Perot and James Stockdale?) (If other, don't know, or refused, ask:) As of today, do you lean more to Bush and Quayle--the Republicans, to Clinton and Gore--the Democrats, or to Perot and Stockdale--the Independents?",
+  "subpop": "Asked of registered voters (82%)",
+  "responses": [
+   [
+    "Bush/Quayle including leaners",
+    33
+   ],
+   [
+    "Clinton/Gore including leaners",
+    40
+   ],
+   [
+    "Perot/Stockdale including leaners",
+    21
+   ],
+   [
+    "Other (vol.)",
+    1e-7
+   ],
+   [
+    "Don't know",
+    4
+   ],
+   [
+    "Refused",
+    2
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31088166,
+  "qname": "Q02",
+  "start": "10/23/1992",
+  "end": "10/25/1992",
+  "surveyBy": "CNN/USA Today",
+  "conductedBy": "Gallup Organization",
+  "study": "1992 Elections",
+  "text": "If the presidential election were being held today, would you vote for the Republican candidates--George Bush and Dan Quayle, for the Democratic candidates--Bill Clinton and Al Gore, or for the Independent candidates--Ross Perot and James Stockdale?",
+  "subpop": "Asked of registered voters (82%)",
+  "responses": [
+   [
+    "Bush/Quayle",
+    30
+   ],
+   [
+    "Clinton/Gore",
+    37
+   ],
+   [
+    "Perot/Stockdale",
+    19
+   ],
+   [
+    "Other (vol.)",
+    1
+   ],
+   [
+    "Don't know",
+    12
+   ],
+   [
+    "Refused",
+    1
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31092996,
+  "qname": "Q08",
+  "start": "10/24/1992",
+  "end": "10/26/1992",
+  "surveyBy": "Los Angeles Times",
+  "conductedBy": null,
+  "study": "Los Angeles Times Poll:  National Politics",
+  "text": "If the 1992 general election for President were being held today and the candidates were Bill Clinton, the Democrat, George Bush, the Republican and Ross Perot, an Independent, for whom would you vote, Clinton, Bush or Perot? (If Haven't heard enough, Not sure or Refused, ask:) Well, as of today, would you lean more toward Clinton, more toward Bush or more toward Perot?",
+  "subpop": "Asked of registered voters (84%)",
+  "responses": [
+   [
+    "Haven't heard enough",
+    1e-7
+   ],
+   [
+    "Vote for Clinton",
+    41
+   ],
+   [
+    "Lean Clinton",
+    3
+   ],
+   [
+    "Vote for Bush",
+    29
+   ],
+   [
+    "Lean Bush",
+    2
+   ],
+   [
+    "Vote for Perot",
+    17
+   ],
+   [
+    "Lean Perot",
+    2
+   ],
+   [
+    "Someone else (vol.)",
+    1
+   ],
+   [
+    "Wouldn't vote (vol.)",
+    1
+   ],
+   [
+    "Not sure",
+    5
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31092996,
+  "qname": "Q11",
+  "start": "10/24/1992",
+  "end": "10/26/1992",
+  "surveyBy": "Los Angeles Times",
+  "conductedBy": null,
+  "study": "Los Angeles Times Poll:  National Politics",
+  "text": "If the 1992 general election for President were being held today and the candidates were Bill Clinton and Al Gore, the Democrats and George Bush and Dan Quayle the Republicans, for whom would you vote: Clinton and Gore or Bush and Quayle? (If Haven't heard enough, Not sure or Refused, ask:) Well, as of today, would you lean more toward Clinton and Gore or more toward Bush and Quayle?",
+  "subpop": "Asked of registered voters (84%)",
+  "responses": [
+   [
+    "Haven't heard enough",
+    1e-7
+   ],
+   [
+    "Vote Clinton",
+    50
+   ],
+   [
+    "Lean Clinton",
+    3
+   ],
+   [
+    "Lean Bush",
+    2
+   ],
+   [
+    "Vote Bush",
+    38
+   ],
+   [
+    "Vote Perot (vol.)",
+    1
+   ],
+   [
+    "Someone else (vol.)",
+    1e-7
+   ],
+   [
+    "Wouldn't vote (vol.)",
+    2
+   ],
+   [
+    "Not sure",
+    8
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31094734,
+  "qname": "R03A",
+  "start": "10/27/1992",
+  "end": "10/28/1992",
+  "surveyBy": "NBC News/Wall Street Journal",
+  "conductedBy": "Hart-Breglio Research Companies",
+  "study": "NBC News/Wall Street Journal Poll:  1992 Presidential Election",
+  "text": "If the 1992 presidential election were held today and the candidates were George Bush, the Republican, Bill Clinton, the Democrat, and Ross Perot, the independent, for whom would you vote--George Bush, Bill Clinton, or Ross Perot? (If 'NOT SURE', ask:) Well, which way do you lean?",
+  "subpop": null,
+  "responses": [
+   [
+    "George Bush including leaners",
+    34
+   ],
+   [
+    "Bill Clinton including leaners",
+    44
+   ],
+   [
+    "Ross Perot including leaners",
+    15
+   ],
+   [
+    "Undecided",
+    7
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31091397,
+  "qname": "R12A",
+  "start": "10/27/1992",
+  "end": "11/02/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  Pre-Election Tracking Survey",
+  "text": "What if Ross Perot were not running? If the 1992 presidential election were being held today, would you vote for George Bush for President and Dan Quayle for Vice President, the Republican candidates, or for Bill Clinton for President and Al Gore for Vice President, the Democratic candidates? (If Don't know/No answer, ask:) Well, as of today, do you lean more towards Bush and Quayle, or more towards Clinton and Gore?",
+  "subpop": "Registered voters (79%)",
+  "responses": [
+   [
+    "Bush/Quayle including leaners",
+    42
+   ],
+   [
+    "Clinton/Gore including leaners",
+    54
+   ],
+   [
+    "Wouldn't vote (vol.)",
+    2
+   ],
+   [
+    "Perot (vol.)",
+    1
+   ],
+   [
+    "Don't know/No answer",
+    2
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31086762,
+  "qname": "Q003",
+  "start": "10/27/1992",
+  "end": "10/27/1992",
+  "surveyBy": "ABC News/Washington Post",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News/The Washington Post Poll:  Election Poll #2",
+  "text": "The candidates in November's presidential election (1992), are George Bush and Dan Quayle, the Republicans, Bill Clinton and Al Gore, the Democrats and Ross Perot and James Stockdale, the Independents. Suppose the election were being held today. For whom would you vote?",
+  "subpop": "Asked of registered voters (73%)",
+  "responses": [
+   [
+    "George Bush and Dan Quayle",
+    29
+   ],
+   [
+    "Bill Clinton and Al Gore",
+    42
+   ],
+   [
+    "Ross Perot and James Stockdale",
+    18
+   ],
+   [
+    "Wouldn't vote (vol.)",
+    1
+   ],
+   [
+    "Vote for other (vol.)/Neither (vol.)",
+    1
+   ],
+   [
+    "Don't know/No opinion",
+    10
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31091397,
+  "qname": "R09A",
+  "start": "10/27/1992",
+  "end": "11/02/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  Pre-Election Tracking Survey",
+  "text": "If the 1992 presidential election were being held today, would you vote for George Bush for President and Dan Quayle for Vice President, the Republican candidates, or for Bill Clinton for President and Al Gore for Vice President, the Democratic candidates, or for Ross Perot for President and James Stockdale for Vice President, independent candidates? (If Don't know/No answer ask:) Well, as of today, do you lean more of today, do you lean more towards Bush and Quayle, more towards Clinton and Gore, or more towards Perot and Stockdale?",
+  "subpop": "Registered voters probable electorate",
+  "responses": [
+   [
+    "Bush & Quayle including leaners",
+    36
+   ],
+   [
+    "Clinton & Gore includign leaners",
+    44
+   ],
+   [
+    "Ross Perot & James Stockdale including leaners",
+    17
+   ],
+   [
+    "Don't know/No answer",
+    3
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31091397,
+  "qname": "Q13A",
+  "start": "10/27/1992",
+  "end": "11/02/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  Pre-Election Tracking Survey",
+  "text": "What if Ross Perot were not running. If the 1992 presidential election were being held today, would you vote for George Bush for President and Dan Quayle for Vice President, the Republican candidates, or for Bill Clinton for President and Al Gore for Vice President, the Democratic candidates? (If Don't know/No answer ask:) Well, as of today, do you lean more towards Bush and Quayle, or more towards Clinton and Gore?",
+  "subpop": "Registered voters probable electorate",
+  "responses": [
+   [
+    "Bush & Quayle including leaners",
+    43
+   ],
+   [
+    "Clinton & Gore including leaners",
+    52
+   ],
+   [
+    "Wouldn't vote including leaners",
+    2
+   ],
+   [
+    "Don't know/No answer",
+    3
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31091397,
+  "qname": "R09A",
+  "start": "10/27/1992",
+  "end": "11/02/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  Pre-Election Tracking Survey",
+  "text": "If the 1992 presidential election were being held today, would you vote for George Bush for President and Dan Quayle for Vice President, the Republican candidates, or for Bill Clinton for President and Al Gore for Vice President, the Democratic candidates, or for Ross Perot for President and James Stockdale for Vice President, Independent candidates? (If Don't know/No answer, ask:) Well, as of today, do you lean more towards Bush and Quayle, more towards Clinton and Gore or more towards Perot and Stockdale?",
+  "subpop": "Registered voters (76%)",
+  "responses": [
+   [
+    "Bush/Quayle including leaners",
+    34
+   ],
+   [
+    "Clinton/Gore including leaners",
+    46
+   ],
+   [
+    "Perot/Stockdale including leaners",
+    16
+   ],
+   [
+    "Don't know/No answer",
+    4
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31091397,
+  "qname": "R12A",
+  "start": "10/27/1992",
+  "end": "11/02/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  Pre-Election Tracking Survey",
+  "text": "What if Ross Perot were not running? If the 1992 presidential election were being held today, would you vote for George Bush for President and Dan Quayle for Vice President, the Republican candidates, or for Bill Clinton for President and Al Gore for Vice President, the Democratic candidates? (If Don't know/No answer, ask:) Well, as of today, do you lean more towards Bush and Quayle, or more towards Clinton and Gore?",
+  "subpop": "Registered voters (76%)",
+  "responses": [
+   [
+    "Bush/Quayle including leaners",
+    42
+   ],
+   [
+    "Clinton/Gore including leaners",
+    52
+   ],
+   [
+    "Wouldn't vote (vol.)",
+    2
+   ],
+   [
+    "Don't know/No answer",
+    4
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31091397,
+  "qname": "R09A",
+  "start": "10/27/1992",
+  "end": "11/02/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  Pre-Election Tracking Survey",
+  "text": "(If Don't know/No Answer ask:) If the 1992 presidential election were being held today, would you vote for George Bush for President and Dan Quayle for Vice President, the Republican candidates, or for Bill Clinton for President and Al Gore for Vice President, the Democratic candidates, or for Ross Perot for President and James Stockdale for Vice President, independent candidates? Well, as of today, do you lean more towards Bush and Quayle, more towards Clinton and Gore, or more towards Perot and Stockdale?",
+  "subpop": "Registered voters probable electorate",
+  "responses": [
+   [
+    "Bush & Quayle including leaners",
+    37
+   ],
+   [
+    "Clinton & Gore including leaners",
+    45
+   ],
+   [
+    "Perot & Stockdale including leaners",
+    15
+   ],
+   [
+    "Don't know/No answer",
+    3
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31091397,
+  "qname": "R12A",
+  "start": "10/27/1992",
+  "end": "11/02/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  Pre-Election Tracking Survey",
+  "text": "What if Ross Perot were not running? If the 1992 presidential election were being held today, would you vote for George Bush for President and Dan Quayle for Vice President, the Republican candidates, or for Bill Clinton for President and Al Gore for Vice President, the Democratic candidates? (If Don't know/No answer, ask:) Well, as of today, do you lean more towards Bush and Quayle, or more towards Clinton and Gore?",
+  "subpop": "Registered voters (76%)",
+  "responses": [
+   [
+    "Bush/Quayle including leaners",
+    42
+   ],
+   [
+    "Clinton/Gore including leaners",
+    52
+   ],
+   [
+    "Wouldn't vote (vol.)",
+    2
+   ],
+   [
+    "Don't know/No answer",
+    3
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31091397,
+  "qname": "R09A",
+  "start": "10/27/1992",
+  "end": "11/02/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  Pre-Election Tracking Survey",
+  "text": "If the 1992 presidential election were being held today, would you vote for George Bush for President and Dan Quayle for Vice President, the Republican candidates, or for Bill Clinton for President and Al Gore for Vice President, the Democratic candidates, or for Ross Perot for President and James Stockdale for Vice President, Independent candidates? (If Don't know/No answer, ask:) Well, as of today, do you lean more towards Bush and Quayle, more towards Clinton and Gore or more towards Perot and Stockdale?",
+  "subpop": "Registered voters (76%)",
+  "responses": [
+   [
+    "Bush/Quayle including leaners",
+    36
+   ],
+   [
+    "Clinton/Gore including leaners",
+    43
+   ],
+   [
+    "Perot/Stockdale including leaners",
+    17
+   ],
+   [
+    "Don't know/No answer",
+    3
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31091397,
+  "qname": "R13A",
+  "start": "10/27/1992",
+  "end": "11/02/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  Pre-Election Tracking Survey",
+  "text": "What if Ross Perot were not running. If the 1992 Presidential election were being held today, would you vote for George Bush for President and Dan Quayle for Vice President, the Republican candidates, or for Bill Clinton for President and Al Gore for Vice President, the Democratic candidates? (If Don't Know/No answer ask:) Well, as of today, do you lean more towards Bush and Quayle, or more towards Clinton and Gore?",
+  "subpop": "Registered voters probable electoral",
+  "responses": [
+   [
+    "Bush & Quayle including leaners",
+    42
+   ],
+   [
+    "Clinton & Gore including leaners",
+    53
+   ],
+   [
+    "Wouldn't vote (Vol.)",
+    2
+   ],
+   [
+    "Don't know/No answer",
+    3
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31086762,
+  "qname": "Q004",
+  "start": "10/27/1992",
+  "end": "10/27/1992",
+  "surveyBy": "ABC News/Washington Post",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News/The Washington Post Poll:  Election Poll #2",
+  "text": "The candidates in November's presidential election (1992), are George Bush and Dan Quayle, the Republicans, Bill Clinton and Al Gore, the Democrats and Ross Perot and James Stockdale, the Independents. Suppose the election were being held today. For whom would you vote? (If Don't know/No opinion, No answer/Refused, ask:)",
+  "subpop": "Asked of registered voters (73%)",
+  "responses": [
+   [
+    "George Bush including leaners",
+    31
+   ],
+   [
+    "Bill Clinton including leaners",
+    44
+   ],
+   [
+    "Ross Perot including leaners",
+    19
+   ],
+   [
+    "Wouldn't vote (vol.)",
+    1e-7
+   ],
+   [
+    "Vote for other (vol.)",
+    1
+   ],
+   [
+    "Don't know/No opinion",
+    4
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31091397,
+  "qname": "R09A",
+  "start": "10/27/1992",
+  "end": "11/02/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  Pre-Election Tracking Survey",
+  "text": "If the 1992 presidential election were being held today, would you vote for George Bush for President and Dan Quayle for Vice President, the Republican candidates, or for Bill Clinton for President and Al Gore for Vice President, the Democratic candidates, or for Ross Perot for President and James Stockdale for Vice President, Independent candidates? (If Don't know/No answer, ask:) Well, as of today, do you lean more towards Bush and Quayle, more towards Clinton and Gore, or more towards Perot and Stockdale?",
+  "subpop": "Registered voters probable electorate",
+  "responses": [
+   [
+    "George Bush & Dan Quayle including leaners",
+    35
+   ],
+   [
+    "Bill Clinton & Al Gore including leaners",
+    45
+   ],
+   [
+    "Ross Perot & James Stockdale including leaners",
+    15
+   ],
+   [
+    "Don't know/No answer",
+    5
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31091397,
+  "qname": "R09A",
+  "start": "10/27/1992",
+  "end": "11/02/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  Pre-Election Tracking Survey",
+  "text": "If the 1992 Presidential election were being held today, would you vote for George Bush for President and Dan Quayle for Vice President, the Republican candidates, or for Bill Clinton for President and Al Gore for Vice President, the Democratic candidates, or for Ross Perot for President and James Stockdale for Vice President, independent candidates? (If Don't know/No answer ask:) Well, as of today, do you lean more towards Bush and Quayle, more towards Clinton and Gore, or more towards Perot and Stockdale?",
+  "subpop": "Registered voters probable electorate",
+  "responses": [
+   [
+    "George Bush & Dan Quayle including leaners",
+    36
+   ],
+   [
+    "Bill Clinton & Al Gore including leaners",
+    46
+   ],
+   [
+    "Ross Perot & James Stockdale including leaners",
+    16
+   ],
+   [
+    "Don't know/No answer",
+    2
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31091397,
+  "qname": "R09A",
+  "start": "10/27/1992",
+  "end": "11/02/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  Pre-Election Tracking Survey",
+  "text": "If the 1992 presidential election were being held today, would you vote for George Bush for President and Dan Quayle for Vice President, the Republican candidates, or for Bill Clinton for President and Al Gore for Vice President, the Democratic candidates, or for Ross Perot for President and James Stockdale for Vice President, Independent candidates? (If Don't know/No answer, ask:) Well, as of today, do you lean more towards Bush and Quayle, more towards Clinton and Gore or more towards Perot and Stockdale?",
+  "subpop": "Registered voters (79%)",
+  "responses": [
+   [
+    "Bush/Quayle including leaners",
+    35
+   ],
+   [
+    "Clinton/Gore including leaners",
+    46
+   ],
+   [
+    "Perot/Stockdale including leaners",
+    16
+   ],
+   [
+    "Don't know/No answer",
+    2
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31091397,
+  "qname": "R12",
+  "start": "10/27/1992",
+  "end": "11/02/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  Pre-Election Tracking Survey",
+  "text": "What if Ross Perot were not running? If the 1992 presidential election were being held today, would you vote for George Bush for President and Dan Quayle for Vice President, the Republican candidates, or for Bill Clinton for President and Al Gore for Vice President, the Democratic candidates?",
+  "subpop": "Registered voters (79%)",
+  "responses": [
+   [
+    "Bush/Quayle",
+    41
+   ],
+   [
+    "Clinton/Gore",
+    53
+   ],
+   [
+    "Wouldn't vote (vol.)",
+    2
+   ],
+   [
+    "Perot (vol.)",
+    1
+   ],
+   [
+    "Don't know/No answer",
+    3
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31091397,
+  "qname": "R13A",
+  "start": "10/27/1992",
+  "end": "11/02/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  Pre-Election Tracking Survey",
+  "text": "What if Ross Perot were not running. If the 1992 presidential election were being held today, would you vote for George Bush for President and Dan Quayle for Vice President, the Republican candidates, or for Bill Clinton for President and Al Gore for Vice President, the Democratic candidates? (If Don't know/No answer ask:) Well, as of today, do you lean more towards Bush and Quayle, or more towards Clinton and Gore?",
+  "subpop": "Registered voters probable electorate",
+  "responses": [
+   [
+    "Bush & Dan Quayle including leaners",
+    42
+   ],
+   [
+    "Clinton & Al Gore including leaners",
+    52
+   ],
+   [
+    "Wouldn't vote (Vol.)",
+    2
+   ],
+   [
+    "Don't know/No answer",
+    4
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31091397,
+  "qname": "R12",
+  "start": "10/27/1992",
+  "end": "11/02/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  Pre-Election Tracking Survey",
+  "text": "What if Ross Perot were not running? If the 1992 presidential election were being held today, would you vote for George Bush for President and Dan Quayle for Vice President, the Republican candidates, or for Bill Clinton for President and Al Gore for Vice President, the Democratic candidates?",
+  "subpop": "Registered voters (76%)",
+  "responses": [
+   [
+    "Bush/Quayle",
+    42
+   ],
+   [
+    "Clinton/Gore",
+    51
+   ],
+   [
+    "Wouldn't vote (vol.)",
+    2
+   ],
+   [
+    "Don't know/No answer",
+    5
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31091397,
+  "qname": "R12",
+  "start": "10/27/1992",
+  "end": "11/02/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  Pre-Election Tracking Survey",
+  "text": "What if Ross Perot were not running? If the 1992 presidential election were being held today, would you vote for George Bush for President and Dan Quayle for Vice President, the Republican candidates, or for Bill Clinton for President and Al Gore for Vice President, the Democratic candidates?",
+  "subpop": "Registered voters (76%)",
+  "responses": [
+   [
+    "Bush/Quayle",
+    41
+   ],
+   [
+    "Clinton/Gore",
+    51
+   ],
+   [
+    "Wouldn't vote (vol.)",
+    2
+   ],
+   [
+    "Don't know/No answer",
+    6
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31105598,
+  "qname": "R03",
+  "start": "10/27/1992",
+  "end": "10/28/1992",
+  "surveyBy": "ABC News",
+  "conductedBy": null,
+  "study": "ABC News Poll: October 1992",
+  "text": "The candidates in November's (1992) presidential election are George Bush and Day Quayle, the Republicans, Bill Clinton and Al Gore, the Democrats, and Ross Perot and James Stockdale, the Independents. Suppose the election were being held today. For whom would you vote?",
+  "subpop": null,
+  "responses": [
+   [
+    "George Bush including leaners",
+    32
+   ],
+   [
+    "Bill Clinton including leaners",
+    44
+   ],
+   [
+    "Ross Perot including leaners",
+    17
+   ],
+   [
+    "Other/Neither",
+    1
+   ],
+   [
+    "Don't know/No opinion",
+    6
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31091397,
+  "qname": "R13",
+  "start": "10/27/1992",
+  "end": "11/02/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  Pre-Election Tracking Survey",
+  "text": "What if Ross Perot were not running. If the 1992 presidential election were being held today, would you vote for George Bush for President and Dan Quayle for Vice President, the Republican candidates, or for Bill Clinton for President and Al Gore for Vice President, the Democratic candidates?",
+  "subpop": "Registered voters probable electorate",
+  "responses": [
+   [
+    "George Bush/Dan Quayle",
+    43
+   ],
+   [
+    "Bill Clinton/Al Gore",
+    51
+   ],
+   [
+    "Wouldn't vote (Vol.)",
+    2
+   ],
+   [
+    "Don't know/No answer",
+    4
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31091397,
+  "qname": "R09",
+  "start": "10/27/1992",
+  "end": "11/02/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  Pre-Election Tracking Survey",
+  "text": "If the 1992 presidential election were being held today, would you vote for George Bush for President and Dan Quayle for Vice President, the Republican candidates, or for Bill Clinton for President and Al Gore for Vice President, the Democratic candidates, or for Ross Perot for President and James Stockdale for Vice President, Independent candidates?",
+  "subpop": "Registered voters (76%)",
+  "responses": [
+   [
+    "Bush/Quayle",
+    33
+   ],
+   [
+    "Clinton/Gore",
+    44
+   ],
+   [
+    "Perot/Stockdale",
+    14
+   ],
+   [
+    "Don't know/No answer",
+    9
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31091397,
+  "qname": "R09",
+  "start": "10/27/1992",
+  "end": "11/02/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  Pre-Election Tracking Survey",
+  "text": "If the 1992 presidential election were being held today, would you vote for George Bush for President and Dan Quayle for Vice President, the Republican candidates, or for Bill Clinton for President and Al Gore for Vice President, the Democratic candidates, or for Ross Perot for President and James Stockdale for Vice President, Independent candidates?",
+  "subpop": "Registered voters (79%)",
+  "responses": [
+   [
+    "Bush/Quayle",
+    34
+   ],
+   [
+    "Clinton/Gore",
+    44
+   ],
+   [
+    "Perot/Stockdale",
+    15
+   ],
+   [
+    "Don't know/No answer",
+    7
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31091397,
+  "qname": "R13",
+  "start": "10/27/1992",
+  "end": "11/02/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  Pre-Election Tracking Survey",
+  "text": "What if Ross Perot were not running. If the 1992 presidential election were being held today, would you vote for George Bush for President and Dan Quayle for Vice President, the Republican candidates, or for Bill Clinton for President and Al Gore for Vice President, the Democratic candidates?",
+  "subpop": "Registered voters probable electorate",
+  "responses": [
+   [
+    "George Bush/Dan Quayle",
+    42
+   ],
+   [
+    "Bill Clinton/Al Gore",
+    51
+   ],
+   [
+    "Wouldn't vote (Vol.)",
+    2
+   ],
+   [
+    "Don't know/No answer",
+    5
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31091397,
+  "qname": "R13",
+  "start": "10/27/1992",
+  "end": "11/02/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  Pre-Election Tracking Survey",
+  "text": "What if Ross Perot were not running. If the 1992 Presidential election were being held today, would you vote for George Bush for President and Dan Quayle for Vice President, the Republican candidates, or for Bill Clinton for President and Al Gore for Vice President, the Democratic candidates?",
+  "subpop": "Registered voters probable electoral",
+  "responses": [
+   [
+    "George Bush/Dan Quayle",
+    41
+   ],
+   [
+    "Bill Clinton/Al Gore",
+    52
+   ],
+   [
+    "Wouldn't vote (Vol.)",
+    2
+   ],
+   [
+    "Don't know/No answer",
+    5
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31091397,
+  "qname": "R09",
+  "start": "10/27/1992",
+  "end": "11/02/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  Pre-Election Tracking Survey",
+  "text": "If the 1992 Presidential election were being held today, would you vote for George Bush for President and Dan Quayle for Vice President, the Republican candidates, or for Bill Clinton for President and Al Gore for Vice President, the Democratic candidates, or for Ross Perot for President and James Stockdale for Vice President, independent candidates?",
+  "subpop": "Registered voters probable electorate",
+  "responses": [
+   [
+    "George Bush/Dan Quayle",
+    35
+   ],
+   [
+    "Bill Clinton/Al Gore",
+    44
+   ],
+   [
+    "Ross Perot/James Stockdale",
+    15
+   ],
+   [
+    "Don't know/No answer",
+    6
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31091397,
+  "qname": "R09",
+  "start": "10/27/1992",
+  "end": "11/02/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  Pre-Election Tracking Survey",
+  "text": "If the 1992 presidential election were being held today, would you vote for George Bush for President and Dan Quayle for Vice President, the Republican candidates, or for Bill Clinton for President and Al Gore for Vice President, the Democratic candidates, or for Ross Perot for President and James Stockdale for Vice President, independent candidates?",
+  "subpop": "Registered voters probable electorate",
+  "responses": [
+   [
+    "George Bush/Dan Quayle",
+    35
+   ],
+   [
+    "Bill Clinton/Al Gore",
+    43
+   ],
+   [
+    "Ross Perot/James Stockdale",
+    16
+   ],
+   [
+    "Don't know/No Answer",
+    6
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31091397,
+  "qname": "R09",
+  "start": "10/27/1992",
+  "end": "11/02/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  Pre-Election Tracking Survey",
+  "text": "If the 1992 presidential election were being held today, would you vote for George Bush for President and Dan Quayle for Vice President the Republican candidates, or for Bill Clinton for President and Al Gore for Vice President, the Democratic candidates, or for Ross Perot for President and James Stockdale for Vice President, independent candidates?",
+  "subpop": "Registered voters probable electorate",
+  "responses": [
+   [
+    "George Bush/Dan Quayle",
+    36
+   ],
+   [
+    "Bill Clinton/Al Gore",
+    43
+   ],
+   [
+    "Ross Perot/James Stockdale",
+    14
+   ],
+   [
+    "Don't know/No answer",
+    7
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31091397,
+  "qname": "R09",
+  "start": "10/27/1992",
+  "end": "11/02/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  Pre-Election Tracking Survey",
+  "text": "If the 1992 presidential election were being held today, would you vote for George Bush for President and Dan Quayle for Vice President, the Republican candidates, or for Bill Clinton for President and Al Gore for Vice President, the Democratic candidates, or for Ross Perot for President and James Stockdale for Vice President, Independent candidates?",
+  "subpop": "Registered voters probable electorate",
+  "responses": [
+   [
+    "George Bush/Dan Quayle",
+    34
+   ],
+   [
+    "Bill Clinton/Al Gore",
+    43
+   ],
+   [
+    "Ross Perot/James Stockdale",
+    14
+   ],
+   [
+    "Don't know/No answer",
+    9
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31091397,
+  "qname": "R09",
+  "start": "10/27/1992",
+  "end": "11/02/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  Pre-Election Tracking Survey",
+  "text": "If the 1992 presidential election were being held today, would you vote for George Bush for President and Dan Quayle for Vice President, the Republican candidates, or for Bill Clinton for President and Al Gore for Vice President, the Democratic candidates, or for Ross Perot for President and James Stockdale for Vice President, Independent candidates?",
+  "subpop": "Registered voters (76%)",
+  "responses": [
+   [
+    "Bush/Quayle",
+    35
+   ],
+   [
+    "Clinton/Gore",
+    42
+   ],
+   [
+    "Perot/Stockdale",
+    16
+   ],
+   [
+    "Don't know/No answer",
+    7
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31086772,
+  "qname": "Q04",
+  "start": "10/28/1992",
+  "end": "11/01/1992",
+  "surveyBy": "ABC News/Washington Post",
+  "conductedBy": "ICR Survey Research Group",
+  "study": "ABC News/The Washington Post Poll:  Final Election",
+  "text": "The candidates in November's (Presidential) election (1992) are George Bush and Dan Quayle the Republicans, Bill Clinton and Al Gore the Democrats, Ross Perot and James Stockdale the Independents. Suppose the election were being held today, for whom would you vote? (If Other candidate, Neither, Wouldn't vote, Don't know, Refused, ask:) Do you lean towards Bush, Clinton, or Perot?",
+  "subpop": "Asked of registered voters (78%)",
+  "responses": [
+   [
+    "George Bush and Dan Quayle including leaners",
+    33
+   ],
+   [
+    "Bill Clinton and Al Gore including leaners",
+    46
+   ],
+   [
+    "Ross Perot and James Stockdale including leaners",
+    16
+   ],
+   [
+    "Other candidate/Neither (vol.)",
+    1
+   ],
+   [
+    "Wouldn't vote (vol.)",
+    1e-7
+   ],
+   [
+    "Don't know/No opinion",
+    4
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31089479,
+  "qname": "R003",
+  "start": "10/28/1992",
+  "end": "10/29/1992",
+  "surveyBy": "Newsweek Magazine",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/Newsweek Poll:  Presidential Poll",
+  "text": "(If the (1992) presidential election were being held today, would you vote for the Republican candidates, George Bush and Dan Quayle, for the Democratic candidates, Bill Clinton and Al Gore, or for the independent candidates, Ross Perot and James Stockdale)? (If Other (vol.), Don't know/Refused ask:) As of today, do you lean more to Bush and Quayle, the Republicans to Clinton and Gore, the Democrats, or to Perot and Stockdale, the independent?",
+  "subpop": null,
+  "responses": [
+   [
+    "Bush/Quayle including leaners",
+    40
+   ],
+   [
+    "Clinton/Gore including leaners",
+    42
+   ],
+   [
+    "Perot/Stockdale including leaners",
+    14
+   ],
+   [
+    "Don't know",
+    4
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31086772,
+  "qname": "Q03",
+  "start": "10/28/1992",
+  "end": "11/01/1992",
+  "surveyBy": "ABC News/Washington Post",
+  "conductedBy": "ICR Survey Research Group",
+  "study": "ABC News/The Washington Post Poll:  Final Election",
+  "text": "The candidates in November's (Presidential) election (1992) are George Bush and Dan Quayle the Republicans, Bill Clinton and Al Gore the Democrats, Ross Perot and James Stockdale the Independents. Suppose the election were being held today, for whom would you vote?",
+  "subpop": "Asked of registered voters (78%)",
+  "responses": [
+   [
+    "George Bush and Dan Quayle",
+    29
+   ],
+   [
+    "Bill Clinton and Al Gore",
+    43
+   ],
+   [
+    "Ross Perot and James Stockdale",
+    14
+   ],
+   [
+    "Other candidate/Neither (vol.)",
+    2
+   ],
+   [
+    "Wouldn't vote (vol.)",
+    1e-7
+   ],
+   [
+    "Don't know",
+    12
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31089479,
+  "qname": "R002",
+  "start": "10/28/1992",
+  "end": "10/29/1992",
+  "surveyBy": "Newsweek Magazine",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/Newsweek Poll:  Presidential Poll",
+  "text": "If the (1992) presidential election were being held today, would you vote for the Republican candidates, George Bush and Dan Quayle, for the Democratic candidates, Bill Clinton and Al Gore, or for the independent candidates, Ross Perot and James Stockdale?",
+  "subpop": null,
+  "responses": [
+   [
+    "Bush/Quayle",
+    38
+   ],
+   [
+    "Clinton/Gore",
+    40
+   ],
+   [
+    "Perot/Stockdale",
+    13
+   ],
+   [
+    "Other (Vol.)",
+    1
+   ],
+   [
+    "Don't know",
+    8
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31105763,
+  "qname": "R1",
+  "start": "10/30/1992",
+  "end": "11/01/1992",
+  "surveyBy": "Louis Harris & Associates",
+  "conductedBy": null,
+  "study": "Louis Harris & Associates Poll: October 1992",
+  "text": "If the (1992) Presidential election were held today, who would you most likely vote for--George Bush for the Republicans or Bill Clinton for the Democrats (Bill Clinton for the Democrats or George Bush for the Republicans) or Ross Perot as an independent? If 'not sure' or 'none of these' ask:) Well if you had to say, would you lean toward George Bush or Bill Clinton (Bill Clinton or George Bush) or Ross Perot?",
+  "subpop": "Likely voters",
+  "responses": [
+   [
+    "George Bush including leaners",
+    37
+   ],
+   [
+    "Bill Clinton including leaners",
+    43
+   ],
+   [
+    "Ross Perot including leaners",
+    16
+   ],
+   [
+    "Other candidate (Vol.)",
+    1
+   ],
+   [
+    "Not sure",
+    3
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31094735,
+  "qname": "R03A",
+  "start": "11/01/1992",
+  "end": "11/01/1992",
+  "surveyBy": "NBC News/Wall Street Journal",
+  "conductedBy": "Hart-Breglio Research Companies",
+  "study": "NBC News/Wall Street Journal Poll:  1992 Presidential Election",
+  "text": "If the 1992 presidential election were held today and the candidates were George Bush, the Republican, Bill Clinton, the Democrat, and Ross Perot, the Independent, for whom would you vote--George Bush, Bill Clinton or Ross Perot? (If Not sure, ask:) Well, which way do you lean?",
+  "subpop": null,
+  "responses": [
+   [
+    "George Bush including leaners",
+    36
+   ],
+   [
+    "Bill Clinton including leaners",
+    44
+   ],
+   [
+    "Ross Perot including leaners",
+    15
+   ],
+   [
+    "Undecided",
+    5
+   ]
+  ]
+ },
+ {
+  "key": "tracking",
+  "archiveId": 31105764,
+  "qname": "R1",
+  "start": "11/02/1992",
+  "end": "11/02/1992",
+  "surveyBy": "Louis Harris & Associates",
+  "conductedBy": null,
+  "study": "Louis Harris & Associates Poll: November 1992",
+  "text": "If the Presidential election were held today, who would you most likely vote for--George Bush for the Republicans or Bill Clinton for the Democrats (Bill Clinton for the Democrats or George Bush for the Republicans) or Ross Perot as an Independent? (If 'not sure' or 'none of these' ask:) Well if you had to say, would you lean toward George Bush or Bill Clinton (Bill Clinton or George Bush) or Ross Perot?",
+  "subpop": null,
+  "responses": [
+   [
+    "George Bush",
+    38
+   ],
+   [
+    "Bill Clinton",
+    44
+   ],
+   [
+    "Ross Perot",
+    17
+   ],
+   [
+    "Other candidate",
+    1
+   ]
+  ]
+ }
+]

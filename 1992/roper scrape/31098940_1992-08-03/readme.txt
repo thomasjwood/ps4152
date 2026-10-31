@@ -1,0 +1,61 @@
+Roper Center Study #USWASH1992-4467
+ 
+Washington Post Poll: 1992 Republican Delegate Poll
+ 
+1. STUDY DESCRIPTION
+2. CITATION
+3. WEIGHTING
+4. DOCUMENTATION AND DATA FILES (File Description)
+5. DOCUMENTATION AND DATA FILES (File Structure)
+ 
+ 
+1. STUDY DESCRIPTION:
+Methodology: 
+ Conducted by Washington Post, August 3-10, 1992 and based on telephone
+ interviews with 511 Republican Delegates.
+  
+Approximate number of variables: 31
+Topical Coverage: 
+ Republican national convention (3); governmental functions (15); 1992
+ presidential candidates(10); George Bush job performance (3).
+ 
+ 
+2. CITATION:
+ Publications based on Roper Center data collections should acknowledge
+ the data sources by means of bibliographic citations.  To ensure that
+ source attributions are available for use by future social science
+ researchers, citations must appear in footnotes or in reference
+ sections of publications.
+ 
+ WASHINGTON POST POLL: 1992 REPUBLICAN DELEGATE POLL [computer file].
+ Roper Center for Public Opinion Research Study USWASH1992-4467 Version
+ 2. Washington Post [producer], 1992. Storrs, CT: The Roper Center for
+ Public Opinion Research, University of Connecticut [distributor], 2009.
+ 
+ 
+3. WEIGHTING:
+ This study contains no weight variable.
+ 
+ 
+4. DOCUMENTATION AND DATA FILES (File Description):
+ 
+ 
+ File Name                       File Type           File Format         Archive Date
+ -----------------------------   -----------------   -----------------   ------------
+ wp4467.dat                      Data set            ASCII               10/2/2009
+ uswash1992-4467.pdf             Documentation       PDF                 10/2/2009
+ 
+ 
+5. DOCUMENTATION AND DATA FILES (File Structure):
+ 
+ 
+ File Name                       File Size   LRECL     Records
+ -----------------------------   ----------- --------- -------
+ wp4467.dat                          125,706  80        1533 
+ uswash1992-4467.pdf                 364,062           
+    
+    
+    
+  2 files are currently included in this study collection.
+    
+    

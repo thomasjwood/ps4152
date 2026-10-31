@@ -1,0 +1,701 @@
+party,date,state,contest_type,total_reported,total_measure,pledged_delegates,candidate,delegates,votes,pct,measure,raw,source,total,pct_check,flag
+Democratic,1992-02-10,Iowa,caucuses,2996.0,CDs,0 of (49),Bill Clinton,,76.0,2.81,CDs,76 CDs (2.81%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,2996.0,2.54,False
+Democratic,1992-02-10,Iowa,caucuses,2996.0,CDs,0 of (49),Jerry Brown,,51.0,1.6,CDs,51 CDs (1.60%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,2996.0,1.7,False
+Democratic,1992-02-10,Iowa,caucuses,2996.0,CDs,0 of (49),Paul Tsongas,,128.0,4.11,CDs,128 CDs (4.11%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,2996.0,4.27,False
+Democratic,1992-02-10,Iowa,caucuses,2996.0,CDs,0 of (49),Tom Harkin,,2314.0,76.55,CDs,"2,314 CDs (76.55%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,2996.0,77.24,False
+Democratic,1992-02-10,Iowa,caucuses,2996.0,CDs,0 of (49),Bob Kerrey,,72.0,2.41,CDs,72 CDs (2.41%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,2996.0,2.4,False
+Democratic,1992-02-10,Iowa,caucuses,2996.0,CDs,0 of (49),Others,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-02-10,Iowa,caucuses,2996.0,CDs,0 of (49),Uncommitted,,355.0,11.85,CDs,355 CDs (11.85%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,2996.0,11.85,False
+Democratic,1992-02-18,New Hampshire,primary,167664.0,votes,18 of (18),Bill Clinton,9.0,41540.0,24.78,votes,"9 Del. 41,540 (24.78%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,167664.0,24.78,False
+Democratic,1992-02-18,New Hampshire,primary,167664.0,votes,18 of (18),Jerry Brown,,13659.0,8.15,votes,"13,659 (8.15%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,167664.0,8.15,False
+Democratic,1992-02-18,New Hampshire,primary,167664.0,votes,18 of (18),Paul Tsongas,9.0,55663.0,33.2,votes,"9 Del. 55,663 (33.20%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,167664.0,33.2,False
+Democratic,1992-02-18,New Hampshire,primary,167664.0,votes,18 of (18),Tom Harkin,,17063.0,10.18,votes,"17,063 (10.18%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,167664.0,10.18,False
+Democratic,1992-02-18,New Hampshire,primary,167664.0,votes,18 of (18),Bob Kerrey,,18584.0,11.08,votes,"18,584 (11.08%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,167664.0,11.08,False
+Democratic,1992-02-18,New Hampshire,primary,167664.0,votes,18 of (18),Others,,21155.0,12.62,votes,"21,155 (12.62%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,167664.0,12.62,False
+Democratic,1992-02-18,New Hampshire,primary,167664.0,votes,18 of (18),Uncommitted,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-02-22,Maine,caucuses,3368.0,SDs,0 of (24),Bill Clinton,,501.0,14.88,SDs,501 SDs (14.88%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,3368.0,14.88,False
+Democratic,1992-02-22,Maine,caucuses,3368.0,SDs,0 of (24),Jerry Brown,,1026.0,30.46,SDs,"1,026 SDs (30.46%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,3368.0,30.46,False
+Democratic,1992-02-22,Maine,caucuses,3368.0,SDs,0 of (24),Paul Tsongas,,970.0,28.8,SDs,970 SDs (28.80%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,3368.0,28.8,False
+Democratic,1992-02-22,Maine,caucuses,3368.0,SDs,0 of (24),Tom Harkin,,174.0,5.17,SDs,174 SDs (5.17%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,3368.0,5.17,False
+Democratic,1992-02-22,Maine,caucuses,3368.0,SDs,0 of (24),Bob Kerrey,,105.0,3.12,SDs,105 SDs (3.12%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,3368.0,3.12,False
+Democratic,1992-02-22,Maine,caucuses,3368.0,SDs,0 of (24),Others,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-02-22,Maine,caucuses,3368.0,SDs,0 of (24),Uncommitted,,548.0,16.27,SDs,548 SDs (16.27%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,3368.0,16.27,False
+Democratic,1992-02-25,South Dakota,primary,59794.0,votes,15 of (15),Bill Clinton,3.0,11421.0,19.1,votes,"3 Del. 11,421 (19.10%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,59794.0,19.1,False
+Democratic,1992-02-25,South Dakota,primary,59794.0,votes,15 of (15),Jerry Brown,,2304.0,3.86,votes,"2,304 (3.86%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,59794.0,3.85,False
+Democratic,1992-02-25,South Dakota,primary,59794.0,votes,15 of (15),Paul Tsongas,,5756.0,9.62,votes,"5,756 (9.62%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,59794.0,9.63,False
+Democratic,1992-02-25,South Dakota,primary,59794.0,votes,15 of (15),Tom Harkin,5.0,15153.0,25.23,votes,"5 Del. 15,153 (25.23%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,59794.0,25.34,False
+Democratic,1992-02-25,South Dakota,primary,59794.0,votes,15 of (15),Bob Kerrey,7.0,23974.0,40.12,votes,"7 Del. 23,974 (40.12%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,59794.0,40.09,False
+Democratic,1992-02-25,South Dakota,primary,59794.0,votes,15 of (15),Others,,1238.0,2.07,votes,"1,238 (2.07%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,59794.0,2.07,False
+Democratic,1992-02-25,South Dakota,primary,59794.0,votes,15 of (15),Uncommitted,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-03-03,Colorado,primary,239643.0,votes,47 of (47),Bill Clinton,14.0,64470.0,26.9,votes,"14 Del. 64,470 (26.90%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,239643.0,26.9,False
+Democratic,1992-03-03,Colorado,primary,239643.0,votes,47 of (47),Jerry Brown,18.0,69073.0,28.82,votes,"18 Del. 69,073 (28.82%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,239643.0,28.82,False
+Democratic,1992-03-03,Colorado,primary,239643.0,votes,47 of (47),Paul Tsongas,15.0,61360.0,25.61,votes,"15 Del. 61,360 (25.61%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,239643.0,25.6,False
+Democratic,1992-03-03,Colorado,primary,239643.0,votes,47 of (47),Tom Harkin,,5866.0,2.45,votes,"5,866 (2.45%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,239643.0,2.45,False
+Democratic,1992-03-03,Colorado,primary,239643.0,votes,47 of (47),Bob Kerrey,,29572.0,12.34,votes,"29,572 (12.34%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,239643.0,12.34,False
+Democratic,1992-03-03,Colorado,primary,239643.0,votes,47 of (47),Others,,3946.0,1.65,votes,"3,946 (1.65%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,239643.0,1.65,False
+Democratic,1992-03-03,Colorado,primary,239643.0,votes,47 of (47),Uncommitted,,5356.0,2.24,votes,"5,356 (2.24%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,239643.0,2.23,False
+Democratic,1992-03-03,Georgia,primary,454631.0,votes,76 of (76),Bill Clinton,54.0,259907.0,57.17,votes,"54 Del. 259,907 (57.17%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,454631.0,57.17,False
+Democratic,1992-03-03,Georgia,primary,454631.0,votes,76 of (76),Jerry Brown,,36808.0,8.1,votes,"36,808 (8.10%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,454631.0,8.1,False
+Democratic,1992-03-03,Georgia,primary,454631.0,votes,76 of (76),Paul Tsongas,22.0,109148.0,24.01,votes,"22 Del. 109,148 (24.01%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,454631.0,24.01,False
+Democratic,1992-03-03,Georgia,primary,454631.0,votes,76 of (76),Tom Harkin,,9479.0,2.09,votes,"9,479 (2.09%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,454631.0,2.08,False
+Democratic,1992-03-03,Georgia,primary,454631.0,votes,76 of (76),Bob Kerrey,,22033.0,4.85,votes,"22,033 (4.85%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,454631.0,4.85,False
+Democratic,1992-03-03,Georgia,primary,454631.0,votes,76 of (76),Others,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-03-03,Georgia,primary,454631.0,votes,76 of (76),Uncommitted,,17256.0,3.8,votes,"17,256 (3.80%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,454631.0,3.8,False
+Democratic,1992-03-03,Idaho,caucuses,372.0,SDs,0 of (18),Bill Clinton,,43.0,11.56,SDs,43 SDs (11.56%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,372.0,11.56,False
+Democratic,1992-03-03,Idaho,caucuses,372.0,SDs,0 of (18),Jerry Brown,,17.0,4.57,SDs,17 SDs (4.57%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,372.0,4.57,False
+Democratic,1992-03-03,Idaho,caucuses,372.0,SDs,0 of (18),Paul Tsongas,,107.0,28.76,SDs,107 SDs (28.76%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,372.0,28.76,False
+Democratic,1992-03-03,Idaho,caucuses,372.0,SDs,0 of (18),Tom Harkin,,110.0,29.57,SDs,110 SDs (29.57%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,372.0,29.57,False
+Democratic,1992-03-03,Idaho,caucuses,372.0,SDs,0 of (18),Bob Kerrey,,30.0,8.06,SDs,30 SDs (8.06%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,372.0,8.06,False
+Democratic,1992-03-03,Idaho,caucuses,372.0,SDs,0 of (18),Others,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-03-03,Idaho,caucuses,372.0,SDs,0 of (18),Uncommitted,,65.0,17.47,SDs,65 SDs (17.47%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,372.0,17.47,False
+Democratic,1992-03-03,Maryland,primary,531068.0,votes,67 of (67),Bill Clinton,29.0,189905.0,35.76,votes,"29 Del. 189,905 (35.76%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,531068.0,35.76,False
+Democratic,1992-03-03,Maryland,primary,531068.0,votes,67 of (67),Jerry Brown,,46480.0,8.75,votes,"46,480 (8.75%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,531068.0,8.75,False
+Democratic,1992-03-03,Maryland,primary,531068.0,votes,67 of (67),Paul Tsongas,38.0,230490.0,43.4,votes,"38 Del. 230,490 (43.40%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,531068.0,43.4,False
+Democratic,1992-03-03,Maryland,primary,531068.0,votes,67 of (67),Tom Harkin,,32899.0,6.2,votes,"32,899 (6.20%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,531068.0,6.19,False
+Democratic,1992-03-03,Maryland,primary,531068.0,votes,67 of (67),Bob Kerrey,,27035.0,5.09,votes,"27,035 (5.09%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,531068.0,5.09,False
+Democratic,1992-03-03,Maryland,primary,531068.0,votes,67 of (67),Others,,4259.0,0.8,votes,"4,259 (0.80)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,531068.0,0.8,False
+Democratic,1992-03-03,Maryland,primary,531068.0,votes,67 of (67),Uncommitted,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-03-03,Minnesota,caucuses,,,0 of (92),Bill Clinton,,,10.3,votes,(10.3%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,0.0,,False
+Democratic,1992-03-03,Minnesota,caucuses,,,0 of (92),Jerry Brown,,,8.2,votes,(8.2%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,0.0,,False
+Democratic,1992-03-03,Minnesota,caucuses,,,0 of (92),Paul Tsongas,,,19.2,votes,(19.2%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,0.0,,False
+Democratic,1992-03-03,Minnesota,caucuses,,,0 of (92),Tom Harkin,,,26.7,votes,(26.7%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,0.0,,False
+Democratic,1992-03-03,Minnesota,caucuses,,,0 of (92),Bob Kerrey,,,7.6,votes,(7.6%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,0.0,,False
+Democratic,1992-03-03,Minnesota,caucuses,,,0 of (92),Others,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-03-03,Minnesota,caucuses,,,0 of (92),Uncommitted,,,24.3,votes,(24.3%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,0.0,,False
+Democratic,1992-03-03,Utah,caucuses,31429.0,votes,23 of (23),Bill Clinton,5.0,5763.0,18.34,votes,"5 Del. 5,763 (18.34%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,31429.0,18.34,False
+Democratic,1992-03-03,Utah,caucuses,31429.0,votes,23 of (23),Jerry Brown,9.0,8972.0,28.55,votes,"9 Del. 8,972 (28.55%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,31429.0,28.55,False
+Democratic,1992-03-03,Utah,caucuses,31429.0,votes,23 of (23),Paul Tsongas,9.0,10761.0,34.24,votes,"9 Del. 10,761 (34.24%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,31429.0,34.24,False
+Democratic,1992-03-03,Utah,caucuses,31429.0,votes,23 of (23),Tom Harkin,,1267.0,4.03,votes,"1,267 (4.03%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,31429.0,4.03,False
+Democratic,1992-03-03,Utah,caucuses,31429.0,votes,23 of (23),Bob Kerrey,,3442.0,10.95,votes,"3,442 (10.95%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,31429.0,10.95,False
+Democratic,1992-03-03,Utah,caucuses,31429.0,votes,23 of (23),Others,,598.0,1.9,votes,598 (1.90%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,31429.0,1.9,False
+Democratic,1992-03-03,Utah,caucuses,31429.0,votes,23 of (23),Uncommitted,,726.0,2.31,votes,726 (2.31%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,31429.0,2.31,False
+Democratic,1992-03-03,Washington,caucuses,,,0 of (72),Bill Clinton,,835.0,15.9,CDs,835 CDs (15.9%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,3957.0,21.1,True
+Democratic,1992-03-03,Washington,caucuses,,,0 of (72),Jerry Brown,,1019.0,19.1,CDs,"1,019 CDs (19.1%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,3957.0,25.75,True
+Democratic,1992-03-03,Washington,caucuses,,,0 of (72),Paul Tsongas,,1485.0,27.9,CDs,"1,485 CDs (27.9%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,3957.0,37.53,True
+Democratic,1992-03-03,Washington,caucuses,,,0 of (72),Tom Harkin,,397.0,7.5,CDs,397 CDs (7.5%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,3957.0,10.03,True
+Democratic,1992-03-03,Washington,caucuses,,,0 of (72),Bob Kerrey,,221.0,4.1,CDs,221 CDs (4.1%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,3957.0,5.59,False
+Democratic,1992-03-03,Washington,caucuses,,,0 of (72),Others,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-03-03,Washington,caucuses,,,0 of (72),Uncommitted,,1293.0,24.3,SDs,"1,293 SDs (24.3%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,1293.0,100.0,True
+Democratic,1992-03-03,American Samoa,caucuses,31429.0,votes,3 of (3),Bill Clinton,,,9.0,votes,(9%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,31429.0,,False
+Democratic,1992-03-03,American Samoa,caucuses,31429.0,votes,3 of (3),Jerry Brown,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-03-03,American Samoa,caucuses,31429.0,votes,3 of (3),Paul Tsongas,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-03-03,American Samoa,caucuses,31429.0,votes,3 of (3),Tom Harkin,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-03-03,American Samoa,caucuses,31429.0,votes,3 of (3),Bob Kerrey,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-03-03,American Samoa,caucuses,31429.0,votes,3 of (3),Others,,,4.0,votes,(4%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,31429.0,,False
+Democratic,1992-03-03,American Samoa,caucuses,31429.0,votes,3 of (3),Uncommitted,3.0,,87.0,votes,3 Del. (87%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,31429.0,,False
+Democratic,1992-03-07,Arizona,caucuses,36727.0,votes,41 of (41),Bill Clinton,15.0,10607.0,29.28,votes,"15 Del. 10,607 (29.28%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,36727.0,28.88,False
+Democratic,1992-03-07,Arizona,caucuses,36727.0,votes,41 of (41),Jerry Brown,12.0,10145.0,27.62,votes,"12 Del. 10,145 (27.62%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,36727.0,27.62,False
+Democratic,1992-03-07,Arizona,caucuses,36727.0,votes,41 of (41),Paul Tsongas,14.0,12663.0,34.48,votes,"14 Del. 12,663 (34.48%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,36727.0,34.48,False
+Democratic,1992-03-07,Arizona,caucuses,36727.0,votes,41 of (41),Tom Harkin,,2831.0,7.71,votes,"2,831 (7.71%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,36727.0,7.71,False
+Democratic,1992-03-07,Arizona,caucuses,36727.0,votes,41 of (41),Bob Kerrey,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-03-07,Arizona,caucuses,36727.0,votes,41 of (41),Others,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-03-07,Arizona,caucuses,36727.0,votes,41 of (41),Uncommitted,,334.0,0.91,votes,334 (0.91%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,36727.0,0.91,False
+Democratic,1992-03-07,South Carolina,primary,116414.0,votes,43 of (43),Bill Clinton,36.0,73221.0,62.9,votes,"36 Del. 73,221 (62.90%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,116414.0,62.9,False
+Democratic,1992-03-07,South Carolina,primary,116414.0,votes,43 of (43),Jerry Brown,,6961.0,5.98,votes,"6,961 (5.98%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,116414.0,5.98,False
+Democratic,1992-03-07,South Carolina,primary,116414.0,votes,43 of (43),Paul Tsongas,7.0,21338.0,18.33,votes,"7 Del. 21,338 (18.33%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,116414.0,18.33,False
+Democratic,1992-03-07,South Carolina,primary,116414.0,votes,43 of (43),Tom Harkin,,7657.0,6.58,votes,"7,657 (6.58%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,116414.0,6.58,False
+Democratic,1992-03-07,South Carolina,primary,116414.0,votes,43 of (43),Bob Kerrey,,566.0,0.49,votes,566 (0.49%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,116414.0,0.49,False
+Democratic,1992-03-07,South Carolina,primary,116414.0,votes,43 of (43),Others,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-03-07,South Carolina,primary,116414.0,votes,43 of (43),Uncommitted,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-03-07,Wyoming,caucuses,274.0,SDs,0 of (11),Bill Clinton,,78.0,28.57,SDs,78 SDs (28.57%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,274.0,28.47,False
+Democratic,1992-03-07,Wyoming,caucuses,274.0,SDs,0 of (11),Jerry Brown,,63.0,23.08,SDs,63 SDs (23.08%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,274.0,22.99,False
+Democratic,1992-03-07,Wyoming,caucuses,274.0,SDs,0 of (11),Paul Tsongas,,32.0,11.72,SDs,32 SDs (11.72%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,274.0,11.68,False
+Democratic,1992-03-07,Wyoming,caucuses,274.0,SDs,0 of (11),Tom Harkin,,39.0,14.29,SDs,39 SDs (14.29%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,274.0,14.23,False
+Democratic,1992-03-07,Wyoming,caucuses,274.0,SDs,0 of (11),Bob Kerrey,,,,,–,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-03-07,Wyoming,caucuses,274.0,SDs,0 of (11),Others,,1.0,0.36,SD,1 SD (0.36%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,1.0,100.0,True
+Democratic,1992-03-07,Wyoming,caucuses,274.0,SDs,0 of (11),Uncommitted,,61.0,22.26,SDs,61 SDs (22.26%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,274.0,22.26,False
+Democratic,1992-03-08,Nevada,caucuses,1546.0,CDs,0 of (17),Bill Clinton,,400.0,25.87,CDs,400 CDs (25.87%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,1546.0,25.87,False
+Democratic,1992-03-08,Nevada,caucuses,1546.0,CDs,0 of (17),Jerry Brown,,542.0,35.06,CDs,542 CDs (35.06%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,1546.0,35.06,False
+Democratic,1992-03-08,Nevada,caucuses,1546.0,CDs,0 of (17),Paul Tsongas,,305.0,19.73,CDs,305 CDs (19.73%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,1546.0,19.73,False
+Democratic,1992-03-08,Nevada,caucuses,1546.0,CDs,0 of (17),Tom Harkin,,16.0,1.03,CDs,16 CDs (1.03%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,1546.0,1.03,False
+Democratic,1992-03-08,Nevada,caucuses,1546.0,CDs,0 of (17),Bob Kerrey,,6.0,0.39,CDs,6 CDs (0.39%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,1546.0,0.39,False
+Democratic,1992-03-08,Nevada,caucuses,1546.0,CDs,0 of (17),Others,,6.0,0.39,CDs,6 CDs (0.39%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,1546.0,0.39,False
+Democratic,1992-03-08,Nevada,caucuses,1546.0,CDs,0 of (17),Uncommitted,,266.0,17.21,CDs,266 CDs (17.21%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,1546.0,17.21,False
+Democratic,1992-03-10,Delaware,caucuses,318.0,SDs,0 of (14),Bill Clinton,,520.0,20.78,votes,66 SDs (20.75%) 520 (20.78%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,2503.0,20.78,False
+Democratic,1992-03-10,Delaware,caucuses,318.0,SDs,0 of (14),Jerry Brown,,488.0,19.5,votes,62 SDs (17.47%) 488 (19.50%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,2503.0,19.5,False
+Democratic,1992-03-10,Delaware,caucuses,318.0,SDs,0 of (14),Paul Tsongas,,755.0,30.16,votes,96 SDs (30.19%) 755 (30.16%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,2503.0,30.16,False
+Democratic,1992-03-10,Delaware,caucuses,318.0,SDs,0 of (14),Tom Harkin,,,,,–,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-03-10,Delaware,caucuses,318.0,SDs,0 of (14),Bob Kerrey,,,,,–,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-03-10,Delaware,caucuses,318.0,SDs,0 of (14),Others,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-03-10,Delaware,caucuses,318.0,SDs,0 of (14),Uncommitted,,740.0,29.56,votes,94 SDs (29.56%) 740 (29.56%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,2503.0,29.56,False
+Democratic,1992-03-10,Florida,primary,1092448.0,votes,148 of (148),Bill Clinton,87.0,554861.0,50.79,votes,"87 Del.  554,861 (50.79%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,1092448.0,50.79,False
+Democratic,1992-03-10,Florida,primary,1092448.0,votes,148 of (148),Jerry Brown,3.0,133156.0,12.19,votes,"3 Del. 133,156 (12.19%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,1092448.0,12.19,False
+Democratic,1992-03-10,Florida,primary,1092448.0,votes,148 of (148),Paul Tsongas,58.0,379572.0,34.75,votes,"58 Del. 379,572 (34.75%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,1092448.0,34.75,False
+Democratic,1992-03-10,Florida,primary,1092448.0,votes,148 of (148),Tom Harkin,,13302.0,1.22,votes,"13,302 (1.22%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,1092448.0,1.22,False
+Democratic,1992-03-10,Florida,primary,1092448.0,votes,148 of (148),Bob Kerrey,,11557.0,1.06,votes,"11,557 (1.06%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,1092448.0,1.06,False
+Democratic,1992-03-10,Florida,primary,1092448.0,votes,148 of (148),Others,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-03-10,Florida,primary,1092448.0,votes,148 of (148),Uncommitted,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-03-10,Hawaii,caucuses,2966.0,votes,0 of (20),Bill Clinton,,1501.0,50.61,votes,"1,501 (50.61%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,2966.0,50.61,False
+Democratic,1992-03-10,Hawaii,caucuses,2966.0,votes,0 of (20),Jerry Brown,,409.0,13.79,votes,409 (13.79%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,2966.0,13.79,False
+Democratic,1992-03-10,Hawaii,caucuses,2966.0,votes,0 of (20),Paul Tsongas,,421.0,14.19,votes,421 (14.19%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,2966.0,14.19,False
+Democratic,1992-03-10,Hawaii,caucuses,2966.0,votes,0 of (20),Tom Harkin,,406.0,13.69,votes,406 (13.69%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,2966.0,13.69,False
+Democratic,1992-03-10,Hawaii,caucuses,2966.0,votes,0 of (20),Bob Kerrey,,13.0,0.44,votes,13 (0.44%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,2966.0,0.44,False
+Democratic,1992-03-10,Hawaii,caucuses,2966.0,votes,0 of (20),Others,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-03-10,Hawaii,caucuses,2966.0,votes,0 of (20),Uncommitted,,216.0,7.28,votes,216 (7.28%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,2966.0,7.28,False
+Democratic,1992-03-10,Louisiana,primary,384426.0,votes,60 of (60),Bill Clinton,59.0,267029.0,69.46,votes,"59 Del. 267,029 (69.46%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,384426.0,69.46,False
+Democratic,1992-03-10,Louisiana,primary,384426.0,votes,60 of (60),Jerry Brown,,25480.0,6.63,votes,"25,480 (6.63%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,384426.0,6.63,False
+Democratic,1992-03-10,Louisiana,primary,384426.0,votes,60 of (60),Paul Tsongas,1.0,42509.0,11.06,votes,"1 Del. 42,509 (11.06%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,384426.0,11.06,False
+Democratic,1992-03-10,Louisiana,primary,384426.0,votes,60 of (60),Tom Harkin,,4033.0,1.05,votes,"4,033 (1.05%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,384426.0,1.05,False
+Democratic,1992-03-10,Louisiana,primary,384426.0,votes,60 of (60),Bob Kerrey,,2984.0,0.78,votes,"2,984 (0.78%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,384426.0,0.78,False
+Democratic,1992-03-10,Louisiana,primary,384426.0,votes,60 of (60),Others,,42391.0,11.03,votes,"42,391 (11.03%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,384426.0,11.03,False
+Democratic,1992-03-10,Louisiana,primary,384426.0,votes,60 of (60),Uncommitted,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-03-10,Massachusetts,primary,794115.0,votes,94 of (94),Bill Clinton,,86817.0,10.95,votes,"86,817 (10.95%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,794115.0,10.93,False
+Democratic,1992-03-10,Massachusetts,primary,794115.0,votes,94 of (94),Jerry Brown,6.0,115746.0,14.6,votes,"6 Del. 115,746 (14.60%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,794115.0,14.58,False
+Democratic,1992-03-10,Massachusetts,primary,794115.0,votes,94 of (94),Paul Tsongas,88.0,526297.0,66.38,votes,"88 Del. 526,297 (66.38%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,794115.0,66.27,False
+Democratic,1992-03-10,Massachusetts,primary,794115.0,votes,94 of (94),Tom Harkin,,3764.0,0.48,votes,"3,764 (0.48%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,794115.0,0.47,False
+Democratic,1992-03-10,Massachusetts,primary,794115.0,votes,94 of (94),Bob Kerrey,,5409.0,0.68,votes,"5,409 (0.68%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,794115.0,0.68,False
+Democratic,1992-03-10,Massachusetts,primary,794115.0,votes,94 of (94),Others,,12218.0,1.54,votes,"12,218 (1.54%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,794115.0,1.54,False
+Democratic,1992-03-10,Massachusetts,primary,794115.0,votes,94 of (94),Uncommitted,,43864.0,5.52,votes,"43,864 (5.52%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,794115.0,5.52,False
+Democratic,1992-03-10,Mississippi,primary,191200.0,votes,39 of (39),Bill Clinton,39.0,139893.0,73.11,votes,"39 Del. 139,893 (73.11%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,191200.0,73.17,False
+Democratic,1992-03-10,Mississippi,primary,191200.0,votes,39 of (39),Jerry Brown,,18396.0,9.61,votes,"18,396 (9.61%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,191200.0,9.62,False
+Democratic,1992-03-10,Mississippi,primary,191200.0,votes,39 of (39),Paul Tsongas,,15538.0,8.12,votes,"15,538 (8.12%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,191200.0,8.13,False
+Democratic,1992-03-10,Mississippi,primary,191200.0,votes,39 of (39),Tom Harkin,,2509.0,1.31,votes,"2,509 (1.31%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,191200.0,1.31,False
+Democratic,1992-03-10,Mississippi,primary,191200.0,votes,39 of (39),Bob Kerrey,,1660.0,0.87,votes,"1,660 (0.87%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,191200.0,0.87,False
+Democratic,1992-03-10,Mississippi,primary,191200.0,votes,39 of (39),Others,,1394.0,0.73,votes,"1,394 (0.73%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,191200.0,0.73,False
+Democratic,1992-03-10,Mississippi,primary,191200.0,votes,39 of (39),Uncommitted,,11807.0,6.18,votes,"11,807 (6.18%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,191200.0,6.18,False
+Democratic,1992-03-10,Missouri,caucuses,963.0,DDs,0 of (92),Bill Clinton,,10148.0,45.1,votes,"434 DDs (45.07%) 10,148 (45.10%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,22500.0,45.1,False
+Democratic,1992-03-10,Missouri,caucuses,963.0,DDs,0 of (92),Jerry Brown,,1282.0,5.7,votes,"55 DDs (5.71%) 1,282 (5.70%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,22500.0,5.7,False
+Democratic,1992-03-10,Missouri,caucuses,963.0,DDs,0 of (92),Paul Tsongas,,2295.0,10.2,votes,"98 DDs (10.18%) 2,295 (10.20%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,22500.0,10.2,False
+Democratic,1992-03-10,Missouri,caucuses,963.0,DDs,0 of (92),Tom Harkin,,,,,–,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-03-10,Missouri,caucuses,963.0,DDs,0 of (92),Bob Kerrey,,,,,–,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-03-10,Missouri,caucuses,963.0,DDs,0 of (92),Others,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-03-10,Missouri,caucuses,963.0,DDs,0 of (92),Uncommitted,,8775.0,39.0,votes,"376 DDs (39.04%) 8,775 (39.00%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,22500.0,39.0,False
+Democratic,1992-03-10,Oklahoma,primary,416129.0,votes,45 of (45),Bill Clinton,38.0,293266.0,70.47,votes,"38 Del. 293,266 (70.47%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,416129.0,70.47,False
+Democratic,1992-03-10,Oklahoma,primary,416129.0,votes,45 of (45),Jerry Brown,7.0,69624.0,16.69,votes,"7 Del. 69,624 (16.69%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,416129.0,16.73,False
+Democratic,1992-03-10,Oklahoma,primary,416129.0,votes,45 of (45),Paul Tsongas,,,,,–,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-03-10,Oklahoma,primary,416129.0,votes,45 of (45),Tom Harkin,,14015.0,3.4,votes,"14,015 (3.40%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,416129.0,3.37,False
+Democratic,1992-03-10,Oklahoma,primary,416129.0,votes,45 of (45),Bob Kerrey,,13252.0,3.2,votes,"13,252 (3.20%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,416129.0,3.18,False
+Democratic,1992-03-10,Oklahoma,primary,416129.0,votes,45 of (45),Others,,25972.0,3.2,votes,"25,972 (3.20%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,416129.0,6.24,True
+Democratic,1992-03-10,Oklahoma,primary,416129.0,votes,45 of (45),Uncommitted,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-03-10,Rhode Island,primary,50402.0,votes,22 of (22),Bill Clinton,6.0,10762.0,21.22,votes,"6 Del. 10,762 (21.22%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,50402.0,21.35,False
+Democratic,1992-03-10,Rhode Island,primary,50402.0,votes,22 of (22),Jerry Brown,3.0,9541.0,18.82,votes,"3 Del. 9,541 (18.82%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,50402.0,18.93,False
+Democratic,1992-03-10,Rhode Island,primary,50402.0,votes,22 of (22),Paul Tsongas,13.0,26825.0,52.9,votes,"13 Del. 26,825 (52.90%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,50402.0,53.22,False
+Democratic,1992-03-10,Rhode Island,primary,50402.0,votes,22 of (22),Tom Harkin,,319.0,0.63,votes,319 (0.63%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,50402.0,0.63,False
+Democratic,1992-03-10,Rhode Island,primary,50402.0,votes,22 of (22),Bob Kerrey,,469.0,0.92,votes,469 (0.92%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,50402.0,0.93,False
+Democratic,1992-03-10,Rhode Island,primary,50402.0,votes,22 of (22),Others,,1783.0,3.54,votes,"1,783 (3.54%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,50402.0,3.54,False
+Democratic,1992-03-10,Rhode Island,primary,50402.0,votes,22 of (22),Uncommitted,,703.0,1.39,votes,703 (1.39%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,50402.0,1.39,False
+Democratic,1992-03-10,Tennessee,primary,318482.0,votes,68 of (68),Bill Clinton,56.0,214485.0,67.35,votes,"56 Del. 214,485 (67.35%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,318482.0,67.35,False
+Democratic,1992-03-10,Tennessee,primary,318482.0,votes,68 of (68),Jerry Brown,,25560.0,8.02,votes,"25,560 (8.02%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,318482.0,8.03,False
+Democratic,1992-03-10,Tennessee,primary,318482.0,votes,68 of (68),Paul Tsongas,12.0,61717.0,19.38,votes,"12 Del. 61,717 (19.38%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,318482.0,19.38,False
+Democratic,1992-03-10,Tennessee,primary,318482.0,votes,68 of (68),Tom Harkin,,2099.0,0.66,votes,"2,099 (0.66%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,318482.0,0.66,False
+Democratic,1992-03-10,Tennessee,primary,318482.0,votes,68 of (68),Bob Kerrey,,1638.0,0.51,votes,"1,638 (0.51%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,318482.0,0.51,False
+Democratic,1992-03-10,Tennessee,primary,318482.0,votes,68 of (68),Others,,432.0,0.14,votes,432 (0.14%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,318482.0,0.14,False
+Democratic,1992-03-10,Tennessee,primary,318482.0,votes,68 of (68),Uncommitted,,12551.0,3.94,votes,"12,551 (3.94%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,318482.0,3.94,False
+Democratic,1992-03-10,Texas,primary,1483047.0,votes,196 of (196),Bill Clinton,94.0,972235.0,65.56,votes,"94 Del. 972,235 (65.56%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,1483047.0,65.56,False
+Democratic,1992-03-10,Texas,primary,1483047.0,votes,196 of (196),Jerry Brown,2.0,118869.0,8.02,votes,"2 Del. 118,869 (8.02%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,1483047.0,8.02,False
+Democratic,1992-03-10,Texas,primary,1483047.0,votes,196 of (196),Paul Tsongas,31.0,285224.0,19.23,votes,"31 Del. 285,224 (19.23%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,1483047.0,19.23,False
+Democratic,1992-03-10,Texas,primary,1483047.0,votes,196 of (196),Tom Harkin,,19618.0,1.32,votes,"19,618 (1.32%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,1483047.0,1.32,False
+Democratic,1992-03-10,Texas,primary,1483047.0,votes,196 of (196),Bob Kerrey,,20298.0,1.37,votes,"20,298 (1.37%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,1483047.0,1.37,False
+Democratic,1992-03-10,Texas,primary,1483047.0,votes,196 of (196),Others,,66803.0,4.5,votes,"66,803 (4.50%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,1483047.0,4.5,False
+Democratic,1992-03-10,Texas,primary,1483047.0,votes,196 of (196),Uncommitted,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-03-17,Illinois,primary,1504130.0,votes,164 of (164),Bill Clinton,107.0,776829.0,51.65,votes,"107 Del. 776,829 (51.65%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,1504130.0,51.65,False
+Democratic,1992-03-17,Illinois,primary,1504130.0,votes,164 of (164),Jerry Brown,11.0,220346.0,14.65,votes,"11 Del. 220,346 (14.65%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,1504130.0,14.65,False
+Democratic,1992-03-17,Illinois,primary,1504130.0,votes,164 of (164),Paul Tsongas,46.0,387891.0,25.79,votes,"46 Del. 387,891 (25.79%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,1504130.0,25.79,False
+Democratic,1992-03-17,Illinois,primary,1504130.0,votes,164 of (164),Tom Harkin,,30710.0,2.04,votes,"30,710 (2.04%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,1504130.0,2.04,False
+Democratic,1992-03-17,Illinois,primary,1504130.0,votes,164 of (164),Bob Kerrey,,10916.0,0.73,votes,"10,916 (0.73%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,1504130.0,0.73,False
+Democratic,1992-03-17,Illinois,primary,1504130.0,votes,164 of (164),Others,,9826.0,0.65,votes,"9,826 (0.65%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,1504130.0,0.65,False
+Democratic,1992-03-17,Illinois,primary,1504130.0,votes,164 of (164),Uncommitted,,67612.0,4.5,votes,"67,612 (4.50%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,1504130.0,4.5,False
+Democratic,1992-03-17,Michigan,primary,585972.0,votes,131 of (131),Bill Clinton,74.0,297280.0,50.73,votes,"74 Del. 297,280 (50.73%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,585972.0,50.73,False
+Democratic,1992-03-17,Michigan,primary,585972.0,votes,131 of (131),Jerry Brown,37.0,151400.0,25.84,votes,"37 Del. 151,400 (25.84%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,585972.0,25.84,False
+Democratic,1992-03-17,Michigan,primary,585972.0,votes,131 of (131),Paul Tsongas,20.0,97017.0,16.56,votes,"20 Del. 97,017 (16.56%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,585972.0,16.56,False
+Democratic,1992-03-17,Michigan,primary,585972.0,votes,131 of (131),Tom Harkin,,6265.0,1.07,votes,"6,265 (1.07%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,585972.0,1.07,False
+Democratic,1992-03-17,Michigan,primary,585972.0,votes,131 of (131),Bob Kerrey,,3219.0,0.55,votes,"3,219 (0.55%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,585972.0,0.55,False
+Democratic,1992-03-17,Michigan,primary,585972.0,votes,131 of (131),Others,,2955.0,0.5,votes,"2,955 (0.50%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,585972.0,0.5,False
+Democratic,1992-03-17,Michigan,primary,585972.0,votes,131 of (131),Uncommitted,,27836.0,4.75,votes,"27,836 (4.75%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,585972.0,4.75,False
+Democratic,1992-03-19,Democrats Abroad,caucuses,,,?,Bill Clinton,,,27.0,votes,?  (27.00%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,0.0,,False
+Democratic,1992-03-19,Democrats Abroad,caucuses,,,?,Jerry Brown,,,,,–,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-03-19,Democrats Abroad,caucuses,,,?,Paul Tsongas,,,37.0,votes,?  (37.00%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,0.0,,False
+Democratic,1992-03-19,Democrats Abroad,caucuses,,,?,Tom Harkin,,,7.0,votes,(7.00%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,0.0,,False
+Democratic,1992-03-19,Democrats Abroad,caucuses,,,?,Bob Kerrey,,,,,–,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-03-19,Democrats Abroad,caucuses,,,?,Others,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-03-19,Democrats Abroad,caucuses,,,?,Uncommitted,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-03-19,North Dakota,caucuses,974.0,votes,0 of (14),Bill Clinton,,448.0,46.0,votes,448 (46.00%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,974.0,46.0,False
+Democratic,1992-03-19,North Dakota,caucuses,974.0,votes,0 of (14),Jerry Brown,,73.0,7.49,votes,73 (7.49%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,974.0,7.49,False
+Democratic,1992-03-19,North Dakota,caucuses,974.0,votes,0 of (14),Paul Tsongas,,100.0,10.27,votes,100 (10.27%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,974.0,10.27,False
+Democratic,1992-03-19,North Dakota,caucuses,974.0,votes,0 of (14),Tom Harkin,,66.0,6.78,votes,66 (6.78%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,974.0,6.78,False
+Democratic,1992-03-19,North Dakota,caucuses,974.0,votes,0 of (14),Bob Kerrey,,12.0,1.23,votes,12 (1.23%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,974.0,1.23,False
+Democratic,1992-03-19,North Dakota,caucuses,974.0,votes,0 of (14),Others,,23.0,2.36,votes,23 (2.36%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,974.0,2.36,False
+Democratic,1992-03-19,North Dakota,caucuses,974.0,votes,0 of (14),Uncommitted,,252.0,25.87,votes,252 (25.87%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,974.0,25.87,False
+Democratic,1992-03-24,Connecticut,primary,173119.0,votes,53 of (53),Bill Clinton,22.0,61698.0,35.64,votes,"22 Del. 61,698 (35.64%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,173119.0,35.64,False
+Democratic,1992-03-24,Connecticut,primary,173119.0,votes,53 of (53),Jerry Brown,21.0,64472.0,37.24,votes,"21 Del. 64,472 (37.24%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,173119.0,37.24,False
+Democratic,1992-03-24,Connecticut,primary,173119.0,votes,53 of (53),Paul Tsongas,10.0,33811.0,19.53,votes,"10 Del. 33,811 (19.53%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,173119.0,19.53,False
+Democratic,1992-03-24,Connecticut,primary,173119.0,votes,53 of (53),Tom Harkin,,1919.0,1.11,votes,"1,919 (1.11%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,173119.0,1.11,False
+Democratic,1992-03-24,Connecticut,primary,173119.0,votes,53 of (53),Bob Kerrey,,1169.0,0.68,votes,"1,169 (0.68%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,173119.0,0.68,False
+Democratic,1992-03-24,Connecticut,primary,173119.0,votes,53 of (53),Others,,4620.0,2.67,votes,"4,620 (2.67%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,173119.0,2.67,False
+Democratic,1992-03-24,Connecticut,primary,173119.0,votes,53 of (53),Uncommitted,,5430.0,3.14,votes,"5,430 (3.14%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,173119.0,3.14,False
+Democratic,1992-03-28,Iowa,county conventions,2998.0,CDs,0 of (49),Bill Clinton,,347.0,11.57,CDs,347 CDs (11.57%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,2998.0,11.57,False
+Democratic,1992-03-28,Iowa,county conventions,2998.0,CDs,0 of (49),Jerry Brown,,280.0,9.34,CDs,280 CDs (9.34%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,2998.0,9.34,False
+Democratic,1992-03-28,Iowa,county conventions,2998.0,CDs,0 of (49),Paul Tsongas,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-03-28,Iowa,county conventions,2998.0,CDs,0 of (49),Tom Harkin,,1105.0,36.86,CDs,"1,105 CDs (36.86%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,2998.0,36.86,False
+Democratic,1992-03-28,Iowa,county conventions,2998.0,CDs,0 of (49),Bob Kerrey,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-03-28,Iowa,county conventions,2998.0,CDs,0 of (49),Others,,32.0,1.08,CDs,32 CDs (1.08%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,2998.0,1.07,False
+Democratic,1992-03-28,Iowa,county conventions,2998.0,CDs,0 of (49),Uncommitted,,1234.0,41.16,CDs,"1,234 CDs (41.16%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,2998.0,41.16,False
+Democratic,1992-03-28,Virgin Islands,caucuses,31429.0,votes,3 of (3),Bill Clinton,1.0,,42.0,votes,1 Del. (42%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,31429.0,,False
+Democratic,1992-03-28,Virgin Islands,caucuses,31429.0,votes,3 of (3),Jerry Brown,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-03-28,Virgin Islands,caucuses,31429.0,votes,3 of (3),Paul Tsongas,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-03-28,Virgin Islands,caucuses,31429.0,votes,3 of (3),Tom Harkin,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-03-28,Virgin Islands,caucuses,31429.0,votes,3 of (3),Bob Kerrey,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-03-28,Virgin Islands,caucuses,31429.0,votes,3 of (3),Others,,,4.0,votes,(4%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,31429.0,,False
+Democratic,1992-03-28,Virgin Islands,caucuses,31429.0,votes,3 of (3),Uncommitted,2.0,,58.0,votes,2 Del. (58%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,31429.0,,False
+Democratic,1992-03-31,Vermont,caucus,1209.0,SDs,0 of (15),Bill Clinton,,208.0,17.2,SDs,208 SDs (17.20%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,1209.0,17.2,False
+Democratic,1992-03-31,Vermont,caucus,1209.0,SDs,0 of (15),Jerry Brown,,573.0,47.4,SDs,573 SDs (47.40%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,1209.0,47.39,False
+Democratic,1992-03-31,Vermont,caucus,1209.0,SDs,0 of (15),Paul Tsongas,,117.0,9.68,SDs,117 SDs (9.68%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,1209.0,9.68,False
+Democratic,1992-03-31,Vermont,caucus,1209.0,SDs,0 of (15),Tom Harkin,,,,,–,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-03-31,Vermont,caucus,1209.0,SDs,0 of (15),Bob Kerrey,,,,,–,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-03-31,Vermont,caucus,1209.0,SDs,0 of (15),Others,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-03-31,Vermont,caucus,1209.0,SDs,0 of (15),Uncommitted,,311.0,25.72,SDs,311 SDs (25.72%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,1209.0,25.72,False
+Democratic,1992-04-02,Alaska,caucus,2907.0,DDs,0 of (13),Bill Clinton,,884.0,30.41,DDs,884 DDs (30.41%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,2907.0,30.41,False
+Democratic,1992-04-02,Alaska,caucus,2907.0,DDs,0 of (13),Jerry Brown,,964.0,33.16,DDs,964 DDs (33.16%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,2907.0,33.16,False
+Democratic,1992-04-02,Alaska,caucus,2907.0,DDs,0 of (13),Paul Tsongas,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-04-02,Alaska,caucus,2907.0,DDs,0 of (13),Tom Harkin,,,,,–,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-04-02,Alaska,caucus,2907.0,DDs,0 of (13),Bob Kerrey,,,,,–,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-04-02,Alaska,caucus,2907.0,DDs,0 of (13),Others,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-04-02,Alaska,caucus,2907.0,DDs,0 of (13),Uncommitted,,1059.0,36.43,DDs,"1,059 DDs (36.43%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,2907.0,36.43,False
+Democratic,1992-04-05,North Dakota,state convention,,,14 of (14),Bill Clinton,3.0,,,,3 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-04-05,North Dakota,state convention,,,14 of (14),Jerry Brown,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-04-05,North Dakota,state convention,,,14 of (14),Paul Tsongas,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-04-05,North Dakota,state convention,,,14 of (14),Tom Harkin,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-04-05,North Dakota,state convention,,,14 of (14),Bob Kerrey,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-04-05,North Dakota,state convention,,,14 of (14),Others,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-04-05,North Dakota,state convention,,,14 of (14),Uncommitted,9.0,,,,9 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-04-05,Puerto Rico,primary,64962.0,votes,51 of (51),Bill Clinton,51.0,62273.0,95.86,votes,"51 Del. 62,273 (95.86%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,64962.0,95.86,False
+Democratic,1992-04-05,Puerto Rico,primary,64962.0,votes,51 of (51),Jerry Brown,,921.0,1.42,votes,921 (1.42%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,64962.0,1.42,False
+Democratic,1992-04-05,Puerto Rico,primary,64962.0,votes,51 of (51),Paul Tsongas,,59.0,0.09,votes,59 (0.09%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,64962.0,0.09,False
+Democratic,1992-04-05,Puerto Rico,primary,64962.0,votes,51 of (51),Tom Harkin,,31.0,0.05,votes,31 (0.05%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,64962.0,0.05,False
+Democratic,1992-04-05,Puerto Rico,primary,64962.0,votes,51 of (51),Bob Kerrey,,930.0,1.43,votes,930 (1.43%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,64962.0,1.43,False
+Democratic,1992-04-05,Puerto Rico,primary,64962.0,votes,51 of (51),Others,,504.0,0.78,votes,504 (0.78%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,64962.0,0.78,False
+Democratic,1992-04-05,Puerto Rico,primary,64962.0,votes,51 of (51),Uncommitted,,244.0,0.38,votes,244 (0.38%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,64962.0,0.38,False
+Democratic,1992-04-07,Kansas,primary,160251.0,votes,36 of (36),Bill Clinton,27.0,82145.0,51.26,votes,"27 Del. 82,145 (51.26%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,160251.0,51.26,False
+Democratic,1992-04-07,Kansas,primary,160251.0,votes,36 of (36),Jerry Brown,2.0,20811.0,12.99,votes,"2 Del. 20,811 (12.99%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,160251.0,12.99,False
+Democratic,1992-04-07,Kansas,primary,160251.0,votes,36 of (36),Paul Tsongas,6.0,24413.0,15.23,votes,"6 Del. 24,413 (15.23%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,160251.0,15.23,False
+Democratic,1992-04-07,Kansas,primary,160251.0,votes,36 of (36),Tom Harkin,,940.0,0.59,votes,940 (0.59%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,160251.0,0.59,False
+Democratic,1992-04-07,Kansas,primary,160251.0,votes,36 of (36),Bob Kerrey,,2215.0,1.38,votes,"2,215 (1.38%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,160251.0,1.38,False
+Democratic,1992-04-07,Kansas,primary,160251.0,votes,36 of (36),Others,,2215.0,1.38,votes,"2,215 (1.38%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,160251.0,1.38,False
+Democratic,1992-04-07,Kansas,primary,160251.0,votes,36 of (36),Uncommitted,1.0,22159.0,13.83,votes,"1 Del. 22,159 (13.83%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,160251.0,13.83,False
+Democratic,1992-04-07,Minnesota,primary,204402.0,votes,0 of (92),Bill Clinton,,63584.0,31.14,votes,"63,584 (31.14%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,204402.0,31.11,False
+Democratic,1992-04-07,Minnesota,primary,204402.0,votes,0 of (92),Jerry Brown,,62474.0,30.6,votes,"62,474 (30.60%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,204402.0,30.56,False
+Democratic,1992-04-07,Minnesota,primary,204402.0,votes,0 of (92),Paul Tsongas,,43588.0,21.35,votes,"43,588 (21.35%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,204402.0,21.32,False
+Democratic,1992-04-07,Minnesota,primary,204402.0,votes,0 of (92),Tom Harkin,,4077.0,2.0,votes,"4,077 (2.00%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,204402.0,1.99,False
+Democratic,1992-04-07,Minnesota,primary,204402.0,votes,0 of (92),Bob Kerrey,,1191.0,0.58,votes,"1,191 (0.58%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,204402.0,0.58,False
+Democratic,1992-04-07,Minnesota,primary,204402.0,votes,0 of (92),Others,,17890.0,8.75,votes,"17,890 (8.75%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,204402.0,8.75,False
+Democratic,1992-04-07,Minnesota,primary,204402.0,votes,0 of (92),Uncommitted,,11366.0,5.56,votes,"11,366 (5.56%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,204402.0,5.56,False
+Democratic,1992-04-07,New York,primary,1007726.0,votes,244 of (244),Bill Clinton,102.0,412349.0,40.92,votes,"102 Del. 412,349 (40.92%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,1007726.0,40.92,False
+Democratic,1992-04-07,New York,primary,1007726.0,votes,244 of (244),Jerry Brown,67.0,264278.0,26.23,votes,"67 Del. 264,278 (26.23%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,1007726.0,26.23,False
+Democratic,1992-04-07,New York,primary,1007726.0,votes,244 of (244),Paul Tsongas,75.0,288330.0,28.61,votes,"75 Del. 288,330 (28.61%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,1007726.0,28.61,False
+Democratic,1992-04-07,New York,primary,1007726.0,votes,244 of (244),Tom Harkin,,11535.0,1.15,votes,"11,535 (1.15%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,1007726.0,1.14,False
+Democratic,1992-04-07,New York,primary,1007726.0,votes,244 of (244),Bob Kerrey,,11147.0,1.11,votes,"11,147 (1.11%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,1007726.0,1.11,False
+Democratic,1992-04-07,New York,primary,1007726.0,votes,244 of (244),Others,,20087.0,1.99,votes,"20,087 (1.99%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,1007726.0,1.99,False
+Democratic,1992-04-07,New York,primary,1007726.0,votes,244 of (244),Uncommitted,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-04-07,Wisconsin,primary,772597.0,votes,82 of (82),Bill Clinton,34.0,287356.0,37.19,votes,"34 Del. 287,356 (37.19%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,772597.0,37.19,False
+Democratic,1992-04-07,Wisconsin,primary,772597.0,votes,82 of (82),Jerry Brown,29.0,266207.0,34.46,votes,"29 Del. 266,207 (34.46%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,772597.0,34.46,False
+Democratic,1992-04-07,Wisconsin,primary,772597.0,votes,82 of (82),Paul Tsongas,19.0,168619.0,21.83,votes,"19 Del. 168,619 (21.83%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,772597.0,21.82,False
+Democratic,1992-04-07,Wisconsin,primary,772597.0,votes,82 of (82),Tom Harkin,,5395.0,0.7,votes,"5,395 (0.70%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,772597.0,0.7,False
+Democratic,1992-04-07,Wisconsin,primary,772597.0,votes,82 of (82),Bob Kerrey,,3044.0,0.39,votes,"3,044 (0.39%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,772597.0,0.39,False
+Democratic,1992-04-07,Wisconsin,primary,772597.0,votes,82 of (82),Others,,3044.0,3.43,votes,"3,044 (3.43%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,772597.0,0.39,True
+Democratic,1992-04-07,Wisconsin,primary,772597.0,votes,82 of (82),Uncommitted,,26489.0,2.0,votes,"26,489 (2.00%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,772597.0,3.43,False
+Democratic,1992-04-11,Nevada,county conventions,271.0,SDs,0 of (17),Bill Clinton,,87.0,32.1,SDs,87 SDs (32.10%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,271.0,32.1,False
+Democratic,1992-04-11,Nevada,county conventions,271.0,SDs,0 of (17),Jerry Brown,,114.0,42.07,SDs,114 SDs (42.07%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,271.0,42.07,False
+Democratic,1992-04-11,Nevada,county conventions,271.0,SDs,0 of (17),Paul Tsongas,,40.0,30.19,SDs,40 SDs (30.19%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,271.0,14.76,True
+Democratic,1992-04-11,Nevada,county conventions,271.0,SDs,0 of (17),Tom Harkin,,,,,–,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-04-11,Nevada,county conventions,271.0,SDs,0 of (17),Bob Kerrey,,,,,–,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-04-11,Nevada,county conventions,271.0,SDs,0 of (17),Others,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-04-11,Nevada,county conventions,271.0,SDs,0 of (17),Uncommitted,,30.0,29.56,SDs,30 SDs (29.56%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,271.0,11.07,True
+Democratic,1992-04-11,Virginia,caucuses,,,0 of (78),Bill Clinton,,,52.0,votes,(52.00%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,0.0,,False
+Democratic,1992-04-11,Virginia,caucuses,,,0 of (78),Jerry Brown,,,12.0,votes,(12.00%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,0.0,,False
+Democratic,1992-04-11,Virginia,caucuses,,,0 of (78),Paul Tsongas,,,,,–,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-04-11,Virginia,caucuses,,,0 of (78),Tom Harkin,,,,,–,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-04-11,Virginia,caucuses,,,0 of (78),Bob Kerrey,,,,,–,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-04-11,Virginia,caucuses,,,0 of (78),Others,,,,,–,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-04-11,Virginia,caucuses,,,0 of (78),Uncommitted,,,36.0,votes,(36.00%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,0.0,,False
+Democratic,1992-04-14,Missouri,district conventions,,,50 of (92),Bill Clinton,24.0,,,,24 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-04-14,Missouri,district conventions,,,50 of (92),Jerry Brown,2.0,,,,2 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-04-14,Missouri,district conventions,,,50 of (92),Paul Tsongas,3.0,,,,3 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-04-14,Missouri,district conventions,,,50 of (92),Tom Harkin,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-04-14,Missouri,district conventions,,,50 of (92),Bob Kerrey,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-04-14,Missouri,district conventions,,,50 of (92),Others,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-04-14,Missouri,district conventions,,,50 of (92),Uncommitted,21.0,,,,21 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-04-25,Delaware,state convention,,,15 of (15),Bill Clinton,3.0,,,,3 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-04-25,Delaware,state convention,,,15 of (15),Jerry Brown,3.0,,,,3 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-04-25,Delaware,state convention,,,15 of (15),Paul Tsongas,4.0,,,,4 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-04-25,Delaware,state convention,,,15 of (15),Tom Harkin,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-04-25,Delaware,state convention,,,15 of (15),Bob Kerrey,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-04-25,Delaware,state convention,,,15 of (15),Others,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-04-25,Delaware,state convention,,,15 of (15),Uncommitted,5.0,,,,5 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-04-25,Missouri,district conventions,,,25 of (92),Bill Clinton,10.0,,,,10 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-04-25,Missouri,district conventions,,,25 of (92),Jerry Brown,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-04-25,Missouri,district conventions,,,25 of (92),Paul Tsongas,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-04-25,Missouri,district conventions,,,25 of (92),Tom Harkin,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-04-25,Missouri,district conventions,,,25 of (92),Bob Kerrey,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-04-25,Missouri,district conventions,,,25 of (92),Others,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-04-25,Missouri,district conventions,,,25 of (92),Uncommitted,15.0,,,,15 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-04-25,Washington,county conventions,2003.0,DDs,0 of (72),Bill Clinton,,533.0,26.61,DDs,533 DDs (26.61%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,2003.0,26.61,False
+Democratic,1992-04-25,Washington,county conventions,2003.0,DDs,0 of (72),Jerry Brown,,476.0,23.76,DDs,476 DDs (23.76%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,2003.0,23.76,False
+Democratic,1992-04-25,Washington,county conventions,2003.0,DDs,0 of (72),Paul Tsongas,,432.0,21.57,DDs,432 DDs (21.57%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,2003.0,21.57,False
+Democratic,1992-04-25,Washington,county conventions,2003.0,DDs,0 of (72),Tom Harkin,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-04-25,Washington,county conventions,2003.0,DDs,0 of (72),Bob Kerrey,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-04-25,Washington,county conventions,2003.0,DDs,0 of (72),Others,,1.0,0.05,DDs,1 DDs (0.05%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,2003.0,0.05,False
+Democratic,1992-04-25,Washington,county conventions,2003.0,DDs,0 of (72),Uncommitted,,561.0,28.01,DDs,561 DDs (28.01%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,2003.0,28.01,False
+Democratic,1992-04-28,Pennsylvania,primary,1265495.0,votes,169 of (169),Bill Clinton,112.0,715031.0,56.48,votes,"112 Del. 715,031 (56.48%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,1265495.0,56.5,False
+Democratic,1992-04-28,Pennsylvania,primary,1265495.0,votes,169 of (169),Jerry Brown,50.0,325543.0,25.72,votes,"50 Del. 325,543 (25.72%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,1265495.0,25.72,False
+Democratic,1992-04-28,Pennsylvania,primary,1265495.0,votes,169 of (169),Paul Tsongas,7.0,161572.0,12.76,votes,"7 Del. 161,572 (12.76%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,1265495.0,12.77,False
+Democratic,1992-04-28,Pennsylvania,primary,1265495.0,votes,169 of (169),Tom Harkin,,21013.0,1.66,votes,"21,013 (1.66%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,1265495.0,1.66,False
+Democratic,1992-04-28,Pennsylvania,primary,1265495.0,votes,169 of (169),Bob Kerrey,,20802.0,1.64,votes,"20,802 (1.64%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,1265495.0,1.64,False
+Democratic,1992-04-28,Pennsylvania,primary,1265495.0,votes,169 of (169),Others,,21534.0,1.7,votes,"21,534 (1.70%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,1265495.0,1.7,False
+Democratic,1992-04-28,Pennsylvania,primary,1265495.0,votes,169 of (169),Uncommitted,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-02,Iowa,district conventions,,,32 of (49),Bill Clinton,4.0,,,,4 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-02,Iowa,district conventions,,,32 of (49),Jerry Brown,1.0,,,,1 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-02,Iowa,district conventions,,,32 of (49),Paul Tsongas,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-02,Iowa,district conventions,,,32 of (49),Tom Harkin,17.0,,,,17 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-02,Iowa,district conventions,,,32 of (49),Bob Kerrey,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-02,Iowa,district conventions,,,32 of (49),Others,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-02,Iowa,district conventions,,,32 of (49),Uncommitted,10.0,,,,10 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-02,Missouri,state convention,,,17 of (92),Bill Clinton,9.0,,,,9 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-02,Missouri,state convention,,,17 of (92),Jerry Brown,1.0,,,,1 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-02,Missouri,state convention,,,17 of (92),Paul Tsongas,2.0,,,,2 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-02,Missouri,state convention,,,17 of (92),Tom Harkin,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-02,Missouri,state convention,,,17 of (92),Bob Kerrey,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-02,Missouri,state convention,,,17 of (92),Others,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-02,Missouri,state convention,,,17 of (92),Uncommitted,5.0,,,,5 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-02,Nevada,state convention,,,17 of (17),Bill Clinton,8.0,,,,8 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-02,Nevada,state convention,,,17 of (17),Jerry Brown,6.0,,,,6 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-02,Nevada,state convention,,,17 of (17),Paul Tsongas,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-02,Nevada,state convention,,,17 of (17),Tom Harkin,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-02,Nevada,state convention,,,17 of (17),Bob Kerrey,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-02,Nevada,state convention,,,17 of (17),Others,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-02,Nevada,state convention,,,17 of (17),Uncommitted,3.0,,,,3 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-02,Wyoming,state convention,,,11 of (11),Bill Clinton,5.0,,,,5 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-02,Wyoming,state convention,,,11 of (11),Jerry Brown,3.0,,,,3 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-02,Wyoming,state convention,,,11 of (11),Paul Tsongas,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-02,Wyoming,state convention,,,11 of (11),Tom Harkin,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-02,Wyoming,state convention,,,11 of (11),Bob Kerrey,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-02,Wyoming,state convention,,,11 of (11),Others,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-02,Wyoming,state convention,,,11 of (11),Uncommitted,3.0,,,,3 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-03,Guam,caucuses,1020.0,votes,3 of (3),Bill Clinton,1.0,500.0,49.0,votes,1 Del. 500 (49%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,1020.0,49.02,False
+Democratic,1992-05-03,Guam,caucuses,1020.0,votes,3 of (3),Jerry Brown,,204.0,20.0,votes,204 (20%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,1020.0,20.0,False
+Democratic,1992-05-03,Guam,caucuses,1020.0,votes,3 of (3),Paul Tsongas,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-03,Guam,caucuses,1020.0,votes,3 of (3),Tom Harkin,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-03,Guam,caucuses,1020.0,votes,3 of (3),Bob Kerrey,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-03,Guam,caucuses,1020.0,votes,3 of (3),Others,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-03,Guam,caucuses,1020.0,votes,3 of (3),Uncommitted,2.0,316.0,31.0,votes,2 Del. 316 (31%),https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,1020.0,30.98,False
+Democratic,1992-05-05,Indiana,primary,476849.0,votes,77 of (77),Bill Clinton,57.0,301905.0,63.31,votes,"57 Del. 301,905 (63.31%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,476849.0,63.31,False
+Democratic,1992-05-05,Indiana,primary,476849.0,votes,77 of (77),Jerry Brown,20.0,102379.0,21.47,votes,"20 Del. 102,379 (21.47%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,476849.0,21.47,False
+Democratic,1992-05-05,Indiana,primary,476849.0,votes,77 of (77),Paul Tsongas,,58215.0,12.21,votes,"58,215 (12.21%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,476849.0,12.21,False
+Democratic,1992-05-05,Indiana,primary,476849.0,votes,77 of (77),Tom Harkin,,,,,–,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-05,Indiana,primary,476849.0,votes,77 of (77),Bob Kerrey,,14350.0,3.01,votes,"14,350 (3.01%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,476849.0,3.01,False
+Democratic,1992-05-05,Indiana,primary,476849.0,votes,77 of (77),Others,,,,,–,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-05,Indiana,primary,476849.0,votes,77 of (77),Uncommitted,,,,,–,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-05,North Carolina,primary,691866.0,votes,84 of (84),Bill Clinton,72.0,443498.0,54.1,votes,"72 Del. 443,498 (54.10%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,691866.0,64.1,True
+Democratic,1992-05-05,North Carolina,primary,691866.0,votes,84 of (84),Jerry Brown,,71984.0,10.4,votes,"71,984 (10.40%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,691866.0,10.4,False
+Democratic,1992-05-05,North Carolina,primary,691866.0,votes,84 of (84),Paul Tsongas,,57589.0,8.32,votes,"57,589 (8.32%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,691866.0,8.32,False
+Democratic,1992-05-05,North Carolina,primary,691866.0,votes,84 of (84),Tom Harkin,,5891.0,0.85,votes,"5,891 (0.85%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,691866.0,0.85,False
+Democratic,1992-05-05,North Carolina,primary,691866.0,votes,84 of (84),Bob Kerrey,,6216.0,0.9,votes,"6,216 (0.90%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,691866.0,0.9,False
+Democratic,1992-05-05,North Carolina,primary,691866.0,votes,84 of (84),Others,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-05,North Carolina,primary,691866.0,votes,84 of (84),Uncommitted,12.0,106697.0,15.42,votes,"12 Del. 106,697 (15.42%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,691866.0,15.42,False
+Democratic,1992-05-05,Washington D.C.,primary,61842.0,votes,17 of (17),Bill Clinton,17.0,45685.0,73.87,votes,"17 Del. 45,685 (73.87%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,61842.0,73.87,False
+Democratic,1992-05-05,Washington D.C.,primary,61842.0,votes,17 of (17),Jerry Brown,,57589.0,7.21,votes,"57,589 (7.21%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,61842.0,93.12,True
+Democratic,1992-05-05,Washington D.C.,primary,61842.0,votes,17 of (17),Paul Tsongas,,71984.0,10.41,votes,"71,984 (10.41%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,61842.0,116.4,True
+Democratic,1992-05-05,Washington D.C.,primary,61842.0,votes,17 of (17),Tom Harkin,,,,,–,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-05,Washington D.C.,primary,61842.0,votes,17 of (17),Bob Kerrey,,,,,–,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-05,Washington D.C.,primary,61842.0,votes,17 of (17),Others,,,,,–,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-05,Washington D.C.,primary,61842.0,votes,17 of (17),Uncommitted,,5262.0,8.51,votes,"5,262 (8.51%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,61842.0,8.51,False
+Democratic,1992-05-09,Minnesota,district conventions,,,63 of (92),Bill Clinton,10.0,,,,10 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-09,Minnesota,district conventions,,,63 of (92),Jerry Brown,4.0,,,,4 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-09,Minnesota,district conventions,,,63 of (92),Paul Tsongas,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-09,Minnesota,district conventions,,,63 of (92),Tom Harkin,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-09,Minnesota,district conventions,,,63 of (92),Bob Kerrey,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-09,Minnesota,district conventions,,,63 of (92),Others,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-09,Minnesota,district conventions,,,63 of (92),Uncommitted,49.0,,,,49 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-12,Nebraska,primary,150587.0,votes,25 of (25),Bill Clinton,13.0,68562.0,45.53,votes,"13 Del. 68,562 (45.53%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,150587.0,45.53,False
+Democratic,1992-05-12,Nebraska,primary,150587.0,votes,25 of (25),Jerry Brown,8.0,31673.0,21.03,votes,"8 Del. 31,673 (21.03%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,150587.0,21.03,False
+Democratic,1992-05-12,Nebraska,primary,150587.0,votes,25 of (25),Paul Tsongas,,10707.0,7.11,votes,"10,707 (7.11%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,150587.0,7.11,False
+Democratic,1992-05-12,Nebraska,primary,150587.0,votes,25 of (25),Tom Harkin,,4239.0,2.82,votes,"4,239 (2.82%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,150587.0,2.81,False
+Democratic,1992-05-12,Nebraska,primary,150587.0,votes,25 of (25),Bob Kerrey,,,,,–,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-12,Nebraska,primary,150587.0,votes,25 of (25),Others,,10692.0,7.1,votes,"10,692 (7.10%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,150587.0,7.1,False
+Democratic,1992-05-12,Nebraska,primary,150587.0,votes,25 of (25),Uncommitted,4.0,24714.0,16.41,votes,"4 Del. 24,714 (16.41%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,150587.0,16.41,False
+Democratic,1992-05-12,West Virginia,primary,317587.0,votes,31 of (31),Bill Clinton,31.0,227815.0,74.24,votes,"31 Del. 227,815 (74.24%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,317587.0,71.73,True
+Democratic,1992-05-12,West Virginia,primary,317587.0,votes,31 of (31),Jerry Brown,,36505.0,11.9,votes,"36,505 (11.90%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,317587.0,11.49,False
+Democratic,1992-05-12,West Virginia,primary,317587.0,votes,31 of (31),Paul Tsongas,,21271.0,6.93,votes,"21,271 (6.93%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,317587.0,6.7,False
+Democratic,1992-05-12,West Virginia,primary,317587.0,votes,31 of (31),Tom Harkin,,2774.0,0.9,votes,"2,774 (0.90%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,317587.0,0.87,False
+Democratic,1992-05-12,West Virginia,primary,317587.0,votes,31 of (31),Bob Kerrey,,3152.0,1.03,votes,"3,152 (1.03%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,317587.0,0.99,False
+Democratic,1992-05-12,West Virginia,primary,317587.0,votes,31 of (31),Others,,15349.0,4.83,votes,"15,349 (4.83%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,317587.0,4.83,False
+Democratic,1992-05-12,West Virginia,primary,317587.0,votes,31 of (31),Uncommitted,,10721.0,3.38,votes,"10,721 (3.38%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,317587.0,3.38,False
+Democratic,1992-05-16,Vermont,state convention,,,15 of (15),Bill Clinton,3.0,,,,3 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-16,Vermont,state convention,,,15 of (15),Jerry Brown,6.0,,,,6 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-16,Vermont,state convention,,,15 of (15),Paul Tsongas,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-16,Vermont,state convention,,,15 of (15),Tom Harkin,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-16,Vermont,state convention,,,15 of (15),Bob Kerrey,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-16,Vermont,state convention,,,15 of (15),Others,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-16,Vermont,state convention,,,15 of (15),Uncommitted,6.0,,,,6 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-17,Maine,state convention,,,24 of (24),Bill Clinton,6.0,,,,6 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-17,Maine,state convention,,,24 of (24),Jerry Brown,10.0,,,,10 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-17,Maine,state convention,,,24 of (24),Paul Tsongas,5.0,,,,5 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-17,Maine,state convention,,,24 of (24),Tom Harkin,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-17,Maine,state convention,,,24 of (24),Bob Kerrey,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-17,Maine,state convention,,,24 of (24),Others,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-17,Maine,state convention,,,24 of (24),Uncommitted,3.0,,,,3 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-19,Oregon,primary,354332.0,votes,47 of (47),Bill Clinton,29.0,159802.0,45.1,votes,"29 Del. 159,802 (45.10%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,354332.0,45.1,False
+Democratic,1992-05-19,Oregon,primary,354332.0,votes,47 of (47),Jerry Brown,18.0,110494.0,31.18,votes,"18 Del. 110,494 (31.18%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,354332.0,31.18,False
+Democratic,1992-05-19,Oregon,primary,354332.0,votes,47 of (47),Paul Tsongas,,37139.0,10.48,votes,"37,139 (10.48%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,354332.0,10.48,False
+Democratic,1992-05-19,Oregon,primary,354332.0,votes,47 of (47),Tom Harkin,,,,,–,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-19,Oregon,primary,354332.0,votes,47 of (47),Bob Kerrey,,,,,–,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-19,Oregon,primary,354332.0,votes,47 of (47),Others,,46897.0,13.24,votes,"46,897 (13.24%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,354332.0,13.24,False
+Democratic,1992-05-19,Oregon,primary,354332.0,votes,47 of (47),Uncommitted,,,,,–,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-19,Washington,primary,147981.0,votes,0 of (72),Bill Clinton,,62171.0,42.01,votes,"62,171 (42.01%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,147981.0,42.01,False
+Democratic,1992-05-19,Washington,primary,147981.0,votes,0 of (72),Jerry Brown,,34111.0,23.05,votes,"34,111 (23.05%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,147981.0,23.05,False
+Democratic,1992-05-19,Washington,primary,147981.0,votes,0 of (72),Paul Tsongas,,18981.0,12.83,votes,"18,981 (12.83%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,147981.0,12.83,False
+Democratic,1992-05-19,Washington,primary,147981.0,votes,0 of (72),Tom Harkin,,1858.0,1.26,votes,"1,858 (1.26%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,147981.0,1.26,False
+Democratic,1992-05-19,Washington,primary,147981.0,votes,0 of (72),Bob Kerrey,,1489.0,1.01,votes,"1,489 (1.01%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,147981.0,1.01,False
+Democratic,1992-05-19,Washington,primary,147981.0,votes,0 of (72),Others,,29371.0,19.85,votes,"29,371 (19.85%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,147981.0,19.85,False
+Democratic,1992-05-19,Washington,primary,147981.0,votes,0 of (72),Uncommitted,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-26,Arkansas,primary,506679.0,votes,36 of (36),Bill Clinton,30.0,344758.0,68.04,votes,"30 Del. 344,758 (68.04%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,506679.0,68.04,False
+Democratic,1992-05-26,Arkansas,primary,506679.0,votes,36 of (36),Jerry Brown,,55800.0,11.01,votes,"55,800 (11.01%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,506679.0,11.01,False
+Democratic,1992-05-26,Arkansas,primary,506679.0,votes,36 of (36),Paul Tsongas,,,,,–,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-26,Arkansas,primary,506679.0,votes,36 of (36),Tom Harkin,,,,,–,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-26,Arkansas,primary,506679.0,votes,36 of (36),Bob Kerrey,,,,,–,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-26,Arkansas,primary,506679.0,votes,36 of (36),Others,,14719.0,2.9,votes,"14,719 (2.90%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,506679.0,2.9,False
+Democratic,1992-05-26,Arkansas,primary,506679.0,votes,36 of (36),Uncommitted,6.0,91402.0,18.04,votes,"6 Del. 91,402 (18.04%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,506679.0,18.04,False
+Democratic,1992-05-26,Idaho,primary,55124.0,votes,0 of (18),Bill Clinton,,27004.0,48.99,votes,"27,004 (48.99%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,55124.0,48.99,False
+Democratic,1992-05-26,Idaho,primary,55124.0,votes,0 of (18),Jerry Brown,,9212.0,16.71,votes,"9,212 (16.71%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,55124.0,16.71,False
+Democratic,1992-05-26,Idaho,primary,55124.0,votes,0 of (18),Paul Tsongas,,,,,–,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-26,Idaho,primary,55124.0,votes,0 of (18),Tom Harkin,,,,,–,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-26,Idaho,primary,55124.0,votes,0 of (18),Bob Kerrey,,,,,–,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-26,Idaho,primary,55124.0,votes,0 of (18),Others,,2879.0,5.22,votes,"2,879 (5.22%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,55124.0,5.22,False
+Democratic,1992-05-26,Idaho,primary,55124.0,votes,0 of (18),Uncommitted,,16029.0,29.08,votes,"16,029 (29.08%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,55124.0,29.08,False
+Democratic,1992-05-26,Kentucky,primary,370578.0,votes,52 of (52),Bill Clinton,34.0,207804.0,56.08,votes,"34 Del. 207,804 (56.08%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,370578.0,56.08,False
+Democratic,1992-05-26,Kentucky,primary,370578.0,votes,52 of (52),Jerry Brown,,30709.0,8.29,votes,"30,709 (8.29%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,370578.0,8.29,False
+Democratic,1992-05-26,Kentucky,primary,370578.0,votes,52 of (52),Paul Tsongas,,18097.0,4.88,votes,"18,097 (4.88%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,370578.0,4.88,False
+Democratic,1992-05-26,Kentucky,primary,370578.0,votes,52 of (52),Tom Harkin,,7136.0,1.93,votes,"7,136 (1.93%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,370578.0,1.93,False
+Democratic,1992-05-26,Kentucky,primary,370578.0,votes,52 of (52),Bob Kerrey,,3242.0,0.87,votes,"3,242 (0.87%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,370578.0,0.87,False
+Democratic,1992-05-26,Kentucky,primary,370578.0,votes,52 of (52),Others,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-26,Kentucky,primary,370578.0,votes,52 of (52),Uncommitted,18.0,103590.0,27.95,votes,"18 Del. 103,590 (27.95%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,370578.0,27.95,False
+Democratic,1992-05-30,Washington,district conventions,,,46 of (72),Bill Clinton,15.0,,,,15 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-30,Washington,district conventions,,,46 of (72),Jerry Brown,10.0,,,,10 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-30,Washington,district conventions,,,46 of (72),Paul Tsongas,9.0,,,,9 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-30,Washington,district conventions,,,46 of (72),Tom Harkin,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-30,Washington,district conventions,,,46 of (72),Bob Kerrey,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-30,Washington,district conventions,,,46 of (72),Others,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-30,Washington,district conventions,,,46 of (72),Uncommitted,12.0,,,,12 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-31,Alaska,state convention,,,14 of (14),Bill Clinton,5.0,,,,5 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-31,Alaska,state convention,,,14 of (14),Jerry Brown,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-31,Alaska,state convention,,,14 of (14),Paul Tsongas,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-31,Alaska,state convention,,,14 of (14),Tom Harkin,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-31,Alaska,state convention,,,14 of (14),Bob Kerrey,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-31,Alaska,state convention,,,14 of (14),Others,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-31,Alaska,state convention,,,14 of (14),Uncommitted,8.0,,,,8 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-31,Hawaii,state convention,,,20 of (20),Bill Clinton,16.0,,,,16 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-31,Hawaii,state convention,,,20 of (20),Jerry Brown,2.0,,,,2 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-31,Hawaii,state convention,,,20 of (20),Paul Tsongas,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-31,Hawaii,state convention,,,20 of (20),Tom Harkin,2.0,,,,2 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-31,Hawaii,state convention,,,20 of (20),Bob Kerrey,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-31,Hawaii,state convention,,,20 of (20),Others,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-05-31,Hawaii,state convention,,,20 of (20),Uncommitted,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-06-02,Alabama,primary,450899.0,votes,55 of (55),Bill Clinton,43.0,307621.0,68.22,votes,"43 Del. 307,621 (68.22%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,450899.0,68.22,False
+Democratic,1992-06-02,Alabama,primary,450899.0,votes,55 of (55),Jerry Brown,,30626.0,6.79,votes,"30,626 (6.79%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,450899.0,6.79,False
+Democratic,1992-06-02,Alabama,primary,450899.0,votes,55 of (55),Paul Tsongas,,,,,–,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-06-02,Alabama,primary,450899.0,votes,55 of (55),Tom Harkin,,,,,–,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-06-02,Alabama,primary,450899.0,votes,55 of (55),Bob Kerrey,,,,,–,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-06-02,Alabama,primary,450899.0,votes,55 of (55),Others,,18097.0,4.83,votes,"18,097 (4.83%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,450899.0,4.01,False
+Democratic,1992-06-02,Alabama,primary,450899.0,votes,55 of (55),Uncommitted,12.0,90863.0,20.15,votes,"12 Del. 90,863 (20.15%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,450899.0,20.15,False
+Democratic,1992-06-02,California,primary,2863419.0,votes,348 of (348),Bill Clinton,191.0,1359112.0,47.47,votes,"191 Del. 1,359,112 (47.47%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,2863419.0,47.46,False
+Democratic,1992-06-02,California,primary,2863419.0,votes,348 of (348),Jerry Brown,157.0,1150460.0,40.18,votes,"157 Del. 1,150,460 (40.18%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,2863419.0,40.18,False
+Democratic,1992-06-02,California,primary,2863419.0,votes,348 of (348),Paul Tsongas,,212522.0,7.42,votes,"212,522 (7.42%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,2863419.0,7.42,False
+Democratic,1992-06-02,California,primary,2863419.0,votes,348 of (348),Tom Harkin,,,,,–,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-06-02,California,primary,2863419.0,votes,348 of (348),Bob Kerrey,,33935.0,1.19,votes,"33,935 (1.19%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,2863419.0,1.19,False
+Democratic,1992-06-02,California,primary,2863419.0,votes,348 of (348),Others,,107390.0,3.75,votes,"107,390 (3.75%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,2863419.0,3.75,False
+Democratic,1992-06-02,California,primary,2863419.0,votes,348 of (348),Uncommitted,,,,,–,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-06-02,Montana,primary,117471.0,votes,16 of (16),Bill Clinton,8.0,54989.0,46.81,votes,"8 Del. 54,989 (46.81%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,117471.0,46.81,False
+Democratic,1992-06-02,Montana,primary,117471.0,votes,16 of (16),Jerry Brown,3.0,21704.0,18.48,votes,"3 Del. 21,704 (18.48%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,117471.0,18.48,False
+Democratic,1992-06-02,Montana,primary,117471.0,votes,16 of (16),Paul Tsongas,,12614.0,10.74,votes,"12,614 (10.74%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,117471.0,10.74,False
+Democratic,1992-06-02,Montana,primary,117471.0,votes,16 of (16),Tom Harkin,,,,,–,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-06-02,Montana,primary,117471.0,votes,16 of (16),Bob Kerrey,,,,,–,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-06-02,Montana,primary,117471.0,votes,16 of (16),Others,,,,,–,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-06-02,Montana,primary,117471.0,votes,16 of (16),Uncommitted,5.0,28164.0,23.98,votes,"5 Del. 28,164 (23.98%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,117471.0,23.98,False
+Democratic,1992-06-02,New Jersey,primary,405222.0,votes,105 of (105),Bill Clinton,73.0,256337.0,63.26,votes,"73 Del. 256,337 (63.26%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,405222.0,63.26,False
+Democratic,1992-06-02,New Jersey,primary,405222.0,votes,105 of (105),Jerry Brown,26.0,79877.0,19.71,votes,"26 Del. 79,877 (19.71%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,405222.0,19.71,False
+Democratic,1992-06-02,New Jersey,primary,405222.0,votes,105 of (105),Paul Tsongas,,45191.0,11.15,votes,"45,191 (11.15%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,405222.0,11.15,False
+Democratic,1992-06-02,New Jersey,primary,405222.0,votes,105 of (105),Tom Harkin,,,,,–,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-06-02,New Jersey,primary,405222.0,votes,105 of (105),Bob Kerrey,,,,,–,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-06-02,New Jersey,primary,405222.0,votes,105 of (105),Others,2.0,23817.0,5.88,votes,"2 Del. 23,817 (5.88%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,405222.0,5.88,False
+Democratic,1992-06-02,New Jersey,primary,405222.0,votes,105 of (105),Uncommitted,,,,,–,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-06-02,New Mexico,primary,181443.0,votes,25 of (25),Bill Clinton,17.0,95933.0,52.87,votes,"17 Del. 95,933 (52.87%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,181443.0,52.87,False
+Democratic,1992-06-02,New Mexico,primary,181443.0,votes,25 of (25),Jerry Brown,3.0,30705.0,16.92,votes,"3 Del. 30,705 (16.92%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,181443.0,16.92,False
+Democratic,1992-06-02,New Mexico,primary,181443.0,votes,25 of (25),Paul Tsongas,,11315.0,6.24,votes,"11,315 (6.24%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,181443.0,6.24,False
+Democratic,1992-06-02,New Mexico,primary,181443.0,votes,25 of (25),Tom Harkin,,3233.0,1.78,votes,"3,233 (1.78%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,181443.0,1.78,False
+Democratic,1992-06-02,New Mexico,primary,181443.0,votes,25 of (25),Bob Kerrey,,,,,–,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-06-02,New Mexico,primary,181443.0,votes,25 of (25),Others,,4988.0,2.75,votes,"4,988 (2.75%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,181443.0,2.75,False
+Democratic,1992-06-02,New Mexico,primary,181443.0,votes,25 of (25),Uncommitted,5.0,35269.0,19.44,votes,"5 Del. 35,269 (19.44%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,181443.0,19.44,False
+Democratic,1992-06-02,Ohio,primary,1042235.0,votes,151 of (151),Bill Clinton,113.0,638347.0,61.25,votes,"113 Del. 638,347 (61.25%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,1042235.0,61.25,False
+Democratic,1992-06-02,Ohio,primary,1042235.0,votes,151 of (151),Jerry Brown,34.0,197449.0,18.94,votes,"34 Del. 197,449 (18.94%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,1042235.0,18.94,False
+Democratic,1992-06-02,Ohio,primary,1042235.0,votes,151 of (151),Paul Tsongas,1.0,110673.0,10.62,votes,"1 Del. 110,673 (10.62%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,1042235.0,10.62,False
+Democratic,1992-06-02,Ohio,primary,1042235.0,votes,151 of (151),Tom Harkin,,25395.0,2.44,votes,"25,395 (2.44%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,1042235.0,2.44,False
+Democratic,1992-06-02,Ohio,primary,1042235.0,votes,151 of (151),Bob Kerrey,,22976.0,2.2,votes,"22,976 (2.20%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,1042235.0,2.2,False
+Democratic,1992-06-02,Ohio,primary,1042235.0,votes,151 of (151),Others,3.0,47395.0,4.55,votes,"3 Del. 47,395 (4.55%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,1042235.0,4.55,False
+Democratic,1992-06-02,Ohio,primary,1042235.0,votes,151 of (151),Uncommitted,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-06-06,Minnesota,state convention,,,29 of (92),Bill Clinton,7.0,,,,7 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-06-06,Minnesota,state convention,,,29 of (92),Jerry Brown,3.0,,,,3 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-06-06,Minnesota,state convention,,,29 of (92),Paul Tsongas,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-06-06,Minnesota,state convention,,,29 of (92),Tom Harkin,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-06-06,Minnesota,state convention,,,29 of (92),Bob Kerrey,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-06-06,Minnesota,state convention,,,29 of (92),Others,1.0,,,,1 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-06-06,Minnesota,state convention,,,29 of (92),Uncommitted,18.0,,,,18 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-06-06,Virginia,state convention,,,78 of (78),Bill Clinton,58.0,,,,58 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-06-06,Virginia,state convention,,,78 of (78),Jerry Brown,3.0,,,,3 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-06-06,Virginia,state convention,,,78 of (78),Paul Tsongas,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-06-06,Virginia,state convention,,,78 of (78),Tom Harkin,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-06-06,Virginia,state convention,,,78 of (78),Bob Kerrey,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-06-06,Virginia,state convention,,,78 of (78),Others,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-06-06,Virginia,state convention,,,78 of (78),Uncommitted,17.0,,,,17 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-06-07,Washington,state convention,,,26 of (72),Bill Clinton,8.0,,,,8 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-06-07,Washington,state convention,,,26 of (72),Jerry Brown,6.0,,,,6 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-06-07,Washington,state convention,,,26 of (72),Paul Tsongas,5.0,,,,5 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-06-07,Washington,state convention,,,26 of (72),Tom Harkin,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-06-07,Washington,state convention,,,26 of (72),Bob Kerrey,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-06-07,Washington,state convention,,,26 of (72),Others,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-06-07,Washington,state convention,,,26 of (72),Uncommitted,7.0,,,,7 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-06-09,North Dakota,primary,32786.0,votes,0 of (14),Bill Clinton,,4760.0,14.52,votes,"4,760 (14.52%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,32786.0,14.52,False
+Democratic,1992-06-09,North Dakota,primary,32786.0,votes,0 of (14),Jerry Brown,,,,,–,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-06-09,North Dakota,primary,32786.0,votes,0 of (14),Paul Tsongas,,,,,–,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-06-09,North Dakota,primary,32786.0,votes,0 of (14),Tom Harkin,,,,,–,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-06-09,North Dakota,primary,32786.0,votes,0 of (14),Bob Kerrey,,,,,–,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-06-09,North Dakota,primary,32786.0,votes,0 of (14),Others,,28026.0,85.48,votes,"28,026 (85.48%)",https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,32786.0,85.48,False
+Democratic,1992-06-09,North Dakota,primary,32786.0,votes,0 of (14),Uncommitted,,,,,–,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-06-20,Idaho,state convention,,,18 of (18),Bill Clinton,4.0,,,,4 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-06-20,Idaho,state convention,,,18 of (18),Jerry Brown,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-06-20,Idaho,state convention,,,18 of (18),Paul Tsongas,4.0,,,,4 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-06-20,Idaho,state convention,,,18 of (18),Tom Harkin,5.0,,,,5 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-06-20,Idaho,state convention,,,18 of (18),Bob Kerrey,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-06-20,Idaho,state convention,,,18 of (18),Others,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-06-20,Idaho,state convention,,,18 of (18),Uncommitted,5.0,,,,5 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-06-21,Iowa,state convention,,,17 of (49),Bill Clinton,3.0,,,,3 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-06-21,Iowa,state convention,,,17 of (49),Jerry Brown,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-06-21,Iowa,state convention,,,17 of (49),Paul Tsongas,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-06-21,Iowa,state convention,,,17 of (49),Tom Harkin,9.0,,,,9 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-06-21,Iowa,state convention,,,17 of (49),Bob Kerrey,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-06-21,Iowa,state convention,,,17 of (49),Others,,,,,-,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Democratic,1992-06-21,Iowa,state convention,,,17 of (49),Uncommitted,5.0,,,,5 Del.,https://en.wikipedia.org/wiki/1992_Democratic_Party_presidential_primaries#Results,,,False
+Republican,1992-02-10,Iowa,caucus,,,0,George H. W. Bush,,,,,Cancelled.,https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,,,False
+Republican,1992-02-10,Iowa,caucus,,,0,Pat Buchanan,,,,,Cancelled.,https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,,,False
+Republican,1992-02-10,Iowa,caucus,,,0,Others,,,,,Cancelled.,https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,,,False
+Republican,1992-02-18,New Hampshire,primary,,,23,George H. W. Bush,14.0,92271.0,53.2,votes,"14 92,271 (53.2%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,161156.0,57.26,True
+Republican,1992-02-18,New Hampshire,primary,,,23,Pat Buchanan,9.0,65106.0,37.5,votes,"9 65,106 (37.5%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,161156.0,40.4,True
+Republican,1992-02-18,New Hampshire,primary,,,23,Others,,3779.0,2.3,votes,"3,779 (2.3%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,161156.0,2.34,False
+Republican,1992-02-19,South Dakota,primary,,,22,George H. W. Bush,14.0,30964.0,69.3,votes,"14 30,964 (69.3%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,44671.0,69.32,False
+Republican,1992-02-19,South Dakota,primary,,,22,Pat Buchanan,,,,,—,https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,,,False
+Republican,1992-02-19,South Dakota,primary,,,22,Others,5.0,13707.0,30.68,votes,"5 13,707 (30.68%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,44671.0,30.68,False
+Republican,1992-03-03,Colorado,primary,,,37,George H. W. Bush,26.0,132049.0,68.2,votes,"26 132,049 (68.2%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,193736.0,68.16,False
+Republican,1992-03-03,Colorado,primary,,,37,Pat Buchanan,11.0,58730.0,30.3,votes,"11 58,730 (30.3%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,193736.0,30.31,False
+Republican,1992-03-03,Colorado,primary,,,37,Others,,2957.0,1.53,votes,"2,957 (1.53%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,193736.0,1.53,False
+Republican,1992-03-03,Maryland,primary,,,42,George H. W. Bush,42.0,168898.0,69.9,votes,"42 168,898 (69.9%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,241599.0,69.91,False
+Republican,1992-03-03,Maryland,primary,,,42,Pat Buchanan,,72701.0,30.1,votes,"72,701 (30.1%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,241599.0,30.09,False
+Republican,1992-03-03,Maryland,primary,,,42,Others,,,,,—,https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,,,False
+Republican,1992-03-03,Georgia,primary,,,52,George H. W. Bush,52.0,291905.0,64.3,votes,"52 291,905 (64.3%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,453990.0,64.3,False
+Republican,1992-03-03,Georgia,primary,,,52,Pat Buchanan,,162085.0,35.7,votes,"162,085 (35.7%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,453990.0,35.7,False
+Republican,1992-03-03,Georgia,primary,,,52,Others,,,,,—,https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,,,False
+Republican,1992-03-07,South Carolina,primary,,,36,George H. W. Bush,36.0,99558.0,66.9,votes,"36 99,558 (66.9%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,148840.0,66.89,False
+Republican,1992-03-07,South Carolina,primary,,,36,Pat Buchanan,,38247.0,25.7,votes,"38,247 (25.7%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,148840.0,25.7,False
+Republican,1992-03-07,South Carolina,primary,,,36,Others,,11035.0,7.41,votes,"11,035 (7.41%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,148840.0,7.41,False
+Republican,1992-03-10,Florida,primary,,,99,George H. W. Bush,67.0,607522.0,68.1,votes,"67 607,522 (68.1%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,892596.0,68.06,False
+Republican,1992-03-10,Florida,primary,,,99,Pat Buchanan,32.0,285074.0,31.9,votes,"32 285,074 (31.9%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,892596.0,31.94,False
+Republican,1992-03-10,Florida,primary,,,99,Others,,,,,–,https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,,,False
+Republican,1992-03-10,Louisiana,primary,,,41,George H. W. Bush,25.0,83747.0,62.0,votes,"25 83,747 (62.0%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,135114.0,61.98,False
+Republican,1992-03-10,Louisiana,primary,,,41,Pat Buchanan,11.0,36526.0,27.0,votes,"11 36,526 (27.0%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,135114.0,27.03,False
+Republican,1992-03-10,Louisiana,primary,,,41,Others,5.0,14841.0,,votes,"5 14,841",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,135114.0,10.98,False
+Republican,1992-03-10,Massachusetts,primary,,,40,George H. W. Bush,28.0,176868.0,65.6,votes,"28 176,868 (65.6%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,275847.0,64.12,False
+Republican,1992-03-10,Massachusetts,primary,,,40,Pat Buchanan,12.0,74797.0,27.7,votes,"12 74,797 (27.7%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,275847.0,27.12,False
+Republican,1992-03-10,Massachusetts,primary,,,40,Others,,24182.0,,votes,"24,182",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,275847.0,8.77,False
+Republican,1992-03-10,Mississippi,primary,,,34,George H. W. Bush,25.0,111794.0,72.3,votes,"25 111,794 (72.3%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,154708.0,72.26,False
+Republican,1992-03-10,Mississippi,primary,,,34,Pat Buchanan,6.0,25891.0,16.7,votes,"6 25,891 (16.7%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,154708.0,16.74,False
+Republican,1992-03-10,Mississippi,primary,,,34,Others,4.0,17023.0,10.6,votes,"4 17,023 (10.6%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,154708.0,11.0,False
+Republican,1992-03-10,Oklahoma,primary,,,38,George H. W. Bush,27.0,151612.0,69.6,votes,"27 151,612 (69.6%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,217721.0,69.64,False
+Republican,1992-03-10,Oklahoma,primary,,,38,Pat Buchanan,11.0,57933.0,26.6,votes,"11 57,933 (26.6%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,217721.0,26.61,False
+Republican,1992-03-10,Oklahoma,primary,,,38,Others,,8176.0,2.6,votes,"8,176 (2.6%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,217721.0,3.76,False
+Republican,1992-03-10,Rhode Island,primary,,,16,George H. W. Bush,11.0,9853.0,63.0,votes,"11 9,853 (63.0%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,15636.0,63.01,False
+Republican,1992-03-10,Rhode Island,primary,,,16,Pat Buchanan,5.0,4967.0,31.8,votes,"5 4,967 (31.8%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,15636.0,31.77,False
+Republican,1992-03-10,Rhode Island,primary,,,16,Others,,816.0,4.9,votes,816 (4.9%),https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,15636.0,5.22,False
+Republican,1992-03-10,Tennessee,primary,,,49,George H. W. Bush,38.0,178216.0,72.5,votes,"38 178,216 (72.5%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,245650.0,72.55,False
+Republican,1992-03-10,Tennessee,primary,,,49,Pat Buchanan,11.0,54585.0,22.2,votes,"11 54,585 (22.2%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,245650.0,22.22,False
+Republican,1992-03-10,Tennessee,primary,,,49,Others,,12849.0,5.2,votes,"12,849 (5.2%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,245650.0,5.23,False
+Republican,1992-03-10,Texas,primary,,,124,George H. W. Bush,92.0,556280.0,69.8,votes,"92 556,280 (69.8%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,797146.0,69.78,False
+Republican,1992-03-10,Texas,primary,,,124,Pat Buchanan,32.0,190572.0,23.9,votes,"32 190,572 (23.9%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,797146.0,23.91,False
+Republican,1992-03-10,Texas,primary,,,124,Others,,50294.0,6.0,votes,"50,294 (6.0%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,797146.0,6.31,False
+Republican,1992-03-17,Illinois,primary,,,88,George H. W. Bush,68.0,556280.0,76.4,votes,"68 556,280 (76.4%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,752832.0,73.89,True
+Republican,1992-03-17,Illinois,primary,,,88,Pat Buchanan,20.0,186915.0,22.5,votes,"20 186,915 (22.5%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,752832.0,24.83,True
+Republican,1992-03-17,Illinois,primary,,,88,Others,,9637.0,1.2,votes,"9,637 (1.2%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,752832.0,1.28,False
+Republican,1992-03-17,Michigan,primary,,,74,George H. W. Bush,54.0,301948.0,67.2,votes,"54 301,948 (67.2%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,449133.0,67.23,False
+Republican,1992-03-17,Michigan,primary,,,74,Pat Buchanan,20.0,112122.0,25.0,votes,"20 112,122 (25.0%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,449133.0,24.96,False
+Republican,1992-03-17,Michigan,primary,,,74,Others,,35063.0,7.7,votes,"35,063 (7.7%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,449133.0,7.81,False
+Republican,1992-03-24,Connecticut,primary,,,38,George H. W. Bush,29.0,66356.0,66.7,votes,"29 66,356 (66.7%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,99646.0,66.59,False
+Republican,1992-03-24,Connecticut,primary,,,38,Pat Buchanan,9.0,21815.0,22.0,votes,"9 21,815 (22.0%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,99646.0,21.89,False
+Republican,1992-03-24,Connecticut,primary,,,38,Others,,11475.0,11.4,votes,"11,475 (11.4%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,99646.0,11.52,False
+Republican,1992-04-05,Puerto Rico,primary,,,20,George H. W. Bush,20.0,260200.0,,votes,"20 260,200",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,263335.0,98.81,False
+Republican,1992-04-05,Puerto Rico,primary,,,20,Pat Buchanan,,1031.0,,votes,1031,https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,263335.0,0.39,False
+Republican,1992-04-05,Puerto Rico,primary,,,20,Others,,2104.0,,votes,2104,https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,263335.0,0.8,False
+Republican,1992-04-07,Kansas,primary,,,31,George H. W. Bush,21.0,132131.0,62.0,votes,"21 132,131 (62.0%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,214196.0,61.69,False
+Republican,1992-04-07,Kansas,primary,,,31,Pat Buchanan,5.0,32494.0,14.8,votes,"5 32,494 (14.8%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,214196.0,15.17,False
+Republican,1992-04-07,Kansas,primary,,,31,Others,,49571.0,20.8,votes,"49,571 (20.8%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,214196.0,23.14,True
+Republican,1992-04-07,Minnesota,primary,,,34,George H. W. Bush,25.0,84841.0,63.9,votes,"25 84,841 (63.9%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,132756.0,63.91,False
+Republican,1992-04-07,Minnesota,primary,,,34,Pat Buchanan,9.0,32094.0,24.2,votes,"9 32,094 (24.2%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,132756.0,24.18,False
+Republican,1992-04-07,Minnesota,primary,,,34,Others,,15821.0,8.8,votes,"15,821 (8.8%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,132756.0,11.92,True
+Republican,1992-04-07,New York,,,,103,George H. W. Bush,103.0,,,,103,https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,,,False
+Republican,1992-04-07,New York,,,,103,Pat Buchanan,,,,,–,https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,,,False
+Republican,1992-04-07,New York,,,,103,Others,,,,,–,https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,,,False
+Republican,1992-04-07,Wisconsin,primary,,,37,George H. W. Bush,30.0,364507.0,75.6,votes,"30 364,507 (75.6%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,482248.0,75.58,False
+Republican,1992-04-07,Wisconsin,primary,,,37,Pat Buchanan,7.0,78516.0,16.3,votes,"7 78,516 (16.3%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,482248.0,16.28,False
+Republican,1992-04-07,Wisconsin,primary,,,37,Others,,39225.0,5.3,votes,"39,225 (5.3%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,482248.0,8.13,True
+Republican,1992-04-28,Pennsylvania,primary,,,92,George H. W. Bush,71.0,774865.0,76.7,votes,"71 774,865 (76.7%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,1008777.0,76.81,False
+Republican,1992-04-28,Pennsylvania,primary,,,92,Pat Buchanan,21.0,233912.0,23.2,votes,"21 233,912 (23.2%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,1008777.0,23.19,False
+Republican,1992-04-28,Pennsylvania,primary,,,92,Others,,,,,—,https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,,,False
+Republican,1992-05-05,District of Columbia,primary,,,13,George H. W. Bush,11.0,4265.0,81.5,votes,"11 4,265 (81.5%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,5235.0,81.47,False
+Republican,1992-05-05,District of Columbia,primary,,,13,Pat Buchanan,2.0,970.0,18.5,votes,2 970 (18.5%),https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,5235.0,18.53,False
+Republican,1992-05-05,District of Columbia,primary,,,13,Others,,,,,–,https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,,,False
+Republican,1992-05-05,Delaware,caucus,,,20,George H. W. Bush,20.0,,,,20,https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,,,False
+Republican,1992-05-05,Delaware,caucus,,,20,Pat Buchanan,,,,,—,https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,,,False
+Republican,1992-05-05,Delaware,caucus,,,20,Others,,,,,—,https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,,,False
+Republican,1992-05-05,Indiana,primary,,,52,George H. W. Bush,42.0,374666.0,80.1,votes,"42 374,666 (80.1%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,467615.0,80.12,False
+Republican,1992-05-05,Indiana,primary,,,52,Pat Buchanan,10.0,92949.0,19.9,votes,"10 92,949 (19.9%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,467615.0,19.88,False
+Republican,1992-05-05,Indiana,primary,,,52,Others,,,,,—,https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,,,False
+Republican,1992-05-05,North Carolina,primary,,,59,George H. W. Bush,46.0,200387.0,70.7,votes,"46 200,387 (70.7%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,283571.0,70.67,False
+Republican,1992-05-05,North Carolina,primary,,,59,Pat Buchanan,13.0,55420.0,19.5,votes,"13 55,420 (19.5%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,283571.0,19.54,False
+Republican,1992-05-05,North Carolina,primary,,,59,Others,,27764.0,9.8,votes,"27,764 (9.8%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,283571.0,9.79,False
+Republican,1992-05-10,Montana,primary,,,20,George H. W. Bush,14.0,65176.0,71.6,votes,"14 65,176 (71.6%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,90975.0,71.64,False
+Republican,1992-05-10,Montana,primary,,,20,Pat Buchanan,2.0,10701.0,11.8,votes,"2 10,701 (11.8%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,90975.0,11.76,False
+Republican,1992-05-10,Montana,primary,,,20,Others,3.0,15098.0,16.6,votes,"3 15,098 (16.6%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,90975.0,16.6,False
+Republican,1992-05-12,Nebraska,primary,,,27,George H. W. Bush,23.0,156346.0,81.4,votes,"23 156,346 (81.4%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,192098.0,81.39,False
+Republican,1992-05-12,Nebraska,primary,,,27,Pat Buchanan,4.0,25847.0,13.5,votes,"4 25,847 (13.5%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,192098.0,13.46,False
+Republican,1992-05-12,Nebraska,primary,,,27,Others,,9905.0,1.5,votes,"9,905 (1.5%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,192098.0,5.16,True
+Republican,1992-05-12,West Virginia,primary,,,19,George H. W. Bush,16.0,99994.0,80.5,votes,"16 99,994 (80.5%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,124157.0,80.54,False
+Republican,1992-05-12,West Virginia,primary,,,19,Pat Buchanan,3.0,18067.0,14.6,votes,"3 18,067 (14.6%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,124157.0,14.55,False
+Republican,1992-05-12,West Virginia,primary,,,19,Others,,6096.0,4.9,votes,"6,096 (4.9%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,124157.0,4.91,False
+Republican,1992-05-19,Oregon,primary,,,25,George H. W. Bush,17.0,203957.0,,votes,"17 203,957",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,304159.0,67.06,False
+Republican,1992-05-19,Oregon,primary,,,25,Pat Buchanan,5.0,57730.0,,votes,"5 57,730",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,304159.0,18.98,False
+Republican,1992-05-19,Oregon,primary,,,25,Others,3.0,42472.0,,votes,"3 42,472",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,304159.0,13.96,False
+Republican,1992-05-19,Washington,primary,,,37,George H. W. Bush,25.0,86839.0,67.0,votes,"25 86,839 (67.0%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,129655.0,66.98,False
+Republican,1992-05-19,Washington,primary,,,37,Pat Buchanan,4.0,13273.0,10.2,votes,"4 13,273 (10.2%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,129655.0,10.24,False
+Republican,1992-05-19,Washington,primary,,,37,Others,8.0,29543.0,20.8,votes,"8 29,543 (20.8%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,129655.0,22.79,True
+Republican,1992-05-26,Arkansas,primary,,,31,George H. W. Bush,27.0,45590.0,83.1,votes,"27 45,590 (83.1%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,54883.0,83.07,False
+Republican,1992-05-26,Arkansas,primary,,,31,Pat Buchanan,4.0,6551.0,11.9,votes,"4 6,551 (11.9%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,54883.0,11.94,False
+Republican,1992-05-26,Arkansas,primary,,,31,Others,,2742.0,5.0,votes,"2,742 (5.0%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,54883.0,5.0,False
+Republican,1992-05-26,Idaho,primary,,,23,George H. W. Bush,15.0,73297.0,63.5,votes,"15 73,297 (63.5%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,115502.0,63.46,False
+Republican,1992-05-26,Idaho,primary,,,23,Pat Buchanan,3.0,15167.0,13.1,votes,"3 15,167 (13.1%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,115502.0,13.13,False
+Republican,1992-05-26,Idaho,primary,,,23,Others,5.0,27038.0,23.4,votes,"5 27,038 (23.4%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,115502.0,23.41,False
+Republican,1992-05-26,Kentucky,primary,,,38,George H. W. Bush,28.0,75371.0,74.5,votes,"28 75,371 (74.5%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,101119.0,74.54,False
+Republican,1992-05-26,Kentucky,primary,,,38,Pat Buchanan,,,,,—,https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,,,False
+Republican,1992-05-26,Kentucky,primary,,,38,Others,10.0,25748.0,25.5,votes,"10 25,748 (25.5%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,101119.0,25.46,False
+Republican,1992-06-02,Alabama,primary,,,41,George H. W. Bush,33.0,122703.0,74.3,votes,"33 122,703 (74.3%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,165121.0,74.31,False
+Republican,1992-06-02,Alabama,primary,,,41,Pat Buchanan,,12588.0,7.6,votes,"12,588 (7.6%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,165121.0,7.62,False
+Republican,1992-06-02,Alabama,primary,,,41,Others,8.0,29830.0,18.1,votes,"8 29,830 (18.1%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,165121.0,18.07,False
+Republican,1992-06-02,California,primary,,,203,George H. W. Bush,149.0,1587369.0,73.6,votes,"149 1,587,369 (73.6%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,2156261.0,73.62,False
+Republican,1992-06-02,California,primary,,,203,Pat Buchanan,54.0,568892.0,26.4,votes,"54 568,892 (26.4%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,2156261.0,26.38,False
+Republican,1992-06-02,California,primary,,,203,Others,,,,,—,https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,,,False
+Republican,1992-06-02,New Jersey,primary,,,63,George H. W. Bush,53.0,240535.0,77.5,votes,"53 240,535 (77.5%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,286967.0,83.82,True
+Republican,1992-06-02,New Jersey,primary,,,63,Pat Buchanan,10.0,46432.0,15.0,votes,"10 46,432 (15.0%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,286967.0,16.18,False
+Republican,1992-06-02,New Jersey,primary,,,63,Others,,,7.5,votes,(7.5%),https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,286967.0,,False
+Republican,1992-06-02,New Mexico,primary,,,27,George H. W. Bush,19.0,55522.0,63.8,votes,"19 55,522 (63.8%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,86967.0,63.84,False
+Republican,1992-06-02,New Mexico,primary,,,27,Pat Buchanan,,7871.0,9.1,votes,"7,871 (9.1%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,86967.0,9.05,False
+Republican,1992-06-02,New Mexico,primary,,,27,Others,8.0,23574.0,27.1,votes,"8 23,574 (27.1%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,86967.0,27.11,False
+Republican,1992-06-02,North Dakota,primary,,,20,George H. W. Bush,17.0,39863.0,83.4,votes,"17 39,863 (83.4%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,47808.0,83.38,False
+Republican,1992-06-02,North Dakota,primary,,,20,Pat Buchanan,,,,,—,https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,,,False
+Republican,1992-06-02,North Dakota,primary,,,20,Others,3.0,7945.0,16.6,votes,"3 7,945 (16.6%)",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,47808.0,16.62,False
+Republican,1992-06-02,Ohio,primary,,,85,George H. W. Bush,71.0,716766.0,,votes,"71 716,766",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,860453.0,83.3,False
+Republican,1992-06-02,Ohio,primary,,,85,Pat Buchanan,14.0,143687.0,,votes,"14 143,687",https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,860453.0,16.7,False
+Republican,1992-06-02,Ohio,primary,,,85,Others,,,,,—,https://en.wikipedia.org/wiki/1992_Republican_Party_presidential_primaries#Results,,,False

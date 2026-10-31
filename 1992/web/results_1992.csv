@@ -1,0 +1,40 @@
+year,candidate,party,votes,pct,ev,total_votes,source,votes_mit
+1992,Bill Clinton,Democrat,44909889.0,43.006153246748994,370.0,104426659,https://www.fec.gov/resources/cms-content/documents/federalelections92.pdf (report pp. 9-10),44954303.0
+1992,George Bush,Republican,39104545.0,37.44689849744211,168.0,104426659,https://www.fec.gov/resources/cms-content/documents/federalelections92.pdf (report pp. 9-10),39103872.0
+1992,Ross Perot,Independent,19742267.0,18.90538985835025,0.0,104426659,https://www.fec.gov/resources/cms-content/documents/federalelections92.pdf (report pp. 9-10),19722042.0
+1992,Andre Marrou,Libertarian,291628.0,0.2792658529849164,0.0,104426659,https://www.fec.gov/resources/cms-content/documents/federalelections92.pdf (report pp. 9-10),280848.0
+1992,"James ""Bo"" Gritz",Populist/America First,107002.0,0.10246617197625751,0.0,104426659,https://www.fec.gov/resources/cms-content/documents/federalelections92.pdf (report pp. 9-10),87017.0
+1992,Lenora Fulani,New Alliance,73708.0,0.07058350875708855,0.0,104426659,https://www.fec.gov/resources/cms-content/documents/federalelections92.pdf (report pp. 9-10),54472.0
+1992,Howard Phillips,U.S. Taxpayers,43398.0,0.041558353408586976,0.0,104426659,https://www.fec.gov/resources/cms-content/documents/federalelections92.pdf (report pp. 9-10),36954.0
+1992,John Hagelin,Natural Law,39163.0,0.037502875582757084,0.0,104426659,https://www.fec.gov/resources/cms-content/documents/federalelections92.pdf (report pp. 9-10),29409.0
+1992,Ron Daniels,Independent,27969.0,0.02678339062824944,0.0,104426659,https://www.fec.gov/resources/cms-content/documents/federalelections92.pdf (report pp. 9-10),24049.0
+1992,Lyndon LaRouche,Independent,26334.0,0.025217698480614992,0.0,104426659,https://www.fec.gov/resources/cms-content/documents/federalelections92.pdf (report pp. 9-10),7227.0
+1992,James Mac Warren,Socialist Workers,23091.0,0.022112169652004285,0.0,104426659,https://www.fec.gov/resources/cms-content/documents/federalelections92.pdf (report pp. 9-10),21099.0
+1992,Drew Bradford,Independent,4749.0,0.004547689302211612,0.0,104426659,https://www.fec.gov/resources/cms-content/documents/federalelections92.pdf (report pp. 9-10),4749.0
+1992,Jack Herer,Grassroots,3875.0,0.0037107382703874497,0.0,104426659,https://www.fec.gov/resources/cms-content/documents/federalelections92.pdf (report pp. 9-10),3328.0
+1992,John Quinn Brisben,Socialist,3064.0,0.002934116660765715,0.0,104426659,https://www.fec.gov/resources/cms-content/documents/federalelections92.pdf (report pp. 9-10),164.0
+1992,Helen Halyard,Workers League,3050.0,0.0029207101224985087,0.0,104426659,https://www.fec.gov/resources/cms-content/documents/federalelections92.pdf (report pp. 9-10),1432.0
+1992,John Yiamouyiannis,Independent,2199.0,0.0021057841178276134,0.0,104426659,https://www.fec.gov/resources/cms-content/documents/federalelections92.pdf (report pp. 9-10),808.0
+1992,Delbert Ehlers,Independent,1149.0,0.0011002937477871432,0.0,104426659,https://www.fec.gov/resources/cms-content/documents/federalelections92.pdf (report pp. 9-10),
+1992,Earl Dodge,Prohibition,961.0,0.0009202630910560875,0.0,104426659,https://www.fec.gov/resources/cms-content/documents/federalelections92.pdf (report pp. 9-10),122.0
+1992,Jim Boren,Apathy,956.0,0.0009154750416749424,0.0,104426659,https://www.fec.gov/resources/cms-content/documents/federalelections92.pdf (report pp. 9-10),
+1992,Eugene Hem,Third Party,405.0,0.0003878319998727528,0.0,104426659,https://www.fec.gov/resources/cms-content/documents/federalelections92.pdf (report pp. 9-10),405.0
+1992,Isabelle Masters,Looking Back Group,339.0,0.00032462974804163753,0.0,104426659,https://www.fec.gov/resources/cms-content/documents/federalelections92.pdf (report pp. 9-10),
+1992,Robert J. Smith,American,293.0,0.00028057969373510266,0.0,104426659,https://www.fec.gov/resources/cms-content/documents/federalelections92.pdf (report pp. 9-10),
+1992,Gloria Estella La Riva,Workers World,181.0,0.00017332738759745248,0.0,104426659,https://www.fec.gov/resources/cms-content/documents/federalelections92.pdf (report pp. 9-10),
+1992,None of These Candidates,Nevada,2537.0,0.002429456255993022,0.0,104426659,https://www.fec.gov/resources/cms-content/documents/federalelections92.pdf (report pp. 9-10),
+1992,Write-In,Miscellaneous,13907.0,0.01331748054871697,0.0,104426659,https://www.fec.gov/resources/cms-content/documents/federalelections92.pdf (report pp. 9-10),
+1988,George H. W. Bush,Republican,48886597.0,53.37274369825341,426.0,91594686,https://en.wikipedia.org/wiki/1988_United_States_presidential_election#Results,48886097.0
+1988,Michael Dukakis,Democratic,41809476.0,45.646180827564606,111.0,91594686,https://en.wikipedia.org/wiki/1988_United_States_presidential_election#Results,41809074.0
+1988,Lloyd Bentsen,Democratic,,,1.0,91594686,https://en.wikipedia.org/wiki/1988_United_States_presidential_election#Results,
+1988,Ron Paul,Libertarian,431750.0,0.47137014040312336,0.0,91594686,https://en.wikipedia.org/wiki/1988_United_States_presidential_election#Results,410971.0
+1988,Lenora Fulani,New Alliance,217221.0,0.2371545877672423,0.0,91594686,https://en.wikipedia.org/wiki/1988_United_States_presidential_election#Results,226334.0
+1988,Other,Other,249642.0,0.27255074601161905,,91594686,https://en.wikipedia.org/wiki/1988_United_States_presidential_election#Results,
+1996,Bill Clinton,Democratic,47402357.0,49.235276551339666,379.0,96277223,https://en.wikipedia.org/wiki/1996_United_States_presidential_election#Results,47401898.0
+1996,Bob Dole,Republican,39198755.0,40.71446368992176,159.0,96277223,https://en.wikipedia.org/wiki/1996_United_States_presidential_election#Results,39198482.0
+1996,Ross Perot,Reform,8085402.0,8.39804239056625,0.0,96277223,https://en.wikipedia.org/wiki/1996_United_States_presidential_election#Results,7541700.0
+1996,Ralph Nader,Green,684902.0,0.7113852878785255,0.0,96277223,https://en.wikipedia.org/wiki/1996_United_States_presidential_election#Results,526794.0
+1996,Harry Browne,Libertarian,485798.0,0.5045824805312468,0.0,96277223,https://en.wikipedia.org/wiki/1996_United_States_presidential_election#Results,465351.0
+1996,Howard Phillips,Taxpayers,184658.0,0.19179822002136476,0.0,96277223,https://en.wikipedia.org/wiki/1996_United_States_presidential_election#Results,170869.0
+1996,John Hagelin,Natural Law,113668.0,0.11806323080174425,0.0,96277223,https://en.wikipedia.org/wiki/1996_United_States_presidential_election#Results,103855.0
+1996,Other,Other,121683.0,0.12638814893944333,,96277223,https://en.wikipedia.org/wiki/1996_United_States_presidential_election#Results,

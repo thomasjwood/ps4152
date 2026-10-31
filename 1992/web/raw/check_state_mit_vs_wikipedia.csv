@@ -1,0 +1,75 @@
+year,state,candidate,votes,votes_wiki,diff
+1976,Arkansas,Carter,498604,499614.0,-1010.0
+1976,Arkansas,Ford,267903,268753.0,-850.0
+1976,Colorado,Carter,460801,460353.0,448.0
+1976,Colorado,Ford,584278,584367.0,-89.0
+1976,Delaware,Carter,122461,122596.0,-135.0
+1976,Delaware,Ford,109780,109831.0,-51.0
+1976,Iowa,Ford,632864,632863.0,1.0
+1976,Maine,Carter,232279,232289.0,-10.0
+1976,Mississippi,Carter,381329,381309.0,20.0
+1976,Nebraska,Carter,233293,233692.0,-399.0
+1976,Nebraska,Ford,359219,359705.0,-486.0
+1976,New Hampshire,Carter,147645,147635.0,10.0
+1976,North Dakota,Ford,153684,153470.0,214.0
+1976,Ohio,Carter,2009959,2011621.0,-1662.0
+1976,Ohio,Ford,2000626,2000505.0,121.0
+1976,South Carolina,Carter,450807,450825.0,-18.0
+1976,South Carolina,Ford,346149,346140.0,9.0
+1976,Vermont,Carter,77798,81044.0,-3246.0
+1976,Vermont,Ford,100387,102085.0,-1698.0
+1976,West Virginia,Carter,435864,435914.0,-50.0
+1976,West Virginia,Ford,314726,314760.0,-34.0
+1980,California,Carter,3082943,3083661.0,-718.0
+1980,California,Anderson,739618,739833.0,-215.0
+1980,California,Reagan,4522994,4524858.0,-1864.0
+1980,Colorado,Carter,368009,367973.0,36.0
+1980,Georgia,Carter,890955,890733.0,222.0
+1980,Kentucky,Carter,617417,616417.0,1000.0
+1980,Minnesota,Carter,954173,954174.0,-1.0
+1980,Minnesota,Anderson,174997,174990.0,7.0
+1980,Minnesota,Reagan,873268,873241.0,27.0
+1980,Nebraska,Carter,166424,166851.0,-427.0
+1980,Nebraska,Anderson,44854,44993.0,-139.0
+1980,Nebraska,Reagan,419214,419937.0,-723.0
+1980,South Carolina,Carter,428220,427560.0,660.0
+1980,South Carolina,Anderson,13868,14150.0,-282.0
+1980,South Carolina,Reagan,439277,441207.0,-1930.0
+1980,Vermont,Carter,81952,81891.0,61.0
+1980,Vermont,Anderson,31761,31760.0,1.0
+1980,Vermont,Reagan,94628,94598.0,30.0
+1984,Colorado,Mondale,454975,454974.0,1.0
+1984,Colorado,Reagan,821817,821818.0,-1.0
+1984,Kentucky,Mondale,539539,539589.0,-50.0
+1984,Kentucky,Reagan,821702,822782.0,-1080.0
+1984,Mississippi,Reagan,582377,581477.0,900.0
+1984,New Hampshire,Mondale,120347,120395.0,-48.0
+1984,New Hampshire,Reagan,267050,267051.0,-1.0
+1984,Ohio,Reagan,2678559,2678560.0,-1.0
+1984,South Carolina,Mondale,344459,344470.0,-11.0
+1984,Washington,Mondale,798352,807352.0,-9000.0
+1984,Wisconsin,Mondale,995740,995847.0,-107.0
+1984,Wisconsin,Reagan,1198584,1198800.0,-216.0
+1988,Louisiana,Dukakis,717460,734281.0,-16821.0
+1988,Massachusetts,Dukakis,1401415,1401406.0,9.0
+1988,Massachusetts,Bush,1194635,1194644.0,-9.0
+1988,Nebraska,Dukakis,259235,259646.0,-411.0
+1988,Nebraska,Bush,397956,398447.0,-491.0
+1992,Rhode Island,Perot,105051,105045.0,6.0
+1992,Rhode Island,Bush,131605,131601.0,4.0
+1992,Washington,Perot,541801,541780.0,21.0
+1996,California,Dole,3828381,3828380.0,1.0
+1996,Massachusetts,Clinton,1571509,1571763.0,-254.0
+1996,Massachusetts,Perot,227206,227217.0,-11.0
+1996,Massachusetts,Dole,718058,718107.0,-49.0
+1996,Minnesota,Clinton,1120380,1120438.0,-58.0
+1996,Minnesota,Perot,257698,257704.0,-6.0
+1996,Minnesota,Dole,766395,766476.0,-81.0
+1996,New Hampshire,Clinton,246166,246214.0,-48.0
+1996,New Hampshire,Perot,48387,48390.0,-3.0
+1996,New Hampshire,Dole,196486,196532.0,-46.0
+1996,New Jersey,Clinton,1652361,1652329.0,32.0
+1996,New Jersey,Dole,1103099,1103078.0,21.0
+1996,South Carolina,Clinton,506152,506283.0,-131.0
+1996,South Carolina,Perot,64377,64386.0,-9.0
+1996,South Carolina,Dole,573339,573458.0,-119.0

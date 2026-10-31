@@ -1,0 +1,123 @@
+var,name,card,col,width,question,codes
+completed,completed interview,1,17,1,Completed interview (cover sheet),1=Yes; 3=Converted refusal
+n_adults,adults in household,1,19,1,Number of adults in household,
+n_women,women in household,1,20,1,Number of women in household,
+int_day,day of interview,1,21,1,"Day of interview (day of week, 1=Sunday; inferred from the tracking poll's coding, not documented here; field dates given as Oct 21-23)",3=Tue Oct 20; 4=Wed Oct 21; 5=Thu Oct 22; 6=Fri Oct 23
+sex,sex,1,22,1,Respondent's sex,1=Male; 2=Female
+q1,registered,1,30,1,"Are you registered to vote in the precinct or election district where you now live, or aren't you?",1=Yes; 2=No; 9=DK/NA
+q2,fav bush,1,31,1,"Is your opinion of George Bush favorable, not favorable, undecided, or haven't you heard enough?",1=Favorable; 2=Not favorable; 3=Undecided; 4=Not heard enough yet; 5=Refused
+q3,fav clinton,1,32,1,"Is your opinion of Bill Clinton favorable, not favorable, undecided, or haven't you heard enough?",1=Favorable; 2=Not favorable; 3=Undecided; 4=Not heard enough yet; 5=Refused
+q4,fav perot,1,33,1,"Is your opinion of Ross Perot favorable, not favorable, undecided, or haven't you heard enough?",1=Favorable; 2=Not favorable; 3=Undecided; 4=Not heard enough yet; 5=Refused
+q5,fav quayle,1,34,1,"Is your opinion of Dan Quayle favorable, not favorable, undecided, or haven't you heard enough?",1=Favorable; 2=Not favorable; 3=Undecided; 4=Not heard enough yet; 5=Refused
+q6,fav gore,1,35,1,"Is your opinion of Al Gore favorable, not favorable, undecided, or haven't you heard enough?",1=Favorable; 2=Not favorable; 3=Undecided; 4=Not heard enough yet; 5=Refused
+q7,fav stockdale,1,36,1,"Is your opinion of James Stockdale favorable, not favorable, undecided, or haven't you heard enough?",1=Favorable; 2=Not favorable; 3=Undecided; 4=Not heard enough yet; 5=Refused
+q8,likely to vote,2,72,1,"How likely is it that you will vote in the 1992 election for President this November -- definitely, probably, probably not, or definitely not?",1=Definitely; 2=Probably; 3=Probably not; 4=Definitely not; 9=DK/NA
+q9,vote 3way,1,37,1,"If the 1992 presidential election were being held today, would you vote for Bush/Quayle, Clinton/Gore, or Perot/Stockdale?",1=Bush/Quayle; 2=Clinton/Gore; 3=Perot/Stockdale; 4=Wouldn't vote (vol); 9=DK/NA
+q9a,vote 3way with leaners,1,38,1,"(If DK) Well, as of today, do you lean more towards Bush and Quayle, Clinton and Gore, or Perot and Stockdale? (data: q9 choice plus leaners)",1=Bush/Quayle; 2=Clinton/Gore; 3=Perot/Stockdale; 4=Wouldn't vote (vol); 9=DK/NA
+q10,mind made up,1,39,1,"Is your mind made up, or do you think you might change your mind before the election?",1=Mind made up; 2=Might change mind; 9=DK/NA
+q10a,when decided,1,40,1,"When did you make up your mind -- during October, during September, during the summer, during the spring, or did you know all along?",1=During October; 2=During September; 3=During the summer; 4=During the spring; 5=Knew all along; 9=DK/NA
+q11,strength of support,1,41,1,"Would you describe your support for (candidate) as strongly favoring them, or do you like them but with reservations, or do you support them because you dislike the other candidates?",1=Strongly favor; 2=Like with reservations; 3=Dislike other; 9=DK/NA
+q12,campaign attention,2,73,1,"How much attention have you been able to pay to the 1992 presidential campaign -- a lot, some, not much, or no attention so far?",1=A lot; 2=Some; 3=Not much; 4=No attention; 9=DK/NA
+q13,vote 2way,1,42,1,What if Ross Perot were not running. Would you vote for Bush/Quayle or Clinton/Gore?,1=Bush/Quayle; 2=Clinton/Gore; 3=Wouldn't vote (vol); 4=Perot (vol); 9=DK/NA
+q13a,vote 2way with leaners,1,43,1,"(If DK) Well, as of today, do you lean more towards Bush and Quayle, or more towards Clinton and Gore? (data: q13 choice plus leaners)",1=Bush/Quayle; 2=Clinton/Gore; 3=Wouldn't vote (vol); 9=DK/NA
+q14,expect to win,1,44,1,"Regardless of how you intend to vote, who do you expect to finally win the election in November?",1=George Bush; 2=Bill Clinton; 3=Ross Perot; 9=DK/NA
+q15,house vote,1,45,1,"If the election for the U.S. House of Representatives in your district were being held today, would you vote for the Republican candidate or the Democratic candidate?",1=Republican; 2=Democratic; 3=Wouldn't vote; 9=DK/NA
+q16,bush cares,1,46,1,Do you think George Bush cares about the needs and problems of people like yourself?,1=Yes; 2=No; 9=DK/NA
+q17,clinton cares,1,47,1,Do you think Bill Clinton cares about the needs and problems of people like yourself?,1=Yes; 2=No; 9=DK/NA
+q18,perot cares,1,48,1,Do you think Ross Perot cares about the needs and problems of people like yourself?,1=Yes; 2=No; 9=DK/NA
+q19,bush change,1,49,1,"Do you think re-electing George Bush in November would bring about the kind of change the country needs, or not?","1=Yes, change; 2=No; 9=DK/NA"
+q21,clinton change,1,50,1,"Do you think electing Bill Clinton in November would bring about the kind of change the country needs, or not?","1=Yes, change; 2=No; 9=DK/NA"
+q22,perot change,1,51,1,"Do you think electing Ross Perot in November would bring about the kind of change the country needs, or not?","1=Yes, change; 2=No; 9=DK/NA"
+q23,bush raise taxes,1,52,1,"If George Bush is re-elected President, do you think he is likely or not likely to raise your taxes?",1=Likely; 2=Not likely; 9=DK/NA
+q24,clinton raise taxes,1,53,1,"If Bill Clinton is elected President, do you think he is likely or not likely to raise your taxes?",1=Likely; 2=Not likely; 9=DK/NA
+q25,perot raise taxes,1,54,1,"If Ross Perot is elected President, do you think he is likely or not likely to raise your taxes?",1=Likely; 2=Not likely; 9=DK/NA
+q26,bush trusted,1,55,1,"Do you think George Bush can be trusted to deal with all the problems a President has to deal with, or are you concerned that he might make serious mistakes?",1=Can be trusted; 2=Might make serious mistakes; 9=DK/NA
+q27,clinton trusted,1,56,1,"Do you think Bill Clinton can be trusted to deal with all the problems a President has to deal with, or are you concerned that he might make serious mistakes?",1=Can be trusted; 2=Might make serious mistakes; 9=DK/NA
+q28,perot trusted,1,57,1,"Do you think Ross Perot can be trusted to deal with all the problems a President has to deal with, or are you concerned that he might make serious mistakes?",1=Can be trusted; 2=Might make serious mistakes; 9=DK/NA
+q29,oxford attacks effect,1,58,1,George Bush has been attacking some of Bill Clinton's activities while he was a student at Oxford during the Vietnam war. Do those attacks affect the way you will vote? (If yes) more likely for or against Clinton?,1=No effect; 2=Vote for Clinton; 3=Vote against Clinton; 9=DK/NA
+q30,draft allegations effect,1,59,1,Do the allegations that Bill Clinton manipulated his draft status affect the way you will vote in November? (If yes) more likely for or against Clinton?,1=No effect; 2=Vote for Clinton; 3=Vote against Clinton; 9=DK/NA
+q31,clinton draft truth,1,60,1,"Do you think Bill Clinton has been telling the truth about how he avoided the draft during the Vietnam War, or hasn't he told the truth?",1=Told truth; 2=Didn't tell truth; 3=Both (vol); 9=DK/NA
+q32,bush iraq truth,1,61,1,"Do you think George Bush has been telling the truth about his administration's dealings with Iraq before the Persian Gulf War, or hasn't he?",1=Told the truth; 2=Didn't tell the truth; 3=Both (vol); 9=DK/NA
+q33,iraq allegations effect,1,62,1,Do the allegations that George Bush knows more than he's admitting about U.S. dealings with Iraq affect the way you will vote? (If yes) more likely for or against Bush?,1=No effect; 2=Vote for Bush; 3=Vote against Bush; 9=DK/NA
+q34,us intervene,1,63,1,"In today's world, does the United States have a responsibility to intervene militarily in trouble spots around the world or is this not a responsibility of the United States?",1=Responsibility; 2=Not responsibility; 9=DK/NA
+q35,govt health care,1,64,1,Guaranteeing medical care for all people who don't have health insurance: should the government in Washington be doing that?,1=Should; 2=Should not; 9=DK/NA
+q36,govt jobs,1,65,1,Seeing to it that everyone who wants a job has a job: should the government in Washington be doing that?,1=Should; 2=Should not; 9=DK/NA
+q37,govt industry tax breaks,1,66,1,Helping important U.S. industries by giving the owners tax breaks to compete internationally: should the government in Washington be doing that?,1=Should; 2=Should not; 9=DK/NA
+q38,spending big cities,1,67,1,"Are we spending too much, too little, or about the right amount on solving the problems of the big cities?",1=Too much; 2=Too little; 3=Right amount; 9=DK/NA
+q39,spending defense,1,68,1,"Are we spending too much, too little, or about the right amount on military and defense spending?",1=Too much; 2=Too little; 3=Right amount; 9=DK/NA
+q40,spending poor,1,69,1,"Are we spending too much, too little, or about the right amount on assistance to the poor?",1=Too much; 2=Too little; 3=Right amount; 9=DK/NA
+q41,education spending,1,70,1,"Should federal spending on improving education be increased, decreased, or kept about the same?",1=Increased; 2=Decreased; 3=Kept the same; 9=DK/NA
+q42,balanced budget amendment,1,71,1,"Should the Constitution be amended to require the federal government to balance the budget, or should the Constitution not be amended for this purpose?",1=Amend; 2=Not amend; 9=DK/NA
+q43,environment regardless of cost,1,72,1,Protecting the environment is so important that requirements and standards cannot be too high and continuing environmental improvements must be made regardless of cost.,1=Agree; 2=Disagree; 9=DK/NA
+q44,deficit need taxes,1,73,1,"Do you think that in order to reduce the federal budget deficit substantially, it will be necessary to raise taxes?",1=Necessary; 2=Not necessary; 9=DK/NA
+q45,debates best job,1,74,1,"Overall, who do you think did the best job in the three Presidential debates -- George Bush, Bill Clinton, or Ross Perot?",1=George Bush; 2=Bill Clinton; 3=Ross Perot; 4=Combination (vol); 9=DK/NA
+q46,ads new info,1,75,1,"During this Presidential campaign, has any television commercial given you new information about any of the Presidential candidates, or not?","1=Yes, new information; 2=No new information; 3=Have not seen any commercials (vol); 9=DK/NA"
+q46a,ads led to discuss,1,76,1,"Has any Presidential candidate's television commercial led you to discuss politics with somebody else, or not?",1=Yes; 2=No; 9=DK/NA
+q46b,ads issues important,2,7,1,"Has any Presidential candidate's television commercial helped you to realize which issues are important, or not?",1=Yes; 2=No; 9=DK/NA
+q46c,ads helped decide,2,8,1,"Has any Presidential candidate's television commercial helped you decide which candidate to vote for, or not?",1=Yes; 2=No; 9=DK/NA
+q46d,ads more confident,2,9,1,"Has any Presidential candidate's television commercial made you more confident that you had chosen the right candidate, or not?",1=Yes; 2=No; 9=DK/NA
+q47,seen bush ads,2,10,1,"In the past week, have you seen any commercials on television for George Bush?",1=Yes; 2=No; 9=DK/NA
+q47a,attention bush ads,2,11,1,"How much attention have you paid to these commercials for George Bush -- a lot, some, not much, or no attention?",1=A lot; 2=Some; 3=Not much; 4=No attention; 9=DK/NA
+q47b,bush ads truthful,2,12,1,"Of the commercials you've seen for Bush, have almost all been truthful, some truthful and some false, or almost all false?",1=Almost all truthful; 2=Some truthful & some false; 3=Almost all false; 4=All true (vol); 5=All false (vol); 9=DK/NA
+q47c,bush ads effect,2,13,1,Have Bush's commercials made a difference in how you will vote? (If yes) more likely to vote for or against Bush?,1=No effect; 2=Vote for Bush; 3=Vote against Bush; 9=DK/NA
+q48,seen clinton ads,2,14,1,"In the past week, have you seen any commercials on television for Bill Clinton?",1=Yes; 2=No; 9=DK/NA
+q48a,attention clinton ads,2,15,1,"How much attention have you paid to these commercials for Bill Clinton -- a lot, some, not much, or no attention?",1=A lot; 2=Some; 3=Not much; 4=No attention; 9=DK/NA
+q48b,clinton ads truthful,2,16,1,"Of the commercials you've seen for Clinton, have almost all been truthful, some truthful and some false, or almost all false?",1=Almost all truthful; 2=Some truthful & some false; 3=Almost all false; 4=All true (vol); 5=All false (vol); 9=DK/NA
+q48c,clinton ads effect,2,17,1,Have Clinton's commercials made a difference in how you will vote? (If yes) more likely to vote for or against Clinton?,1=No effect; 2=Vote for Clinton; 3=Vote against Clinton; 9=DK/NA
+q49,seen perot ads,2,18,1,"In the past week, have you seen any commercials on television for Ross Perot?",1=Yes; 2=No; 9=DK/NA
+q49a,attention perot ads,2,19,1,"How much attention have you paid to these commercials for Ross Perot -- a lot, some, not much, or no attention?",1=A lot; 2=Some; 3=Not much; 4=No attention; 9=DK/NA
+q49b,perot ads truthful,2,20,1,"Of the commercials you've seen for Perot, have almost all been truthful, some truthful and some false, or almost all false?",1=Almost all truthful; 2=Some truthful & some false; 3=Almost all false; 4=All true (vol); 5=All false (vol); 9=DK/NA
+q49c,perot ads effect,2,21,1,Have Perot's commercials made a difference in how you will vote? (If yes) more likely to vote for or against Perot?,1=No effect; 2=Vote for Perot; 3=Vote against Perot; 9=DK/NA
+q50,seen perot half hour,2,22,1,"Ross Perot has bought several half hour slots on television to explain his ideas. Did you see any of Ross Perot's half-hour long television commercials, or not?",1=Yes; 2=No; 9=DK/NA
+q50a,perot half hour valuable,2,23,1,"Do you think that they provide valuable information about Mr. Perot that you would not have otherwise gotten, or did they not tell you very much that was new?",1=Provide valuable information; 2=Did not tell very much that was new; 9=DK/NA
+q51,perot half hour changed opinion,2,24,1,Did seeing any of these half hour programs change your opinion of Ross Perot?,1=Yes; 2=No; 9=DK/NA
+q51a,perot half hour direction,2,25,1,"Did they make you think more favorably of Ross Perot, or less favorably of Ross Perot?",1=More favorably; 2=Less favorably; 9=DK/NA
+q53,rep deserves reelection,2,27,1,"Do you think the Representative in Congress from your district has performed well enough to deserve re-election, or do you think it's time to give a new person a chance?",1=Deserve re-election; 2=Give new a chance; 9=DK/NA
+q54,bush approve,2,28,1,Do you approve or disapprove of the way George Bush is handling his job as president?,1=Approve; 2=Disapprove; 9=DK/NA
+q55,bush approve foreign policy,2,29,1,Do you approve or disapprove of the way George Bush is handling foreign policy?,1=Approve; 2=Disapprove; 9=DK/NA
+q56,bush approve economy,2,30,1,Do you approve or disapprove of the way George Bush is handling the economy?,1=Approve; 2=Disapprove; 9=DK/NA
+q57,national economy,2,31,1,"How would you rate the condition of the national economy these days? Is it very good, fairly good, fairly bad, or very bad?",1=Very good; 2=Fairly good; 3=Fairly bad; 4=Very bad; 9=DK/NA
+q58,economy direction,2,32,1,"Do you think the economy is getting better, getting worse, or staying about the same?",1=Getting better; 2=Getting worse; 3=Staying the same; 9=DK/NA
+q59,family finances vs 4 yrs,2,33,1,"Compared to four years ago, is your family's financial situation better today, worse today, or about the same?",1=Better; 2=Worse; 3=About the same; 9=DK/NA
+q60,trust govt,2,34,1,"How much of the time do you think you can trust the government in Washington to do what is right -- just about always, most of the time, or only some of the time?",1=Always; 2=Most of the time; 3=Some of the time; 4=Never (vol); 9=DK/NA
+q61,elections make govt pay attention,2,35,1,"How much do you feel that having elections makes the government pay attention to what people think -- a good deal, some, or not much?",1=A good deal; 2=Some; 3=Not much; 9=DK/NA
+q62,say in govt,2,36,1,"How much say do you think people like yourself have about what the government does -- a good deal, some, or not much?",1=A good deal; 2=Some; 3=Not much; 9=DK/NA
+q63,campaign work,2,37,1,So far during the campaign have you done any work for one of the parties or candidates?,1=Yes; 2=No; 9=DK/NA
+q64,button or sticker,2,38,1,"So far during the campaign, have you worn a campaign button or put a campaign sticker on your car?",1=Yes; 2=No; 9=DK/NA
+q65,gave money,2,39,1,Did you give any money or buy any tickets or anything to help the campaign for one of the parties or candidates?,1=Yes; 2=No; 9=DK/NA
+q66,no difference who elected,2,40,1,It makes no real difference who is elected President -- things go on just as they did before.,1=Agree; 2=Disagree; 9=DK/NA
+q67,campaign interesting,2,41,1,Would you be more likely to describe the 1992 Presidential campaign as interesting or dull?,1=Interesting; 2=Dull; 9=DK/NA
+q68,issue discussion vs 1988,2,42,1,"Compared with the 1988 Presidential campaign, do you think there has been more discussion of the issues in this campaign, less discussion, or about the same?",1=More discussion; 2=Less discussion; 3=Same amount; 9=DK/NA
+q69,campaign tone vs 1988,2,43,1,"Compared with the 1988 Presidential campaign, do you think the campaign has been more positive this year, more negative, or about the same?",1=More positive; 2=More negative; 3=About the same; 9=DK/NA
+q70,abortion,2,44,1,Which comes closer to your view: abortion should be generally available to those who want it; available but under stricter limits; or not permitted?,1=Available to all; 2=Available but under stricter limits; 3=Not permitted; 9=DK/NA
+q71,vote88,2,66,1,Did you vote for President in 1988? (If voted) Did you vote for George Bush or Michael Dukakis?,"1=Bush; 2=Dukakis; 3=Voted, won't say/other (vol); 4=Didn't vote; 9=DK/NA"
+q72,vote84,2,45,1,Did you vote for President in 1984? (If voted) Did you vote for Ronald Reagan or Walter Mondale?,"1=Reagan; 2=Mondale; 3=Voted, won't say/other (vol); 4=Didn't vote; 9=DK/NA"
+q73,last election voted,2,74,1,What was the most recent election of any kind you voted in?,0=Never; 1=1992; 2=1991; 3=1990; 4=1989; 5=1988; 6=1987; 7=1984-1986; 8=1982-1983; 9=DK/NA; 10=Before 1982
+q74,last registered,2,75,1,When was the last time you registered to vote?,0=Never; 1=1992; 2=1991; 3=1990; 4=1989; 5=1988; 6=1987; 7=1984-1986; 8=1982-1983; 9=DK/NA; 10=Before 1982
+q75,primary vote,2,76,1,Did you vote in your state's Presidential primary or caucus this year? (If yes) What party's primary or caucus?,1=Democratic; 2=Republican; 3=Other; 4=Didn't vote; 9=DK/NA
+q76,talked campaign,2,65,1,"In the last week, have you talked about the 1992 Presidential campaign with anyone?",1=Yes; 2=No; 9=DK/NA
+q77,govt waste,2,46,1,"Do you think that people in the government waste a lot of the money we pay in taxes, waste some of it, or don't waste very much of it?",1=Waste a lot; 2=Waste some; 3=Don't waste much; 4=Don't waste any (vol); 9=DK/NA
+q78,party,2,67,1,"Generally speaking, do you usually consider yourself a Republican, a Democrat, an Independent, or what?",1=Republican; 2=Democrat; 3=Independent; 9=DK/NA
+q79,party lean,2,68,1,Do you think of yourself as closer to the Republican party or to the Democratic party?,1=Republican; 2=Democrat; 9=DK/NA
+q80,ideology,2,69,1,"Generally do you think of yourself as liberal, moderate, or conservative?",1=Liberal; 2=Moderate; 3=Conservative; 9=DK/NA
+q81,religion,2,70,1,What is your religious preference today?,1=Protestant; 2=Catholic; 3=Jewish; 4=Other; 5=None; 9=DK/NA
+q82,educ,3,71,1,What was the last grade in school you completed?,1=Not a high school grad; 2=High school grad; 3=Some college; 4=College grad and beyond; 9=Refused
+q83,age,3,72,2,How old are you? (18-98; 99=Refused),
+q84,age group,3,74,1,"Are you between 18 and 29, 30 and 44, 45 and 64, or are you over 64?",1=18-29; 2=30-44; 3=45-64; 4=Over 64; 9=Refused
+q85,race,3,75,1,"Are you white, Black, or some other race?",1=White; 2=Black; 3=Other; 9=Refused
+q86,same community 2 yrs,2,77,1,Did you live in the same community two years ago that you live in now?,1=Yes; 2=No; 9=DK/NA
+q87,hispanic,3,76,1,"Are you of Hispanic origin or descent, or not?",1=Hispanic; 2=Not Hispanic; 9=Refused
+q88,income,3,77,1,"Was your total family income in 1991 under or over $30,000? (follow-ups 88a/88b combined)","1=Under $15,000; 2=$15,000-$30,000 (incl. under $30,000 won't specify); 3=$30,000-$50,000 (incl. over $30,000 won't specify); 4=$50,000-$75,000; 5=Over $75,000; 9=Refused/NA"
+q89,other phone numbers,3,78,1,Are there any other telephone numbers in your home that I could have dialed and reached you on?,1=Yes; 2=No; 9=DK/NA
+q90,n other phone numbers,3,79,1,How many other numbers are there in your home?,0=No other numbers (not asked); 1=1; 2=2; 3=3; 4=4; 5=5; 6=6; 7=7; 8=8 or more; 9=Refused
+q93,talkative,3,80,1,INTERVIEWER: Code whether the respondent was talkative or not talkative or if the first name was refused.,"1=Gave name, talkative; 2=Gave name, not talkative; 3=Refused name"
+cbs_eligible,cbs voting eligibility,3,14,1,CBS voting eligibility (codes not documented),
+elig_residence,eligibility residence,3,15,1,Eligibility residence (codes not documented),
+gov_state,governor race state,3,16,1,States with governor elections (codes inferred),1=Yes; 2=No
+senate_state,senate race state,3,17,1,States with senate elections (codes inferred),1=Yes; 2=No
+likely_wt,probable electorate weight,3,20,6,"Probable electorate weight, xxx.xxx (divide by 1000; doc lists col 20 only, data fill cols 20-25)",
+region,census region,3,55,1,Census region (from telephone number),1=East; 2=Midwest; 3=South; 4=West
+cbs_region,cbs region,3,56,1,CBS region,1=Northeast; 2=North central; 3=South; 4=West
+state,state,3,57,2,State code (alphabetical 01-51),1=Alabama; 2=Alaska; 3=Arizona; 4=Arkansas; 5=California; 6=Colorado; 7=Connecticut; 8=Delaware; 9=District of Columbia; 10=Florida; 11=Georgia; 12=Hawaii; 13=Idaho; 14=Illinois; 15=Indiana; 16=Iowa; 17=Kansas; 18=Kentucky; 19=Louisiana; 20=Maine; 21=Maryland; 22=Massachusetts; 23=Michigan; 24=Minnesota; 25=Mississippi; 26=Missouri; 27=Montana; 28=Nebraska; 29=Nevada; 30=New Hampshire; 31=New Jersey; 32=New Mexico; 33=New York; 34=North Carolina; 35=North Dakota; 36=Ohio; 37=Oklahoma; 38=Oregon; 39=Pennsylvania; 40=Rhode Island; 41=South Carolina; 42=South Dakota; 43=Tennessee; 44=Texas; 45=Utah; 46=Vermont; 47=Virginia; 48=Washington; 49=West Virginia; 50=Wisconsin; 51=Wyoming
+urban,urbanicity,3,59,1,Urbanicity code,1=Large central city (over 500k); 2=Central city (50-500k); 3=Suburbs; 4=Other community (10-50k); 5=Rural
+timezone,time zone,3,63,1,Time zone (coded by interviewer),1=East; 2=Central; 3=Mountain; 4=Pacific

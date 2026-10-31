@@ -1,0 +1,168 @@
+[
+ {
+  "key": "debate",
+  "archiveId": 31089480,
+  "qname": "QB01",
+  "start": "10/11/1992",
+  "end": "10/11/1992",
+  "surveyBy": "Newsweek Magazine",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/Newsweek Poll # 1992-305050:  Post-First Presidential Debate",
+  "text": "Regardless of which candidate you happen to support (for president 1992), who do you think did the best job in the debate (tonight October 11, 1992)--George Bush, Bill Clinton or Ross Perot?",
+  "subpop": "Panel of registered voter debate watchers post debate reinterview October 11, 1992 The respondents who said they watched hardly any/None of it/Don't know/Refused in the post debate interview were excluded from the panel",
+  "responses": [
+   [
+    "Bush",
+    19
+   ],
+   [
+    "Clinton",
+    31
+   ],
+   [
+    "Perot",
+    43
+   ],
+   [
+    "None in particular (vol.)",
+    6
+   ],
+   [
+    "Don't know/Refused",
+    1
+   ]
+  ]
+ },
+ {
+  "key": "debate",
+  "archiveId": 31088164,
+  "qname": "Q01",
+  "start": "10/11/1992",
+  "end": "10/11/1992",
+  "surveyBy": "Cable News Network (CNN)/USA Today",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/CNN/USA Today Poll:  First Debate Reaction Special",
+  "text": "Regardless of which candidate you happen to support, who do you think did the best job in the (first 1992 presidential election candidate) debate (October 11, 1992)--George Bush, Bill Clinton or Ross Perot?",
+  "subpop": null,
+  "responses": [
+   [
+    "Bush",
+    16
+   ],
+   [
+    "Clinton",
+    30
+   ],
+   [
+    "Perot",
+    47
+   ],
+   [
+    "None in particular (vol.)",
+    5
+   ],
+   [
+    "Don't know/Refused",
+    2
+   ]
+  ]
+ },
+ {
+  "key": "debate",
+  "archiveId": 31088160,
+  "qname": "Q11",
+  "start": "10/16/1992",
+  "end": "10/18/1992",
+  "surveyBy": "Cable News Network (CNN)/USA Today",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/CNN/USA Today Poll:  Fall Tracking Poll - Phase 1",
+  "text": "Regardless of which candidate you happen to support (for President 1992), who do you think did the best job (in the second presidential candidate debate October 15, 1992)--George Bush, Bill Clinton or Ross Perot?",
+  "subpop": "Asked of registered voters/plan to register on election day who saw or heard the debate (66% of registered/ plan to register)",
+  "responses": [
+   [
+    "Bush",
+    16
+   ],
+   [
+    "Clinton",
+    58
+   ],
+   [
+    "Perot",
+    16
+   ],
+   [
+    "None in particular (vol.)",
+    7
+   ],
+   [
+    "Don't know/Refused",
+    4
+   ]
+  ]
+ },
+ {
+  "key": "debate",
+  "archiveId": 31088165,
+  "qname": "QB01",
+  "start": "10/19/1992",
+  "end": "10/19/1992",
+  "surveyBy": "Cable News Network (CNN)/USA Today",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/CNN/USA Today Poll:  Second Debate Reaction Special",
+  "text": "Regardless of which (1992 presidential election ) candidate you happen to support, who do you think did the best job in the (presidential election) debate (October 19, 1992)?",
+  "subpop": "Panel of registered voter debate watchers post debate re-interview October 19, 1992",
+  "responses": [
+   [
+    "Bush",
+    28
+   ],
+   [
+    "Clinton",
+    29
+   ],
+   [
+    "Perot",
+    37
+   ],
+   [
+    "None in particular (vol.)",
+    7
+   ]
+  ]
+ },
+ {
+  "key": "debate",
+  "archiveId": 31088165,
+  "qname": "QA11",
+  "start": "10/19/1992",
+  "end": "10/19/1992",
+  "surveyBy": "Cable News Network (CNN)/USA Today",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/CNN/USA Today Poll:  Second Debate Reaction Special",
+  "text": "Regardless of which candidate you happen to support, who do you think did the best job (in the presidential debate October 15, 1992)--George Bush, Bill Clinton or Ross Perot?",
+  "subpop": "Asked of panel of registered voter debate watchers (10/19) who saw the debate 10/15--pre debate interview 10/15-18/92 (79% of panel of registered debate watchers interviewed 10/15-18/92)",
+  "responses": [
+   [
+    "Bush",
+    21
+   ],
+   [
+    "Clinton",
+    54
+   ],
+   [
+    "Perot",
+    14
+   ],
+   [
+    "None in particular (vol.)",
+    8
+   ],
+   [
+    "Don't know/Refused",
+    4
+   ]
+  ]
+ }
+]

@@ -1,0 +1,138 @@
+[
+ {
+  "key": "debate2",
+  "archiveId": 31086431,
+  "qname": "Q3",
+  "start": "10/11/1992",
+  "end": "10/11/1992",
+  "surveyBy": "ABC News",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News Poll:  1992 Presidential Debate",
+  "text": "Who, in your opinion, won the (1992 presidential election candidate) debate (this evening October 11, 1992)?",
+  "subpop": "Asked of those who watched the debate (88%)",
+  "responses": [
+   [
+    "George Bush",
+    19
+   ],
+   [
+    "Bill Clinton",
+    28
+   ],
+   [
+    "Ross Perot",
+    24
+   ],
+   [
+    "None/A draw/A tie (vol.)",
+    26
+   ],
+   [
+    "Don't know/No opinion",
+    2
+   ]
+  ]
+ },
+ {
+  "key": "debate2",
+  "archiveId": 31086432,
+  "qname": "Q3",
+  "start": "10/13/1992",
+  "end": "10/13/1992",
+  "surveyBy": "ABC News",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News Poll:  1992 Vice-Presidential Debate",
+  "text": "Who, in your opinion, won the (1992 vice-presidential election candidate) debate (this evening October 13, 1992)?",
+  "subpop": "Asked of those who watched the debate (85%)",
+  "responses": [
+   [
+    "Dan Quayle",
+    36
+   ],
+   [
+    "Al Gore",
+    39
+   ],
+   [
+    "James Stockdale",
+    3
+   ],
+   [
+    "None/A draw/A tie (vol.)",
+    18
+   ],
+   [
+    "Don't know/Refused",
+    5
+   ]
+  ]
+ },
+ {
+  "key": "debate2",
+  "archiveId": 31086433,
+  "qname": "R1",
+  "start": "10/19/1992",
+  "end": "10/19/1992",
+  "surveyBy": "ABC News",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News Poll:  1992 Presidential Debate #2",
+  "text": "Who won (the 1992 presidential debate on October 19, 1992)?",
+  "subpop": null,
+  "responses": [
+   [
+    "(George) Bush",
+    21
+   ],
+   [
+    "(Bill) Clinton",
+    36
+   ],
+   [
+    "(Ross) Perot",
+    26
+   ],
+   [
+    "Tie (vol.)",
+    11
+   ],
+   [
+    "Don't know",
+    6
+   ]
+  ]
+ },
+ {
+  "key": "debate2",
+  "archiveId": 31086433,
+  "qname": "Q3",
+  "start": "10/19/1992",
+  "end": "10/19/1992",
+  "surveyBy": "ABC News",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News Poll:  1992 Presidential Debate #2",
+  "text": "Who, in your opinion, won the (1992 presidential election candidate) debate (this evening October 19, 1992)?",
+  "subpop": "Asked of those who watched the debate (92%)",
+  "responses": [
+   [
+    "Bush",
+    21
+   ],
+   [
+    "Clinton",
+    37
+   ],
+   [
+    "Perot",
+    26
+   ],
+   [
+    "None/A draw/A tie (vol.)",
+    13
+   ],
+   [
+    "Don't know/No opinion",
+    3
+   ]
+  ]
+ }
+]

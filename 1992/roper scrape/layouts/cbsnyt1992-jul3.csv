@@ -1,0 +1,36 @@
+var,name,card,col,width,question,codes
+sex,sex,1,22,1,Respondent's sex,1=Male; 2=Female
+q1,registered,1,30,1,"Some people are registered to vote and others are not. Are you registered to vote in the precinct or election district where you now live, or aren't you?",1=Yes; 2=No; 9=DK/NA
+q2,fav bush,1,31,1,"Is your opinion of George Bush favorable, not favorable, undecided, or haven't you heard enough about George Bush yet to have an opinion?",1=Favorable; 2=Not favorable; 3=Undecided; 4=Not heard enough yet; 5=Refused
+q3,fav clinton,1,32,1,"Is your opinion of Bill Clinton favorable, not favorable, undecided, or haven't you heard enough about Bill Clinton yet to have an opinion?",1=Favorable; 2=Not favorable; 3=Undecided; 4=Not heard enough yet; 5=Refused
+q4,likely to vote,1,33,1,"How likely is it that you will vote in the 1992 election for President this November -- would you say you will definitely vote, probably vote, probably not vote, or definitely not vote in the election for President?",1=Definitely; 2=Probably; 3=Probably not; 4=Definitely not; 9=DK/NA
+q5,vote 2way,1,34,1,"If the 1992 presidential election were being held today, would you vote for George Bush for President and Dan Quayle for Vice-President, the Republican candidates, or for Bill Clinton for President and Al Gore for Vice-President, the Democratic candidates?",1=Bush/Quayle; 2=Clinton/Gore; 3=Wouldn't vote (vol); 9=DK/NA
+q5a,vote 2way with leaners,1,35,1,"Well, as of today, do you lean more towards Bush and Quayle, or more towards Clinton and Gore? (column holds q5 choice combined with q5a lean)",1=Bush/Quayle (incl. leaners); 2=Clinton/Gore (incl. leaners); 3=Wouldn't vote (vol); 9=DK/NA
+q6,support strength,1,36,1,"Would you describe your support for (candidates named) as strongly favoring them, or do you like them but with reservations, or do you support them because you dislike the other candidates?",1=Strongly favor; 2=Like with reservations; 3=Dislike other; 9=DK/NA
+q7,fav perot,1,37,1,"Is your opinion of Ross Perot favorable, not favorable, undecided, or haven't you heard enough about Ross Perot yet to have an opinion?",1=Favorable; 2=Not favorable; 3=Undecided; 4=Not heard enough yet; 5=Refused
+q8,vote 3way if perot stayed,1,38,1,"As you may know Ross Perot has decided not to run for President. If Ross Perot had stayed in the race would you have voted for -- George Bush, Bill Clinton, or Ross Perot?",1=Bush; 2=Clinton; 3=Perot; 4=Wouldn't vote (vol); 9=DK/NA
+q9,perot deserted you,1,39,1,(If Perot) Do you feel as if Ross Perot deserted you by leaving the race?,1=Yes; 2=No; 9=DK/NA
+q10,campaign attention,1,40,1,"How much attention have you been able to pay to the 1992 presidential campaign -- a lot, some, not much, or no attention so far?",1=A lot; 2=Some; 3=Not much; 4=No attention; 9=DK/NA
+q11,expect to win,1,41,1,"Regardless of how you intend to vote, who do you expect to finally win the election in November -- George Bush or Bill Clinton?",1=Bush; 2=Clinton; 9=DK/NA
+q12,perot right to withdraw,1,42,1,"Did Ross Perot do the right thing in withdrawing from the race for President, or should he have stayed in?",1=Right to withdraw; 2=Should have stayed in; 9=DK/NA
+q13,perot accomplished much,1,43,1,"Do you think Ross Perot accomplished much of what he set out to do in running for President, or did he just walk away before he accomplished much?",1=Accomplished much; 2=Did not accomplish much; 3=Half & half (vol); 9=DK/NA
+q14,bush approve,1,44,1,Do you approve or disapprove of the way George Bush is handling his job as president?,1=Approve; 2=Disapprove; 9=DK/NA
+q15,vote88,2,66,1,"Did you vote for President in 1988, did something prevent you from voting, or did you choose not to vote for President in 1988? If voted: Did you vote for George Bush or Michael Dukakis?","1=Bush; 2=Dukakis; 3=Voted, won't say for whom or other (vol); 4=Didn't vote; 9=DK/NA"
+q16,talked about campaign,1,45,1,"In the last week, have you talked about the 1992 Presidential campaign with anyone?",1=Yes; 2=No; 9=DK/NA
+q17,party,2,67,1,"Generally speaking, do you usually consider yourself a Republican, a Democrat, an Independent, or what?",1=Republican; 2=Democrat; 3=Independent; 9=DK/NA
+q18,party lean,2,68,1,Do you think of yourself as closer to the Republican party or to the Democratic party?,1=Republican; 2=Democrat; 9=DK/NA
+q19,ideology,2,69,1,"How would you describe your views on most political matters? Generally do you think of yourself as liberal, moderate, or conservative?",1=Liberal; 2=Moderate; 3=Conservative; 9=DK/NA
+q20,religion,2,70,1,What is your religious preference today?,1=Protestant; 2=Catholic; 3=Jewish; 4=Other; 5=None; 9=DK/NA
+q21,educ,3,71,1,What was the last grade in school you completed?,1=Not a high school grad; 2=High school grad; 3=Some college (trade or business); 4=College grad and beyond; 9=Refused
+q22,age,3,72,2,"How old are you? (18-98 = age, 99 = refused)",
+q23,age group,3,74,1,"Are you between 18 and 29, 30 and 44, 45 and 64, or are you over 64?",1=18-29; 2=30-44; 3=45-64; 4=Over 64; 9=Refused
+q24,race,3,75,1,"Are you white, Black, or some other race?",1=White; 2=Black; 3=Other; 9=Refused
+q25,income,3,77,1,"Was your total family income in 1991 under or over $30,000? (follow-ups: under or over $15,000; $30-50,000, $50-75,000, or over $75,000)","1=Under $15,000; 2=$15,000-$30,000; 3=$30,000-$50,000; 4=$50,000-$75,000; 5=Over $75,000; 9=Refused/NA"
+q26,other phone numbers,3,78,1,"Are there any other telephone numbers in your home that I could have dialed and reached you on -- I don't mean extensions, but different telephone numbers?",1=Yes; 2=No; 9=DK/NA
+q27,number of other phones,3,79,1,"How many other numbers are there in your home? (1-7 = number, 8 = 8 or more, 9 = refused)",1=1; 2=2; 3=3; 4=4; 5=5; 6=6; 7=7; 8=8 or more; 9=Refused
+q29,talkative,3,80,1,Interviewer: code whether the respondent was talkative or not talkative or if the first name was refused.,"1=Gave name, talkative; 2=Gave name, not talkative; 3=Refused name"
+region,census region,3,55,1,Census region (derived from telephone number),1=East; 2=Midwest; 3=South; 4=West
+cbs_region,cbs region,3,56,1,CBS region,1=Northeast; 2=Northcentral; 3=South; 4=West
+state,state,3,57,2,State code (numbered 01-51 in alphabetical order),1=Alabama; 2=Alaska; 3=Arizona; 4=Arkansas; 5=California; 6=Colorado; 7=Connecticut; 8=Delaware; 9=District of Columbia; 10=Florida; 11=Georgia; 12=Hawaii; 13=Idaho; 14=Illinois; 15=Indiana; 16=Iowa; 17=Kansas; 18=Kentucky; 19=Louisiana; 20=Maine; 21=Maryland; 22=Massachusetts; 23=Michigan; 24=Minnesota; 25=Mississippi; 26=Missouri; 27=Montana; 28=Nebraska; 29=Nevada; 30=New Hampshire; 31=New Jersey; 32=New Mexico; 33=New York; 34=North Carolina; 35=North Dakota; 36=Ohio; 37=Oklahoma; 38=Oregon; 39=Pennsylvania; 40=Rhode Island; 41=South Carolina; 42=South Dakota; 43=Tennessee; 44=Texas; 45=Utah; 46=Vermont; 47=Virginia; 48=Washington; 49=West Virginia; 50=Wisconsin; 51=Wyoming
+urban,urbanicity,3,59,1,Urbanity code,1=Large central city (over 500k); 2=Central city (50 to 500k); 3=Suburbs; 4=Other community (10 to 50k); 5=Rural
+time_zone,time zone,3,63,1,Time zone (coded by interviewer),1=East; 2=Central; 3=Mountain; 4=Pacific

@@ -1,0 +1,24 @@
+
+Write will generate the following
+
+Variable          Rec   Start     End  Format
+seq                 1       1       8  F8.0
+q1                  1       9      16  F8.0
+q2                  1      17      24  F8.0
+q3                  1      25      32  F8.0
+q4                  1      33      40  F8.0
+q5a                 1      41      48  F8.0
+q5b                 1      49      56  F8.0
+q5c                 1      57      64  F8.0
+q5d                 1      65      72  F8.0
+q5e                 1      73      80  F8.0
+q5f                 1      81      88  F8.0
+q6                  1      89      96  F8.0
+q7                  1      97     104  F8.0
+q800b               1     105     112  F8.0
+q812                1     113     120  F8.0
+q861j               1     121     128  F8.0
+q900                1     129     136  F8.0
+wt                  1     137     144  F8.0
+caswgt              1     145     152  F8.4
+

@@ -1,0 +1,5750 @@
+file handle in name='reint92.cleanflat' lrecl=1249
+data list file=in fixed/
+
+     ID              1  -   4
+     WRKSTAT         5  -   5
+     HRS1            6  -   7
+     HRS2            8  -   9
+     EVWORK         10  -  10
+     WRKSLF         11  -  11
+     OCC80          12  -  14
+     PRESTG80       15  -  16
+     INDUS80        17  -  19
+     MARITAL        20  -  20
+     AGEWED         21  -  22
+     DIVORCE        23  -  23
+     WIDOWED        24  -  24
+     SPWRKSTA       25  -  25
+     SPHRS1         26  -  27
+     SPHRS2         28  -  29
+     SPEVWORK       30  -  30
+     SPWRKSLF       31  -  31
+     SPOCC80        32  -  34
+     SPPRES80       35  -  36
+     SPIND80        37  -  39
+     PAWRKSLF       40  -  40
+     PAOCC80        41  -  43
+     PAPRES80       44  -  45
+     PAIND80        46  -  48
+     SIBS           49  -  50
+     CHILDS         51  -  51
+     AGE            52  -  53
+     BIRTHMO        54  -  55
+     ZODIAC         56  -  57
+     EDUC           58  -  59
+     PAEDUC         60  -  61
+     MAEDUC         62  -  63
+     SPEDUC         64  -  65
+     DEGREE         66  -  66
+     PADEG          67  -  67
+     MADEG          68  -  68
+     SPDEG          69  -  69
+     SEX            70  -  70
+     RACE           71  -  71
+     RES16          72  -  72
+     REG16          73  -  73
+     MOBILE16       74  -  74
+     FAMILY16       75  -  75
+     FAMDIF16       76  -  76
+     MAWORK         77  -  77
+     MAWKBORN       78  -  78
+     INCOM16        79  -  79
+     BORN           80  -  80
+     PARBORN        81  -  81
+     GRANBORN       82  -  82
+     HOMPOP         83  -  84
+     BABIES         85  -  85
+     PRETEEN        86  -  86
+     TEENS          87  -  87
+     ADULTS         88  -  88
+     UNRELAT        89  -  89
+     EARNRS         90  -  90
+     INCOME         91  -  92
+     RINCOME        93  -  94
+     INCOME91       95  -  96
+     RINCOM91       97  -  98
+     REGION         99  -  99
+     XNORCSIZ       100  -  101
+     SRCBELT        102  -  102
+     SIZE           103  -  106
+     PARTYID        107  -  107
+     VOTE88         108  -  108
+     PRES88         109  -  109
+     IF88WHO        110  -  110
+     POLVIEWS       111  -  111
+     NATSPAC        112  -  112
+     NATENVIR       113  -  113
+     NATHEAL        114  -  114
+     NATCITY        115  -  115
+     NATCRIME       116  -  116
+     NATDRUG        117  -  117
+     NATEDUC        118  -  118
+     NATRACE        119  -  119
+     NATARMS        120  -  120
+     NATAID         121  -  121
+     NATFARE        122  -  122
+     NATROAD        123  -  123
+     NATSOC         124  -  124
+     NATMASS        125  -  125
+     NATPARK        126  -  126
+     NATSPACY       127  -  127
+     NATENVIY       128  -  128
+     NATHEALY       129  -  129
+     NATCITYY       130  -  130
+     NATCRIMY       131  -  131
+     NATDRUGY       132  -  132
+     NATEDUCY       133  -  133
+     NATRACEY       134  -  134
+     NATARMSY       135  -  135
+     NATAIDY        136  -  136
+     NATFAREY       137  -  137
+     EQWLTH         138  -  138
+     TAX            139  -  139
+     SPKATH         140  -  140
+     COLATH         141  -  141
+     LIBATH         142  -  142
+     SPKRAC         143  -  143
+     COLRAC         144  -  144
+     LIBRAC         145  -  145
+     SPKCOM         146  -  146
+     COLCOM         147  -  147
+     LIBCOM         148  -  148
+     SPKMIL         149  -  149
+     COLMIL         150  -  150
+     LIBMIL         151  -  151
+     SPKHOMO        152  -  152
+     COLHOMO        153  -  153
+     LIBHOMO        154  -  154
+     CAPPUN         155  -  155
+     GUNLAW         156  -  156
+     COURTS         157  -  157
+     WIRTAP         158  -  158
+     GRASS          159  -  159
+     USWARY         160  -  160
+     USINTL         161  -  161
+     USUN           162  -  162
+     COMMUN         163  -  163
+     RUSSIA         164  -  164
+     JAPAN          165  -  165
+     CANADA         166  -  166
+     CHINA          167  -  167
+     ISRAEL         168  -  168
+     EGYPT          169  -  169
+     RELIG          170  -  170
+     DENOM          171  -  172
+     OTHER          173  -  175
+     JEW            176  -  176
+     FUND           177  -  177
+     ATTEND         178  -  178
+     RELITEN        179  -  179
+     POSTLIFE       180  -  180
+     SPIRITS        181  -  181
+     GRACE          182  -  182
+     NEARGOD        183  -  183
+     MAPA           184  -  184
+     MASTERSP       185  -  185
+     JUDGELUV       186  -  186
+     FRNDKING       187  -  187
+     RELIG16        188  -  188
+     DENOM16        189  -  190
+     OTH16          191  -  193
+     JEW16          194  -  194
+     FUND16         195  -  195
+     SPREL          196  -  196
+     SPDEN          197  -  198
+     SPOTHER        199  -  201
+     SPJEW          202  -  202
+     SPFUND         203  -  203
+     SPREL16        204  -  204
+     SPDEN16        205  -  206
+     SPOTH16        207  -  209
+     SPJEW16        210  -  210
+     SPFUND16       211  -  211
+     PRAYER         212  -  212
+     BIBLE          213  -  213
+     WORLD1         214  -  214
+     WORLD4         215  -  215
+     RACMAR         216  -  216
+     RACSEG         217  -  217
+     RACOPEN        218  -  218
+     RACLIVE        219  -  219
+     RACCLOS        220  -  220
+     RACDIS         221  -  221
+     RACINTEG       222  -  222
+     RACHOME        223  -  223
+     RACFEW         224  -  224
+     RACHAF         225  -  225
+     RACMOST        226  -  226
+     BUSING         227  -  227
+     RACPRES        228  -  228
+     RACCHURH       229  -  229
+     HAPPY          230  -  230
+     HAPMAR         231  -  231
+     HEALTH         232  -  232
+     LIFE           233  -  233
+     HELPFUL        234  -  234
+     FAIR           235  -  235
+     TRUST          236  -  236
+     SATCITY        237  -  237
+     SATHOBBY       238  -  238
+     SATFAM         239  -  239
+     SATFRND        240  -  240
+     SATHEALT       241  -  241
+     CONFINAN       242  -  242
+     CONBUS         243  -  243
+     CONCLERG       244  -  244
+     CONEDUC        245  -  245
+     CONFED         246  -  246
+     CONLABOR       247  -  247
+     CONPRESS       248  -  248
+     CONMEDIC       249  -  249
+     CONTV          250  -  250
+     CONJUDGE       251  -  251
+     CONSCI         252  -  252
+     CONLEGIS       253  -  253
+     CONARMY        254  -  254
+     OBEY           255  -  255
+     POPULAR        256  -  256
+     THNKSELF       257  -  257
+     WORKHARD       258  -  258
+     HELPOTH        259  -  259
+     SOCREL         260  -  260
+     SOCOMMUN       261  -  261
+     SOCFREND       262  -  262
+     SOCBAR         263  -  263
+     SOCPARS        264  -  264
+     SOCSIBS        265  -  265
+     AGED           266  -  266
+     DRINK          267  -  267
+     DRUNK          268  -  268
+     SMOKE          269  -  269
+     QUITSMK        270  -  270
+     EVSMOKE        271  -  271
+     ANOMIA5        272  -  272
+     ANOMIA6        273  -  273
+     ANOMIA7        274  -  274
+     JOBLOSE        275  -  275
+     JOBFIND        276  -  276
+     SATJOB         277  -  277
+     RICHWORK       278  -  278
+     JOBINC         279  -  279
+     JOBSEC         280  -  280
+     JOBHOUR        281  -  281
+     JOBPROMO       282  -  282
+     JOBMEANS       283  -  283
+     CLASS          284  -  284
+     SATFIN         285  -  285
+     FINALTER       286  -  286
+     FINRELA        287  -  287
+     WKSUB          288  -  288
+     WKSUBS         289  -  289
+     WKSUP          290  -  290
+     WKSUPS         291  -  291
+     UNEMP          292  -  292
+     UNION          293  -  293
+     GETAHEAD       294  -  294
+     FEHOME         295  -  295
+     FEWORK         296  -  296
+     FEPRES         297  -  297
+     FEPOL          298  -  298
+     ABDEFECT       299  -  299
+     ABNOMORE       300  -  300
+     ABHLTH         301  -  301
+     ABPOOR         302  -  302
+     ABRAPE         303  -  303
+     ABSINGLE       304  -  304
+     ABANY          305  -  305
+     CHLDIDEL       306  -  306
+     CHLDMORE       307  -  307
+     CHLDNUM        308  -  308
+     PILLOK         309  -  309
+     SEXEDUC        310  -  310
+     DIVLAW         311  -  311
+     PREMARSX       312  -  312
+     TEENSEX        313  -  313
+     XMARSEX        314  -  314
+     HOMOSEX        315  -  315
+     PORNINF        316  -  316
+     PORNMORL       317  -  317
+     PORNRAPE       318  -  318
+     PORNOUT        319  -  319
+     PORNLAW        320  -  320
+     XMOVIE         321  -  321
+     SPANKING       322  -  322
+     LETDIE1        323  -  323
+     SUICIDE1       324  -  324
+     SUICIDE2       325  -  325
+     SUICIDE3       326  -  326
+     SUICIDE4       327  -  327
+     HIT            328  -  328
+     HITAGE         329  -  329
+     GUN            330  -  330
+     GUNAGE         331  -  331
+     HITOK          332  -  332
+     HITMARCH       333  -  333
+     HITDRUNK       334  -  334
+     HITCHILD       335  -  335
+     HITBEATR       336  -  336
+     HITROBBR       337  -  337
+     POLHITOK       338  -  338
+     POLABUSE       339  -  339
+     POLMURDR       340  -  340
+     POLESCAP       341  -  341
+     POLATTAK       342  -  342
+     FEAR           343  -  343
+     BURGLR         344  -  344
+     ROBBRY         345  -  345
+     OWNGUN         346  -  346
+     PISTOL         347  -  347
+     SHOTGUN        348  -  348
+     RIFLE          349  -  349
+     ROWNGUN        350  -  350
+     HUNT           351  -  351
+     NEWS           352  -  352
+     TVHOURS        353  -  354
+     PHONE          355  -  355
+     COOP           356  -  356
+     COMPREND       357  -  357
+     FORM           358  -  358
+     FECHLD         359  -  359
+     FEHELP         360  -  360
+     FEPRESCH       361  -  361
+     FEFAM          362  -  362
+     RACCHNG        363  -  363
+     RACDIF1        364  -  364
+     RACDIF2        365  -  365
+     RACDIF3        366  -  366
+     RACDIF4        367  -  367
+     DIVORCE5       368  -  368
+     UNEMP5         369  -  369
+     HOSDIS5        370  -  370
+     DEATH5         371  -  371
+     DEATH16        372  -  372
+     PADEATH        373  -  373
+     MADEATH        374  -  374
+     CHLDDTH        375  -  375
+     SIBDEATH       376  -  376
+     SPDEATH        377  -  377
+     TRAUMA1        378  -  378
+     TRAUMA5        379  -  379
+     HELPPOOR       380  -  380
+     HELPNOT        381  -  381
+     HELPSICK       382  -  382
+     HELPBLK        383  -  383
+     MEMFRAT        384  -  384
+     MEMSERV        385  -  385
+     MEMVET         386  -  386
+     MEMPOLIT       387  -  387
+     MEMUNION       388  -  388
+     MEMSPORT       389  -  389
+     MEMYOUTH       390  -  390
+     MEMSCHL        391  -  391
+     MEMHOBBY       392  -  392
+     MEMGREEK       393  -  393
+     MEMNAT         394  -  394
+     MEMFARM        395  -  395
+     MEMLIT         396  -  396
+     MEMPROF        397  -  397
+     MEMCHURH       398  -  398
+     MEMOTHER       399  -  399
+     MEMNUM         400  -  401
+     CHURHSCH       402  -  403
+     GOD            404  -  404
+     REBORN         405  -  405
+     GENEJOB        406  -  406
+     GENEHIRE       407  -  407
+     GENECANX       408  -  408
+     GENECANY       409  -  409
+     GENEGETS       410  -  410
+     PROFITS1       411  -  411
+     PROFITS2       412  -  412
+     UNPOWER        413  -  413
+     UNPROG         414  -  414
+     OUTOFBIZ       415  -  415
+     MERGED         416  -  416
+     REORG          417  -  417
+     ORGFIN         418  -  418
+     WRKYEARS       419  -  420
+     EVUNEMP        421  -  421
+     NUMUNEMP       422  -  423
+     TOTUNEMP       424  -  424
+     EMPYEARS       425  -  428       (2)
+     FNDJOB1        429  -  429
+     FNDJOB2        430  -  430
+     FNDJOB3        431  -  431
+     FNDJOB4        432  -  432
+     FNDJOB5        433  -  433
+     FNDJOB6        434  -  434
+     FNDJOB7        435  -  435
+     FNDJOB8        436  -  436
+     FNDJOB9        437  -  437
+     INTLTEST       438  -  438
+     SKILTEST       439  -  439
+     DRUGTEST       440  -  440
+     PHYSICAL       441  -  441
+     LTRSREF        442  -  442
+     SAMEJOB        443  -  443
+     JOBYEARS       444  -  447       (2)
+     THISJOB1       448  -  448
+     THISJOB2       449  -  449
+     THISJOB3       450  -  450
+     THISJOB4       451  -  451
+     THISJOB5       452  -  452
+     THISJOB6       453  -  453
+     THISJOB7       454  -  454
+     PROMOTNG       455  -  455
+     PROMOTED       456  -  456
+     NUMPROMO       457  -  457
+     IMPPROMO       458  -  458
+     FUTPROMO       459  -  459
+     SEXPROMO       460  -  460
+     RACPROMO       461  -  461
+     ADVANCES       462  -  462
+     JOBCNTRL       463  -  463
+     WRKINDEP       464  -  464
+     LOTTOSAY       465  -  465
+     IDECIDE        466  -  466
+     AUTOMATN       467  -  467
+     MONITRED       468  -  468
+     OFFSUP         469  -  469
+     YOUSUP         470  -  472
+     SUPOTHRS       473  -  473
+     LEVELS         474  -  475
+     TOTSUP         476  -  479
+     SUPDUTY1       480  -  480
+     SUPDUTY2       481  -  481
+     SUPDUTY3       482  -  482
+     SUPDUTY4       483  -  483
+     SUPDUTY5       484  -  484
+     SUPDUTY6       485  -  485
+     SUPDUTY7       486  -  486
+     OTHDUTY1       487  -  487
+     OTHDUTY2       488  -  488
+     OTHDUTY3       489  -  489
+     OTHDUTY4       490  -  490
+     OTHDUTY5       491  -  491
+     OTHDUTY6       492  -  492
+     OTHDUTY7       493  -  493
+     ORGMONEY       494  -  494
+     TOTMONEY       495  -  501
+     YOUMONEY       502  -  508
+     JOBJUDGE       509  -  509
+     QUANTITY       510  -  510
+     QUALITY        511  -  511
+     WRKWELL        512  -  512
+     WRKMUCH        513  -  513
+     IMATTER        514  -  514
+     HELPORG        515  -  515
+     NOTLOYAL       516  -  516
+     STAYORG1       517  -  517
+     SAMEVALS       518  -  518
+     PROUDORG       519  -  519
+     STAYORG2       520  -  520
+     NOTICED        521  -  521
+     CHNGEORG       522  -  522
+     OTHERPAY       523  -  523
+     RAISEALL       524  -  524
+     RAISEHRD       525  -  525
+     RAISEFAV       526  -  526
+     FRINGE1        527  -  527
+     FRINGE2        528  -  528
+     FRINGE3        529  -  529
+     FRINGE4        530  -  530
+     FRINGE5        531  -  531
+     FRINGE6        532  -  532
+     FRINGE7        533  -  533
+     FRINGE8        534  -  534
+     FRINGE9        535  -  535
+     FRINGE10       536  -  536
+     FRINGE11       537  -  537
+     JOBVSHME       538  -  538
+     UNVOTE         539  -  539
+     UNMANREL       540  -  540
+     COWRKREL       541  -  541
+     SCHOOLNG       542  -  542
+     TRAINING       543  -  543
+     LEARNING       544  -  544
+     EXPTRAIN       545  -  545
+     WHEREWRK       546  -  546
+     FINDOUT        547  -  547
+     BASEOFOP       548  -  548
+     SPLOCNUM       549  -  549
+     JOBSALL        550  -  550
+     EQUALIZE       551  -  551
+     FAMSUFFR       552  -  552
+     HUBBYWRK       553  -  553
+     LOCALNUM       554  -  554
+     HAPUNHAP       555  -  555
+     STIFFPUN       556  -  556
+     DEATHPEN       557  -  557
+     PREMARS1       558  -  558
+     XMARSEX1       559  -  559
+     HOMOSEX1       560  -  560
+     ABDEFCT1       561  -  561
+     ABPOOR1        562  -  562
+     ABDEFCTW       563  -  563
+     ABPOORW        564  -  564
+     TAXCHEAT       565  -  565
+     GOVCHEAT       566  -  566
+     CONCONG        567  -  567
+     CONBIZ         568  -  568
+     CONGOVT        569  -  569
+     CONCHURH       570  -  570
+     CONCOURT       571  -  571
+     CONSCHLS       572  -  572
+     POLSGOD        573  -  573
+     CLERGVTE       574  -  574
+     RELIGPUB       575  -  575
+     CLERGGOV       576  -  576
+     CHURHPOW       577  -  577
+     GODCHNGE       578  -  578
+     AFTERLIF       579  -  579
+     DEVIL          580  -  580
+     HEAVEN         581  -  581
+     HELL           582  -  582
+     MIRACLES       583  -  583
+     BIBLE1         584  -  584
+     THEISM         585  -  585
+     FATALISM       586  -  586
+     GODMEANS       587  -  587
+     NIHILISM       588  -  588
+     PREDETER       589  -  589
+     EGOMEANS       590  -  590
+     OWNFATE        591  -  591
+     RELEXPER       592  -  592
+     MARELKID       593  -  593
+     MADENKID       594  -  598
+     PARELKID       599  -  599
+     PADENKID       600  -  604
+     RELIGKID       605  -  605
+     DENKID         606  -  610
+     RELIGSP        611  -  611
+     DENSP          612  -  616
+     ATTENDMA       617  -  618
+     ATTENDPA       619  -  620
+     ATTEND12       621  -  622
+     PRAYFREQ       623  -  624
+     RELACTIV       625  -  626
+     FEELREL        627  -  627
+     SCHLPRAY       628  -  628
+     GODRIGHT       629  -  629
+     SOCRIGHT       630  -  630
+     PERRIGHT       631  -  631
+     ANTIREL        632  -  632
+     AIDSKNOW       633  -  633
+     AIDSWHO        634  -  635
+     AIDSDEAD       636  -  636
+     AIDSSEX        637  -  637
+     AIDSAGE        638  -  638
+     AIDSRACE       639  -  639
+     AIDSREG        640  -  641
+     AIDSWHO2       642  -  643
+     AIDSDED2       644  -  644
+     AIDSSEX2       645  -  645
+     AIDSAGE2       646  -  646
+     AIDSRAC2       647  -  647
+     AIDSREG2       648  -  649
+     AIDSWHO3       650  -  651
+     AIDSDED3       652  -  652
+     AIDSSEX3       653  -  653
+     AIDSAGE3       654  -  654
+     AIDSRAC3       655  -  655
+     AIDSREG3       656  -  657
+     SUIKNEW        658  -  658
+     SUIWHO         659  -  660
+     SUISEX         661  -  661
+     SUIAGE         662  -  662
+     SUIRACE        663  -  663
+     SUIREG         664  -  665
+     SUIWHO2        666  -  667
+     SUISEX2        668  -  668
+     SUIAGE2        669  -  669
+     SUIRAC2        670  -  670
+     SUIREG2        671  -  672
+     SUIWHO3        673  -  674
+     SUISEX3        675  -  675
+     SUIAGE3        676  -  676
+     SUIRAC3        677  -  677
+     SUIREG3        678  -  679
+     PARTNERS       680  -  681
+     MATESEX        682  -  682
+     FRNDSEX        683  -  683
+     ACQNTSEX       684  -  684
+     PIKUPSEX       685  -  685
+     PAIDSEX        686  -  686
+     OTHERSEX       687  -  687
+     SEXSEX         688  -  688
+     SEXFREQ        689  -  689
+     NUMWOMEN       690  -  692
+     NUMMEN         693  -  695
+     PARTOPEN       696  -  698
+     PARTOPN5       699  -  701
+     PARTNRS5       702  -  703
+     SEXSEX5        704  -  704
+     EVPAIDSX       705  -  705
+     EVSTRAY        706  -  706
+     PROB1          707  -  709
+     PROB2          710  -  712
+     PROB3          713  -  715
+     PROB4          716  -  718
+     HLTH1          719  -  719
+     HLTH2          720  -  720
+     HLTH3          721  -  721
+     HLTH4          722  -  722
+     HLTH5          723  -  723
+     HLTH6          724  -  724
+     HLTH7          725  -  725
+     HLTH8          726  -  726
+     HLTH9          727  -  727
+     WORK1          728  -  728
+     WORK2          729  -  729
+     WORK3          730  -  730
+     WORK4          731  -  731
+     WORK5          732  -  732
+     WORK6          733  -  733
+     WORK7          734  -  734
+     WORK8          735  -  735
+     WORK9          736  -  736
+     FINAN1         737  -  737
+     FINAN2         738  -  738
+     FINAN3         739  -  739
+     FINAN4         740  -  740
+     FINAN5         741  -  741
+     HRDSHP1        742  -  742
+     HRDSHP2        743  -  743
+     HRDSHP3        744  -  744
+     HRDSHP4        745  -  745
+     HRDSHP5        746  -  746
+     HRDSHP6        747  -  747
+     HRDSHP7        748  -  748
+     FAMPER1        749  -  749
+     FAMPER2        750  -  750
+     FAMPER3        751  -  751
+     FAMPER4        752  -  752
+     FAMPER5        753  -  753
+     LAW1           754  -  754
+     LAW2           755  -  755
+     LAW3           756  -  756
+     LAW4           757  -  757
+     LAW5           758  -  758
+     LAW6           759  -  759
+     LAW7           760  -  760
+     LIVE1          761  -  761
+     LIVE2          762  -  762
+     LIVE3          763  -  763
+     LIVE4          764  -  764
+     OTH1           765  -  765
+     OTH2           766  -  766
+     OTH3           767  -  767
+     OTH4           768  -  768
+     OTH5           769  -  769
+     EXTRA1         770  -  772
+     EXTRA2         773  -  775
+     POVLINE        776  -  776
+     INCDEF         777  -  777
+     REALINC        778  -  783
+     REALRINC       784  -  789
+     ETHNIC         790  -  791
+     ETH1           792  -  793
+     ETH2           794  -  795
+     ETH3           796  -  797
+     ETHNUM         798  -  798
+     SPETHNIC       799  -  800
+     SPETH1         801  -  802
+     SPETH2         803  -  804
+     SPETH3         805  -  806
+     SPETHNUM       807  -  807
+     VETYEARS       808  -  808
+     DWELLING       809  -  810
+     DWELOWN        811  -  811
+     WORDA          812  -  812
+     WORDB          813  -  813
+     WORDC          814  -  814
+     WORDD          815  -  815
+     WORDE          816  -  816
+     WORDF          817  -  817
+     WORDG          818  -  818
+     WORDH          819  -  819
+     WORDI          820  -  820
+     WORDJ          821  -  821
+     WORDSUM        822  -  823
+     BALLOT         824  -  824
+     ISSP           825  -  825
+     FORMWT         826  -  826
+     SAMPCODE       827  -  829
+     SAMPLE         830  -  830
+     OVERSAMP       831  -  831
+     RELATE1        832  -  832
+     GENDER1        833  -  833
+     OLD1           834  -  835
+     MAR1           836  -  836
+     AWAY1          837  -  837
+     WHERE1         838  -  838
+     RELATE2        839  -  839
+     GENDER2        840  -  840
+     OLD2           841  -  842
+     MAR2           843  -  843
+     AWAY2          844  -  844
+     WHERE2         845  -  845
+     RELATE3        846  -  846
+     GENDER3        847  -  847
+     OLD3           848  -  849
+     MAR3           850  -  850
+     AWAY3          851  -  851
+     WHERE3         852  -  852
+     RELATE4        853  -  853
+     GENDER4        854  -  854
+     OLD4           855  -  856
+     MAR4           857  -  857
+     AWAY4          858  -  858
+     WHERE4         859  -  859
+     RELATE5        860  -  860
+     GENDER5        861  -  861
+     OLD5           862  -  863
+     MAR5           864  -  864
+     AWAY5          865  -  865
+     WHERE5         866  -  866
+     RELATE6        867  -  867
+     GENDER6        868  -  868
+     OLD6           869  -  870
+     MAR6           871  -  871
+     AWAY6          872  -  872
+     WHERE6         873  -  873
+     RELATE7        874  -  874
+     GENDER7        875  -  875
+     OLD7           876  -  877
+     MAR7           878  -  878
+     AWAY7          879  -  879
+     WHERE7         880  -  880
+     RELATE8        881  -  881
+     GENDER8        882  -  882
+     OLD8           883  -  884
+     MAR8           885  -  885
+     AWAY8          886  -  886
+     WHERE8         887  -  887
+     RELATE9        888  -  888
+     GENDER9        889  -  889
+     OLD9           890  -  891
+     MAR9           892  -  892
+     AWAY9          893  -  893
+     WHERE9         894  -  894
+     RELATE10       895  -  895
+     GENDER10       896  -  896
+     OLD10          897  -  898
+     MAR10          899  -  899
+     AWAY10         900  -  900
+     WHERE10        901  -  901
+     RELATE11       902  -  902
+     GENDER11       903  -  903
+     OLD11          904  -  905
+     MAR11          906  -  906
+     AWAY11         907  -  907
+     WHERE11        908  -  908
+     RELATE12       909  -  909
+     GENDER12       910  -  910
+     OLD12          911  -  912
+     MAR12          913  -  913
+     AWAY12         914  -  914
+     WHERE12        915  -  915
+     RELATE13       916  -  916
+     GENDER13       917  -  917
+     OLD13          918  -  919
+     MAR13          920  -  920
+     AWAY13         921  -  921
+     WHERE13        922  -  922
+     RELATE14       923  -  923
+     GENDER14       924  -  924
+     OLD14          925  -  926
+     MAR14          927  -  927
+     AWAY14         928  -  928
+     WHERE14        929  -  929
+     HEFINFO        930  -  931
+     HHRACE         932  -  932
+     RESPNUM        933  -  934
+     HHTYPE         935  -  937
+     HHTYPE1        938  -  939
+     FAMGEN         940  -  940
+     RPLACE         941  -  941
+     RVISITOR       942  -  942
+     VISITORS       943  -  943
+     DATEINTV       944  -  947
+     ISCO681        948  -  951
+     PAISC681       952  -  955
+     SPISC681       956  -  959
+     SEI            960  -  962       (1)
+     PASEI          963  -  965       (1)
+     SPSEI          966  -  968       (1)
+    OPWLTH          969  -  969
+    OPPARED         970  -  970
+    OPEDUC          971  -  971
+    OPAMBIT         972  -  972
+    OPABLE          973  -  973
+    OPHRDWRK        974  -  974
+    OPKNOW          975  -  975
+    OPCLOUT         976  -  976
+    OPRACE          977  -  977
+    OPRELIG         978  -  978
+    OPREGION        979  -  979
+    OPSEX           980  -  980
+    OPPOL           981  -  981
+    GOODLIFE        982  -  982
+    INEQUAL1        983  -  983
+    INEQUAL2        984  -  984
+    INEQUAL3        985  -  985
+    INEQUAL4        986  -  986
+    INEQUAL5        987  -  987
+    INEQUAL6        988  -  988
+    INEQUAL7        989  -  989
+    PAYSKILL        990  -  997
+    PAYDOC          998  - 1005
+    PAYSALES       1006  - 1013
+    PAYEXEC        1014  - 1021
+    PAYLAWYR       1022  - 1029
+    PAYOWNER       1030  - 1037
+    PAYFARM        1038  - 1045
+    PAYFCTRY       1046  - 1053
+    PAYJUDGE       1054  - 1061
+    PAYUNSKL       1062  - 1069
+    PAYCABNT       1070  - 1077
+    GIVSKILL       1078  - 1085
+    GIVDOC         1086  - 1093
+    GIVSALES       1094  - 1101
+    GIVEXEC        1102  - 1109
+    GIVLAWYR       1110  - 1117
+    GIVOWNER       1118  - 1125
+    GIVFARM        1126  - 1133
+    GIVFCTRY       1134  - 1141
+    GIVJUDGE       1142  - 1149
+    GIVUNSKL       1150  - 1157
+    GIVCABNT       1158  - 1165
+    INCGAP         1166  - 1166
+    GOVEQINC       1167  - 1167
+    GOVJOBS        1168  - 1168
+    GOVMINC        1169  - 1169
+    TAXRICH        1170  - 1170
+    TAXMID         1171  - 1171
+    TAXPOOR        1172  - 1172
+    TAXSHARE       1173  - 1173
+    CONWLTH        1174  - 1174
+    CONCLASS       1175  - 1175
+    CONJOBS        1176  - 1176
+    CONUNION       1177  - 1177
+    CONURBAN       1178  - 1178
+    CONAGE         1179  - 1179
+    RANK           1180  - 1181
+    OCCMOBIL       1182  - 1182
+    SOLMOBIL       1183  - 1183
+    EDUMOBIL       1184  - 1184
+    EARNRESP       1185  - 1185
+    EARNEDUC       1186  - 1186
+    EARNSUP        1187  - 1187
+    EARNFAM        1188  - 1188
+    EARNKIDS       1189  - 1189
+    EARNWELL       1190  - 1190
+    EARNHARD       1191  - 1191
+    MOREEQ         1192  - 1192
+    LESSEQ         1193  - 1193
+    PROFTS11       1194  - 1194
+  PROFTS21         1195  - 1195
+  UNPOWER1         1196  - 1196
+  UNPROG1          1197  - 1197
+  HLPPOOR1         1198  - 1198
+  EQWLTH1          1199  - 1199
+  SATFIN1          1200  - 1200
+  FINALTR1         1201  - 1201
+  WORK11           1202  - 1202
+  WORK21           1203  - 1203
+  WORK31           1204  - 1204
+  WORK41           1205  - 1205
+  WORK51           1206  - 1206
+  WORK61           1207  - 1207
+  WORK101          1208  - 1208
+  WORK71           1209  - 1209
+  WORK81           1210  - 1210
+  WORK91           1211  - 1211
+  FINAN11          1212  - 1212
+  FINAN21          1213  - 1213
+  FINAN31          1214  - 1214
+  FINAN41          1215  - 1215
+  FINAN51          1216  - 1216
+  POLVIEW1         1217  - 1217
+  PARTYIDA         1218  - 1218
+  UNION1           1219  - 1219
+  NEWS1            1220  - 1220
+  MARITAL1         1221  - 1221
+  HOMPOP1          1222  - 1223
+  BABIES1          1224  - 1225
+  PRETEEN1         1226  - 1227
+  TEENS1           1228  - 1229
+  ADULTS1          1230  - 1231
+  EARNRS1          1232  - 1233
+  WRKSTAT1         1234  - 1234
+  HRS11            1235  - 1236
+  HRS21            1237  - 1238
+  INCME911         1239  - 1240
+  RINCM911         1241  - 1242
+  REINT            1243  - 1243
+  EDINCWT1         1244  - 1249       (5)
+Var label
+
+ WRKSTAT  LABOR FORCE STATUS                                  /
+ HRS1     NUMBER OF HOURS WORKED LAST WEEK                    /
+ HRS2     NUMBER OF HOURS USUALLY WORK A WEEK                 /
+ EVWORK   EVER WORK AS LONG AS ONE YEAR                       /
+ WRKSLF   R SELF-EMP OR WORKS FOR SOMEBODY                    /
+ OCC80    RS CENSUS OCCUPATION CODE (1980)                    /
+ PRESTG80 RS OCCUPATIONAL PRESTIGE SCORE  (1980)              /
+ INDUS80  RS INDUSTRY CODE   (1980)                           /
+ MARITAL  MARITAL STATUS                                      /
+ AGEWED   AGE WHEN FIRST MARRIED                              /
+ DIVORCE  EVER BEEN DIVORCED OR SEPARATED                     /
+ WIDOWED  EVER BEEN WIDOWED                                   /
+ SPWRKSTA SPOUSE LABOR FORCE STATUS                           /
+ SPHRS1   NUMBER OF HRS SPOUSE WORKED LAST WEEK               /
+ SPHRS2   NO. OF HRS SPOUSE USUALLY WORKS A WEEK              /
+ SPEVWORK SPOUSE EVER WORK AS LONG AS A YEAR                  /
+ SPWRKSLF SPOUSE SELF-EMP. OR WORKS FOR SOMEBODY              /
+ SPOCC80  SPOUSE CENSUS OCCUPATION CODE (1980)                /
+ SPPRES80 SPOUSES OCCUPATIONAL PRESTIGE SCORE (1980)          /
+ SPIND80  SPOUSES INDUSTRY CODE (1970)                        /
+ PAWRKSLF FATHER SELF-EMP. OR WORKED FOR SOMEBODY             /
+ PAOCC80  FATHERS CENSUS OCCUPATION CODE (1980)               /
+ PAPRES80 FATHERS OCCUPATIONAL PRESTIGE SCORE (1980)          /
+ PAIND80  FATHERS INDUSTRY CODE (1980)                        /
+ SIBS     NUMBER OF BROTHERS AND SISTERS                      /
+ CHILDS   NUMBER OF CHILDREN                                  /
+ AGE      AGE OF RESPONDENT                                   /
+ BIRTHMO  MONTH IN WHICH R WAS BORN                           /
+ ZODIAC   RESPONDENTS ASTROLOGICAL SIGN                       /
+ EDUC     HIGHEST YEAR OF SCHOOL COMPLETED                    /
+ PAEDUC   HIGHEST YEAR SCHOOL COMPLETED, FATHER               /
+ MAEDUC   HIGHEST YEAR SCHOOL COMPLETED, MOTHER               /
+ SPEDUC   HIGHEST YEAR SCHOOL COMPLETED, SPOUSE               /
+ DEGREE   RS HIGHEST DEGREE                                   /
+ PADEG    FATHERS HIGHEST DEGREE                              /
+ MADEG    MOTHERS HIGHEST DEGREE                              /
+ SPDEG    SPOUSES HIGHEST DEGREE                              /
+ SEX      RESPONDENTS SEX                                     /
+ RACE     RACE OF RESPONDENT                                  /
+ RES16    TYPE OF PLACE LIVED IN WHEN 16 YRS OLD              /
+ REG16    REGION OF RESIDENCE, AGE 16                         /
+ MOBILE16 GEOGRAPHIC MOBILITY SINCE AGE 16                    /
+ FAMILY16 LIVING WITH PARENTS WHEN 16 YRS OLD                 /
+ FAMDIF16 REASON NOT LIVING WITH PARENTS                      /
+ MAWORK   MOTHERS EMPLOYMENT SINCE MARRIAGE                   /
+ MAWKBORN MOTHERS EMPLOYMENT AFTER R WAS BORN                 /
+ INCOM16  RS FAMILY INCOME WHEN 16 YRS OLD                    /
+ BORN     WAS R BORN IN THIS COUNTRY                          /
+ PARBORN  WERE RS PARENTS BORN IN THIS COUNTRY                /
+ GRANBORN HOW MANY GRANDPARENTS BORN OUTSIDE U.S.             /
+ HOMPOP   NUMBER OF PERSONS IN HOUSEHOLD                      /
+ BABIES   HOUSEHOLD MEMBERS LESS THAN 6 YRS OLD               /
+ PRETEEN  HOUSEHOLD MEMBERS 6 THRU 12 YRS OLD                 /
+ TEENS    HOUSEHOLD MEMBERS 13 THRU 17 YRS OLD                /
+ ADULTS   HOUSEHOLD MEMBERS 18 YRS AND OLDER                  /
+ UNRELAT  NUMBER IN HOUSEHOLD NOT RELATED                     /
+ EARNRS   HOW MANY IN FAMILY EARNED MONEY                     /
+ INCOME   TOTAL FAMILY INCOME                                 /
+ RINCOME  RESPONDENTS INCOME                                  /
+ INCOME91 TOTAL FAMILY INCOME                                 /
+ RINCOM91 RESPONDENTS INCOME                                  /
+ REGION   REGION OF INTERVIEW                                 /
+ XNORCSIZ EXPANDED N.O.R.C. SIZE CODE                         /
+ SRCBELT  SRC BELTCODE                                        /
+ SIZE     SIZE OF PLACE IN 1000S                              /
+ PARTYID  POLITICAL PARTY AFFILIATION                         /
+ VOTE88   DID R VOTE IN 1988 ELECTION                         /
+ PRES88   VOTE FOR DUKAKIS OR BUSH                            /
+ IF88WHO  WHO WOULD R HAVE VOTED FOR-1988 ELECTION            /
+ POLVIEWS THINK OF SELF AS LIBERAL OR CONSERVATIVE            /
+ NATSPAC  SPACE EXPLORATION PROGRAM                           /
+ NATENVIR IMPROVING & PROTECTING ENVIRONMENT                  /
+ NATHEAL  IMPROVING & PROTECTING NATIONS HEALTH               /
+ NATCITY  SOLVING PROBLEMS OF BIG CITIES                      /
+ NATCRIME HALTING RISING CRIME RATE                           /
+ NATDRUG  DEALING WITH DRUG ADDICTION                         /
+ NATEDUC  IMPROVING NATIONS EDUCATION SYSTEM                  /
+ NATRACE  IMPROVING THE CONDITIONS OF BLACKS                  /
+ NATARMS  MILITARY, ARMAMENTS, AND DEFENSE                    /
+ NATAID   FOREIGN AID                                         /
+ NATFARE  WELFARE                                             /
+ NATROAD  HIGHWAYS AND BRIDGES                                /
+ NATSOC   SOCIAL SECURITY                                     /
+ NATMASS  MASS TRANSPORTATION                                 /
+ NATPARK  PARKS AND RECREATION                                /
+ NATSPACY SPACE EXPLORATION -- VERSION Y                      /
+ NATENVIY THE ENVIRONMENT -- VERSION Y                        /
+ NATHEALY HEALTH -- VERSION Y                                 /
+ NATCITYY ASSISTANCE TO BIG CITIES -- VERSION Y               /
+ NATCRIMY LAW ENFORCEMENT -- VERISON Y                        /
+ NATDRUGY DRUG REHABILITATION -- VERSION Y                    /
+ NATEDUCY EDUCATION -- VERSION Y                              /
+ NATRACEY ASSISTANCE TO BLACKS -- VERSION Y                   /
+ NATARMSY NATIONAL DEFENSE -- VERSION Y                       /
+ NATAIDY  ASSISTANCE TO OTHER COUNTRIES -- VER Y              /
+ NATFAREY ASSISTANCE TO THE POOR -- VERSION Y                 /
+ EQWLTH   SHOULD GOVT REDUCE INCOME DIFFERENCES               /
+ TAX      RS FEDERAL INCOME TAX                               /
+ SPKATH   ALLOW ANTI-RELIGIONIST TO SPEAK                     /
+ COLATH   ALLOW ANTI-RELIGIONIST TO TEACH                     /
+ LIBATH   ALLOW ANTI-RELIGIOUS BOOK IN LIBRARY                /
+ SPKRAC   ALLOW RACIST TO SPEAK                               /
+ COLRAC   ALLOW RACIST TO TEACH                               /
+ LIBRAC   ALLOW RACISTS BOOK IN LIBRARY                       /
+ SPKCOM   ALLOW COMMUNIST TO SPEAK                            /
+ COLCOM   SHOULD COMMUNIST TEACHER BE FIRED                   /
+ LIBCOM   ALLOW COMMUNISTS BOOK IN LIBRARY                    /
+ SPKMIL   ALLOW MILITARIST TO SPEAK                           /
+ COLMIL   ALLOW MILITARIST TO TEACH                           /
+ LIBMIL   ALLOW MILITARISTS BOOK IN LIBRARY                   /
+ SPKHOMO  ALLOW HOMOSEXUAL TO SPEAK                           /
+ COLHOMO  ALLOW HOMOSEXUAL TO TEACH                           /
+ LIBHOMO  ALLOW HOMOSEXUALS BOOK IN LIBRARY                   /
+ CAPPUN   FAVOR OR OPPOSE DEATH PENALTY FOR MURDER            /
+ GUNLAW   FAVOR OR OPPOSE GUN PERMITS                         /
+ COURTS   COURTS DEALING WITH CRIMINALS                       /
+ WIRTAP   WIRETAPPING                                         /
+ GRASS    SHOULD MARIJUANA BE MADE LEGAL                      /
+ USWARY   EXPECT U.S. IN WORLD WAR IN 10 YEARS                /
+ USINTL   TAKE ACTIVE PART IN WORLD AFFAIRS                   /
+ USUN     REMAIN IN U.N. OR PULL OUT                          /
+ COMMUN   FEELINGS ABOUT COMMUNISM                            /
+ RUSSIA   LIKING FOR RUSSIA                                   /
+ JAPAN    LIKING FOR JAPAN                                    /
+ CANADA   LIKING FOR CANADA                                   /
+ CHINA    LIKING FOR CHINA                                    /
+ ISRAEL   LIKING FOR ISRAEL                                   /
+ EGYPT    LIKING FOR EGYPT                                    /
+ RELIG    RS RELIGIOUS PREFERENCE                             /
+ DENOM    SPECIFIC DENOMINATION                               /
+ OTHER    OTHER PROTESTANT DENOMINATIONS                      /
+ JEW      WHAT SORT OF JEW R IS                               /
+ FUND     HOW FUNDAMENTALIST IS R CURRENTLY                   /
+ ATTEND   HOW OFTEN R ATTENDS RELIGIOUS SERVICES              /
+ RELITEN  STRENGTH OF AFFILIATION                             /
+ POSTLIFE BELIEF IN LIFE AFTER DEATH                          /
+ SPIRITS  FELT IN TOUCH WITH DECEASED PERSON                  /
+ GRACE    HAD POWERFUL RELIGIOUS EXPERIENCE                   /
+ NEARGOD  HOW CLOSE DOES R FEEL TO GOD                        /
+ MAPA     CONTRAST BETWEEN MOTHER AND FATHER                  /
+ MASTERSP CONTRAST BETWEEN MASTER AND SPOUSE                  /
+ JUDGELUV CONTRAST BETWEEN JUDGE AND LOVER                    /
+ FRNDKING CONTRAST BETWEEN FRIEND AND KING                    /
+ RELIG16  RELIGION IN WHICH RAISED                            /
+ DENOM16  DENOMINATION IN WHICH R WAS RAISED                  /
+ OTH16    OTHER PROTESTANT DENOMINATIONS                      /
+ JEW16    WHAT SORT OF JEW R WAS AT AGE 16                    /
+ FUND16   HOW FUNDAMENTALIST WAS R AT AGE 16                  /
+ SPREL    SPOUSES RELIGIOUS PREFERENCE                        /
+ SPDEN    SPECIFIC DENOMINATION, SPOUSE                       /
+ SPOTHER  OTHER PROTESTANT DENOMINATIONS                      /
+ SPJEW    WHAT SORT OF JEW IS RS SPOUSE CURRENTLY             /
+ SPFUND   HOW FUNDAMENTALIST IS SPOUSE CURRENTLY              /
+ SPREL16  RELIGION IN WHICH SPOUSE RAISED                     /
+ SPDEN16  DENOMINATION IN WHICH SPOUSE RAISED                 /
+ SPOTH16  OTHER PROTESTANT DENOMINATIONS                      /
+ SPJEW16  WHAT SORT OF JEW WAS RS SPOUSE AT 16                /
+ SPFUND16 HOW FUNDAMENTALIST WAS SPOUSE AT 16                 /
+ PRAYER   BIBLE PRAYER IN PUBLIC SCHOOLS                      /
+ BIBLE    FEELINGS ABOUT THE BIBLE                            /
+ WORLD1   WORLD IMAGE:  MUCH EVIL VS. MUCH GOOD               /
+ WORLD4   WORLD IMAGE:  MAN IS GOOD VS. CORRUPT               /
+ RACMAR   FAVOR LAW AGAINST RACIAL INTERMARRIAGE              /
+ RACSEG   WHITES HAVE RIGHT TO SEG. NEIGHBORHOOD              /
+ RACOPEN  VOTE ON OPEN HOUSING LAW                            /
+ RACLIVE  ANY OPP. RACE IN NEIGHBORHOOD                       /
+ RACCLOS  ANY OPP. RACE LIVING CLOSE TO R                     /
+ RACDIS   HOW FAR ARE CLOSEST OPP. RACE                       /
+ RACINTEG WILL NEIGHBORHOOD BECOME ALL BLACK                  /
+ RACHOME  OPP. RACE HOME FOR DINNER RECENTLY                  /
+ RACFEW   CHILDREN TO SCHOOL WITH OPPOSITE RACE               /
+ RACHAF   CHILDREN TO SCHOOL HALF OPPOSITE RACE               /
+ RACMOST  CHILDREN TO SCHOOL MOSTLY OPPOSITE RACE             /
+ BUSING   ATTITUDE TOWARD RACIAL BUSING                       /
+ RACPRES  WOULD VOTE FOR BLACK PRESIDENT                      /
+ RACCHURH ATTEND CHURCH WITH OTHER RACE                       /
+ HAPPY    GENERAL HAPPINESS                                   /
+ HAPMAR   HAPPINESS OF MARRIAGE                               /
+ HEALTH   CONDITION OF HEALTH                                 /
+ LIFE     IS LIFE EXCITING OR DULL                            /
+ HELPFUL  PEOPLE HELPFUL OR LOOKING OUT FOR SELVES            /
+ FAIR     PEOPLE FAIR OR TRY TO TAKE ADVANTAGE                /
+ TRUST    CAN PEOPLE BE TRUSTED                               /
+ SATCITY  CITY OR PLACE R LIVES IN                            /
+ SATHOBBY NON-WORKING ACTIVITIES,HOBBIES                      /
+ SATFAM   FAMILY LIFE                                         /
+ SATFRND  FRIENDSHIPS                                         /
+ SATHEALT HEALTH AND PHYSICAL CONDITION                       /
+ CONFINAN CONFID IN BANKS & FINANCIAL INSTITUTIONS            /
+ CONBUS   CONFIDENCE IN MAJOR COMPANIES                       /
+ CONCLERG CONFIDENCE IN ORGANIZED RELIGION                    /
+ CONEDUC  CONFIDENCE IN EDUCATION                             /
+ CONFED   CONFID. IN EXEC BRANCH OF FED GOVT                  /
+ CONLABOR CONFIDENCE IN ORGANIZED LABOR                       /
+ CONPRESS CONFIDENCE IN PRESS                                 /
+ CONMEDIC CONFIDENCE IN MEDICINE                              /
+ CONTV    CONFIDENCE IN TELEVISION                            /
+ CONJUDGE CONFID. IN UNITED STATES SUPREME COURT              /
+ CONSCI   CONFIDENCE IN SCIENTIFIC COMMUNITY                  /
+ CONLEGIS CONFIDENCE IN CONGRESS                              /
+ CONARMY  CONFIDENCE IN MILITARY                              /
+ OBEY     TO OBEY                                             /
+ POPULAR  TO BE WELL LIKED OR POPULAR                         /
+ THNKSELF TO THINK FOR ONES SELF                              /
+ WORKHARD TO WORK HARD                                        /
+ HELPOTH  TO HELP OTHERS                                      /
+ SOCREL   SPEND EVENING WITH RELATIVES                        /
+ SOCOMMUN SPEND EVENING WITH NEIGHBOR                         /
+ SOCFREND SPEND EVENING WITH FRIENDS                          /
+ SOCBAR   SPEND EVENING AT BAR                                /
+ SOCPARS  SPEND EVENING WITH PARENTS                          /
+ SOCSIBS  SPEND EVENING WITH SIBLINGS                         /
+ AGED     SHOULD AGED LIVE WITH THEIR CHILDREN                /
+ DRINK    EVER DRINK ALCOHOLIC BEVERAGES?                     /
+ DRUNK    EVER DRINK TOO MUCH?                                /
+ SMOKE    DOES R SMOKE                                        /
+ QUITSMK  EVER TRIED TO QUIT SMOKING                          /
+ EVSMOKE  HAS R EVER SMOKED                                   /
+ ANOMIA5  LOT OF THE AVERAGE MAN GETTING WORSE                /
+ ANOMIA6  NOT FAIR TO BRING CHILD INTO WORLD                  /
+ ANOMIA7  OFFICIALS NOT INTERESTED IN AVERAGE MAN             /
+ JOBLOSE  IS R LIKELY TO LOSE JOB                             /
+ JOBFIND  COULD R FIND EQUALLY GOOD JOB                       /
+ SATJOB   JOB OR HOUSEWORK                                    /
+ RICHWORK IF RICH, CONTINUE OR STOP WORKING                   /
+ JOBINC   HIGH INCOME                                         /
+ JOBSEC   NO DANGER OF BEING FIRED                            /
+ JOBHOUR  SHORT WORKING HOURS                                 /
+ JOBPROMO CHANCES FOR ADVANCEMENT                             /
+ JOBMEANS WORK IMPORTANT AND FEEL ACCOMPLISHMENT              /
+ CLASS    SUBJECTIVE CLASS IDENTIFICATION                     /
+ SATFIN   SATISFACTION WITH FINANCIAL SITUATION               /
+ FINALTER CHANGE IN FINANCIAL SITUATION                       /
+ FINRELA  OPINION OF FAMILY INCOME                            /
+ WKSUB    DOES R OR SPOUSE HAVE SUPERVISOR                    /
+ WKSUBS   DOES SUPERVISOR HAVE SUPERVISOR                     /
+ WKSUP    DOES R OR SPOUSE SUPERVISE ANYONE                   /
+ WKSUPS   DOES SUBORDINATE SUPERVISE ANYONE                   /
+ UNEMP    EVER UNEMPLOYED IN LAST TEN YRS                     /
+ UNION    DOES R OR SPOUSE BELONG TO UNION                    /
+ GETAHEAD OPINION OF HOW PEOPLE GET AHEAD                     /
+ FEHOME   WOMEN TAKE CARE OF HOME NOT COUNTRY                 /
+ FEWORK   SHOULD WOMEN WORK                                   /
+ FEPRES   VOTE FOR WOMAN PRESIDENT                            /
+ FEPOL    WOMEN NOT SUITED FOR POLITICS                       /
+ ABDEFECT STRONG CHANCE OF SERIOUS DEFECT                     /
+ ABNOMORE MARRIED--WANTS NO MORE CHILDREN                     /
+ ABHLTH   WOMANS HEALTH SERIOUSLY ENDANGERED                  /
+ ABPOOR   LOW INCOME--CANT AFFORD MORE CHILDREN               /
+ ABRAPE   PREGNANT AS RESULT OF RAPE                          /
+ ABSINGLE NOT MARRIED                                         /
+ ABANY    ABORTION IF WOMAN WANTS FOR ANY REASON              /
+ CHLDIDEL IDEAL NUMBER OF CHILDREN                            /
+ CHLDMORE EXPECT MORE CHILDREN                                /
+ CHLDNUM  HOW MANY CHILDREN EXPECTED                          /
+ PILLOK   BIRTH CONTROL TO TEENAGERS 14-16                    /
+ SEXEDUC  SEX EDUCATION IN PUBLIC SCHOOLS                     /
+ DIVLAW   DIVORCE LAWS                                        /
+ PREMARSX SEX BEFORE MARRIAGE                                 /
+ TEENSEX  SEX BEFORE MARRIAGE -- TEENS 14-16                  /
+ XMARSEX  SEX WITH PERSON OTHER THAN SPOUSE                   /
+ HOMOSEX  HOMOSEXUAL SEX RELATIONS                            /
+ PORNINF  MATERIALS PROVIDE INFO ABOUT SEX                    /
+ PORNMORL MATERIALS LEAD TO BREAKDOWN IN MORALS               /
+ PORNRAPE MATERIALS LEAD TO RAPE                              /
+ PORNOUT  MATERIALS PROVIDE OUTLET                            /
+ PORNLAW  FEELINGS ABOUT PORNOGRAPHY LAWS                     /
+ XMOVIE   SEEN X-RATED MOVIE IN LAST YEAR                     /
+ SPANKING FAVOR SPANKING TO DISCIPLINE CHILD                  /
+ LETDIE1  ALLOW INCURABLE PATIENTS TO DIE                     /
+ SUICIDE1 SUICIDE IF INCURABLE DISEASE                        /
+ SUICIDE2 SUICIDE IF BANKRUPT                                 /
+ SUICIDE3 SUICIDE IF DISHONORED FAMILY                        /
+ SUICIDE4 SUICIDE IF TIRED OF LIVING                          /
+ HIT      EVER PUNCHED OR BEATEN BY ANOTHER PERSON            /
+ HITAGE   BEATEN AS CHILD OR ADULT                            /
+ GUN      EVER THREATENED WITH GUN OR SHOT AT                 /
+ GUNAGE   THREATENED OR SHOT AT AS CHILD OR ADULT             /
+ HITOK    EVER APPROVE OF MAN PUNCHING ADULT MALE             /
+ HITMARCH STRANGER IN PROTEST MARCH                           /
+ HITDRUNK DRUNK BUMPED INTO MAN & WIFE                        /
+ HITCHILD STRANGER HAD HIT MANS CHILD                         /
+ HITBEATR STRANGER WAS BEATING UP A WOMAN                     /
+ HITROBBR STRANGER HAD BROKEN INTO MANS HOUSE                 /
+ POLHITOK EVER APPROVE OF POLICE STRIKING CITIZEN             /
+ POLABUSE CITIZEN SAID VULGAR OR OBSCENE THINGS               /
+ POLMURDR CITIZEN QUESTIONED AS MURDER SUSPECT                /
+ POLESCAP CITIZEN ATTEMPTING TO ESCAPE CUSTODY                /
+ POLATTAK CITIZEN ATTACKING POLICEMAN WITH FISTS              /
+ FEAR     AFRAID TO WALK AT NIGHT IN NEIGHBORHOOD             /
+ BURGLR   HOME BROKEN INTO DURING THE LAST YEAR               /
+ ROBBRY   FORCEFULLY ROBBED DURING THE LAST YEAR              /
+ OWNGUN   HAVE GUN IN HOME                                    /
+ PISTOL   PISTOL OR REVOLVER IN HOME                          /
+ SHOTGUN  SHOTGUN IN HOME                                     /
+ RIFLE    RIFLE IN HOME                                       /
+ ROWNGUN  DOES GUN BELONG TO R                                /
+ HUNT     DOES R OR SPOUSE HUNT                               /
+ NEWS     HOW OFTEN DOES R READ NEWSPAPER                     /
+ TVHOURS  HOURS PER DAY WATCHING TV                           /
+ PHONE    DOES R HAVE TELEPHONE                               /
+ COOP     RS ATTITUDE TOWARD INTERVIEW                        /
+ COMPREND RS UNDERSTANDING OF QUESTIONS                       /
+ FORM     FORM OF SPLIT QUESTIONNAIRE ASKED                   /
+ FECHLD   MOTHER WORKING DOESNT HURT CHILDREN                 /
+ FEHELP   WIFE SHOULD HELP HUSBANDS CAREER FIRST              /
+ FEPRESCH PRESCHOOL KIDS SUFFER IF MOTHER WORKS               /
+ FEFAM    BETTER FOR MAN TO WORK, WOMAN TEND HOME             /
+ RACCHNG  TRY TO INTEGRATE SOCIAL CLUB                        /
+ RACDIF1  DIFFERENCES DUE TO DISCRIMINATION                   /
+ RACDIF2  DIFFERENCES DUE TO INBORN DISABILITY                /
+ RACDIF3  DIFFERENCES DUE TO LACK OF EDUCATION                /
+ RACDIF4  DIFFERENCES DUE TO LACK OF WILL                     /
+ DIVORCE5 DIVORCED IN LAST 5 YRS                              /
+ UNEMP5   UNEMPLOYED IN LAST 5 YRS                            /
+ HOSDIS5  HOSPITALIZED, DISABLED LAST 5 YRS                   /
+ DEATH5   RELATIVES DIED IN LAST 5 YRS                        /
+ DEATH16  RELATIVES DIED SINCE AGE 16                         /
+ PADEATH  DEATH OF FATHER                                     /
+ MADEATH  DEATH OF MOTHER                                     /
+ CHLDDTH  DEATH OF CHILD                                      /
+ SIBDEATH DEATH OF SIBLING                                    /
+ SPDEATH  DEATH OF SPOUSE                                     /
+ TRAUMA1  TRAUMA SCALE, LAST YEAR                             /
+ TRAUMA5  TRAUMA SCALE, LAST 5 YEARS                          /
+ HELPPOOR SHOULD GOVT IMPROVE STANDARD OF LIVING?             /
+ HELPNOT  SHOULD GOVT DO MORE OR LESS?                        /
+ HELPSICK SHOULD GOVT HELP PAY FOR MEDICAL CARE?              /
+ HELPBLK  SHOULD GOVT AID BLACKS?                             /
+ PARTYIDA PARTY ID OF PERSON #1                               /
+ MEMFRAT  MEMBERSHIP IN FRATERNAL GROUP                       /
+ MEMSERV  MEMBERSHIP IN SERVICE GROUP                         /
+ MEMVET   MEMBERSHIP IN VETERAN GROUP                         /
+ MEMPOLIT MEMBERSHIP IN POLITICAL CLUB                        /
+ MEMUNION MEMBERSHIP IN LABOR UNION                           /
+ MEMSPORT MEMBERSHIP IN SPORTS CLUB                           /
+ MEMYOUTH MEMBERSHIP IN YOUTH GROUP                           /
+ MEMSCHL  MEMBERSHIP IN SCHOOL SERVICE                        /
+ MEMHOBBY MEMBERSHIP IN HOBBY CLUB                            /
+ MEMGREEK MEMBERSHIP IN SCHOOL FRATERNITY                     /
+ MEMNAT   MEMBERSHIP IN NATIONALITY GROUP                     /
+ MEMFARM  MEMBERSHIP IN FARM ORGANIZATION                     /
+ MEMLIT   MEMBERSHIP IN LITERARY OR ART GROUP                 /
+ MEMPROF  MEMBERSHIP IN PROFESSIONAL SOCIETY                  /
+ MEMCHURH MEMBERSHIP IN CHURCH GROUP                          /
+ MEMOTHER MEMBERSHIP IN ANY OTHER                             /
+ MEMNUM   NUMBER OF MEMBERSHIPS                               /
+ CHURHSCH NUMBER OF YEARS R ATTENDED CHURCH SCHOOL            /
+ GOD      RS CONFIDENCE IN THE EXISTENCE OF GOD               /
+ REBORN   HAS R EVER HAD A 'BORN AGAIN' EXPERIENCE            /
+ GENEJOB  SHOULD EMPLOYERS GIVE GENETIC TESTS                 /
+ GENEHIRE EMPLOYERS' RIGHT TO HIRE BY GENETIC TESTS           /
+ GENECANX EMPLOYER TEST CANCER OR SAFE  WORKPLACE             /
+ GENECANY EMPLOYERS' RIGHT TO HIRE BY CANCER  TESTS           /
+ GENEGETS EMPLOYER VS. EMPLOYEE ON ACCESS RIGHT TO TEST RESULT/
+ PROFITS1 WHETHER MANAGEMENT ONLY CARE ABOUT PROFIT           /
+ PROFITS2 SHOULD CO. PAY WORKERS MORE THAN SHAREHOLDERS       /
+ UNPOWER  UNIONS IN THIS COUNTRY HAVE TOO LITTLE POWER        /
+ UNPROG   UNIONS JUST BLOCK ECONOMIC PROGRESS                 /
+ OUTOFBIZ THE ORGANIZATION WENT OUT OF BUSINESS               /
+ MERGED   THE ORG. WAS MERGED, TAKEN OVER                     /
+ REORG    THERE WAS A MAJOR REORGANIZATION                    /
+ ORGFIN   R'S FINANCIAL SITUATION AFTER ORG. CHANGES          /
+ WRKYEARS # YEARS YOU HAVE WORKED FOR PAY SINCE WERE 16       /
+ EVUNEMP  EVER BEEN UNEMPLOYED TWO WEEKS +                    /
+ NUMUNEMP HOW MANY TIMES UNEMPLOYED MORE THAN TWO WEEKS       /
+ TOTUNEMP TOTAL TIMES UNEMPLOYED                              /
+ EMPYEARS YEARS WORKED FOR YOUR PRESENT EMPLOYER              /
+ FNDJOB1  HEARD JOB FROM ONE ALREADY WORKED THERE             /
+ FNDJOB2  HEARD JOB FROM RELATIVES                            /
+ FNDJOB3  HEARD JOB FROM FRIENDS                              /
+ FNDJOB4  HEARD JOB FROM ACQUAINTANCES                        /
+ FNDJOB5  HEARD JOB FROM NEWSPAPER AD                         /
+ FNDJOB6  HEARD JOB THROUGH EMPLOYMENT AGENCY                 /
+ FNDJOB7  HEARD JOB FROM RECRUITER FOR THIS EMPLOYER          /
+ FNDJOB8  HEARD JOB JUST CAME HERE AND ASKED FOR WORK         /
+ FNDJOB9  HEARD JOB OTHER (SPECIFY)                           /
+ INTLTEST BEFORE GOT THE JOB TOOK AN INTELLEGENCE TEST        /
+ SKILTEST BEFORE GOT THE JOB TOOK A SKILL TEST                /
+ DRUGTEST BEFORE GOT THE JOB TOOK A DRUG AND ALCOHOL TEST     /
+ PHYSICAL BEFORE GOT THE JOB TOOK A PHYSICAL TEST             /
+ LTRSREF  SUPPLY LETTERS OF REFERENCE                         /
+ SAMEJOB  CURRENT JOB SAME OR DIFFERENT FROM  FIRST JOB       /
+ JOBYEARS FOR HOW LONG HAVE YOU HAD YOUR PRESENT JOB          /
+ THISJOB1 HEARD JOB FROM A NOTICES POSTED MY WORKPLACE        /
+ THISJOB2 HEARD JOB THROUGH MY UNION                          /
+ THISJOB3 HEARD JOB FROM MY SUPERVISOR                        /
+ THISJOB4 HEARD JOB FROM ONE OF MY COWORKERS                  /
+ THISJOB5 HEARD JOB I NEAR THE TOP OF A SENIORITY LIST        /
+ THISJOB6 HEARD JOB I WAS ASKED TO TAKE THE NEW JOB           /
+ THISJOB7 HEARD JOB OTHERS (SPECIFY)                          /
+ PROMOTNG PROCEDURES FOR PROMOTION                            /
+ PROMOTED EVER PROMOTED BY CURRENT EMPLOYER                   /
+ NUMPROMO # PROMOTIONS HAVE YOU RECEIVED                      /
+ IMPPROMO IMPORTANCE OF THE OPPORTUNITY TO BE PROMOTED        /
+ FUTPROMO HOW LIKELY YOU WILL BE PROMOTED NEXT FIVE YEARS     /
+ SEXPROMO SEX MAKES YOUR PROMOTION DIFFERENT                  /
+ RACPROMO ETHNIC BACKGROUND MAKES YOUR PROMOTION DIFFERNT     /
+ ADVANCES HAVE YOU ADVANCED, SAME LEVEL OR LOST               /
+ JOBCNTRL WHO MAKES DECISION FOR YOUR JOB                     /
+ WRKINDEP I CAN WORK INDEPENDENTLY                            /
+ LOTTOSAY I HAVE A LOT TO SAY ON MY JOB                       /
+ IDECIDE  MY JOB ALLOWS ME MAKE PART DECISIONS                /
+ AUTOMATN MY JOB IS CONTROLLED BY MY MACHINE                  /
+ MONITRED COMPUTERS MONITOR MY JOB PERFORMANCE                /
+ OFFSUP   DO YOU SUPERVISE THE WORK OF OTHER EMPLOYEES        /
+ YOUSUP   HOW MANY PEOPLE DO YOU SUPERVISE DIRECTLY           /
+ SUPOTHRS ANY PEOPLE SUPERVISED BY YOU SUPERVISE OTHERS       /
+ LEVELS   HOW MANY LEVELS OF SUPERVISION BENEATH YOU          /
+ TOTSUP   HOW MANY PEOPLE RESPONSIBLE TO YOU                  /
+ SUPDUTY1 YOU TRAIN EMPLOYEES SAFE USE EQUIPMENT              /
+ SUPDUTY2 YOU TRAIN EMPLOYEES IN OTHER WAYS                   /
+ SUPDUTY3 YOU ORGANIZE SCHEDULES OR TASKS                     /
+ SUPDUTY4 YOU DEVISE NEW WAYS OF DOING TASKS                  /
+ SUPDUTY5 YOU CHECK WORKERS' PROGRESS,ATTENDANCE              /
+ SUPDUTY6 YOU EVALUATE JOB PERFORMANCE                        /
+ SUPDUTY7 YOU TAKE PROMOTIONS OR DISCIPLINARY ACTIONS         /
+ OTHDUTY1 YOU TRAIN EMPLOYEES SAFE USE EQUIP. NOT SUPERVISE   /
+ OTHDUTY2 YOU TRAIN EMPLOYEES IN OTHER WAYS, NOT SUPERVISE    /
+ OTHDUTY3 YOU ORGANIZE SCHEDULES OR TASKS, NOT SUPERVISE      /
+ OTHDUTY4 YOU DEVISE NEW WAYS OF DOING TASKS, NOT SUPERVISE   /
+ OTHDUTY5 YOU CHECK PROGRESS OR ATTENDANCE, NOT SUPERVISE     /
+ OTHDUTY6 YOU EVALUATE JOB PERFORMANCE, NOT SUPERVISE         /
+ OTHDUTY7 YOU PROMOT OR DISCIPLINe ACTIONS, NOT SUPERVISE     /
+ ORGMONEY PARTICIPATE IN DECISIONS ABOUT ORG'S MONEY          /
+ TOTMONEY HOW MUCH MONEY IN THE LARGEST OF THESE DECISIONS    /
+ YOUMONEY LARGEST DECISION IN WHICH YOU HAD THE FINAL SAY     /
+ JOBJUDGE SOMEONE EVALUATE YOUR PERFORMANCE REGULARLY         /
+ QUANTITY HOW EASY YOUR SUPERVISOR KNOW HOW MUCH YOU DO       /
+ QUALITY  HOW EASY YOUR SUPERVISOR KNOW HOW GOOD YOU ARE      /
+ WRKWELL  HOW WELL YOU  COMPARE TO PEOPLE DO SAME JOB         /
+ WRKMUCH  HOW MUCH YOU COMPARE TO PEOPLE DO SAME JOB          /
+ IMATTER  SUCCESS OF MY ORG. DEPENDS LOT ON HOW WELL I DO     /
+ HELPORG  I WILLING WORK HARDER THAN I HAVE TO TO HELP ORG.   /
+ NOTLOYAL I FEEL VERY LITTLE LOYALTY TO THIS ORG.             /
+ STAYORG1 WOULD TAKE ANY JOB TO KEEP WORKING FOR THIS ORG.    /
+ SAMEVALS MY VALUES AND THE ORG.'S VALUES ARE VERY SIMILAR    /
+ PROUDORG PROUD TO BE WORKING FOR THIS ORG.                   /
+ STAYORG2 TURN DOWN ANOTHER JOB FOR PAY TO STAY THIS ORG.     /
+ NOTICED  PEOPLE USUALLY NOTICE WHEN I DO MY JOB WELL         /
+ CHNGEORG HOW LIKELY I'LL TRY TO FIND JOB IN ANOTHER ORG.     /
+ RAISEALL ALL WORKERS REGARDLESS OF PERFORMANCE GOT RAISE     /
+ RAISEHRD WORKERS WHO WORK HARD AND PERFORM WELL GOT RAISE    /
+ RAISEFAV WORKERS HAVE FAVORED RELATION TO BOSS GOT RAISE     /
+ FRINGE1  MEDICAL OR HOSPITAL INSURANCE                       /
+ FRINGE2  DENTAL CARE BENEFITS                                /
+ FRINGE3  LIFE INSURANCE                                      /
+ FRINGE4  SICK LEAVE WITH FULL PAY                            /
+ FRINGE5  MATERNITY LEAVE WITH FULL RE-EMPLOYMENT RIGHTS      /
+ FRINGE6  FLEXIBLE HOURS, OR FLEXTIME SCHEDULING              /
+ FRINGE7  CASH OR STOCK BONUSES FOR PERFORMANCE OR MERIT      /
+ FRINGE8  A PENSION OR RETIREMENT PROGRAM                     /
+ FRINGE9  PROFIT SHARING OR STOCK OPTION PROGRAM              /
+ FRINGE10 INFORMATION ABOUT CHILD CARE SERVICES IN COMMUNITY  /
+ FRINGE11 ASSISTANCE WITH THE COSTS OF DAY CARE FOR CHILDREN  /
+ JOBVSHME HOW OFTEN YOUR FAMILY INTERFERED WITH YOUR JOB      /
+ UNVOTE   WOULD YOU VOTE FOR OR AGAINST HAVING A UNION        /
+ UNMANREL RELATIONS BETWEEN MANAGEMENT AND WORKERS            /
+ COWRKREL RELATIONS BETWEEN COWORKERS                         /
+ SCHOOLNG IMPORTANCE FORMAL SCHOOL FOR YOU JOB                /
+ TRAINING IMPORTANCE OF ON-THE-JOB TRAINING FOR YOU JOB       /
+ LEARNING IMPORTANCE OF LEARNING FROM CO-WORKERS FOR YOU JOB  /
+ EXPTRAIN IMPORTANCE OF DIFFERENT EMPLOYER TRAINING FOR JOB   /
+ WHEREWRK DOING YOUR JOB IN ONE OR SEVERAL DIFFERENT PLACES   /
+ FINDOUT  CAN FIND OUT WHERE YOU WILL BE WORKING              /
+ BASEOFOP YOU HAVE BASE OF OPERATIONS                         /
+ SPLOCNUM # OF WORKERS AT THE LOCATION YOUR SPOUSE WORKS      /
+ JOBSALL  GOVTS RESP: PROVIDE JOBS FOR ALL.                   /
+ EQUALIZE GOVTS RESP: REDUCE INCOME DIFFERENCES.              /
+ FAMSUFFR FAMILY LIFE SUFFERS IF MOM WORKS F-T                /
+ HUBBYWRK HUSB SHLD WORK WIFE SHLD LOOK AFTER HOME            /
+ LOCALNUM NUMBER OF EMPLOYEES: RS WORK SITE                   /
+ HAPUNHAP HAPPY OR UNHAPPY WITH LIFE TODAY                    /
+ STIFFPUN LAWBREAKERS SHOULD GET STIFFER SENTENCES            /
+ DEATHPEN MURDERERS SHOULD GET DEATH PENALTY                  /
+ PREMARS1 IS PREMARITAL SEX WRONG?                            /
+ XMARSEX1 IS EXTRAMARITAL SEX WRONG?                          /
+ HOMOSEX1 IS HOMOSEXUAL SEX WRONG?                            /
+ ABDEFCT1 LAW SHOULD ALLOW ABORTION FOR BIRTH DEFECTS         /
+ ABPOOR1  LAW SHOULD ALLOW ABORTION IF FAMILY LOW INCOME      /
+ ABDEFCTW WRONG FOR WOMAN TO GET ABORTION FOR BIRTH DEFECTS?  /
+ ABPOORW  WRONG FOR WOMAN TO GET ABORTION IF LOW INCOME?      /
+ TAXCHEAT WRONG TO CHEAT ON TAXES?                            /
+ GOVCHEAT WRONG TO GIVE GOVT FALSE INFO FOR BENEFITS?         /
+ CONCONG  CONFIDENCE IN US CONGRESS                           /
+ CONBIZ   CONFIDENCE IN BUSINESS AND INDUSTRY                 /
+ CONGOVT  CONFIDENCE IN GOVERNMENT DEPARTMENTS                /
+ CONCHURH CONFIDENCE IN CHURCHES AND RELIGIOUS ORGS           /
+ CONCOURT CONFIDENCE IN COURTS AND LEGAL SYSTEM               /
+ CONSCHLS CONFIDENCE IN SCHOOLS AND EDUC SYSTEM               /
+ POLSGOD  ATHIESTS SHOULDN'T HOLD PUBLIC OFFICE               /
+ CLERGVTE CLERGY SHOULDN'T TRY TO INFLUENCE VOTERS            /
+ RELIGPUB BETTER IF MORE BELIEVERS HELD PUBLIC OFFICE         /
+ CLERGGOV CLERGY SHOULDN'T TRY TO INFLUENCE GOVT DECISIONS    /
+ CHURHPOW DO CHURCHES HAVE TOO MUCH POWER?                    /
+ GODCHNGE DESCRIBE YOUR BELIEFS ABOUT GOD                     /
+ AFTERLIF BELIEF IN LIFE AFTER DEATH                          /
+ DEVIL    BELIEF IN THE DEVIL                                 /
+ HEAVEN   BELIEF IN HEAVEN                                    /
+ HELL     BELIEF IN HELL                                      /
+ MIRACLES BELIEF IN RELIGIOUS MIRACLES                        /
+ BIBLE1   DESCRIBE YOUR FEELINGS ABOUT THE BIBLE              /
+ THEISM   GOD CONCERNED WITH HUMAN BEINGS PERSONALLY          /
+ FATALISM PEOPLE CAN'T CHANGE THE COURSE OF THEIR LIVES       /
+ GODMEANS LIFE MEANINGFUL BECAUSE GOD EXISTS                  /
+ NIHILISM LIFE SERVES NO PURPOSE                              /
+ PREDETER GOD DECIDES THE COURSE OF OUR LIVES                 /
+ EGOMEANS LIFE MEANINGFUL ONLY IF YOU PROVIDE MEANING         /
+ OWNFATE  WE EACH MAKE OUR OWN FATE                           /
+ RELEXPER TURNING POINT IN LIFE FOR RELIGION                  /
+ MARELKID MOTHERS RELIGION WHEN R WAS CHILD                   /
+ MADENKID IF PROTESTANT, MOTHER'S DENOMINATION                /
+ PARELKID FATHER'S RELIGION WHEN R WAS CHILD                  /
+ PADENKID IF PROTESTANT, FATHER'S DENOMINATION                /
+ RELIGKID RELIGION R WAS RAISED IN                            /
+ DENKID   IF PROTESTANT, DENOMINATION R RAISED IN             /
+ RELIGSP  R'S SPOUSE'S RELIGION                               /
+ DENSP    IF PROTESTANT, R'S SPOUSE'S DENOMINATION            /
+ ATTENDMA FREQ OF R'S MOM'S RELIG SVC ATTENDANCE              /
+ ATTENDPA FREQ OF R'S DAD'S RELIG SVC ATTENDANCE              /
+ ATTEND12 FREQ OF R'S RELIG SVC ATTENDANCE AT AGE 12          /
+ PRAYFREQ HOW OFTEN DOES R PRAY                               /
+ RELACTIV HOW OFTEN DOES R TAKE PART IN RELIG ACTIVITIES      /
+ FEELREL  HOW RELIGIOUS IS R                                  /
+ SCHLPRAY SHOULD THERE BE DAILY PRAYER IN PUBLIC SCHOOLS?     /
+ GODRIGHT GOD'S LAWS SHOULD DECIDE RIGHT AND WRONG            /
+ SOCRIGHT SOCIETY'S LAWS SHOULD DECIDE RIGHT AND WRONG        /
+ PERRIGHT PERSONAL CONSCIENCE SHOULD DECIDE RIGHT AND WRONG   /
+ ANTIREL  ANTI-RELIGIOUS MATERIAL SHOULD BE BANNED            /
+ POVLINE  R'S HH POVERTY STATUS                               /
+ INCDEF   DISTANCE BELOW POVERTY LINE                         /
+ REALINC  FAMILY INCOME IN CONSTANT $                         /
+ REALRINC RS INCOME IN CONSTANT $                             /
+ AIDSKNOW #PEOPLE R KNOWS INFECTED WITH AIDS                  /
+ AIDSWHO  RS RELATIONSHIP TO CLOSEST AIDS VICTIM              /
+ AIDSDEAD HAS AIDS VICTIM CLOSEST TO R DIED                   /
+ AIDSSEX  SEX OF AIDS VICTIM CLOSEST TO R                     /
+ AIDSAGE  AGE OF AIDS VICTIM CLOSEST TO R                     /
+ AIDSRACE RACE OF AIDS VICTIM CLOSEST TO R                    /
+ AIDSREG  REGION OF AIDS VICTIM CLOSEST TO R                  /
+ AIDSWHO2 RS RELATION. TO 2ND CLOSEST AIDS VICTIM             /
+ AIDSDED2 HAS AIDS VICTIM 2ND CLOSEST TO R DIED               /
+ AIDSSEX2 SEX OF AIDS VICTIM 2ND CLOSEST TO R                 /
+ AIDSAGE2 AGE OF AIDS VICTIM 2ND CLOSEST TO R                 /
+ AIDSRAC2 RACE OF AIDS VICTIM 2ND CLOSEST TO R                /
+ AIDSREG2 REGION OF AIDS VICTIM 2ND CLOSEST TO R              /
+ AIDSWHO3 RS RELAT. TO 3RD CLOSEST AIDS VICTIM TO R           /
+ AIDSDED3 HAS AIDS VICTIM 3RD CLOSEST TO R DIED               /
+ AIDSSEX3 SEX OF AIDS VICTIM 3RD CLOSEST TO R                 /
+ AIDSAGE3 AGE OF AIDS VICTIM 3RD CLOSEST TO R                 /
+ AIDSRAC3 RACE OF AIDS VICTIM 3RD CLOEST TO R                 /
+ AIDSREG3 REGION OF AIDS VICTIM 3RD CLOSEST TO R              /
+ SUIKNEW  #PEOPLE R KNOWS SUICIDE IN LAST YEAR                /
+ SUIWHO   RS RELATIONSHIP TO CLOSEST SUICIDE                  /
+ SUISEX   SEX OF SUICIDE VICTIM CLOSEST TO R                  /
+ SUIAGE   AGE OF SUICIDE VICTIM CLOSEST TO R                  /
+ SUIRACE  RACE OF SUICIDE VICTIM CLOSEST TO R                 /
+ SUIREG   REGION OF SUICIDE VICTIM CLOSEST TO R               /
+ SUIWHO2  RS RELATIONSHIP TO 2ND CLOSEST SUICIDE              /
+ SUISEX2  SEX OF SUICIDE VICTIM 2ND CLOSEST TO R              /
+ SUIAGE2  AGE OF SUICIDE VICTIM 2ND CLOSEST TO R              /
+ SUIRAC2  RACE OF SUICIDE VICTIM 2ND CLOSEST TO R             /
+ SUIREG2  REGION OF SUICIDE VICTIM 2ND CLOSEST TO R           /
+ SUIWHO3  RS RELATIONSHIP TO 3RD CLOSEST SUICIDE              /
+ SUISEX3  SEX OF SUICIDE  VICTIM 3RD CLOSEST TO R             /
+ SUIAGE3  AGE OF SUICIDE VICTIM 3RD CLOSEST TO R              /
+ SUIRAC3  RACE OF SUICIDE VICTIM 3RD CLOSEST TO R             /
+ SUIREG3  REGION OF SUICIDE VICTIM 3RD CLOSEST TO R           /
+ PARTNERS HOW MANY SEX PARTNERS R HAD IN LAST YEAR            /
+ MATESEX  WAS 1 OF RS PARTNERS SPOUSE OR REGULAR              /
+ FRNDSEX  R HAD SEX WITH FRIEND LAST YEAR                     /
+ ACQNTSEX R HAD SEX WITH ACQUAINTANCE LAST YEAR               /
+ PIKUPSEX R HAD SEX WITH CAUSUAL DATE LAST YEAR               /
+ PAIDSEX  R HAD SEX FOR PAY LAST YEAR                         /
+ OTHERSEX R HAD SEX WITH SOME OTHER LAST YEAR                 /
+ SEXSEX   SEX OF SEX PARTNERS IN LAST YEAR                    /
+ SEXFREQ  FREQUENCY OF SEX DURING LAST YEAR                   /
+ NUMWOMEN NUMBER OF FEMALE SEX PARTNERS SINCE 18              /
+ NUMMEN   NUMBER OF MALE SEX PARTNERS SINCE 18                /
+ PARTOPEN NUMBER OF SEX PARTNERS LAST YEAR                    /
+ PARTOPN5 NUMBER OF SEX PARTNERS LAST FIVE YEARS              /
+ PARTNRS5 SEX OF THE PARTNER LAST FIVE YEARS                  /
+ SEXSEX5  SEX OF SEX PARTNERS LAST FIVE YEARS              /
+ EVPAIDSX EVER HAVE SEX PAID FOR OR BEING PAID SINCE 18       /
+ EVSTRAY  HAVE SEX OTHER THAN SPOUSE WHILE MARRIED            /
+ PROB1    FIRST PROBLEM METIONED                              /
+ PROB2    SECOND PROBLEM MENTIONED                            /
+ PROB3    THIRD PROBLEM METIONED                              /
+ PROB4    FOURTH PROBLEM METIONED                             /
+ HLTH1    ILL ENOUGH TO GO TO A DOCTOR                        /
+ HLTH2    COUNSELLNG FOR MENTAL PROBLEMS                      /
+ HLTH3    INFERTILITY, UNABLE TO HAVE A BABY                  /
+ HLTH4    DRINKING PROBLEM                                    /
+ HLTH5    ILLEGAL DRUGS (MARIJUANA, COCAINE)                  /
+ HLTH6    (HUSBAND,WIFE)PARTNER IN HOSPITAL                   /
+ HLTH7    A CHILD IN HOSPITAL                                 /
+ HLTH8    CHILD ON DRUGS, DRINKING PROBLEM                    /
+ HLTH9    A DEATH OF A CLOSE FRIEND                           /
+ WORK1    UNEMPLOYED AND LOOKING FOR WORK A MONTH +           /
+ WORK2    BEING DEMOTED OR MOVE TO WORSE POSITION             /
+ WORK3    A CUT IN PAY OR REDUCED HOURS                       /
+ WORK4    BEING PASSED OVER FOR PROMOTION                     /
+ WORK5    HAVING TROUBLE WITH ONE'S BOSS                      /
+ WORK6    OWN BUSINESS LOSING MONEY OR FAILING                /
+ WORK7    A HUSBAND,WIFE,PARTNER BEING FIRED                  /
+ WORK8    A HUSBAND,WIFE,PARTNER CUT IN PAY                   /
+ WORK9    ONES'S SPOUSE BEING UNEMPLOYED                      /
+ FINAN1   GOING BANKRUPT                                      /
+ FINAN2   HAVING A CAR ETC. REPOSSESSED                       /
+ FINAN3   PAWNING VALUABLES TO MAKE ENDS MEET                 /
+ FINAN4   BEING PRESSURED TO PAY BILLS                        /
+ FINAN5   MAJOR WORSENING FINANCIAL CONDITION                 /
+ HRDSHP1  FALL BEHIND IN PAYING RENT, MORTGAGE                /
+ HRDSHP2  EVICTION FROM ONE'S APARTMENT,HOUSE                 /
+ HRDSHP3  HAVING THE UTILITIES SHUT-OFF                       /
+ HRDSHP4  BEING UNABLE TO PURCHASE NEEDED FOOD                /
+ HRDSHP5  UNABLE TO AFFORD NEEDED MEDICAL CARE                /
+ HRDSHP6  LACKING HEALTH INSURANCE COVERAGE                   /
+ HRDSHP7  HOMELESS                                            /
+ FAMPER1  HAVING SERIOUS TROUBLE WITH SPOUSE                  /
+ FAMPER2  SEPARATING FROM SPOUSE OR PARTENER                  /
+ FAMPER3  BREAKING UP WITH FIANCE(E)                          /
+ FAMPER4  HAVING SERIOUS TROUBLE WITH A CHILD                 /
+ FAMPER5  HAVING SERIOUS TROUBLE WITH FRIEND                  /
+ LAW1     A ROBERY                                            /
+ LAW2     A PERSONAL ASSULT                                   /
+ LAW3     YOUR HOME BURGLARIZED                               /
+ LAW4     ACCUSED OF CRIME                                    /
+ LAW5     ARRESTED                                            /
+ LAW6     SUED IN CIVIL CASE                                  /
+ LAW7     YOUR CHILD ARRESTED                                 /
+ LIVE1    YOUR HOME DESTROYED IN DISARSTER                    /
+ LIVE2    YOUR HOME IN POOR CONDITION                         /
+ LIVE3    MAJOR HOME REPAIRS                                  /
+ LIVE4    SERIOUS PROBLEM WITH YOUR LANDLORD                  /
+ OTH1     BEING DISCRIMINATED AGAINST                         /
+ OTH2     UNABLE TO GET TO SCHOOL                             /
+ OTH3     CHILD HAVE TROUBLE IN SCHOOL                        /
+ OTH4     NEED BUT UNABLE TO USE PUBLIC TRANSPORT.            /
+ OTH5     DO NOT HAVE A CAR                                   /
+ EXTRA1   OTHER PROBLEMS                                      /
+ EXTRA2   OTHER PROBLEMS                                      /
+ ETHNIC   COUNTRY OF FAMILY ORIGIN                            /
+ ETH1     1ST MENTIONED COUNTRY OF ORIGIN                     /
+ ETH2     2ND MENTIONED COUNTRY OF ORIGIN                     /
+ ETH3     3RD MENTIONED COUNTRY OF ORIGIN                     /
+ ETHNUM   TYPE OF RESPONSE ABOUT ETHNICITY -- R               /
+ SPETHNIC COUNTRY OF SPOUSES FAMILY ORIGIN                    /
+ SPETH1   1ST MENTIONED COUNTRY OF SPOUSES ORIGIN             /
+ SPETH2   2ND MENTIONED COUNTRY OF SPOUSES ORIGIN             /
+ SPETH3   3RD MENTIONED COUNTRY OF SPOUSES ORIGIN             /
+ SPETHNUM TYPE OF RESPONSE ABOUT ETHNICITY -- SP              /
+ VETYEARS YEARS IN ARMED FORCES                               /
+ DWELLING TYPE OF STRUCTURE                                   /
+ DWELOWN  DOES R OWN OR RENT HOME?                            /
+ WORDA    WORD A                                              /
+ WORDB    WORD B                                              /
+ WORDC    WORD C                                              /
+ WORDD    WORD D                                              /
+ WORDE    WORD E                                              /
+ WORDF    WORD F                                              /
+ WORDG    WORD G                                              /
+ WORDH    WORD H                                              /
+ WORDI    WORD I                                              /
+ WORDJ    WORD J                                              /
+ WORDSUM  NUMBER WORDS CORRECT IN VOCABULARY TEST             /
+ BALLOT   BALLOT USED FOR INTERVIEW                           /
+ ISSP     FILTER FOR ISSP CASES                               /
+ FORMWT   POST-STRATIFICATION WEIGHT                          /
+ SAMPCODE SAMPLING ERROR CODE                                 /
+ SAMPLE   SAMPLING FRAME AND METHOD                           /
+ OVERSAMP WEIGHTS FOR BLACK OVERSAMPLES                       /
+ RELATE1  RELATIONSHIP OF 1ST PERSON TO HOUSEHOLD HEAD        /
+ GENDER1  GENDER OF 1ST PERSON                                /
+ OLD1     AGE OF 1ST PERSON                                   /
+ MAR1     MARITAL STATUS OF 1ST PERSON                        /
+ AWAY1    IS 1ST PERSON STAYING SOMEWHERE ELSE NOW?           /
+ WHERE1   WHERE IS 1ST PERSON STAYING?                        /
+ RELATE2  RELATIONSHIP OF 2ND PERSON TO HOUSEHOLD HEAD        /
+ GENDER2  GENDER OF 2ND PERSON                                /
+ OLD2     AGE OF 2ND PERSON                                   /
+ MAR2     MARITAL STATUS OF 2ND PERSON                        /
+ AWAY2    IS 2ND PERSON STAYING SOMEWHERE ELSE NOW?           /
+ WHERE2   WHERE IS 2ND PERSON STAYING?                        /
+ RELATE3  RELATIONSHIP OF 3RD PERSON TO HOUSEHOLD HEAD        /
+ GENDER3  GENDER OF 3RD PERSON                                /
+ OLD3     AGE OF 3RD PERSON                                   /
+ MAR3     MARITAL STATUS OF 3RD PERSON                        /
+ AWAY3    IS 3RD PERSON STAYING SOMEWHERE ELSE NOW?           /
+ WHERE3   WHERE IS 3RD PERSON STAYING?                        /
+ RELATE4  RELATIONSHIP OF 4TH PERSON TO HOUSEHOLD HEAD        /
+ GENDER4  GENDER OF 4TH PERSON                                /
+ OLD4     AGE OF 4TH PERSON                                   /
+ MAR4     MARITAL STATUS OF 4TH PERSON                        /
+ AWAY4    IS 4TH PERSON STAYING SOMEWHERE ELSE NOW?           /
+ WHERE4   WHERE IS 4TH PERSON STAYING?                        /
+ RELATE5  RELATIONSHIP OF 5TH PERSON TO HOUSEHOLD HEAD        /
+ GENDER5  GENDER OF 5TH PERSON                                /
+ OLD5     AGE OF 5TH PERSON                                   /
+ MAR5     MARITAL STATUS OF 5TH PERSON                        /
+ AWAY5    IS 5TH PERSON STAYING SOMEWHERE ELSE NOW?           /
+ WHERE5   WHERE IS 5TH PERSON STAYING?                        /
+ RELATE6  RELATIONSHIP OF 6TH PERSON TO HOUSEHOLD HEAD        /
+ AWAY6    IS 6TH PERSON STAYING SOMEWHERE ELSE NOW?           /
+ WHERE6   WHERE IS 6TH PERSON STAYING?                        /
+ GENDER6  GENDER OF 6TH PERSON                                /
+ OLD6     AGE OF 6TH PERSON                                   /
+ MAR6     MARITAL STATUS OF 6TH PERSON                        /
+ RELATE7  RELATIONSHIP OF 7TH PERSON TO HOUSEHOLD HEAD        /
+ GENDER7  GENDER OF 7TH PERSON                                /
+ OLD7     AGE OF 7TH PERSON                                   /
+ MAR7     MARITAL STATUS OF 7TH PERSON                        /
+ AWAY7    IS 7TH PERSON STAYING SOMEWHERE ELSE NOW?           /
+ WHERE7   WHERE IS 7TH PERSON STAYING?                        /
+ RELATE8  RELATIONSHIP OF 8TH PERSON TO HOUSEHOLD HEAD        /
+ GENDER8  GENDER OF 8TH PERSON                                /
+ OLD8     AGE OF 8TH PERSON                                   /
+ MAR8     MARITAL STATUS OF 8TH PERSON                        /
+ AWAY8    IS 8TH PERSON STAYING SOMEWHERE ELSE NOW?           /
+ WHERE8   WHERE IS 8TH PERSON STAYING?                        /
+ RELATE9  RELATIONSHIP OF 9TH PERSON TO HOUSEHOLD HEAD        /
+ GENDER9  GENDER OF 9TH PERSON                                /
+ OLD9     AGE OF 9TH PERSON                                   /
+ MAR9     MARITAL STATUS OF 9TH PERSON                        /
+ AWAY9    IS 9TH PERSON STAYING SOMEWHERE ELSE NOW?           /
+ WHERE9   WHERE IS 9TH PERSON STAYING?                        /
+ RELATE10 RELATIONSHIP OF 10TH PERSON TO HOUSEHOLD HEAD       /
+ GENDER10 GENDER OF 10TH PERSON                               /
+ OLD10    AGE OF 1OTH PERSON                                  /
+ MAR10    MARITAL STATUS OF 10TH PERSON                       /
+ AWAY10   IS 10TH PERSON STAYING SOMEWHERE ELSE NOW?          /
+ WHERE10  WHERE IS 1OTH PERSON STAYING?                       /
+ RELATE11 RELATION OF 11TH PERSON (VISITOR) TO HOUSEHOLD HEAD /
+ GENDER11 GENDER OF 11TH PERSON (VISITOR)                     /
+ OLD11    AGE OF 11TH PERSON (VISITOR)                        /
+ MAR11    MARITAL STATUS OF 11TH PERSON (VISITOR)             /
+ AWAY11   IS 11TH PERSON (VISITOR) STAYING ELSEWHERE NOW?     /
+ WHERE11  WHERE IS 11TH PERSON (VISITOR) STAYING?             /
+ RELATE12 RELATION OF 12TH PERSON (VISITOR) TO HOUSEHOLD HEAD /
+ GENDER12 GENDER OF 12TH PERSON (VISITOR)                     /
+ OLD12    AGE OF 12TH PERSON (VISITOR)                        /
+ MAR12    MARITAL STATUS OF 12TH PERSON (VISITOR)             /
+ AWAY12   IS 12TH PERSON (VISITOR) STAYING ELSEWHERE NOW?     /
+ WHERE12  WHERE IS 12TH PERSON (VISITOR) STAYING?             /
+ RELATE13 RELATION OF 13TH PERSON (VISITOR) TO HOUSEHOLD HEAD /
+ GENDER13 GENDER OF 13TH PERSON (VISITOR)                     /
+ OLD13    AGE OF 13TH PERSON (VISITOR)                        /
+ MAR13    MARITAL STATUS OF 13TH PERSON (VISITOR)             /
+ AWAY13   IS 13TH PERSON (VISITOR) STAYING ELSEWHERE NOW?     /
+ WHERE13  WHERE IS 13TH PERSON (VISITOR) STAYING?             /
+ RELATE14 RELATION OF 14TH PERSON (VISITOR) TO HOUSEHOLD HEAD /
+ GENDER14 GENDER OF 14TH PERSON (VISITOR)                     /
+ OLD14    AGE OF 14TH PERSON (VISITOR)                        /
+ MAR14    MARITAL STATUS OF 14TH PERSON (VISITOR)             /
+ AWAY14   IS 14TH PERSON (VISITOR) STAYING ELSEWHERE NOW?     /
+ WHERE14  WHERE IS 14TH PERSON (VISITOR) STAYING?             /
+ HEFINFO  NUMBER OF PEOPLE IN INFORMANT'S HOUSEHOLD           /
+ HHRACE   RACE OF HOUSEHOLD                                   /
+ RESPNUM  NUMBER IN FAMILY OF R                               /
+ HHTYPE   HOUSEHOLD TYPE                                      /
+ HHTYPE1  HOUSEHOLD TYPE (CONDENSED)                          /
+ FAMGEN   NUMBER OF FAMILY GENERATIONS IN HOUSEHOLD           /
+ RPLACE   RS RELATIONSHIP TO HOUSEHOLD HEAD                  /
+ RVISITOR IS R A VISITOR?                                     /
+ VISITORS NUMBER OF VISITORS IN HOUSEHOLD                     /
+ DATEINTV DATE OF INTERVIEW                                   /
+ ISCO681  RESPONDENTS OCCUPATION, 1980 CENSUS                /
+ PAISC681 RS FATHERS OCCUPATION, 1980 CENSUS                /
+ SPISC681 RS SPOUSES OCCUPATION, 1980 CENSUS                /
+ SEI      RESPONDENT SOCIOECONOMIC INDEX                      /
+ PASEI    RS FATHERS SOCIOECONOMIC INDEX                    /
+ SPSEI    RS SPOUSES SOCIOECONOMIC INDEX                    /
+    OPWLTH        NEED WEALTHY FAMILY TO GET AHEAD/
+    OPPARED       NEED EDUCATED PARENTS TO GET AHEAD/
+    OPEDUC        NEED GOOD EDUCATION TO GET AHEAD/
+    OPAMBIT       NEED AMBITION TO GET AHEAD/
+    OPABLE        NEED NATURAL ABILITY TO GET AHEAD/
+    OPHRDWRK      NEED TO WORK HARD TO GET AHEAD/
+    OPKNOW        NEED TO KNOW THE RIGHT PEOPLE TO GET AHEAD/
+    OPCLOUT       NEED POLITICAL CONNECTIONS TO GET AHEAD/
+    OPRACE        NEED TO BE THE RIGHT RACE TO GET AHEAD/
+    OPRELIG       NEED TO BE THE RIGHT RELIGION TO GET AHEAD/
+    OPREGION      MUST BE FROM THE RIGHT REGION TO GET AHEAD/
+    OPSEX         NEED TO BE THE RIGHT SEX TO GET AHEAD/
+    OPPOL         MUST HAVE CERTAIN POLITICAL VIEWS TO GET AHEAD/
+    GOODLIFE      STANDARD OF LIVING OF R WILL IMPROVE/
+    INEQUAL1      EXTRA PAY -> PEOPLE TAKE RESPONSIBILITY/
+    INEQUAL2      EXTRA PAY -> WORKERS ACQUIRE SKILLS/
+    INEQUAL3      INEQUALITY EXISTS FOR THE BENEFIT OF THE RICH/
+    INEQUAL4      EXTRA PAY -> PEOPLE EARN DEGREES/
+    INEQUAL5      PAY DIFFERENCES -> AMERICAN PROSPERITY/
+    INEQUAL6      EVERYONE BENEFITS FROM BUSINESS PROFITS/
+    INEQUAL7      INEQUALITY DUE TO LACK OF SOLIDARITY/
+    PAYSKILL      HOW MUCH R THINKS SKILLED WORKER MAKES/
+    PAYDOC        HOW MUCH R THINKS DOCTOR MAKES/
+    PAYSALES      HOW MUCH R THINKS SALES CLERK MAKES/
+    PAYEXEC       HOW MUCH R THINKS CORPORATE HEAD MAKES/
+    PAYLAWYR      HOW MUCH R THINKS LAWYER MAKES/
+    PAYOWNER      HOW MUCH R THINKS SMALL SHOPOWNER MAKES/
+    PAYFARM       HOW MUCH R THINKS FARM WORKER MAKES/
+    PAYFCTRY      HOW MUCH R THINKS FACTORY OWNER-MGR MAKES/
+    PAYJUDGE      HOW MUCH R THINKS SUPREME COURT JUSTICE MAKES/
+    PAYUNSKL      HOW MUCH R THINKS UNSKILLED WRKR MAKES/
+    PAYCABNT      HOW MUCH R THINKS CABINET MEMBER MAKES/
+    GIVSKILL      HOW MUCH OUGHT SKILLED WORKER MAKE?/
+    GIVDOC        HOW MUCH OUGHT DOCTOR MAKE?/
+    GIVSALES      HOW MUCH OUGHT SALES CLERK MAKE?/
+    GIVEXEC       HOW MUCH OUGHT CORPORATE HEAD MAKE?/
+    GIVLAWYR      HOW MUCH OUGHT LAWYER MAKE?/
+    GIVOWNER      HOW MUCH OUGHT SMALL SHOPOWNER MAKE?/
+    GIVFARM       HOW MUCH OUGHT FARM WORKER MAKE?/
+    GIVFCTRY      HOW MUCH OUGHT FACTORY OWNER-MGR MAKE?/
+    GIVJUDGE      HOW MUCH OUGHT SUPREME COURT JUSTICE MAKE?/
+    GIVUNSKL      HOW MUCH OUGHT UNSKILLED WRKR MAKE?/
+    GIVCABNT      HOW MUCH OUGHT CABINET MEMBER MAKE?/
+    INCGAP        INCOME DIFFERENTIALS IN USA TOO BIG/
+    GOVEQINC      GOVMNT SHOULD REDUCE INC DIFFERENTIALS/
+    GOVJOBS       GOVMNT SHOULD PROVIDE JOBS/
+    GOVMINC       GOVMNT SHOULD SPEND LESS ON POOR/
+    TAXRICH       TAXES ON HIGH INCOME PEOPLE TOO HIGH/
+    TAXMID        TAXES ON MIDDLE INCOME PEOPLE TOO HIGH/
+    TAXPOOR       TAXES ON LOW INCOME PEOPLE TOO HIGH/
+    TAXSHARE      SHOULD RICH PAY BIGGER SHARE OF TAXES?/
+    CONWLTH       CONFLICT BETWEEN POOR AND RICH IN USA?/
+    CONCLASS      WORKING AND MIDDLE CLASSES IN CONFLICT?/
+    CONJOBS       EMPLOYED AND UNEMPLOYED IN CONFLICT?/
+    CONUNION      WORKERS AND MANAGEMENT IN CONFLICT?/
+    CONURBAN      FARMERS AND CITY PEOPLE IN CONFLICT?/
+    CONAGE        YOUNG AND OLD IN CONFLICT?/
+    RANK          RS SELF RANKING OF SOCIAL POSITION/
+    OCCMOBIL      STATUS OF JOB HIGHER THAN FATHERS?/
+    SOLMOBIL      LIVING STD HIGHER THAN FATHERS?/
+    EDUMOBIL      EDUC HIGHER THAN FATHERS?/
+    EARNRESP      JOB RESPONSIBILITY SHOULD DETERMINE PAY/
+    EARNEDUC      YRS OF EDUC SHOULD DETERMINE PAY/
+    EARNSUP       SUPERVISING SHOULD DETERMINE PAY/
+    EARNFAM       SUPPORTING FAMILY SHOULD DETERMINE PAY/
+    EARNKIDS      SUPPORTING KIDS SHOULD DETERMINE PAY/
+    EARNWELL      JOB PERFORMANCE SHOULD DETERMINE PAY/
+    EARNHARD      WORKING HARD SHOULD DETERMINE PAY/
+    MOREEQ        R INC CHANGE IF  INCOMES MORE EQUAL/
+    LESSEQ        R INC CHANGE IF  INCOMES LESS EQUAL/
+    PROFTS11   92: MANAGEMENT ONLY CARE ABOUT PROFIT   /
+    PROFTS21   92: SHOULD CO. PAY WORKERS MORE THAN SHAREHOLDERS/
+    UNPOWER1   92: UNIONS HAVE TOO LITTLE POWER /
+    UNPROG1       92: UNIONS JUST BLOCK ECONOMIC PROGRESS   /
+    HLPPOOR1       92: GOVT IMPROVE STANDARD OF LIVING?/
+    EQWLTH1       92: GOVT REDUCE INCOME DIFFERENCES/
+    SATFIN1       92: SATISFACTION WITH FINANCIAL SITUATION/
+    FINALTR1      92: CHANGE IN FINANCIAL SITUATION/
+    WORK11        92: BEING FIRED OR PERMANENTLY LAID OFF/
+    WORK21        92: BEING DEMOTED OR MOVE TO WORSE POSITION  /
+    WORK31        92: A CUT IN PAY OR REDUCED HOURS            /
+    WORK41        92: BEING PASSED OVER FOR PROMOTION          /
+    WORK51        92: HAVING TROUBLE WITH ONE'S BOSS           /
+    WORK61        92: OWN BUSINESS LOSING MONEY OR FAILING     /
+    WORK101       92: UNEMPLOYED AND LOOKING FOR WORK A MONTH + /
+    WORK71        92: SPOUSE BEING FIRED/
+    WORK81        92: SPOUSE CUT IN PAY         /
+    WORK91        92: SPOUSE UNEMPLOYED            /
+    FINAN11       92: GOING BANKRUPT                           /
+    FINAN21       92: HAVING A CAR ETC. REPOSSESSED            /
+    FINAN31       92: PAWNING VALUABLES TO MAKE ENDS MEET      /
+    FINAN41       92: BEING PRESSURED TO PAY BILLS             /
+    FINAN51       92: MAJOR WORSENING FINANCIAL CONDITION      /
+    POLVIEW1      92: THINK OF SELF AS LIBERAL OR CONSERVATIVE/
+    PARTYIDA      92: POLITICAL PARTY AFFILIATION       /
+    UNION1        92: DOES R OR SPOUSE BELONG TO UNION  /
+    NEWS1         92: HOW OFTEN DOES R READ NEWSPAPER/
+    MARITAL1      92: MARITAL STATUS/
+    HOMPOP1       92: NUMBER OF PERSONS IN HOUSEHOLD/
+    BABIES1       92: HOUSEHOLD MEMBERS LESS THAN 6 YRS OLD/
+    PRETEEN1      92: HOUSEHOLD MEMBERS 6 THRU 12 YRS OLD    /
+    TEENS1        92: HOUSEHOLD MEMBERS 13 THRU 17 YRS OLD   /
+    ADULTS1       92: HOUSEHOLD MEMBERS 18 YRS AND OLDER     /
+    EARNRS1       92: HOW MANY IN FAMILY EARNED MONEY        /
+    WRKSTAT1      92: LABOR FORCE STATUS/
+    HRS11         92: NUMBER OF HOURS WORKED LAST WEEK   /
+    HRS21         92: NUMBER OF HOURS USUALLY WORK A WEEK/
+    INCME911      92: TOTAL FAMILY INCOME/
+    RINCM911      92: RESPONDENTS INCOME/
+    REINT         STATUS OF REINTERVIEW/
+    EDINCWT1      WEIGHT FOR NON-REINTERVIEWS/
+
+VALUE LABEL
+
+
+ WRKSTAT
+            (1)WORKING FULLTIME
+            (2)WORKING PARTTIME
+            (3)TEMP NOT WORKING
+            (4)UNEMPL, LAID OFF
+            (5)RETIRED
+            (6)SCHOOL
+            (7)KEEPING HOUSE
+            (8)OTHER
+            (9)NA
+            (0)NAP  /
+ HRS1 HRS2
+            (-1)NAP
+            (98)DK
+            (99)NA  /
+ EVWORK
+            (1)YES
+            (2)NO
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ OCC80  INDUS80  SPOCC80 SPIND80  PAOCC80 PAIND80
+        (0)NAP
+        (998)DK
+        (999)NA  /
+ PRESTG80
+        (0)DK,NA,NAP  /
+ SPPRES80
+        (0)DK,NA,NAP  /
+ PAPRES80
+        (0)DK,NA,NAP  /
+ WRKSLF
+            (1)SELF-EMPLOYED
+            (2)SOMEONE ELSE
+            (8)DK
+            (9)NA
+            (0)NAP  /
+
+ MARITAL
+            (1)MARRIED
+            (2)WIDOWED
+            (3)DIVORCED
+            (4)SEPARATED
+            (5)NEVER MARRIED
+            (9)NA  /
+ AGEWED
+            (98)DK
+            (99)NA
+            (0)NAP  /
+ DIVORCE
+            (1)YES
+            (2)NO
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ WIDOWED
+            (1)YES
+            (2)NO
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ SPWRKSTA
+            (1)WORKING FULLTIME
+            (2)WORKING PARTTIME
+            (3)TEMP NOT WORKING
+            (4)UNEMPL, LAID OFF
+            (5)RETIRED
+            (6)SCHOOL
+            (7)KEEPING HOUSE
+            (8)OTHER
+            (9)NA
+            (0)NAP  /
+ SPHRS1 SPHRS2
+            (-1)NAP
+            (98)DK
+            (99)NA  /
+ SPEVWORK
+            (1)YES
+            (2)NO
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ SPWRKSLF
+            (1)SELF-EMPLOYED
+            (2)SOMEONE ELSE
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ PAWRKSLF
+            (1)SELF-EMPLOYED
+            (2)SOMEONE ELSE
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ SIBS
+            (98)DK
+            (99)NA  /
+ CHILDS
+            (8)EIGHT OR MORE
+            (9)NA  /
+ AGE
+            (98)DK
+            (99)NA  /
+ BIRTHMO
+            (1)JANUARY
+            (2)FEBRUARY
+            (3)MARCH
+            (4)APRIL
+            (5)MAY
+            (6)JUNE
+             (7)JULY
+            (8)AUGUST
+            (9)SEPTEMBER
+            (10)OCTOBER
+            (11)NOVEMBER
+            (12)DECEMBER
+            (98)DK
+            (99)NA
+            (0)NAP  /
+ ZODIAC
+            (1)ARIES
+            (2)TAURUS
+            (3)GEMINI
+            (4)CANCER
+            (5)LEO
+            (6)VIRGO
+            (7)LIBRA
+            (8)SCORPIO
+            (9)SAGITTARIUS
+            (10)CAPRICORN
+            (11)AQUARIUS
+            (12)PISCES
+            (98)DK
+            (99)NA
+            (0)NAP  /
+ EDUC TO SPEDUC
+            (97)NAP
+            (98)DK
+            (99)NA  /
+ DEGREE TO SPDEG
+            (0)LT HIGH SCHOOL
+            (1)HIGH SCHOOL
+            (2)JUNIOR COLLEGE
+            (3)BACHELOR
+            (4)GRADUATE
+            (7)NAP
+            (8)DK
+            (9)NA  /
+ SEX
+            (1)MALE
+            (2)FEMALE  /
+ RACE
+            (1)WHITE
+            (2)BLACK
+            (3)OTHER  /
+ RES16
+            (1)COUNTRY,NONFARM
+            (2)FARM
+            (3)TOWN LT 50000
+            (4)50000 TO 250000
+            (5)BIG-CITY SUBURB
+            (6)CITY GT 250000
+            (8)DK
+            (9)NA  /
+ REG16
+            (1)NEW ENGLAND
+            (2)MIDDLE ATLANTIC
+            (3)E. NOR. CENTRAL
+            (4)W. NOR. CENTRAL
+            (5)SOUTH ATLANTIC
+            (6)E. SOU. CENTRAL
+            (7)W. SOU. CENTRAL
+            (8)MOUNTAIN
+            (9)PACIFIC
+            (0)FOREIGN  /
+ MOBILE16
+            (1)SAME CITY
+            (2)SAME ST,DIF CITY
+            (3)DIFFERENT STATE
+            (8)DK
+            (9)NA  /
+ FAMILY16
+            (1)MOTHER & FATHER
+            (2)FATHER & STPMOTHER
+            (3)MOTHER & STPFATHER
+            (4)FATHER
+            (5)MOTHER
+            (6)MALE RELATIVE
+            (7)FEMALE RELATIVE
+            (8)M AND F RELATIVES
+            (0)OTHER
+            (9)NA  /
+ FAMDIF16
+            (1)PARENT DIED
+            (2)DIVORCE,SEPARATED
+            (3)ARMED FORCES
+            (4)INSTITUTION
+            (5)OTHER
+            (8)DK
+            (9)NA
+            (0)NAP  /
+     MAWORK TO MAWKBORN
+            (1)YES
+            (2)NO
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ INCOM16
+            (1)FAR BELOW AVERAGE
+            (2)BELOW AVERAGE
+            (3)AVERAGE
+            (4)ABOVE AVERAGE
+            (5)FAR ABOVE AVERAGE
+            (8)DK
+
+            (9)NA
+            (0)LIVED IN INSTITUTION/
+ BORN
+            (1)YES
+            (2)NO
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ PARBORN
+            (0)BOTH IN U.S.
+            (1)MOTHER ONLY
+            (2)FATHER ONLY
+            (3)MOTHER; FA. DK
+            (4)NOT MOTHER;FA.DK
+            (5)FATHER; MO.DK
+            (6)NOT FATHER;MO.DK
+            (7)DK FOR BOTH
+            (8)NEITHER IN U.S.
+            (9)NA
+            (-1)NAP  /
+ GRANBORN
+            (0)ALL IN U.S.
+            (8)DK
+            (9)NA
+            (-1)NAP  /
+ ETHNIC
+            (1)AFRICA
+            (2)AUSTRIA
+            (3)FRENCH CANADA
+            (4)OTHER CANADA
+            (5)CHINA
+            (6)CZECHOSLOVAKIA
+            (7)DENMARK
+            (8)ENGLAND & WALES
+            (9)FINLAND
+            (10)FRANCE
+            (11)GERMANY
+            (12)GREECE
+            (13)HUNGARY
+            (14)IRELAND
+            (15)ITALY
+            (16)JAPAN
+            (17)MEXICO
+            (18)NETHERLANDS
+            (19)NORWAY
+            (20)PHILIPPINES
+            (21)POLAND
+            (22)PUERTO RICO
+            (23)RUSSIA
+            (24)SCOTLAND
+            (25)SPAIN
+            (26)SWEDEN
+            (27)SWITZERLAND
+            (28)WEST INDIES
+            (30)AMERICAN INDIAN
+            (31)INDIA
+            (32)PORTUGAL
+            (33)LITHUANIA
+            (34)YUGOSLAVIA
+            (35)RUMANIA
+            (36)BELGIUM
+            (37)ARABIC
+            (38)OTHER SPANISH
+            (39)NON-SPAN WINDIES
+            (97)AMERICAN ONLY
+            (98)NO ETH MENTIONED
+            (29)OTHER
+            (99)NA
+            (0)UNCODEABLE  /
+ ETH1 ETH2 ETH3
+            (1)AFRICA
+            (2)AUSTRIA
+            (3)FRENCH CANADA
+            (4)OTHER CANADA
+            (5)CHINA
+            (6)CZECHOSLOVAKIA
+            (7)DENMARK
+            (8)ENGLAND & WALES
+            (9)FINLAND
+            (10)FRANCE
+            (11)GERMANY
+            (12)GREECE
+            (13)HUNGARY
+            (14)IRELAND
+            (15)ITALY
+            (16)JAPAN
+            (17)MEXICO
+            (18)NETHERLANDS
+            (19)NORWAY
+            (20)PHILIPPINES
+            (21)POLAND
+            (22)PUERTO RICO
+            (23)RUSSIA
+            (24)SCOTLAND
+            (25)SPAIN
+            (26)SWEDEN
+            (27)SWITZERLAND
+            (28)WEST INDIES
+            (30)AMERICAN INDIAN
+            (31)INDIA
+            (32)PORTUGAL
+            (33)LITHUANIA
+            (34)YUGOSLAVIA
+            (35)RUMANIA
+            (36)BELGIUM
+            (37)ARABIC
+            (38)OTHER SPANISH
+            (39)NON-SPAN WINDIES
+            (97)AMERICAN ONLY
+            (29)OTHER
+            (98)NO ETH MENTIONED
+            (99)NA
+            (0)NAP  /
+ ETHNUM
+            (1)NAMES 1
+            (2)CHOOSES 1 OF 2+
+            (3)CANNOT CHOOSE 1
+            (4)CANNOT NAME ANY
+            (5)UNCODEABLE  /
+ SPETHNIC TO SPETH3
+            (1)AFRICA
+            (2)AUSTRIA
+            (3)FRENCH CANADA
+            (4)OTHER CANADA
+            (5)CHINA
+            (6)CZECHOSLOVAKIA
+            (7)DENMARK
+            (8)ENGLAND & WALES
+            (9)FINLAND
+            (10)FRANCE
+            (11)GERMANY
+            (12)GREECE
+            (13)HUNGARY
+            (14)IRELAND
+            (15)ITALY
+            (16)JAPAN
+            (17)MEXICO
+            (18)NETHERLANDS
+            (19)NORWAY
+            (20)PHILIPPINES
+            (21)POLAND
+            (22)PUERTO RICO
+            (23)RUSSIA
+            (24)SCOTLAND
+            (25)SPAIN
+            (26)SWEDEN
+            (27)SWITZERLAND
+            (28)WEST INDIES
+            (30)AMERICAN INDIAN
+            (31)INDIA
+            (32)PORTUGAL
+            (33)LITHUANIA
+            (34)YUGOSLAVIA
+            (35)RUMANIA
+            (36)BELGIUM
+            (37)ARABIC
+            (38)OTHER SPANISH
+            (39)NON-SPAN WINDIES
+            (97)AMERICAN ONLY
+            (98)NO ETH MENTIONED
+            (29)OTHER
+            (99)NA
+            (0)UNCODEABLE & NAP  /
+ SPETHNUM
+            (1)NAMES 1
+            (2)CHOOSES 1 OF 2+
+            (3)CANNOT CHOOSE 1
+            (4)CANNOT NAME ANY
+            (5)UNCODEABLE
+            (0)NAP  /
+ HOMPOP
+            (98)DK
+            (99)NA  /
+ BABIES TO ADULTS
+            (8)8 OR MORE
+            (9)NA  /
+ UNRELAT
+            (8)8 OR MORE
+            (9)NA
+            (-1)NAP  /
+ EARNRS
+            (8)EIGHT OR MORE
+            (9)NA  /
+ INCOME RINCOME
+            (1)LT $1000
+            (2)$1000 TO 2999
+            (3)$3000 TO 3999
+            (4)$4000 TO 4999
+            (5)$5000 TO 5999
+            (6)$6000 TO 6999
+            (7)$7000 TO 7999
+            (8)$8000 TO 9999
+            (9)$10000 - 14999
+            (10)$15000 - 19999
+            (11)$20000 - 24999
+            (12)$25000 OR MORE
+            (13)REFUSED
+            (98)DK
+            (99)NA
+            (0)NAP  /
+ RINCOM91 INCOME91
+            (1)LT $1000
+            (2)$1000-2999
+            (3)$3000-3999
+            (4)$4000-4999
+            (5)$5000-5999
+            (6)$6000-6999
+            (7)$7000-7999
+            (8)$8000-9999
+            (9)$10000-12499
+            (10)$12500-14999
+            (11)$15000-17499
+            (12)$17500-19999
+            (13)$20000-22499
+            (14)$22500-24999
+            (15)$25000-29999
+            (16)$30000-34999
+            (17)$35000-39999
+            (18)$40000-49999
+            (19)$50000-59999
+            (20)$60000-74999
+            (21)$75000+
+            (22)REFUSED
+            (98)DK
+            (99)NA
+            (0)NAP  /
+ VETYEARS
+            (0)NONE
+            (1)LESS THAN 2 YRS
+            (2)2 TO 4  YEARS
+            (3)MORE THAN 4 YRS
+            (4)SOME,DK HOW LONG
+            (9)NA
+            (-1)NAP  /
+ REGION
+            (1)NEW ENGLAND
+            (2)MIDDLE ATLANTIC
+            (3)E. NOR. CENTRAL
+            (4)W. NOR. CENTRAL
+            (5)SOUTH ATLANTIC
+            (6)E. SOU. CENTRAL
+            (7)W. SOU. CENTRAL
+            (8)MOUNTAIN
+            (9)PACIFIC
+            (0)FOREIGN  /
+ XNORCSIZ
+            (1)CITY GT 250000
+            (2)CITY,50-250000
+            (3)SUBURB, LRG CITY
+            (4)SUBURB, MED CITY
+            (5)UNINC,LRG CITY
+            (6)UNINC,MED CITY
+            (7)CITY,10-49999
+            (8)TOWN GT 2500
+            (9)SMALLER AREAS
+            (10)OPEN COUNTRY /
+ SRCBELT
+            (1)12 LRGST SMSA'S
+            (2)SMSA'S 13-100
+            (3)SUBURB, 12 LRGST
+            (4)SUBURB, 13-100
+            (5)OTHER URBAN
+            (6)OTHER RURAL  /
+ DWELLING
+            (1)TRAILER
+            (2)DETACHED 1-FAM HOUSE
+            (3)2 UNITS SIDE BY SIDE
+            (4)2 UNITS-ONE ABOVE
+            (5)3-4 FAM HOUSE
+            (6)ROW HOUSE
+            (7)APARTMENT HOUSE
+            (8)APARTMENT-4 STORIES
+            (9)APARTMENT-COMMERCIAL
+            (10)OTHER
+            (98)DK
+            (99)NA
+            (0)NAP  /
+ DWELOWN
+            (1)OWN OR IS BUYING
+            (2)PAYS RENT
+            (3)OTHER
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ PARTYID PARTYIDA
+             (-1) NAP
+            (0)STRONG DEMOCRAT
+            (1)NOT STR DEMOCRAT
+            (2)IND,NEAR DEM
+            (3)INDEPENDENT
+            (4)IND,NEAR REP
+            (5)NOT STR REPUBLICAN
+            (6)STRONG REPUBLICAN
+            (7)OTHER PARTY
+            (8)DK
+            (9)NA  /
+ VOTE88
+            (1)VOTED
+            (2)DID NOT VOTE
+            (3)NOT ELIGIBLE
+            (4)REFUSED
+            (6)WLDNT VT-RELIG
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ PRES88
+            (1)DUKAKIS
+            (2)BUSH
+            (3)OTHER
+            (4)REFUSED
+            (5)NO PRES. VOTE
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ IF88WHO
+            (1)DUKAKIS
+            (2)BUSH
+            (3)OTHER
+            (4)WOULDNT VOTE
+            (5)REFUSED
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ POLVIEWS
+            (1)EXTREMELY LIBERAL
+            (2)LIBERAL
+            (3)SLIGHTLY LIBERAL
+            (4)MODERATE
+            (5)SLGHTLY CONSERVATIVE
+            (6)CONSERVATIVE
+            (7)EXTRMLY CONSERVATIVE
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ NATSPAC TO NATFAREY
+            (1)TOO LITTLE
+            (2)ABOUT RIGHT
+            (3)TOO MUCH
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ EQWLTH
+            (1)GOVT REDUCE DIFF
+            (7)NO GOVT ACTION
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ TAX
+            (1)TOO HIGH
+            (2)ABOUT RIGHT
+            (3)TOO LOW
+            (4)R PAYS NONE<VOL.>
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ SPKATH
+            (1)ALLOWED
+            (2)NOT ALLOWED
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ COLATH
+            (4)ALLOWED
+            (5)NOT ALLOWED
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ LIBATH
+            (1)REMOVE
+            (2)NOT REMOVE
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ SPKRAC
+            (1)ALLOWED
+            (2)NOT ALLOWED
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ COLRAC
+            (4)ALLOWED
+            (5)NOT ALLOWED
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ LIBRAC
+            (1)REMOVE
+            (2)NOT REMOVE
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ SPKCOM
+            (1)ALLOWED
+            (2)NOT ALLOWED
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ COLCOM
+            (4)FIRED
+            (5)NOT FIRED
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ LIBCOM
+            (1)REMOVE
+            (2)NOT REMOVE
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ SPKMIL
+            (1)ALLOWED
+            (2)NOT ALLOWED
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ COLMIL
+            (4)ALLOWED
+            (5)NOT ALLOWED
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ LIBMIL
+            (1)REMOVE
+            (2)NOT REMOVE
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ SPKHOMO
+            (1)ALLOWED
+            (2)NOT ALLOWED
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ COLHOMO
+            (4)ALLOWED
+            (5)NOT ALLOWED
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ LIBHOMO
+            (1)REMOVE
+            (2)NOT REMOVE
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ GUNLAW
+            (1)FAVOR
+            (2)OPPOSE
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ COURTS
+            (1)TOO HARSH
+            (2)NOT HARSH ENOUGH
+            (3)ABOUT RIGHT
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ WIRTAP
+            (1)APPROVE
+            (2)DISAPPROVE
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ GRASS
+            (1)LEGAL
+            (2)NOT LEGAL
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ USWARY
+            (1)YES
+            (2)NO
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ USINTL
+            (1)ACTIVE PART
+            (2)STAY OUT
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ USUN
+            (1)STAY IN
+            (2)PULL OUT
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ COMMUN
+            (1)WORST KIND
+            (2)BAD, NOT WORST
+            (3)OK FOR SOME
+            (4)GOOD FORM
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ RUSSIA TO EGYPT
+            (-1) NAP,DK,NA/
+ RELIG
+            (1)PROTESTANT
+            (2)CATHOLIC
+            (3)JEWISH
+            (4)NONE
+            (5)OTHER
+            (8)DK
+            (9)NA  /
+ DENOM
+            (10)AM BAPTIST ASSO
+            (11)AM BAPT CH IN USA
+            (12)NAT BAPT CONV OF AM
+            (13)NAT BAPT CONV USA
+            (14)SOUTHERN BAPTIST
+            (15)OTHER BAPTISTS
+            (18)BAPTIST-DK WHICH
+            (20)AFR METH EPISCOPAL
+            (21)AFR METH EP ZION
+            (22)UNITED METHODIST
+            (23)OTHER METHODIST
+            (28)METHODIST-DK WHICH
+            (30)AM LUTHERAN
+            (31)LUTH CH IN AMERICA
+            (32)LUTHERAN-MO SYNOD
+            (33)WI EVAN LUTH SYNOD
+            (34)OTHER LUTHERAN
+            (35)EVANGELICAL LUTH
+            (38)LUTHERAN-DK WHICH
+            (40)PRESBYTERIAN C IN US
+            (41)UNITED PRES CH IN US
+            (42)OTHER PRESBYTERIAN
+            (43)PRESBYTERIAN, MERGED
+            (48)PRESBYTERIAN-DK WH
+            (50)EPISCOPAL
+            (60)OTHER
+            (70)NO DENOMINATION
+            (98)DK
+            (99)NA
+            (0)NAP  /
+ OTHER
+            (998)DK
+            (999)NA
+            (0)NAP  /
+ JEW
+            (1)ORTHODOX
+            (2)CONSERVATIVE
+            (3)REFORM
+            (4)NONE OF THESE
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ FUND
+            (1)FUNDAMENTALIST
+            (2)MODERATE
+            (3)LIBERAL
+            (8)DK
+            (9)NA-EXCLUDED
+            (0)NAP  /
+ ATTEND
+            (0)NEVER
+            (1)LT ONCE A YEAR
+            (2)ONCE A YEAR
+            (3)SEVRL TIMES A YR
+            (4)ONCE A MONTH
+            (5)2-3X A MONTH
+            (6)NRLY EVERY WEEK
+            (7)EVERY WEEK
+            (8)MORE THN ONCE WK
+            (9)DK,NA  /
+ RELITEN
+            (1)STRONG
+            (2)NOT VERY STRONG
+            (3)SOMEWHAT STRONG
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ POSTLIFE
+            (1)YES
+            (2)NO
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ GRACE  spirits
+            (1)NEVER IN MY LIFE
+            (2)ONCE OR TWICE
+            (3)SEVERAL TIMES
+            (4)OFTEN
+            (8)CANNOT ANSWER
+            (9)NA
+            (0)NAP  /
+ NEARGOD
+            (1)EXTREMELY CLOSE
+            (2)SOMEWHAT CLOSE
+            (3)NOT VERY CLOSE
+            (4)NOT CLOSE AT ALL
+            (5)DOES NOT BELIEVE
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ MAPA
+            (1)MOTHER
+            (7)FATHER
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ MASTERSP
+            (1)MASTER
+            (7)SPOUSE
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ JUDGELUV
+            (1)JUDGE
+            (7)LOVER
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ FRNDKING
+            (1)FRIEND
+            (7)KING
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ RELIG16
+            (1)PROTESTANT
+            (2)CATHOLIC
+            (3)JEWISH
+            (4)NONE
+            (5)OTHER
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ DENOM16
+            (10)AM BAPTIST ASSO
+            (11)AM BAPT CH IN USA
+            (12)NAT BAPT CONV OF AM
+            (13)NAT BAPT CONV USA
+            (14)SOUTHERN BAPTIST
+            (15)OTHER BAPTISTS
+            (18)BAPTIST-DK WHICH
+            (20)AFR METH EPISCOPAL
+            (21)AFR METH EP ZION
+            (22)UNITED METHODIST
+            (23)OTHER METHODIST
+            (28)METHODIST-DK WHICH
+            (30)AM LUTHERAN
+            (31)LUTH CH IN AMERICA
+            (32)LUTHERAN-MO SYNOD
+            (33)WI EVAN LUTH SYNOD
+            (34)OTHER LUTHERAN
+            (35)EVANGELICAL LUTH
+            (38)LUTHERAN-DK WHICH
+            (40)PRESBYTERIAN C IN US
+            (41)UNITED PRES CH IN US
+            (42)OTHER PRESBYTERIAN
+            (43)PRESBYTERIAN, MERGED
+            (48)PRESBYTERIAN-DK WH
+            (50)EPISCOPAL
+            (60)OTHER
+            (70)NO DENOMINATION
+            (98)DK
+            (99)NA
+            (0)NAP  /
+ OTH16
+            (998)DK
+            (999)NA
+            (0)NAP  /
+ JEW16
+            (1)ORTHODOX
+            (2)CONSERVATIVE
+            (3)REFORM
+            (4)NONE OF THESE
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ FUND16
+            (1)FUNDAMENTALIST
+            (2)MODERATE
+            (3)LIBERAL
+            (8)DK
+            (9)NA-EXCLUDED
+            (0)NAP  /
+ SPREL
+            (1)PROTESTANT
+            (2)CATHOLIC
+            (3)JEWISH
+            (4)NONE
+            (5)OTHER
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ SPDEN
+            (10)AM BAPTIST ASSO
+            (11)AM BAPT CH IN USA
+            (12)NAT BAPT CONV OF AM
+            (13)NAT BAPT CONV USA
+            (14)SOUTHERN BAPTIST
+            (15)OTHER BAPTISTS
+            (18)BAPTIST-DK WHICH
+            (20)AFR METH EPISCOPAL
+            (21)AFR METH EP ZION
+            (22)UNITED METHODIST
+            (23)OTHER METHODIST
+            (28)METHODIST-DK WHICH
+            (30)AM LUTHERAN
+            (31)LUTH CH IN AMERICA
+            (32)LUTHERAN-MO SYNOD
+            (33)WI EVAN LUTH SYNOD
+            (34)OTHER LUTHERAN
+            (35)EVANGELICAL LUTH
+            (38)LUTHERAN-DK WHICH
+            (40)PRESBYTERIAN C IN US
+            (41)UNITED PRES CH IN US
+            (42)OTHER PRESBYTERIAN
+            (43)PRESBYTERIAN, MERGED
+            (48)PRESBYTERIAN-DK WH
+            (50)EPISCOPAL
+            (60)OTHER
+            (70)NO DENOMINATION
+            (98)DK
+            (99)NA
+            (0)NAP  /
+ SPOTHER
+            (998)DK
+            (999)NA
+            (0)NAP  /
+ SPJEW
+            (1)ORTHODOX
+            (2)CONSERVATIVE
+            (3)REFORM
+            (4)NONE OF THESE
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ SPFUND
+            (1)FUNDAMENTALIST
+            (2)MODERATE
+            (3)LIBERAL
+            (8)DK
+            (9)NA-EXCLUDED
+            (0)NAP  /
+ SPREL16
+            (1)PROTESTANT
+            (2)CATHOLIC
+            (3)JEWISH
+            (4)NONE
+            (5)OTHER
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ SPDEN16
+            (10)AM BAPTIST ASSO
+            (11)AM BAPT CH IN USA
+            (12)NAT BAPT CONV OF AM
+            (13)NAT BAPT CONV USA
+            (14)SOUTHERN BAPTIST
+            (15)OTHER BAPTISTS
+            (18)BAPTIST-DK WHICH
+            (20)AFR METH EPISCOPAL
+            (21)AFR METH EP ZION
+            (22)UNITED METHODIST
+            (23)OTHER METHODIST
+            (28)METHODIST-DK WHICH
+            (30)AM LUTHERAN
+            (31)LUTH CH IN AMERICA
+            (32)LUTHERAN-MO SYNOD
+            (33)WI EVAN LUTH SYNOD
+            (34)OTHER LUTHERAN
+            (35)EVANGELIC LUTH
+            (38)LUTHERAN-DK WHICH
+            (40)PRESBYTERIAN C IN US
+            (41)UNITED PRES CH IN USA
+            (42)OTHER PRESBYTERIAN
+            (43)PRESBYTERIAN, MERGED
+            (48)PRESBYTERIAN-DK WH
+            (50)EPISCOPAL
+            (60)OTHER
+            (70)NO DENOMINATION
+            (98)DK
+            (99)NA
+            (0)NAP  /
+ SPOTH16
+            (998)DK
+            (999)NA
+            (0)NAP  /
+ SPJEW16
+            (1)ORTHODOX
+            (2)CONSERVATIVE
+            (3)REFORM
+            (4)NONE OF THESE
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ SPFUND16
+            (1)FUNDAMENTALIST
+            (2)MODERATE
+            (3)LIBERAL
+            (8)DK
+            (9)NA-EXCLUDED
+            (0)NAP  /
+ PRAYER
+            (1)APPROVE
+            (2)DISAPPROVE
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ BIBLE
+            (1)WORD OF GOD
+            (2)INSPIRED WORD
+            (3)BOOK OF FABLES
+            (4)OTHER
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ WORLD1
+            (1)WORLD IS EVIL
+            (7)WORLD IS GOOD
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ WORLD4
+            (1)PEOPLE ARE GOOD
+            (7)PEOPLE ARE EVIL
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ RACMAR
+            (1)YES
+            (2)NO
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ RACSEG
+            (1)AGREE STRONGLY
+            (2)AGREE SLIGHTLY
+            (3)DISAGREE SLIGHTLY
+            (4)DISAGREE STRONGLY
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ RACOPEN
+            (1)OWNER DECIDES
+            (2)CANT DISCRIMINATE
+            (3)NEITHER
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ RACLIVE RACCLOS
+            (1)YES
+            (2)NO
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ RACDIS
+            (1)SAME BLOCK
+            (2)1-3 BLKS AWAY
+            (3)4-8 BLKS AWAY
+            (4)OVER 8 BLKS
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ RACINTEG
+            (1)ALL BLACK
+            (2)STAY INTEGRATED
+            (3)MIXED,NOT WH-BL
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ RACHOME
+            (1)YES
+            (2)NO
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ RACFEW TO RACMOST
+            (1)YES, OBJECT
+            (2)NO
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ BUSING
+            (1)FAVOR
+            (2)OPPOSE
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ RACPRES
+            (1)YES
+            (2)NO
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ RACCHURH
+            (1)YES
+            (2)NO
+            (3)NO CHURCH
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ HAPPY HAPMAR
+            (1)VERY HAPPY
+            (2)PRETTY HAPPY
+            (3)NOT TOO HAPPY
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ HEALTH
+            (1)EXCELLENT
+            (2)GOOD
+            (3)FAIR
+            (4)POOR
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ LIFE
+            (1)EXCITING
+            (2)ROUTINE
+            (3)DULL
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ HELPFUL
+            (1)HELPFUL
+            (2)LOOKOUT FOR SELF
+            (3)DEPENDS
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ FAIR
+            (1)TAKE ADVANTAGE
+            (2)FAIR
+            (3)DEPENDS
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ TRUST
+            (1)CAN TRUST
+            (2)CANNOT TRUST
+            (3)DEPENDS
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ SATCITY TO SATHEALT
+            (1)VERY GREAT DEAL
+            (2)GREAT DEAL
+            (3)QUITE A BIT
+            (4)A FAIR AMOUNT
+            (5)SOME
+            (6)A LITTLE
+            (7)NONE
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ CONFINAN TO CONARMY
+            (1)A GREAT DEAL
+            (2)ONLY SOME
+            (3)HARDLY ANY
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ OBEY TO HELPOTH
+            (1)MOST IMPORTANT
+            (2)2ND IMPORTANT
+            (3)3RD IMPORTANT
+            (4)4TH IMPORTANT
+            (5)LEAST IMPORTANT
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ SOCREL TO SOCBAR
+            (1)ALMOST DAILY
+            (2)SEV TIMES A WEEK
+            (3)SEV TIMES A MNTH
+            (4)ONCE A MONTH
+            (5)SEV TIMES A YEAR
+            (6)ONCE A YEAR
+            (7)NEVER
+            (8)DK
+            (9)NA
+            (-1)NAP  /
+ SOCPARS SOCSIBS
+            (1)ALMOST DAILY
+            (2)SEV TIMES A WEEK
+            (3)SEV TIMES A MNTH
+            (4)ONCE A MONTH
+            (5)SEV TIMES A YEAR
+            (6)ONCE A YEAR
+            (7)NEVER
+            (8)DK
+            (9)NA
+            (0)NO SUCH PEOPLE
+            (-1)NAP  /
+ AGED
+            (1)A GOOD IDEA
+            (2)A BAD IDEA
+            (3)DEPENDS
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ DRINK TO EVSMOKE
+            (1)YES
+            (2)NO
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ ANOMIA5 TO ANOMIA7
+            (1)AGREE
+            (2)DISAGREE
+            (8)DK
+            (9)NA
+            (0)NAP/
+ JOBLOSE
+            (1)VERY LIKELY
+            (2)FAIRLY LIKELY
+            (3)NOT TOO LIKELY
+            (4)NOT LIKELY
+            (5)LEAVING LABOR FORCE
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ JOBFIND
+            (1)VERY EASY
+            (2)SOMEWHAT EASY
+            (3)NOT EASY
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ SATJOB
+            (1)VERY SATISFIED
+            (2)MOD. SATISFIED
+            (3)A LITTLE DISSAT
+            (4)VERY DISSATISFIED
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ RICHWORK
+            (1)CONTINUE WORKING
+            (2)STOP WORKING
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ JOBINC TO JOBMEANS
+            (1)MOST IMPT
+            (2)SECOND
+            (3)THIRD
+            (4)FOURTH
+            (5)FIFTH
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ SATFIN
+            (1)SATISFIED
+            (2)MORE OR LESS
+            (3)NOT AT ALL SAT.
+            (8)DK
+            (9)NA
+             (0) NAP  /
+ FINALTER
+            (1)BETTER
+            (2)WORSE
+            (3)STAYED SAME
+            (8)DK
+            (9)NA  /
+ FINRELA
+            (1)FAR BELOW AVERAGE
+            (2)BELOW AVERAGE
+            (3)AVERAGE
+            (4)ABOVE AVERAGE
+            (5)FAR ABOVE AVERAGE
+            (8)DK
+            (9)NA  /
+ WKSUB
+            (1)YES
+            (2)NO
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ WKSUBS
+            (3)YES
+            (4)NO
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ WKSUP
+            (1)YES
+            (2)NO
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ WKSUPS
+            (3)YES
+            (4)NO
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ UNION
+            (1)R BELONGS
+            (2)SPOUSE BELONGS
+            (3)R AND SPOUSE BELONG
+            (4)NEITHER BELONGS
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ GETAHEAD
+            (1)HARD WORK
+            (2)BOTH EQUALLY
+            (3)LUCK OR HELP
+            (4)OTHER
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ FEHOME
+            (1)AGREE
+            (2)DISAGREE
+            (8)NOT SURE
+            (9)NA
+            (0)NAP  /
+ FEWORK
+            (1)APPROVE
+            (2)DISAPPROVE
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ FEPRES
+            (1)YES
+            (2)NO
+            (5)WOULDNT VOTE
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ FEPOL
+            (1)AGREE
+            (2)DISAGREE
+            (8)NOT SURE
+            (9)NA
+            (0)NAP  /
+ ABDEFECT TO ABANY
+
+            (1)YES
+            (2)NO
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ CHLDIDEL
+            (7)SEVEN+
+            (8)AS MANY AS WANT
+            (9)DK,NA
+            (-1)NAP  /
+ CHLDMORE
+            (1)YES
+            (2)NO
+            (3)UNCERTAIN
+            (4)INAPPROPRIATE
+            (9)NA
+            (0)NAP  /
+ CHLDNUM
+            (8)8 OR MORE
+            (9)DK,NA
+            (0)NAP  /
+ PILLOK
+            (1)STRONGLY AGREE
+            (2)AGREE
+            (3)DISAGREE
+            (4)STRONGLY DISAGREE
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ SEXEDUC
+            (1)FAVOR
+            (2)OPPOSE
+            (3)DEPENDS
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ DIVLAW
+            (1)EASIER
+            (2)MORE DIFFICULT
+            (3)STAY SAME
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ PREMARSX TO HOMOSEX
+            (1)ALWAYS WRONG
+            (2)ALMST ALWAYS WRG
+            (3)SOMETIMES WRONG
+            (4)NOT WRONG AT ALL
+            (5)OTHER
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ PORNINF TO PORNOUT
+            (1)YES
+            (2)NO
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ PORNLAW
+            (1)ILLEGAL TO ALL
+            (2)ILLEGAL UNDER 18
+            (3)LEGAL
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ XMOVIE
+            (1)YES
+            (2)NO
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ SPANKING
+            (1)STRONGLY AGREE
+            (2)AGREE
+            (3)DISAGREE
+            (4)STRONGLY DISAGREE
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ LETDIE1 TO HIT
+            (1)YES
+            (2)NO
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ HITAGE
+            (1)CHILD
+            (2)ADULT
+            (3)BOTH
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ GUNAGE
+            (1)CHILD
+            (2)ADULT
+            (3)BOTH
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ HITOK TO FEAR
+            (1)YES
+            (2)NO
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ BURGLR ROBBRY
+            (1)YES
+            (2)NO
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ OWNGUN TO ROWNGUN
+            (1)YES
+            (2)NO
+            (3)REFUSED
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ HUNT
+            (1)RESP
+            (2)SPOUSE
+            (3)BOTH
+            (4)NEITHER
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ NEWS
+            (1)EVERYDAY
+            (2)FEW TIMES A WEEK
+            (3)ONCE A WEEK
+            (4)LESS THAN ONCE WK
+            (5)NEVER
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ TVHOURS
+            (98)DK
+            (99)NA
+            (-1)NAP  /
+ PHONE
+            (1)NO PHONE
+            (2)REFUSED
+            (3)PHONE IN HOME
+            (4)PHONE ELSEWHERE
+            (5)PHONE,DK WHERE
+            (9)NA
+            (0)NAP  /
+ COMPREND
+            (1)GOOD
+            (2)FAIR
+            (3)POOR
+            (9)NA  /
+ FORM
+            (1)STANDARD <X>
+            (2)ALTERNATE <Y>
+            (3)ALTERNATE <Z>
+            (0)NO SPLIT QUES  /
+ FECHLD TO FEFAM
+            (1)STRONGLY AGREE
+            (2)AGREE
+            (3)DISAGREE
+            (4)STRONGLY DISAGREE
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ RACCHNG
+            (1)YES
+            (2)NO
+            (3)WDNT BELONG
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ DIVORCE5
+            (0)NONE
+            (1)PRIOR 4 YEARS
+            (2)LAST YEAR
+            (3)BOTH
+            (9)NA
+            (-1)NAP  /
+ UNEMP5
+            (0)NO
+            (1)4 PRIOR YRS
+            (2)4 PRIOR YRS, EARNER
+            (3)LAST YR
+            (4)BOTH,NOT EARNER
+            (5)BOTH,EARNER PRIOR 4
+            (6)LAST YR, EARNER
+            (7)BOTH,EARNER LAST YR
+            (8)BOTH,EARNER BOTH
+            (9)NA
+            (-1)NAP  /
+ HOSDIS5
+            (0)NONE
+            (1)PRIOR 4 YEARS
+            (2)LAST YEAR
+            (3)BOTH
+            (9)NA
+            (-1)NAP  /
+ DEATH5
+            (0)NONE
+            (1)1 IN PRIOR 4 YRS
+            (2)2+ IN PRIOR 4 YRS
+            (3)1 LAST YR
+            (4)1 LAST,1 IN PRIOR 4
+            (5)1 IN LAST,2+ PRIOR 4
+            (6)2+ LAST YR
+            (7)2+ LAST, 1 PRIOR 4
+            (-1)NAP
+            (8)2+ LAST, 2+ PRIOR 4
+            (9)NA  /
+ DEATH16
+            (-1)NAP  /
+ PADEATH MADEATH
+            (0)NO DEATH REPORTED
+            (1)DIED BEFORE R 16
+            (2)DIED 6+ YRS AGO
+            (3)DIED  1-5 YRS AGO
+            (4)DIED LAST YEAR
+            (8)CANT TELL
+            (9)NA
+            (-1)NAP  /
+ CHLDDTH TO SPDEATH
+            (0)NO DEATH REPORTED
+            (1)DIED 6+ YRS AGO
+            (2)DIED 1-5 YRS AGO
+            (3)DIED LAST YEAR
+            (9)NA
+            (-1)NAP  /
+ TRAUMA1 TRAUMA5
+            (-1)NAP
+            (9) NA/
+ HELPPOOR
+            (1)GOVT ACTION
+            (3)AGREE WITH BOTH
+            (5)PEOPLE HELP SELVES
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ HELPNOT
+            (1)GOVT DO MORE
+            (3)AGREE WITH BOTH
+            (5)GOVT DOES TOO MUCH
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ HELPSICK
+            (1)GOVT SHOULD HELP
+            (3)AGREE WITH BOTH
+            (5)PEOPLE HELP SELVES
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ HELPBLK
+            (1)GOVT HELP BLKS
+            (3)AGREE WITH BOTH
+            (5)NO SPECIAL TREATMENT
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ MEMFRAT TO MEMOTHER
+            (1)YES
+            (2)NO
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ MEMNUM
+            (98)DK
+            (99)NA
+            (-1)NAP  /
+ CHURHSCH
+            (0) NEVER WENT OR LESS THAN HALF YEAR
+            (95) ONE OR MORE YEAR
+            (98)DK
+            (99)NA
+            (-1)NAP  /
+ GOD
+            (1)DONT BELIEVE
+            (2)NO WAY TO FIND OUT
+            (3)SOME HIGHER POWER
+            (4)BELIEVE SOMETIMES
+            (5)BELIEVE BUT DOUBTS
+            (6)KNOW GOD EXISTS
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ REBORN
+            (1)YES
+            (2)NO
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ GENEJOB
+            (1)SHOULD
+            (2)SHOULD NOT
+            (8)DK
+            (9)NA
+            (0)NAP                                              /
+ GENEHIRE
+            (1)SHOULD
+            (2)SHOULD NOT
+            (8)DK
+            (9)NA
+            (0)NAP                                              /
+ GENECANX
+            (1)SHOULD
+            (2)SHOULD NOT
+            (8)DK
+            (9)NA
+            (0)NAP                                              /
+ GENECANY
+            (1)SHOULD
+            (2)SHOULD NOT
+            (8)DK
+            (9)NA
+            (0)NAP                                              /
+ GENEGETS
+            (1)EMPLOYER SHOULD
+            (2)WORKER SHOULD
+            (3)BOTH - VOLUNTARY
+            (8)DK
+            (9)NA
+            (0)NAP                                              /
+ PROFITS1   TO  UNPROG
+            (1)STRONGLY AGREE
+            (2)AGREE
+            (3)DISAGREE
+            (4)STRONGLY DISAGREE
+            (8)DK
+            (9)NA
+            (0)NAP                                              /
+ OUTOFBIZ  MERGED
+            (1)YES
+            (2)NO
+            (9)NA
+            (0)NAP                                              /
+ REORG
+            (1)YES
+            (2)NO
+            (8)DK
+            (9)NA
+            (0)NAP                                            /
+ ORGFIN
+           (1)MUCH BETTER
+           (2)BETTER
+           (3)WORSE
+           (4)MUCH WORSE
+           (5)NO EFFECT
+           (8)DK
+           (9)NA
+           (0)NAP                                              /
+ WRKYEARS
+          (-1)NAP
+          (98)DK
+          (99)NA/
+ EVUNEMP   (1)YES
+           (2)NO
+           (7)NEVER FULL-TIME
+            (9)NA
+            (0)NAP                                              /
+ NUMUNEMP
+          (0)NAP
+          (96) 96 OR MORE
+          (98)DK
+          (99)NA/
+ TOTUNEMP
+           (1)2-8 WEEKS
+           (2)8 WEEK - 6 MON.
+           (3)6-12 MON.
+           (4) > 1 YEAR
+           (8) DK
+            (9)NA
+            (0)NAP                                              /
+ FNDJOB1  TO FNDJOB8
+           (1)YES
+           (2)NO
+            (9)NA
+            (0)NAP                                              /
+ FNDJOB9
+         (1)UNION
+         (2)SCHOOL
+         (3)SELF-EMPLOYED,CREATED JOB
+         (4)ANNOUNCEMENT,NEWSPAPER
+         (7)OTHER
+         (9)NA
+         (0)NAP                                                /
+ INTLTEST TO LTRSREF
+         (1)YES
+         (2)NO
+         (8)DK
+         (9)NA
+         (0)NAP           /
+ SAMEJOB
+           (1)JOB HAVE NOW
+           (2)DIFFERENT JOB
+            (9)NA
+            (0)NAP                                  /
+ JOBYEARS EMPYEARS
+            (-1) NAP
+             (99.99) NA   /
+ THISJOB1 TO  THISJOB6
+           (1)YES
+           (2)NO
+            (9)NA
+            (0)NAP                   /
+ THISJOB7
+          (1)RELATIVE
+          (2)FRIEND
+          (3)PERSONNEL
+          (7)OTHER
+          (9)NA
+          (0)NAP        /
+ PROMOTNG
+           (1)YES
+           (2)NO
+          (8)DK
+            (9)NA
+            (0)NAP                 /
+ PROMOTED
+           (1)YES
+           (2)NO
+            (9)NA
+            (0)NAP                  /
+ IMPPROMO
+           (1)VERY IMPORTANT
+           (2)IMPORTANT
+           (3)SOMEWHAT IMPORTANT
+           (4)NOT AT ALL IMPORTANT
+           (5)DOES NOT APPLY, VOLUNTEERED
+           (8)DK
+           (9)NA
+           (0)NAP                                              /
+ FUTPROMO
+           (1)VERY LIKELY
+           (2)LIKELY
+           (3)NOT VERY LIKELY
+           (4)NOT LIKELY AT ALL
+           (8)DK
+           (9)NA
+           (0)NAP                                              /
+ SEXPROMO           (1)BETTER
+           (2)WORSE
+           (3)NO EFFECT
+           (8)DK
+            (9)NA
+            (0)NAP                                              /
+ RACPROMO
+           (1)BETTER
+           (2)WORSE
+           (3)NO EFFECT
+           (8)DK
+            (9)NA
+            (0)NAP                                              /
+ ADVANCES
+           (1)ADVANCED RAPIDLY
+           (2)STEADY ADVANCE
+           (3)SAMELEVEL
+           (4)LOST SOME GROUND
+           (7)1st JOB WITH ORG.
+            (9)NA
+            (0)NAP                                              /
+ JOBCNTRL
+           (1)OTHER DECIDE WHAT AND HOW I DO
+           (2)OTHER DECIDE WHAT BUT NOT HOW
+           (3)I DECIDE SOME WHAT AND HOW I DO
+           (4)I AM MY OWN BOSS
+            (9)NA
+            (0)NAP                                              /
+ WRKINDEP TO MONITRED
+            (1)STRONGLY AGREE
+            (2)AGREE
+            (3)DISAGREE
+            (4)STRONGLY DISAGREE
+            (8)DK
+            (9)NA
+            (0)NAP                                              /
+ NUMPROMO
+            (0)NAP
+           (8)DK
+           (9)NA/
+ OFFSUP
+            (1)YES
+            (2)NO
+            (9)NA
+            (0)NAP                                              /
+ YOUMONEY
+        (9999996)$9999996 OR MORE
+        (9999998)DK
+        (9999999)NA
+        (0)NAP/
+ TOTMONEY
+        (9999996)$9999996 OR MORE
+        (9999998)DK
+        (9999999)NA
+        (0)NAP/
+ YOUSUP
+         (0) NAP
+         (999)NA/
+ SUPOTHRS
+            (1)YES
+            (2)NO
+            (9)NA
+            (0)NAP                                              /
+ LEVELS
+          (0)NAP
+          (98)DK
+          (99)NA/
+ TOTSUP
+          (0) NAP
+          (9998)DK
+          (9999)NA/
+ SUPDUTY1 TO  ORGMONEY
+            (1)YES
+            (2)NO
+            (8)DK
+            (9)NA
+            (0)NAP                                              /
+ JOBJUDGE
+            (1)YES
+            (2)NO
+            (8)DK
+            (9)NA
+            (0)NAP                                              /
+ QUANTITY  QUALITY
+            (1)VERY EASY
+            (2)SOMEWHAT EASY
+            (3)SOMEWHAT HARD
+            (4)VERY HARD
+            (8)DK
+            (9)NA
+            (0)NAP                                              /
+ WRKWELL
+            (1)MUCH BETTER
+            (2)SOMEWHAT BETTER
+            (3)ABOUT SAME
+            (4)SOMEWHAT WORSE
+            (5)MUCH WORSE
+            (8)DK
+            (9)NA
+            (0)NAP                                              /
+ WRKMUCH
+            (1)MUCH MORE
+            (2)SOMEWHAT MORE
+            (3)ABOUT SAME
+            (4)SOMEWHAT LESS
+            (5)MUCH LESS
+            (8)DK
+            (9)NA
+            (0)NAP                                              /
+ IMATTER TO NOTICED
+            (1)STRONGLY AGREE
+            (2)AGREE
+            (3)DISAGREE
+            (4)STRONGLY DISAGREE
+            (8)DK
+            (9)NA
+            (0)NAP                                              /
+ CHNGEORG
+            (1)NOT AT ALL LIKELY
+            (2)SOMEWAHT LIKELY
+            (3)VERY LIKELY
+            (8)DK
+            (9)NA
+            (0)NAP                                              /
+ OTHERPAY TO RAISEFAV
+            (1)YES
+            (2)NO
+            (8)DK
+            (9)NA
+            (0)NAP                                              /
+ FRINGE1  TO FRINGE11
+            (1)YES
+            (2)NO
+            (8)DK
+            (9)NA
+            (0)NAP                                              /
+ JOBVSHME            (1)FREQUENTLY
+            (2)SOMETIMES
+            (3)SELDOM
+            (4)NEVER
+            (9)NA
+            (0)NAP                                              /
+ UNVOTE
+            (1)FOR
+            (2)AGAINST
+            (8)DK
+            (9)NA
+            (0)NAP                                              /
+ UNMANREL TO COWRKREL
+            (1)VERY
+            (2)QUITE GOOD
+            (3)NEITHER GOOD NOR BAD
+            (4)QUITE BAD
+            (5)VERY BAD
+            (8)DK
+            (9)NA
+            (0)NAP                                              /
+ SCHOOLNG TO EXPTRAIN
+            (1)VERY IMPORTANT
+            (2)IMPORTANT
+            (3)SOMEWHAT IMPORTANT
+            (4)NOT AT ALL IMPORTANT
+            (8)DK
+            (9)NA
+            (0)NAP                                              /
+ WHEREWRK
+            (1)SOME PLACE
+            (2)DIFFERENT
+            (9)NA
+            (0)NAP                                              /
+ FINDOUT
+            (1)YES
+            (2)NO
+            (9)NA
+            (0)NAP                                              /
+ BASEOFOP
+            (1)YES
+            (2)NO
+            (9)NA
+            (0)NAP                                              /
+ SPLOCNUM
+             (1)  1-9
+             (2)  10-49
+             (3)  50-99
+             (4)  100-499
+             (5)  500-999
+             (6)  1,000-1,999
+             (7)  2,000+
+             (8)  DONT KNOW
+             (9)  NA
+             (0)  NAP     /
+ JOBSALL TO  EQUALIZE
+            (1)DEFIN SHOULD BE
+            (2)PROBAB SHOULD BE
+            (3)PROB SHOULD NOT BE
+            (4)DEFIN SHOULD NOT BE
+            (8)CANT CHOOSE
+            (9)NA
+            (0)NAP  /
+ FAMSUFFR HUBBYWRK
+             (1) STRONGLY AGREE
+             (2) AGREE
+             (3) NEITHER AGREE NOR DISAGREE
+             (4) DISAGREE
+             (5) STRONGLY DISAGREE
+             (8) DK
+             (9) NA
+             (0) NAP      /
+ LOCALNUM
+             (1)  1-9
+             (2)  10-49
+             (3)  50-99
+             (4)  100-499
+             (5)  500-999
+             (6)  1,000-1,999
+             (7)  2,000+
+             (8)  DONT KNOW
+             (9)  NA
+             (0)  NO ISSP /
+ HAPUNHAP
+             (1)  VERY HAPPY
+             (2)  FAIRLY HAPPY
+             (3)  NOT VERY HAPPY
+             (4)  NOT AT ALL HAPPY
+             (8)  DK
+             (9)  NA
+             (0)  NAP/
+ STIFFPUN DEATHPEN
+             (1) STRONGLY AGREE
+             (2) AGREE
+             (3) NEITHER AGREE NOR DISAGREE
+             (4) DISAGREE
+             (5) STRONGLY DISAGREE
+             (8) DK
+             (9) NA
+             (0) NAP      /
+
+ PREMARS1 TO HOMOSEX1
+             (1) ALWAYS WRONG
+             (2) ALMOST ALWAYS WRONG
+             (3) WRONG ONLY SOMETIMES
+             (4) NOT WRONG AT ALL
+             (8) DK
+             (9) NA
+             (0) NAP      /
+ ABDEFCT1 TO ABPOORW
+             (1) DEFINITELY SHOULD ALLOW IT
+             (2) PROBABLY SHOULD ALLOW IT
+             (3) PROBABLY SHOULD NOT ALLOW IT
+             (4) DEFINITELY SHOULD NOT ALLOW IT
+             (8) DK
+             (9) NA
+             (0) NAP      /
+ TAXCHEAT TO GOVCHEAT
+             (1) NOT WRONG
+             (2) A BIT WRONG
+             (3) WRONG
+             (4) SERIOUSLY WRONG
+             (8) DK
+             (9) NA
+             (0) NAP      /
+ CONCONG TO CONSCHLS
+             (1) COMPLETE CONFIDENCE
+             (2) A GREAT DEAL OF CONFIDENCE
+             (3) SOME CONFIDENCE
+             (4) VERY LITTLE CONFIDENCE
+             (5) NO CONFIDENCE AT ALL
+             (8) DK
+             (9) NA
+             (0) NAP      /
+ POLSGOD TO CLERGGOV
+             (1) STRONGLY AGREE
+             (2) AGREE
+             (3) NEITHER AGREE NOR DISAGREE
+             (4) DISAGREE
+             (5) STONGLY DISAGREE
+             (8) DK
+             (9) NA
+             (0) NAP      /
+ CHURHPOW
+             (1) FAR TOO MUCH POWER
+             (2) TOO MUCH POWER
+             (3) ABOUT THE RIGHT AMOUNT OF POWER
+             (4) TOO MUCH POWER
+             (5) FAR TOO LITTLE POWER
+             (8) DK
+             (9) NA
+             (0) NAP      /
+ GODCHNGE
+             (1) DON'T BELIEVE NOW, NEVER HAVE
+             (2) DON'T BELIEVE NOW, USED TO
+             (3) BELIEVE NOW, DIDN'T USED TO
+             (4) BELIEVE NOW, ALWAYS HAVE
+             (8) DK
+             (9) NA
+             (0) NAP      /
+ AFTERLIF TO MIRACLES
+             (1) YES, DEFINITELY
+             (2) YES, PROBABLY
+             (3) NO, PROBABLY NOT
+             (4) NO, DEFINITELY NOT
+             (8) DK
+             (9) NA
+             (0) NAP      /
+ BIBLE1
+             (1) WORD OF GOD, TAKE LITERALLY
+             (2) GOD-INSPIRED, SHOULDN'T TAKE LITERALLY
+             (3) BOOK OF FABLES, BY MAN
+             (4) THIS DOES NOT APPLY TO ME
+             (8) DK
+             (9) NA
+             (0) NAP      /
+ THEISM TO OWNFATE
+             (1) STRONGLY AGREE
+             (2) AGREE
+             (3) NEITHER AGREE NOR DISAGREE
+             (4) DISAGREE
+             (5) STRONGLY DISAGREE
+             (8) DK
+             (9) NA
+             (0) NAP      /
+ RELEXPER
+             (1) YES
+             (2) NO
+             (8) DK
+             (9) NA
+             (0) NAP      /
+ MARELKID PARELKID RELIGKID RELIGSP
+             (1) PROTESTANT
+             (2) CATHOLIC
+             (3) JEWISH
+             (4) ORTHODOX GREEK, RUSSIAN, ETC.
+             (5) MOSLEM
+             (6) OTHER -SPECIFY
+             (7) NO RELIGION
+             (8) DK
+             (9) NA
+             (0) NAP      /
+ MADENKID PADENKID DENKID DENSP
+             (10000) AMER BAPTIST ASSOC
+             (11000) AMER BAPTIST CH IN USA
+             (12000) NATL BAPTIST CONV. OF AMERICA
+             (13000) NATL BAPTIST CONV., USA, INC.
+             (14000) SOUTHERN BAPTIST CONV
+             (15000) OTHER BAPTIST CHS
+             (18000) BAPTIST, DK WHICH
+             (20000) AFRICAN METH EPIS CH
+             (21000) AME ZION CHURCH
+             (22000) UNITED METH CHURCH
+             (23000) OTHER METH CH
+             (28000) METHODIST, DK WHICH
+             (30000) AMER LUTHERAN CH
+             (31000) LUTH CH IN AMER
+             (32000) LUTH CH--MO SYNOD
+             (33000) WISC EVAN LUTH SYNOD
+             (34000) OTHER LUTH CHS
+             (35000) EVAN LUTHERAN
+             (36000) LUTHERAN, DK WHICH
+             (38000) LUTH, DK WHICH
+             (40000) PRESBYT CH IN USA
+             (41000) UNITED PRESBYT CH IN USA
+             (42000) OTHER PRESBYT CHS
+             (43000) PRESBYT CH USA
+             (48000) PRESBYTERIAN, DK WHICH
+             (50000) EPISCOPAL CHURCH
+             (60002) EVANGELIGAL CONGREGATIONAL
+             (60003) IND. BIBLE FELLOWSHIP
+             (60006) NEW TESTAMENT CHRISTIAN
+             (60008) MORAVIAN
+             (60009) CHRIST. AND MISSION. ALLIANCE
+             (60012) ASSEMBLY OF GOD
+             (60013) FREE METHODIST
+             (60015) AFRICAN METHODIST
+             (60016) FREE WILL BAPTIST
+             (60020) BRETHREN CHURCH
+             (60023) UNITED BRETHREN, BRETH. IN CHRIST
+             (60024) INDEPENDENT
+             (60031) CHRISTIAN; CENTRAL CHRISTIAN
+             (60032) CHRISTIAN REFORM
+             (60033) CHRISTIAN SCIENTIST
+             (60035) CHURCH OF CHRIST
+             (60036) CHURCHES OF GOD -EXC. CHRIST & HOLINESS
+             (60037) CHURCH OF GOD IN CHRIST
+             (60040) CONGREGATIONALIST, 1ST CONG.
+             (60042) COVENANT
+             (60043) DUTCH REFORM
+             (60044) DISCIPLES OF CHRIST
+             (60045) EVANGELICAL, EVANGELIST
+             (60047) EVANGELIST FREE CHURCH
+             (60049) 1ST CHRISTIAN DISC OF CHRIST
+             (60050) 1ST REFORMED
+             (60051) 1ST CHRISTIAN
+             (60052) FULL GOSPEL
+             (60056) HOLINESS; CH OF HOLINESS
+             (60057) PILGRIM HOLINESS
+             (60058) JEHOVAH WITNESSES
+             (60059) LDS
+             (60060) LDS--Mormon
+             (60061) LDS--REORGANIZED
+             (60062) LDS--JESUS CHRIST; CH OF JESUS LDS
+             (60063) MENNONITE
+             (60064) MORMON
+             (60065) NAZARENE
+             (60066) PENTECOSTAL ASSEMBLY OF GOD
+             (60068) PENTECOSTAL
+             (60070) QUAKER
+             (60071) REFORMED
+             (60077) 7TH DAY ADVENTIST
+             (60078) SANCTIFIED, SANCTIFICATION
+             (60080) UNITARIAN, UNIVERSALIST
+             (60081) UNITED CHURCH OF CHRIST
+             (60082) UNITED CHURCH, UNITY CHURCH
+             (60083) WESLEYAN
+             (60084) WESLEYAN METHODIST--PILGRIM
+             (60092) MISSION COVENANT
+             (60093) MISSIONARY BAPTIST
+             (60097) OTHER FUNDAMENTALIST
+             (60098) FEDERATED CHURCH
+             (60112) EVANGELIGAL METHODIST
+             (60113) WORLDWIDE CHURCH OF GOD
+             (60119) UNITED CHURCH OF CANADA
+             (60120) EVANGELICAL UNITED BRETHREN
+             (60133) PRIMITIVE BAPTIST
+             (60141) NEW BIRTH CHRISTIAN
+             (70000) NO DENOM. GIVEN OR NON-DENOM CH
+             (99998) DK
+             (99999) NA
+             (00000) NAP/
+
+ ATTENDMA TO ATTEND12
+             (1) NEVER
+             (2) LESS THAN ONCE A YR
+             (3) ABOUT ONCE OR TWICE A YR
+             (4) SEVERAL TIMES A YR
+             (5) ABOUT ONCE A MONTH
+             (6) 2-3 TIMES A MONTH
+             (7) NEARLY EVERY WEEK
+             (8) EVERY WEEK
+             (9) SEVERAL TIMES A WEEK
+             (10) NO FATHER-MOTHER PRESENT
+             (98) CANT SAY or CANT REMEMBER
+             (99) NA
+             (00) NAP/
+
+ PRAYFREQ
+              (1) NEVER
+              (2) LESS THAN ONCE A YEAR
+              (3) ABOUT ONCE OR TWICE A YEAR
+              (4) SEVERAL TIMES A YEAR
+              (5) ABOUT ONCE A MONTH
+              (6) 2-3 TIMES A MONTH
+              (7) NEARLY EVERY WEEK
+              (8) EVERY WEEK
+              (9) SEVERAL TIMES A WEEK
+             (10) ONCE A DAY
+             (11) SEVERAL TIMES A DAY
+             (98) DK
+             (99) NA
+             (00) NAP     /
+  FEELREL
+              (1) EXTREMELY RELIGIOUS
+              (2) VERY RELIGIOUS
+              (3) SOMEWHAT RELIGIOUS
+              (4) NEITHER
+              (5) SOMEWHAT NON-RELIGIOUS
+              (6) VERY RELIGIOUS
+              (7) EXTREMELY NON-RELIGIOUS
+             (8) DK
+             (9) NA
+              (0) NAP     /
+  SCHLPRAY
+              (1) YES, DEFINITELY
+              (2) YES, PROBABLY
+              (3) NO, PROBABLY
+              (4) NO, DEFINITELY
+              (8) DK
+              (9) NA
+              (0) NAP     /
+  GODRIGHT TO PERRIGHT
+             (1) STRONGLY AGREE
+             (2) AGREE
+             (3) NEITHER AGREE NOR DISAGREE
+             (4) DISAGREE
+             (5) STRONGLY DISAGREE
+             (8) DK
+             (9) NA
+             (0) NAP      /
+  ANTIREL
+             (1) DEFINITELY SHOULD
+             (2) PROBABLY SHOULD
+             (3) PROBABLY SHOULD NOT
+             (4) DEFINITELY SHOULD NOT
+             (8) DK
+             (9) NA
+             (0) NAP/
+ POVLINE
+             (1) POOR
+             (2) POOR -- IMPUTED
+             (3) NOT POOR
+             (4) NOT POOR -- IMPUTED
+             (5) BORDERLINE
+             (6) BORDERLINE -- IMPUTED
+             (9) NA
+             (0) NOT IMPUTABLE  /
+ INCDEF
+             (1) < -10,000
+             (2) -10,000 TO -5,000
+             (3) -4,999 TO -1,000
+             (4) -999 TO 999
+             (5) 1,000 TO 4,999
+             (6) 5,000 TO 9,999
+             (7) 10,000 TO 20,000
+             (8) 20,001 +
+             (9) NA
+             (0) NOT IMPUTABLE  /
+ REALINC REALRINC         999998 'DONT KNOW'
+                          999999 'NA'
+                          0 'NAP'/
+ AIDSKNOW
+            (7)7 OR MORE
+            (8)DK
+            (9)NA
+            (-1)NAP  /
+ AIDSWHO  AIDSWHO2 AIDSWHO3
+            (1)HUSBAND OR WIFE
+            (2)PARTNER OR LOVER
+            (3)SON OR DAUGHTER
+            (4)OTHER RELATIVE
+            (5)FRIEND
+            (6)NEIGHBOR
+            (7)CO-WORKER
+            (8)ACQUAINTANCE
+            (9)PATIENT
+            (10)OTHER
+            (98)DK
+            (99)NA
+            (0)NAP  /
+ AIDSDEAD AIDSDED2 AIDSDED3
+            (1)LIVING
+            (2)DIED
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ AIDSSEX AIDSSEX2 AIDSSEX3
+            (1)MALE
+            (2)FEMALE
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ AIDSAGE  AIDSAGE2 AIDSAGE3
+            (1)10 YEARS OR UNDER
+            (2)11-20
+            (3)21-40
+            (4)41 YEAR OR OLDER
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ AIDSRACE AIDSRAC2 AIDSRAC3
+            (1)BLACK
+            (2)WHITE
+            (3)HISPANIC
+            (4)OTHER
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ AIDSREG AIDSREG2 AIDSREG3
+            (1)NEW ENGLAND
+            (2)MIDDLE ATLANTIC
+            (3)E. NOR. CENTRAL
+            (4)W. NOR. CENTRAL
+            (5)SOUTH ATLANTIC
+            (6)E. SOU. CENTRAL
+            (7)W. SOU. CENTRAL
+            (8)MOUNTAIN
+            (9)PACIFIC
+            (0)FOREIGN
+            (98)DK
+            (99)NA
+            (-1)NAP/
+ SUIKNEW
+            (7)SEVEN OR MORE
+            (8)DK
+            (9)NA
+            (-1)NAP  /
+ SUIWHO SUIWHO2 SUIWHO3
+            (1)HUSBAND OR WIFE
+            (2)PARTNER OR LOVE
+            (3)SON OR DAUGHTER
+            (4)OTHER RELATIVE
+            (5)FRIEND
+            (6)NEIGHBOR
+            (7)CO-WORKER
+            (8)ACQUAINTANCE
+            (9)PATIENT
+            (10)OTHER
+            (98)DK
+            (99)NA
+            (0)NAP  /
+ SUISEX SUISEX2 SUISEX3
+            (1)MALE
+            (2)FEMALE
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ SUIAGE SUIAGE2 SUIAGE3
+            (1)10 YEARS OR UNDER
+            (2)11-20
+            (3)21-40
+            (4)41 YEAR OR OLDER
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ SUIRACE SUIRAC2 SUIRAC3
+            (0) NAP
+            (1)BLACK
+            (2)WHITE
+            (3)HISPANIC
+            (4)OTHER
+            (8)DK
+            (9)NA  /
+ SUIREG SUIREG2 SUIREG3
+            (1)NEW ENGLAND
+            (2)MIDDLE ATLANTIC
+            (3)E. NOR. CENTRAL
+            (4)W. NOR. CENTRAL
+            (5)SOUTH ATLANTIC
+            (6)E. SOU. CENTRAL
+            (7)W. SOU. CENTRAL
+            (8)MOUNTAIN
+            (9)PACIFIC
+            (0)FOREIGN
+            (98)DK
+            (99)NA
+            (-1)NAP/
+ PARTNERS
+            (0)NO PARTNERS
+            (1)1 PARTNER
+            (2)2 PARTNERS
+            (3)3 PARTNERS
+            (4)4 PARTNERS
+            (5)5-10 PARTNERS
+            (6)11-20 PARTNERS
+            (7)21-100 PARTNERS
+            (8)MORE THAN 100 PARTNERS
+            (9)1 OR MORE, DK #
+            (98)DK
+            (99)NA
+            (-1)NAP  /
+ PARTNRS5
+            (0)NO PARTNERS
+            (1)1 PARTNER
+            (2)2 PARTNERS
+            (3)3 PARTNERS
+            (4)4 PARTNERS
+            (5)5-10 PARTNERS
+            (6)11-20 PARTNERS
+            (7)21-100 PARTNERS
+            (8)MORE THAN 100 PARTNERS
+            (9)1 OR MORE, DK #
+            (98)DK
+            (99)NA
+            (-1)NAP  /
+ MATESEX
+            (1)YES
+            (2)NO
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ FRNDSEX
+            (1)HAD SEX WITH FRIEND
+            (2)NOT SELECTED
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ ACQNTSEX
+            (1)SEX W ACQUAINTANCE
+            (2)NOT SELECTED
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ PIKUPSEX
+            (1)HAD SEX WITH PICK-UP
+            (2)NOT SELECTED
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ PAIDSEX
+            (1)HAD SEX FOR PAY
+            (2)NOT SELECTED
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ OTHERSEX
+            (1)HAD SEX WITH OTHER
+            (2)NOT SELECTED
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ SEXSEX  SEXSEX5
+            (1)EXCLUSIVELY MALE
+            (2)BOTH MALE AND FEMALE
+            (3)EXCLUSIVELY FEMALE
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ SEXFREQ
+            (0)NOT AT ALL
+            (1)ONCE OR TWICE
+            (2)ONCE A MONTH
+            (3)2-3 TIMES A MONTH
+
+            (4)WEEKLY
+            (5)2-3 PER WEEK
+            (6)4+ PER WEEK
+            (8)DK
+            (9)NA
+            (-1)NAP/
+ NUMWOMEN NUMMEN
+            (990)DASH OR SLASH
+            (991) SOME , 1+
+            (992) 'X'
+            (993)GARBLED TEXT
+            (994)SEVERAL
+            (995)MANY,LOTS, ETC.
+            (996) "N.A"
+            (997)REFUSED
+            (998)DK
+            (999)NA
+            (-1)NAP/
+  PARTOPEN PARTOPN5
+            (990)DASH OR SLASH
+            (997)REFUSED
+            (998)DK
+            (999)NA
+            (-1)NAP/
+ EVPAIDSX
+            (1) YES
+            (2) NO
+            (8) DK
+            (9) NA
+            (0) NAP /
+ EVSTRAY
+            (1)YES
+            (2)NO
+            (3)NEVER MARRIED
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ WORDA TO WORDJ
+            (0)INCORRECT
+            (1)CORRECT
+            (9)NA
+            (-1)NAP  /
+ WORDSUM
+            (99)DID NOT TRY
+            (-1)NAP  /
+ BALLOT
+            (1)BALLOT A
+            (2)BALLOT B
+            (3)BALLOT C
+            (0)NAP  /
+ ISSP
+            (1)DID ISSP
+            (2)DIDNT DO ISSP
+            (0)NAP  /
+ SAMPCODE
+            (0)NAP  /
+ SAMPLE
+            (1)1960 BQ
+            (2)1970 BQ
+            (3)1970 FP
+            (4)1970 FP BLK OVERSAMP
+            (5)1980 BFP BLK OVERSAMP
+            (6)1980 FP
+            (7)1980 FP BLK OVERSAMP  /
+ PROB1  TO  PROB4
+              (0)NAP
+              (996)NONE
+              (999)NA/
+ HLTH1  TO  OTH5
+              (0) NAP
+              (1) YES
+              (2) NO
+              (8)DK
+              (9)NA  /
+ EXTRA1  TO EXTRA2
+            (0) NAP
+            (8) DK
+            (9) NA                    /
+ RELATE1 RELATE2 RELATE3 RELATE4 RELATE5 RELATE6 RELATE7
+    RELATE8
+ RELATE9 RELATE10 RELATE11 RELATE12 RELATE13 RELATE14
+
+             (1) HEAD OF HOUSEHOLD
+             (2) SPOUSE
+             (3) CHILD
+             (4) SON or DAUGHTER-IN-LAW
+             (5) GRAND or GREAT-GRANDCHILD
+             (6) PARENT or PARENT-IN-LAW
+             (7) OTHER RELATIVE
+             (8) NON-RELATIVE
+             (9) NA
+             (0) NAP/
+ GENDER1 GENDER2 GENDER3 GENDER4 GENDER5 GENDER6 GENDER7  GENDER8
+ GENDER9 GENDER10 GENDER11 GENDER12 GENDER13 GENDER14
+
+             (1) MALE
+             (2) FEMALE
+             (9) NA
+             (0) NAP/
+ OLD1 OLD2 OLD3 OLD4 OLD5 OLD6 OLD7 OLD8 OLD10 OLD11 OLD12
+ OLD13 OLD14
+             (-1) NAP
+             (98) DK
+             (99) NA/
+ MAR1 MAR2 MAR3
+
+             (1) MARRIED
+             (2) WIDOWED
+             (3) DIVORCED
+             (4) SEPARATED
+             (5) NEVER MARRIED
+             (8) DK
+             (9) NA
+             (0) NAP/
+ MAR4 MAR5 MAR6 MAR7 MAR8 MAR9 MAR10 MAR11 MAR12 MAR13 MAR14
+
+             (1) MARRIED
+             (2) WIDOWED
+             (3) DIVORCED
+             (4) SEPARATED
+             (5) NEVER MARRIED
+             (9) NA
+             (0) NAP/
+ AWAY1 AWAY2 AWAY3 AWAY4 AWAY5 AWAY6 AWAY7 AWAY8 AWAY9 AWAY10
+ AWAY11 AWAY12 AWAY13 AWAY14
+
+             (1) YES
+             (8) DK
+             (9) NA
+             (0) NAP/
+  WHERE1 WHERE2 WHERE3 WHERE4 WHERE5 WHERE6 WHERE7 WHERE8
+  WHERE9  WHERE10 WHERE11 WHERE12 WHERE13 WHERE14
+
+             (1) ANOTHER HOUSEHOLD
+             (2) TRAVELING
+             (3) INSTITUTION
+             (4) OTHER, DK
+             (9) NA
+             (0) NAP/
+  HEFINFO
+
+             (1) 1ST PERSON
+             (2) 2ND PERSON
+             (3) 3RD PERSON
+             (4) 4TH PERSON
+             (5) 5TH PERSON
+             (6) 6TH PERSON
+             (7) 7TH PERSON
+             (8) 8TH PERSON
+             (9) 9TH PERSON
+            (10) 10TH PERSON
+            (11) 11TH PERSON
+            (12) 12TH PERSON
+            (13) 13TH PERSON
+            (14) 14TH PERSON
+            (22) not in household
+            (99) NA
+             (0) NAP/
+ HHRACE
+
+             (1) WHITE
+             (2) BLACK
+             (3) AMER INDIAN
+             (4) ASIATIC, ORIENTAL
+             (5) OTHER, MIXED
+             (8) DK
+             (9) NA
+             (0) NAP/
+ RESPNUM
+
+             (1) 1ST PERSON
+             (2) 2ND PERSON
+             (3) 3RD PERSON
+             (4) 4TH PERSON
+             (5) 5TH PERSON
+             (6) 6TH PERSON
+             (7) 7TH PERSON
+             (8) 8TH PERSON
+             (9) 9TH PERSON
+            (10) 10TH PERSON
+            (11) 11TH PERSON
+            (12) 12TH PERSON
+            (13) 13TH PERSON
+            (14) 14TH PERSON
+            (99) NA
+             (0) NAP/
+ HHTYPE
+
+              (1)1ADLT,0KIDS
+              (2)1ADLT,1+KIDS
+              (3)2ADLTS,MAR,0KIDS
+              (4)2ADLTS,MAR,1+KIDS
+              (5)2ADLTS,DKMAR,0KIDS
+              (6)2ADLTS,DKMAR,1+KIDS
+              (7)2AS,NTMAR,NTREL,OPSEX,0KS
+              (8)2AS,NTMAR,NTREL,OPSEX,1+KS
+              (9)2AS,NTMAR,NTREL,SMSEX,0KS
+             (10)2AS,NTMAR,NTREL,SMSEX,1+KS
+             (11)2ADLTS,NTMAR,REL,0KIDS
+             (12)2ADLTS,NTMAR,REL,1+KIDS
+             (13)2ADLTS,NTMAR,DKREL,0KIDS
+             (14)2ADLTS,NTMAR,DKREL,1+KIDS
+             (15)2AS,NTMAR,NTREL,DKSEX,0KS
+             (16)2AS,NTMAR,NTREL,DKSEX,1+KS
+             (20)3ADLT,0MAR,SP,0KIDS
+             (21)3ADLTS,0MAR,SP,REL,0KIDS
+             (22)3ADLTS,0MAR,REL,SP,0KIDS
+             (23)3ADLTS,0MAR,REL,0KIDS
+             (24)3ADLTS,0MAR,SP,NTREL,0KIDS
+             (25)3ADLTS,0MAR,NTREL,SP,0KIDS
+             (26)3ADLTS,0MAR,REL,0KIDS
+             (27)3ADLTS,0MAR,NTREL,REL,0KIDS
+             (28)3ADLTS,0MAR,NTREL,0KIDS
+             (30)3ADLTS,1MAR,SP,0KIDS
+             (31)3ADLTS,1MAR,SP,REL,0KIDS
+             (32)3ADLTS,1MAR,REL,SP,0KIDS
+             (33)3ADLTS,1MAR,REL,REL,0KIDS
+             (34)3ADLTS,1MAR,SP,NTREL,0KIDS
+             (35)3ADLTS,1MAR,NTREL,SP,0KIDS
+             (36)3ADLTS,1MAR,REL,NTREL,0KIDS
+             (37)3ADLTS,1MAR,NTREL,REL,0KIDS
+             (38)3ADLTS,1MAR,NTREL,0KIDS
+             (40)3ADLTS,2MAR,SP,0KIDS
+             (41)3ADLTS,2MAR,SP,REL,0KIDS
+             (42)3ADLTS,2MAR,REL,SP,0KIDS
+             (43)3ADLTS,2MAR,REL,0KIDS
+             (44)3ADLTS,2MAR,SP,NTREL,0KIDS
+             (45)3ADLTS,2MAR,REL,NTREL,0KIDS
+             (46)3ADLTS,2MAR,REL,NTREL,0KIDS
+             (47)3ADLTS,2MAR,NTREL,REL,0KIDS
+             (48)3ADLTS,2MAR,NTREL,0KIDS
+             (50)3ADLTS,3MAR,SP,0KIDS
+             (51)3ADLTS,3MAR,SP,REL,0KIDS
+             (52)3ADLTS,3MAR,SP,REL,0KIDS
+             (53)3ADLTS,3MAR,REL,0KIDS
+             (54)3ADLTS,3MAR,SP,NTREL,0KIDS
+             (55)3ADLTS,3MAR,NTREL,SP,0KIDS
+             (56)3ADLTS,3MAR,REL,NTREL,0KIDS
+             (57)3ADLTS,3MAR,NTREL,REL,0KIDS
+             (58)3ADLTS,3MAR,NTREL,0KIDS
+             (100)4+ADLTS,0MAR,0KIDS
+             (101)4+ADLTS,1MAR,0KIDS
+             (102)4+ADLTS,2MAR,0KIDS
+             (103)4+ADLTS,3MAR,0KIDS
+             (104)4+ADLTS,4+MAR,0KIDS
+             (120)3ADLT,0MAR,SP,1+KIDS
+             (121)3ADLTS,0MAR,SP,REL,1+KIDS
+             (122)3ADLTS,0MAR,REL,SP,1+KIDS
+             (123)3ADLTS,0MAR,REL,1+KIDS
+             (124)3ADLTS,0MAR,SP,NTREL,1+KIDS
+             (125)3ADLTS,0MAR,NTREL,SP,1+KIDS
+             (126)3ADLTS,0MAR,REL,1+KIDS
+             (127)3ADLTS,0MAR,NTREL,REL,1+KIDS
+             (128)3ADLTS,0MAR,NTREL,1+KIDS
+             (130)3ADLTS,1MAR,SP,1+KIDS
+             (131)3ADLTS,1MAR,SP,REL,1+KIDS
+             (132)3ADLTS,1MAR,REL,SP,1+KIDS
+             (133)3ADLTS,1MAR,REL,REL,1+KIDS
+             (134)3ADLTS,1MAR,SP,NTREL,1+KIDS
+             (135)3ADLTS,1MAR,NTREL,SP,1+KIDS
+             (136)3ADLTS,1MAR,REL,NTREL,1+KIDS
+             (137)3ADLTS,1MAR,NTREL,REL,1+KIDS
+             (138)3ADLTS,1MAR,NTREL,1+KIDS
+             (140)3ADLTS,2MAR,SP,1+KIDS
+             (141)3ADLTS,2MAR,SP,REL,1+KIDS
+             (142)3ADLTS,2MAR,REL,SP,1+KIDS
+             (143)3ADLTS,2MAR,REL,1+KIDS
+             (144)3ADLTS,2MAR,SP,NTREL,1+KIDS
+             (145)3ADLTS,2MAR,REL,NTREL,1+KIDS
+             (146)3ADLTS,2MAR,REL,NTREL,1+KIDS
+             (147)3ADLTS,2MAR,NTREL,REL,1+KIDS
+             (148)3ADLTS,2MAR,NTREL,1+KIDS
+             (150)3ADLTS,3MAR,SP,1+KIDS
+             (151)3ADLTS,3MAR,SP,REL,1+KIDS
+             (152)3ADLTS,3MAR,SP,REL,1+KIDS
+             (153)3ADLTS,3MAR,REL,1+KIDS
+             (154)3ADLTS,3MAR,SP,NTREL,1+KIDS
+             (155)3ADLTS,3MAR,NTREL,SP,1+KIDS
+             (156)3ADLTS,3MAR,REL,NTREL,1+KIDS
+             (157)3ADLTS,3MAR,NTREL,REL,1+KIDS
+             (158)3ADLTS,3MAR,NTREL,1+KIDS
+             (200)4+ADLTS,0MAR,1+KIDS
+             (201)4+ADLTS,1MAR,1+KIDS
+             (202)4+ADLTS,2MAR,1+KIDS
+             (203)4+ADLTS,3MAR,1+KIDS
+             (204)4+ADLTS,4+MAR,1+KIDS
+             (998) DK
+             (999)NA
+              (0) NAP/
+ HHTYPE1
+
+             (1) MARRIED COUPLE, NO CHILDREN
+             (2) SINGLE PARENT
+             (3) OTHER FAM., NO CHILDREN
+             (4) SINGLE ADULT
+             (5) COHAB COUPLE, NO CHILDREN
+             (6) NON-FAMILY, NO CHILDREN
+             (8) UNSURE, NO CHILDREN
+            (11) MARRIED COUPLE W CHILDREN
+            (13) COHAB COUPLE W CHILDREN
+            (15) COHAB COUPLE W CHILDREN
+            (16) NON-FAMILY W CHILDREN
+            (18) UNSURE W CHILDREN
+            (99) NA
+             (0) NAP/
+ FAMGEN
+             (1) 1 GEN
+             (2) 2 GENS, CHILDREN
+             (3) 2 GENS, PARENTS
+             (4) 2 GENS, GRANDCHLDRN
+             (5) 3 GENS, GRANDCHLDRN
+             (6) 3 GENS, CHLD, PAR
+             (7) 4 GENS
+             (8) DK
+             (9) NA
+             (0) NAP/
+ RPLACE
+
+             (1) HEAD OF HOUSEHOLD
+             (2) SPOUSE
+             (3) CHILD
+             (4) SON or DAUGHTER-IN-LAW
+             (5) GRAND or GREAT-GRANDCHILD
+             (6) PARENT or PARENT-IN-LAW
+             (7) OTHER RELATIVE
+             (8) NON-RELATIVE
+            (98) DK
+             (9) NA
+             (0) NAP/
+ RVISITOR
+
+             (1) R. IS HOUSEHOLD MEMBER
+             (2) R. IS VISITOR
+             (8) DK
+             (9) NA
+             (0) NAP/
+  VISITORS
+
+             (0) NO VISITORS
+             (1) 1 VISITOR
+             (2) 2 VISITORS
+             (3) 3 VISITORS
+             (4) 4 VISITORS
+             (8) DK
+             (9) NA
+             (-1) NAP/
+  DATEINTV
+
+             (9999) NA
+             (0) NAP/
+ ISCO681 TO SPISC681
+
+             (9998) DK
+             (9999) NA
+             (0) NAP/
+  SEI TO SPSEI
+
+             (99.8) DK
+             (99.9) NA
+             (0) NAP /
+
+ OPWLTH TO OPPOL
+            (1)ESSENTIAL
+            (2)VERY IMPORTANT
+            (3)FAIRLY IMPORTANT
+            (4)NOT VERY IMPORTANT
+            (5)NOT IMPORTANT AT ALL
+            (8)CANT CHOOSE
+            (9)NA
+            (0)NAP  /
+
+ GOODLIFE
+            (1)STRONGLY AGREE
+            (2)AGREE
+            (3)NEITHER
+            (4)DISAGREE
+            (5)STRONGLY DISAGREE
+            (8)CANT CHOOSE
+            (9)NA
+            (0)NAP  /
+
+ INEQUAL1 TO INEQUAL7
+            (1)STRONGLY AGREE
+            (2)AGREE
+            (3)NEITHER
+            (4)DISAGREE
+            (5)STRONGLY DISAGREE
+            (8)CANT CHOOSE
+            (9)NA
+            (0)NAP  /
+
+  PAYSKILL TO PAYCABNT
+            (99999995) >$99,999,994
+            (99999997)REFUSED
+            (99999998)DK
+            (99999999)NA
+            (-1)NAP  /
+
+ GIVSKILL TO GIVCABNT
+            (99999992)MT NOW PAID
+            (99999993)SAME AS NOW PAID
+            (99999994)LT NOW PAID
+            (99999997)REFUSED
+            (99999998)DK
+            (99999999)NA
+            (-1)NAP  /
+
+ INCGAP TO GOVMINC
+            (1)STRONGLY AGREE
+            (2)AGREE
+            (3)NEITHER
+            (4)DISAGREE
+            (5)STRONGLY DISAGREE
+            (8)CANT CHOOSE
+            (9)NA
+            (0)NAP  /
+
+ TAXRICH TO TAXPOOR
+            (1)MUCH TOO HIGH
+            (2)TOO HIGH
+            (3)ABOUT RIGHT
+            (4)TOO LOW
+            (5)MUCH TOO LOW
+            (8)CANT CHOOSE
+            (9)NA
+            (0)NAP  /
+
+ TAXSHARE
+            (1)MUCH LARGER SHARE
+            (2)LARGER
+            (3)SAME SHARE
+            (4)SMALLER SHARE
+            (5)MUCH LOWER SHARE
+            (8)CANT CHOOSE
+            (9)NA
+            (0)NAP  /
+
+ CONWLTH TO CONAGE
+            (1)VERY STRONG CONFLICT
+            (2)STRONG CONFLICT
+            (3)NOT STRONG CONFLICT
+            (4)NO CONFLICT
+            (8)CANT CHOOSE
+            (9)NA
+            (0)NAP  /
+
+ RANK
+            (1)TOP
+            (10)BOTTOM
+            (98)DK
+            (99)NA
+            (0)NAP  /
+
+ OCCMOBIL
+            (1)MUCH HIGHER THAN DAD
+            (2)HIGHER
+            (3)ABOUT EQUAL
+            (4)LOWER
+            (5)MUCH LOWER THAN DAD
+            (6)R NEVER HAD JOB
+            (7)NO DAD-NEVER HAD JOB
+            (8)DK
+            (9)NA
+            (0)NAP  /
+
+ SOLMOBIL
+            (1)MUCH BETTER OFF THAN DAD
+            (2)BETTER OFF
+            (3)ABOUT EQUAL
+            (4)WORSE OFF
+            (5)MUCH WORSE OFF THAN DAD
+            (6)R NEVER HAD JOB
+            (7)NO DAD-NEVER HAD JOB
+            (8)DK
+            (9)NA
+            (0)NAP  /
+
+ EDUMOBIL
+            (1)MUCH BETTER OFF THAN DAD
+            (2)BETTER OFF
+            (3)ABOUT EQUAL
+            (4)WORSE OFF
+            (5)MUCH WORSE OFF THAN DAD
+            (6)R NEVER HAD JOB
+            (7)NO DAD-NEVER HAD JOB
+            (8)DK
+            (9)NA
+            (0)NAP  /
+
+ EARNRESP TO EARNHARD
+            (1)ESSENTIAL
+            (2)VERY IMPORTANT
+            (3)FAIRLY IMPORTANT
+            (4)NOT VERY IMPORTANT
+            (5)NOT IMPORTANT AT ALL
+            (8)DK
+            (9)NA
+            (0)NAP  /
+
+
+
+ MOREEQ LESSEQ
+            (1) DEFINITELY GO UP
+            (2) PROBABLY GO UP
+            (3) STAY THE SAME
+            (4) PROBABLY GO DOWN
+            (5) DEFINITELY GO DOWN
+            (8)CAN'T CHOOSE
+            (9)NA
+            (0)NAP/
+
+ PROFTS11 TO UNPROG1
+            (1)STRONGLY AGREE
+            (2)AGREE
+            (3)DISAGREE
+            (4)STRONGLY DISAGREE
+            (8)DK
+            (9)NA
+            (0)NAP/
+
+ HLPPOOR1
+            (1)GOVT ACTION
+            (3)AGREE WITH BOTH
+            (5)PEOPLE HELP SELVES
+            (8)DK
+            (9)NA
+            (0)NAP  /
+
+ EQWLTH1
+            (1)GOVT REDUCE DIFF
+            (7)NO GOVT ACTION
+            (8)DK
+            (9)NA
+            (0)NAP  /
+
+ SATFIN1
+            (1)SATISFIED
+            (2)MORE OR LESS
+            (3)NOT AT ALL SAT.
+            (8)DK
+            (9)NA
+             (0) NAP /
+
+ FINALTR1
+            (0)NAP
+            (1)BETTER
+            (2)WORSE
+            (3)STAYED SAME
+            (8)DK
+            (9)NA  /
+
+ WORK11 TO FINAN51
+            (1)YES
+            (2)NO
+            (8)DK
+            (9)NA
+            (0)NAP  /
+
+ POLVIEW1
+            (1)EXTREMELY LIBERAL
+            (2)LIBERAL
+            (3)SLIGHTLY LIBERAL
+            (4)MODERATE
+            (5)SLGHTLY CONSERVATIVE
+            (6)CONSERVATIVE
+            (7)EXTRMLY CONSERVATIVE
+            (8)DK
+            (9)NA
+            (0)NAP/
+
+
+ PARTYIDA
+            (-1)   NAP
+            (0)STRONG DEMOCRAT
+            (1)NOT VERY STRONG DEMOCRAT
+            (2)INDEPENDENT, CLOSE TO DEMOCRAT
+            (3)INDEPENDENT
+            (4)INDEPENDENT, CLOSE TO REPUBLICAN
+            (5)NOT VERY STRONG REPUBLICAN
+            (6)STRONG REPUBLICAN
+            (7)OTHER PARTY, REFUSED
+            (8)DK
+            (9)NA/
+
+
+ UNION1
+            (1)R BELONGS
+            (2)SPOUSE BELONGS
+            (3)R AND SPOUSE BELONG
+            (4)NEITHER BELONGS
+            (8)DK
+            (9)NA
+            (0)NAP  /
+
+ NEWS1
+            (1)EVERYDAY
+            (2)FEW TIMES A WEEK
+            (3)ONCE A WEEK
+            (4)LESS THAN ONCE WK
+            (5)NEVER
+            (8)DK
+            (9)NA
+            (0)NAP  /
+
+ MARITAL1
+            (0)NAP
+            (1)MARRIED
+            (2)WIDOWED
+            (3)DIVORCED
+            (4)SEPARATED
+            (5)NEVER MARRIED
+            (9)NA  /
+ HOMPOP1
+             (0) NAP
+            (98)DK
+            (99)NA  /
+ BABIES1 TO ADULTS1
+            (-1) NAP
+            (8)8 OR MORE
+            (99)NA  /
+ EARNRS1
+            (-1)NAP
+            (8)EIGHT OR MORE
+            (99)NA  /
+
+ WRKSTAT1
+            (1)WORKING FULLTIME
+            (2)WORKING PARTTIME
+            (3)TEMP NOT WORKING
+            (4)UNEMPL, LAID OFF
+            (5)RETIRED
+            (6)SCHOOL
+            (7)KEEPING HOUSE
+            (8)OTHER
+            (9)NA
+            (0)NAP  /
+
+ HRS11 HRS21
+            (-1)NAP
+            (98)DK
+            (99)NA  /
+
+
+ RINCM911 INCME911
+            (1)LT $1000
+            (2)$1000-2999
+            (3)$3000-3999
+            (4)$4000-4999
+            (5)$5000-5999
+            (6)$6000-6999
+            (7)$7000-7999
+            (8)$8000-9999
+            (9)$10000-12499
+            (10)$12500-14999
+            (11)$15000-17499
+            (12)$17500-19999
+            (13)$20000-22499
+            (14)$22500-24999
+            (15)$25000-29999
+            (16)$30000-34999
+            (17)$35000-39999
+            (18)$40000-49999
+            (19)$50000-59999
+            (20)$60000-74999
+            (21)$75000+
+            (22)REFUSED
+            (98)DK
+            (99)NA
+            (0)NAP  /
+   REINT
+       (0) DID NOT DO
+       (1) DID REINTERVIEW/
+
+
+ CLASS
+            (1)LOWER CLASS
+            (2)WORKING CLASS
+            (3)MIDDLE CLASS
+            (4)UPPER CLASS
+            (5)NO CLASS
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ ANOMIA5 TO ANOMIA7
+            (1)AGREE
+            (2)DISAGREE
+            (8)DK
+            (9)NA
+            (0)NAP  /
+
+ UNEMP
+            (1)YES
+            (2)NO
+            (8)DK
+            (9)NA
+            (0)NAP /
+ GUN
+            (1)YES
+            (2)NO
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ COOP
+            (1)FRIENDLY,INTERESTED
+            (2)COOPERATIVE
+            (3)RESTLESS,IMPATIENT
+            (4)HOSTILE
+            (9)NA
+            (0)NAP  /
+ RACDIF1 TO RACDIF4
+            (1)YES
+            (2)NO
+            (8)DK
+            (9)NA
+            (0)NAP  /
+ RELACTIV
+              (1) NEVER
+              (2) LESS THAN ONCE A YEAR
+              (3) ABOUT ONCE OR TWICE A YEAR
+              (4) SEVERAL TIMES A YEAR
+              (5) ABOUT ONCE A MONTH
+              (6) 2-3 TIMES A MONTH
+              (7) NEARLY EVERY WEEK
+              (8) EVERY WEEK
+              (9) SEVERAL TIMES A WEEK
+             (98) DK
+             (99) NA
+              (0) NAP     /
+
+
+MISSING VALUES
+   WRKSTAT   ( 0, 9)
+   HRS1      ( -1, 98, 99)
+   HRS2      ( -1, 98, 99)
+   EVWORK    ( 0, 8, 9)
+   WRKSLF    ( 0, 8, 9)
+   OCC80     ( 0, 998, 999)
+   PAOCC80   ( 0, 998, 999)
+   PRESTG80  ( 0)
+   INDUS80   ( 0, 998, 999)
+   MARITAL   ( 9)
+   AGEWED    ( 0, 98, 99)
+   DIVORCE   ( 0, 8, 9)
+   WIDOWED   ( 0, 8, 9)
+   SPWRKSTA  ( 0, 9)
+   SPHRS1    ( -1, 98, 99)
+   SPHRS2    ( -1, 98, 99)
+   SPEVWORK  ( 0, 8, 9)
+   SPWRKSLF  ( 0, 8, 9)
+   SPOCC80   ( 0, 998, 999)
+   SPPRES80  ( 0)
+   SPIND80   ( 0, 998, 999)
+   PAWRKSLF  ( 0, 8, 9)
+   PAPRES80  ( 0)
+   PAIND80   ( 0, 998, 999)
+   SIBS      ( 98, 99)
+   CHILDS    ( 9)
+   AGE       ( 0, 98, 99)
+   BIRTHMO   ( 0, 98, 99)
+   ZODIAC    ( 0, 98, 99)
+   EDUC      ( 97, 98, 99)
+   PAEDUC    ( 97, 98, 99)
+   MAEDUC    ( 97, 98, 99)
+   SPEDUC    ( 97, 98, 99)
+   DEGREE    ( 7, 8, 9)
+   PADEG     ( 7, 8, 9)
+   MADEG     ( 7, 8, 9)
+   SPDEG     ( 7, 8, 9)
+   RES16     ( 8, 9)
+   MOBILE16  ( 8, 9)
+   FAMILY16  ( 9)
+   FAMDIF16  ( 0, 8, 9)
+   MAWORK    ( 0, 8, 9)
+   MAWKBORN  ( 0, 8, 9)
+   INCOM16   ( 0, 8, 9)
+   BORN      ( 0, 8, 9)
+   PARBORN   ( -1, 9)
+   GRANBORN  ( -1, 8, 9)
+   HOMPOP    ( 0, 98, 99)
+   BABIES    ( 9)
+   PRETEEN   ( 9)
+   TEENS     ( 9)
+   ADULTS    ( 9)
+   UNRELAT   ( -1, 9)
+   EARNRS    ( 9)
+   INCOME    ( 0, 98, 99)
+   RINCOME   ( 0, 98, 99)
+   INCOME91  ( 0, 98, 99)
+   RINCOM91  ( 0, 98, 99)
+   REGION    ( 0)
+   SIZE      ( 0)
+   PARTYID   ( 8, 9)
+   VOTE88    ( 0, 8, 9)
+   PRES88    ( 0, 8, 9)
+   IF88WHO   ( 0, 8, 9)
+   POLVIEWS  ( 0, 8, 9)
+   NATSPAC  to  NATFAREY  ( 0, 8, 9)
+   EQWLTH    ( 0, 8, 9)
+   TAX       ( 0, 8, 9)
+   SPKATH    ( 0, 8, 9)
+   COLATH    ( 0, 8, 9)
+   LIBATH    ( 0, 8, 9)
+   SPKRAC    ( 0, 8, 9)
+   COLRAC    ( 0, 8, 9)
+   LIBRAC    ( 0, 8, 9)
+   SPKCOM    ( 0, 8, 9)
+   COLCOM    ( 0, 8, 9)
+   LIBCOM    ( 0, 8, 9)
+   SPKMIL    ( 0, 8, 9)
+   COLMIL    ( 0, 8, 9)
+   LIBMIL    ( 0, 8, 9)
+   SPKHOMO   ( 0, 8, 9)
+   COLHOMO   ( 0, 8, 9)
+   LIBHOMO   ( 0, 8, 9)
+   CAPPUN    ( 0, 8, 9)
+   GUNLAW    ( 0, 8, 9)
+   COURTS    ( 0, 8, 9)
+   WIRTAP    ( 0, 8, 9)
+   GRASS     ( 0, 8, 9)
+   USWARY    ( 0, 8, 9)
+   USINTL    ( 0, 8, 9)
+   USUN      ( 0, 8, 9)
+   COMMUN    ( 0, 8, 9)
+   RUSSIA    ( -1)
+   JAPAN     ( -1)
+   CANADA    ( -1)
+   CHINA     ( -1)
+   ISRAEL    ( -1)
+   EGYPT     ( -1)
+   RELIG     ( 8, 9)
+   DENOM     ( 0, 98, 99)
+   OTHER     ( 0, 998, 999)
+   JEW       ( 0, 8, 9)
+   FUND      ( 0, 8, 9)
+   ATTEND    ( 9)
+   RELITEN   ( 0, 8, 9)
+   POSTLIFE  ( 0, 8, 9)
+   SPIRITS   ( 0, 8, 9)
+   GRACE     ( 0, 8, 9)
+   NEARGOD   ( 0, 8, 9)
+   MAPA      ( 0, 8, 9)
+   MASTERSP  ( 0, 8, 9)
+   JUDGELUV  ( 0, 8, 9)
+   FRNDKING  ( 0, 8, 9)
+   RELIG16   ( 0, 8, 9)
+   DENOM16   ( 0, 98, 99)
+   OTH16     ( 0, 998, 999)
+   JEW16     ( 0, 8, 9)
+   FUND16    ( 0, 8, 9)
+   SPREL     ( 0, 8, 9)
+   SPDEN     ( 0, 98, 99)
+   SPOTHER   ( 0, 998, 999)
+   SPJEW     ( 0, 8, 9)
+   SPFUND    ( 0, 8, 9)
+   SPREL16   ( 0, 8, 9)
+   SPDEN16   ( 0, 98, 99)
+   SPOTH16   ( 0, 998, 999)
+   SPJEW16   ( 0, 8, 9)
+   SPFUND16  ( 0, 8, 9)
+   PRAYER    ( 0, 8, 9)
+   BIBLE     ( 0, 8, 9)
+   WORLD1    ( 0, 8, 9)
+   WORLD4    ( 0, 8, 9)
+   RACMAR  TO  RACMOST   ( 0, 8, 9)
+   BUSING    ( 0, 8, 9)
+   RACPRES   ( 0, 8, 9)
+   RACCHURH  ( 3 thru HI, 0)
+   HAPPY     ( 0, 8, 9)
+   HAPMAR    ( 0, 8, 9)
+   HEALTH    ( 0, 8, 9)
+   LIFE      ( 0, 8, 9)
+   HELPFUL   ( 0, 8, 9)
+   FAIR      ( 0, 8, 9)
+   TRUST     ( 0, 8, 9)
+   SATCITY   ( 0, 8, 9)
+   SATHOBBY  ( 0, 8, 9)
+   SATFAM    ( 0, 8, 9)
+   SATFRND   ( 0, 8, 9)
+   SATHEALT  ( 0, 8, 9)
+   CONFINAN  ( 0, 8, 9)
+   CONBUS    ( 0, 8, 9)
+   CONCLERG  ( 0, 8, 9)
+   CONEDUC   ( 0, 8, 9)
+   CONFED    ( 0, 8, 9)
+   CONLABOR  ( 0, 8, 9)
+   CONPRESS  ( 0, 8, 9)
+   CONMEDIC  ( 0, 8, 9)
+   CONTV     ( 0, 8, 9)
+   CONJUDGE  ( 0, 8, 9)
+   CONSCI    ( 0, 8, 9)
+   CONLEGIS  ( 0, 8, 9)
+   CONARMY   ( 0, 8, 9)
+   OBEY      ( 0, 8, 9)
+   POPULAR   ( 0, 8, 9)
+   THNKSELF  ( 0, 8, 9)
+   WORKHARD  ( 0, 8, 9)
+   HELPOTH   ( 0, 8, 9)
+   SOCREL    ( -1, 8, 9)
+   SOCOMMUN  ( -1, 8, 9)
+   SOCFREND  ( -1, 8, 9)
+   SOCBAR    ( -1, 8, 9)
+   SOCPARS   ( -1, 8, 9)
+   SOCSIBS   ( -1, 8, 9)
+   AGED      ( 0, 8, 9)
+   DRINK     ( 0, 8, 9)
+   DRUNK     ( 0, 8, 9)
+   SMOKE     ( 0, 8, 9)
+   QUITSMK   ( 0, 8, 9)
+   EVSMOKE   ( 0, 8, 9)
+   ANOMIA5   ( 0, 8, 9)
+   ANOMIA6   ( 0, 8, 9)
+   ANOMIA7   ( 0, 8, 9)
+   JOBLOSE   ( 0, 8, 9)
+   JOBFIND   ( 0, 8, 9)
+   SATJOB    ( 0, 8, 9)
+   RICHWORK  ( 0, 8, 9)
+   JOBINC    ( 0, 8, 9)
+   JOBSEC    ( 0, 8, 9)
+   JOBHOUR   ( 0, 8, 9)
+   JOBPROMO  ( 0, 8, 9)
+   JOBMEANS  ( 0, 8, 9)
+   CLASS     ( 0, 8, 9)
+   SATFIN    ( 8, 9)
+   FINALTER  ( 8, 9)
+   FINRELA   ( 8, 9)
+   WKSUB     ( 0, 8, 9)
+   WKSUBS    ( 0, 8, 9)
+   WKSUP     ( 0, 8, 9)
+   WKSUPS    ( 0, 8, 9)
+   UNEMP     ( 0, 8, 9)
+   UNION     ( 0, 8, 9)
+   GETAHEAD  ( 0, 8, 9)
+   FEHOME    ( 0, 8, 9)
+   FEWORK    ( 0, 8, 9)
+   FEPRES    ( 0, 8, 9)
+   FEPOL     ( 0, 8, 9)
+   ABDEFECT  ( 0, 8, 9)
+   ABNOMORE  ( 0, 8, 9)
+   ABHLTH    ( 0, 8, 9)
+   ABPOOR    ( 0, 8, 9)
+   ABRAPE    ( 0, 8, 9)
+   ABSINGLE  ( 0, 8, 9)
+   ABANY     ( 0, 8, 9)
+   CHLDIDEL  ( -1, 9)
+   CHLDMORE  ( 0, 8, 9)
+   CHLDNUM   ( 0, 9)
+   PILLOK    ( 0, 8, 9)
+   SEXEDUC   ( 0, 8, 9)
+   DIVLAW    ( 0, 8, 9)
+   PREMARSX  ( 0, 8, 9)
+   TEENSEX   ( 0, 8, 9)
+   XMARSEX   ( 0, 8, 9)
+   HOMOSEX   ( 0, 8, 9)
+   PORNINF   ( 0, 8, 9)
+   PORNMORL  ( 0, 8, 9)
+   PORNRAPE  ( 0, 8, 9)
+   PORNOUT   ( 0, 8, 9)
+   PORNLAW   ( 0, 8, 9)
+   XMOVIE    ( 0, 8, 9)
+   SPANKING  ( 0, 8, 9)
+   LETDIE1   ( 0, 8, 9)
+   SUICIDE1  ( 0, 8, 9)
+   SUICIDE2  ( 0, 8, 9)
+   SUICIDE3  ( 0, 8, 9)
+   SUICIDE4  ( 0, 8, 9)
+   HIT       ( 0, 8, 9)
+   HITAGE    ( 0, 8, 9)
+   GUN       ( 0, 8, 9)
+   GUNAGE    ( 0, 8, 9)
+   HITOK     ( 0, 8, 9)
+   HITMARCH  ( 0, 8, 9)
+   HITDRUNK  ( 0, 8, 9)
+   HITCHILD  ( 0, 8, 9)
+   HITBEATR  ( 0, 8, 9)
+   HITROBBR  ( 0, 8, 9)
+   POLHITOK  ( 0, 8, 9)
+   POLABUSE  ( 0, 8, 9)
+   POLMURDR  ( 0, 8, 9)
+   POLESCAP  ( 0, 8, 9)
+   POLATTAK  ( 0, 8, 9)
+   FEAR      ( 0, 8, 9)
+   BURGLR    ( 0, 8, 9)
+   ROBBRY    ( 0, 8, 9)
+   OWNGUN    ( 0, 8, 9)
+   PISTOL    ( 0, 8, 9)
+   SHOTGUN   ( 0, 8, 9)
+   RIFLE     ( 0, 8, 9)
+   ROWNGUN   ( 0, 8, 9)
+   HUNT      ( 0, 8, 9)
+   NEWS      ( 0, 8, 9)
+   TVHOURS   ( -1, 98, 99)
+   PHONE     ( 0, 9)
+   COOP      ( 0, 9)
+   COMPREND  ( 0, 9)
+   FORM      ( 0)
+   FECHLD    ( 0, 8, 9)
+   FEHELP    ( 0, 8, 9)
+   FEPRESCH  ( 0, 8, 9)
+   FEFAM     ( 0, 8, 9)
+   RACCHNG   ( 0, 8, 9)
+   RACDIF1   ( 0, 8, 9)
+   RACDIF2   ( 0, 8, 9)
+   RACDIF3   ( 0, 8, 9)
+   RACDIF4   ( 0, 8, 9)
+   DIVORCE5  ( -1, 9)
+   UNEMP5    ( -1, 9)
+   HOSDIS5   ( -1, 9)
+   DEATH5    ( -1, 9)
+   DEATH16   ( -1)
+   PADEATH   ( -1, 8, 9)
+   MADEATH   ( -1, 8, 9)
+   CHLDDTH   ( -1, 9)
+   SIBDEATH  ( -1, 9)
+   SPDEATH   ( -1, 9)
+   TRAUMA1   ( -1, 9)
+   TRAUMA5   ( -1, 9)
+   HELPPOOR  ( 0, 8, 9)
+   HELPNOT   ( 0, 8, 9)
+   HELPSICK  ( 0, 8, 9)
+   HELPBLK   ( 0, 8, 9)
+   MEMFRAT   ( 0, 8, 9)
+   MEMSERV   ( 0, 8, 9)
+   MEMVET    ( 0, 8, 9)
+   MEMPOLIT  ( 0, 8, 9)
+   MEMUNION  ( 0, 8, 9)
+   MEMSPORT  ( 0, 8, 9)
+   MEMYOUTH  ( 0, 8, 9)
+   MEMSCHL   ( 0, 8, 9)
+   MEMHOBBY  ( 0, 8, 9)
+   MEMGREEK  ( 0, 8, 9)
+   MEMNAT    ( 0, 8, 9)
+   MEMFARM   ( 0, 8, 9)
+   MEMLIT    ( 0, 8, 9)
+   MEMPROF   ( 0, 8, 9)
+   MEMCHURH  ( 0, 8, 9)
+   MEMOTHER  ( 0, 8, 9)
+   MEMNUM    ( -1, 98, 99)
+   CHURHSCH  ( -1, 98, 99)
+   GOD       ( 0, 8, 9)
+   REBORN    ( 0, 8, 9)
+   GENEJOB   ( 0, 8, 9)
+   GENEHIRE  ( 0, 8, 9)
+   GENECANX  ( 0, 8, 9)
+   GENECANY  ( 0, 8, 9)
+   GENEGETS  ( 0, 8, 9)
+   PROFITS1  ( 0, 8, 9)
+   PROFITS2  ( 0, 8, 9)
+   UNPOWER   ( 0, 8, 9)
+   UNPROG    ( 0, 8, 9)
+   OUTOFBIZ  ( 0, 8, 9)
+   MERGED    ( 0, 8, 9)
+   REORG     ( 0, 8, 9)
+   ORGFIN    ( 0, 8, 9)
+   WRKYEARS  ( -1, 98, 99)
+   EVUNEMP   ( 0, 8, 9)
+   NUMUNEMP  ( 0, 98, 99)
+   TOTUNEMP  ( 0, 8, 9)
+   EMPYEARS  ( -1.00, 99.98, 99.99)
+   FNDJOB1   ( 0, 9)
+   FNDJOB2   ( 0, 9)
+   FNDJOB3   ( 0, 9)
+   FNDJOB4   ( 0, 9)
+   FNDJOB5   ( 0, 9)
+   FNDJOB6   ( 0, 9)
+   FNDJOB7   ( 0, 9)
+   FNDJOB8   ( 0, 9)
+   FNDJOB9   ( 0, 9)
+   INTLTEST  ( 0, 8, 9)
+   SKILTEST  ( 0, 8, 9)
+   DRUGTEST  ( 0, 8, 9)
+   PHYSICAL  ( 0, 8, 9)
+   LTRSREF   ( 0, 8, 9)
+   SAMEJOB   ( 0, 8, 9)
+   JOBYEARS  ( -1.00, 99.98, 99.99)
+   THISJOB1  ( 0, 9)
+   THISJOB2  ( 0, 9)
+   THISJOB3  ( 0, 9)
+   THISJOB4  ( 0, 9)
+   THISJOB5  ( 0, 9)
+   THISJOB6  ( 0, 9)
+   THISJOB7  ( 0, 9)
+   PROMOTNG  ( 0, 8, 9)
+   PROMOTED  ( 0, 9)
+   NUMPROMO  ( 0, 8, 9)
+   IMPPROMO  ( 0, 8, 9)
+   FUTPROMO  ( 0, 8, 9)
+   SEXPROMO  ( 0, 8, 9)
+   RACPROMO  ( 0, 8, 9)
+   ADVANCES  ( 0, 8, 9)
+   JOBCNTRL  ( 0, 8, 9)
+   WRKINDEP  ( 0, 8, 9)
+   LOTTOSAY  ( 0, 8, 9)
+   IDECIDE   ( 0, 8, 9)
+   AUTOMATN  ( 0, 8, 9)
+   MONITRED  ( 0, 8, 9)
+   OFFSUP    ( 0, 8, 9)
+   YOUSUP    ( 0, 998, 999)
+   SUPOTHRS  ( 0, 9)
+   LEVELS    ( 0, 98, 99)
+   TOTSUP    ( 0, 9998, 9999)
+   SUPDUTY1  ( 0, 9)
+   SUPDUTY2  ( 0, 9)
+   SUPDUTY3  ( 0, 8, 9)
+   SUPDUTY4  ( 0, 9)
+   SUPDUTY5  ( 0, 9)
+   SUPDUTY6  ( 0, 8, 9)
+   SUPDUTY7  ( 0, 9)
+   OTHDUTY1  ( 0, 9)
+   OTHDUTY2  ( 0, 9)
+   OTHDUTY3  ( 0, 8, 9)
+   OTHDUTY4  ( 0, 9)
+   OTHDUTY5  ( 0, 9)
+   OTHDUTY6  ( 0, 8, 9)
+   OTHDUTY7  ( 0, 8, 9)
+   ORGMONEY  ( 0, 9)
+   TOTMONEY  ( 0, 9999998, 9999999)
+   YOUMONEY  ( 0, 9999998, 9999999)
+   JOBJUDGE  ( 0, 8, 9)
+   QUANTITY  ( 0, 8, 9)
+   QUALITY   ( 0, 8, 9)
+   WRKWELL   ( 0, 8, 9)
+   WRKMUCH   ( 0, 8, 9)
+   IMATTER   ( 0, 8, 9)
+   HELPORG   ( 0, 8, 9)
+   NOTLOYAL  ( 0, 8, 9)
+   STAYORG1  ( 0, 8, 9)
+   SAMEVALS  ( 0, 8, 9)
+   PROUDORG  ( 0, 8, 9)
+   STAYORG2  ( 0, 8, 9)
+   NOTICED   ( 0, 8, 9)
+   CHNGEORG  ( 0, 8, 9)
+   OTHERPAY  ( 0, 9)
+   RAISEALL  ( 0, 8, 9)
+   RAISEHRD  ( 0, 8, 9)
+   RAISEFAV  ( 0, 8, 9)
+   FRINGE1   ( 0, 8, 9)
+   FRINGE2   ( 0, 8, 9)
+   FRINGE3   ( 0, 8, 9)
+   FRINGE4   ( 0, 8, 9)
+   FRINGE5   ( 0, 8, 9)
+   FRINGE6   ( 0, 8, 9)
+   FRINGE7   ( 0, 8, 9)
+   FRINGE8   ( 0, 8, 9)
+   FRINGE9   ( 0, 8, 9)
+   FRINGE10  ( 0, 8, 9)
+   FRINGE11  ( 0, 8, 9)
+   JOBVSHME  ( 0, 9)
+   UNVOTE    ( 0, 8, 9)
+   UNMANREL  ( 0, 8, 9)
+   COWRKREL  ( 0, 8, 9)
+   SCHOOLNG  ( 0, 8, 9)
+   TRAINING  ( 0, 8, 9)
+   LEARNING  ( 0, 8, 9)
+   EXPTRAIN  ( 0, 8, 9)
+   WHEREWRK  ( 0, 9)
+   FINDOUT   ( 0, 9)
+   BASEOFOP  ( 0, 9)
+   SPLOCNUM  ( 0, 8, 9)
+   JOBSALL   ( 0, 8, 9)
+   EQUALIZE  ( 0, 8, 9)
+   FAMSUFFR  ( 0, 8, 9)
+   HUBBYWRK  ( 0, 8, 9)
+   LOCALNUM  ( 0, 8, 9)
+   HAPUNHAP  ( 0, 8, 9)
+   STIFFPUN  ( 0, 8, 9)
+   DEATHPEN  ( 0, 8, 9)
+   PREMARS1  ( 0, 8, 9)
+   XMARSEX1  ( 0, 8, 9)
+   HOMOSEX1  ( 0, 8, 9)
+   ABDEFCT1  ( 0, 8, 9)
+   ABPOOR1   ( 0, 8, 9)
+   ABDEFCTW  ( 0, 8, 9)
+   ABPOORW   ( 0, 8, 9)
+   TAXCHEAT  ( 0, 8, 9)
+   GOVCHEAT  ( 0, 8, 9)
+   CONCONG   ( 0, 8, 9)
+   CONBIZ    ( 0, 8, 9)
+   CONGOVT   ( 0, 8, 9)
+   CONCHURH  ( 0, 8, 9)
+   CONCOURT  ( 0, 8, 9)
+   CONSCHLS  ( 0, 8, 9)
+   POLSGOD   ( 0, 8, 9)
+   CLERGVTE  ( 0, 8, 9)
+   RELIGPUB  ( 0, 8, 9)
+   CLERGGOV  ( 0, 8, 9)
+   CHURHPOW  ( 0, 8, 9)
+   GODCHNGE  ( 0, 8, 9)
+   AFTERLIF  ( 0, 8, 9)
+   DEVIL     ( 0, 8, 9)
+   HEAVEN    ( 0, 8, 9)
+   HELL      ( 0, 8, 9)
+   MIRACLES  ( 0, 8, 9)
+   BIBLE1    ( 0, 8, 9)
+   THEISM    ( 0, 8, 9)
+   FATALISM  ( 0, 8, 9)
+   GODMEANS  ( 0, 8, 9)
+   NIHILISM  ( 0, 8, 9)
+   PREDETER  ( 0, 8, 9)
+   EGOMEANS  ( 0, 8, 9)
+   OWNFATE   ( 0, 8, 9)
+   RELEXPER  ( 0, 8, 9)
+   MARELKID  ( 0, 8, 9)
+   MADENKID  ( 0, 99998, 99999)
+   PARELKID  ( 0, 8, 9)
+   PADENKID  ( 0, 99998, 99999)
+   RELIGKID  ( 0, 8, 9)
+   DENKID    ( 0, 99998, 99999)
+   RELIGSP   ( 0, 8, 9)
+   DENSP     ( 0, 99998, 99999)
+   ATTENDMA  ( 0, 98, 99)
+   ATTENDPA  ( 0, 98, 99)
+   ATTEND12  ( 0, 98, 99)
+   PRAYFREQ  ( 0, 98, 99)
+   RELACTIV  ( 0, 98, 99)
+   FEELREL   ( 0, 8, 9)
+   SCHLPRAY  ( 0, 8, 9)
+   GODRIGHT  ( 0, 8, 9)
+   SOCRIGHT  ( 0, 8, 9)
+   PERRIGHT  ( 0, 8, 9)
+   ANTIREL   ( 0, 8, 9)
+   AIDSKNOW  ( -1, 8, 9)
+   AIDSWHO   ( 0, 98, 99)
+   AIDSDEAD  ( 0, 8, 9)
+   AIDSSEX   ( 0, 8, 9)
+   AIDSAGE   ( 0, 8, 9)
+   AIDSRACE  ( 0, 8, 9)
+   AIDSREG   ( -1, 98, 99)
+   AIDSWHO2  ( 0, 98, 99)
+   AIDSDED2  ( 0, 8, 9)
+   AIDSSEX2  ( 0, 8, 9)
+   AIDSAGE2  ( 0, 8, 9)
+   AIDSRAC2  ( 0, 8, 9)
+   AIDSREG2  ( -1, 98, 99)
+   AIDSWHO3  ( 0, 98, 99)
+   AIDSDED3  ( 0, 8, 9)
+   AIDSSEX3  ( 0, 8, 9)
+   AIDSAGE3  ( 0, 8, 9)
+   AIDSRAC3  ( 0, 8, 9)
+   AIDSREG3  ( -1, 98, 99)
+   SUIKNEW   ( -1, 8, 9)
+   SUIWHO    ( 0, 98, 99)
+   SUISEX    ( 0, 8, 9)
+   SUIAGE    ( 0, 8, 9)
+   SUIRACE   ( 0, 8, 9)
+   SUIREG    ( -1, 98, 99)
+   SUIWHO2   ( 0, 98, 99)
+   SUISEX2   ( 0, 8, 9)
+   SUIAGE2   ( 0, 8, 9)
+   SUIRAC2   ( 0, 8, 9)
+   SUIREG2   ( -1, 98, 99)
+   SUIWHO3   ( 0, 98, 99)
+   SUISEX3   ( 0, 8, 9)
+   SUIAGE3   ( 0, 8, 9)
+   SUIRAC3   ( 0, 8, 9)
+   SUIREG3   ( -1, 98, 99)
+   PARTNERS  ( -1, 98, 99)
+   MATESEX   ( 0, 8, 9)
+   FRNDSEX   ( 0, 8, 9)
+   ACQNTSEX  ( 0, 8, 9)
+   PIKUPSEX  ( 0, 8, 9)
+   PAIDSEX   ( 0, 8, 9)
+   OTHERSEX  ( 0, 8, 9)
+   SEXSEX    ( 0, 8, 9)
+   SEXFREQ   ( -1, 8, 9)
+   NUMWOMEN ( -1,990 THRU HIGH)
+   NUMMEN ( -1,990 THRU HIGH)
+   PARTOPEN  ( -1, 990 thru high)
+   PARTOPN5  ( -1, 990 THRU HIGH)
+   PARTNRS5  ( -1, 98, 99)
+   SEXSEX5   ( 0, 8, 9)
+   EVPAIDSX  ( 0, 8, 9)
+   EVSTRAY   ( 0, 8, 9)
+   PROB1     ( 0, 999)
+   PROB2     ( 0, 999)
+   PROB3     ( 0, 999)
+   PROB4     ( 0, 999)
+   HLTH1     ( 0, 9)
+   HLTH2     ( 0, 9)
+   HLTH3     ( 0, 9)
+   HLTH4     ( 0, 9)
+   HLTH5     ( 0, 9)
+   HLTH6     ( 0, 8, 9)
+   HLTH7     ( 0, 9)
+   HLTH8     ( 0, 9)
+   HLTH9     ( 0, 9)
+   WORK1     ( 0, 9)
+   WORK2     ( 0, 9)
+   WORK3     ( 0, 9)
+   WORK4     ( 0, 9)
+   WORK5     ( 0, 9)
+   WORK6     ( 0, 9)
+   WORK7     ( 0, 8, 9)
+   WORK8     ( 0, 8, 9)
+   WORK9     ( 0, 8, 9)
+   FINAN1    ( 0, 9)
+   FINAN2    ( 0, 9)
+   FINAN3    ( 0, 9)
+   FINAN4    ( 0, 9)
+   FINAN5    ( 0, 9)
+   HRDSHP1   ( 0, 9)
+   HRDSHP2   ( 0, 9)
+   HRDSHP3   ( 0, 9)
+   HRDSHP4   ( 0, 9)
+   HRDSHP5   ( 0, 9)
+   HRDSHP6   ( 0, 9)
+   HRDSHP7   ( 0, 9)
+   FAMPER1   ( 0, 9)
+   FAMPER2   ( 0, 9)
+   FAMPER3   ( 0, 9)
+   FAMPER4   ( 0, 9)
+   FAMPER5   ( 0, 9)
+   LAW1      ( 0, 9)
+   LAW2      ( 0, 9)
+   LAW3      ( 0, 9)
+   LAW4      ( 0, 9)
+   LAW5      ( 0, 9)
+   LAW6      ( 0, 9)
+   LAW7      ( 0, 9)
+   LIVE1     ( 0, 9)
+   LIVE2     ( 0, 9)
+   LIVE3     ( 0, 9)
+   LIVE4     ( 0, 9)
+   OTH1      ( 0, 9)
+   OTH2      ( 0, 9)
+   OTH3      ( 0, 9)
+   OTH4      ( 0, 9)
+   OTH5      ( 0, 9)
+   EXTRA1    ( 0)
+   EXTRA2    ( 0)
+   POVLINE   ( 0, 9)
+   INCDEF    ( 0, 9)
+   REALINC   ( 0, 999999, 999998)
+   REALRINC  ( 0, 999999, 999998)
+   ETHNIC    ( 0, 98, 99)
+   ETH1      ( 0, 98, 99)
+   ETH2      ( 0, 98, 99)
+   ETH3      ( 0, 98, 99)
+   ETHNUM    ( 5)
+   SPETHNIC  ( 0, 98, 99)
+   SPETH1    ( 0, 98, 99)
+   SPETH2    ( 0, 98, 99)
+   SPETH3    ( 0, 98, 99)
+   SPETHNUM  ( 0, 5)
+   VETYEARS  ( -1, 9)
+   DWELLING  ( 0, 98, 99)
+   DWELOWN   ( 0, 8, 9)
+   WORDA     ( -1, 9)
+   WORDB     ( -1, 9)
+   WORDC     ( -1, 9)
+   WORDD     ( -1, 9)
+   WORDE     ( -1, 9)
+   WORDF     ( -1, 9)
+   WORDG     ( -1, 9)
+   WORDH     ( -1, 9)
+   WORDI     ( -1, 9)
+   WORDJ     ( -1, 9)
+   WORDSUM   ( -1, 98, 99)
+   BALLOT    ( 0)
+   ISSP      ( 0, 8, 9)
+   SAMPCODE  ( 0)
+
+  RELATE1 RELATE2 RELATE3 RELATE4 RELATE5 RELATE6 RELATE7 RELATE8
+  RELATE9 RELATE10 RELATE11 RELATE12 RELATE13 RELATE14 (0 9)
+
+  GENDER1 GENDER2 GENDER3 GENDER4 GENDER5 GENDER6 GENDER7 GENDER8
+  GENDER9 GENDER10 GENDER11 GENDER12 GENDER13 GENDER14 (0 9)
+  OLD1 OLD2 OLD3 OLD4 OLD5 OLD6 OLD7 OLD8 OLD9 OLD10 OLD11 OLD12
+  OLD13 OLD14 (-1 98 99)
+  MAR1 MAR2 MAR3 MAR4 MAR5 MAR6 MAR7 MAR8 MAR9 MAR10 MAR11
+  MAR12 MAR13 MAR14 (0 8 9)
+
+  AWAY1 AWAY2 AWAY3 AWAY4 AWAY5 AWAY6 AWAY7 AWAY8 AWAY9 AWAY10
+  AWAY11 AWAY12 AWAY13 AWAY14 (0 8 9)
+  WHERE1 WHERE2 WHERE3 WHERE4 WHERE5 WHERE6 WHERE7 WHERE8 WHERE9
+  WHERE10 WHERE11 WHERE12 WHERE13 WHERE14 (0 9)
+ HEFINFO (0 99)
+
+  HHRACE (0 8 9)
+ RESPNUM (0 99)
+ HHTYPE ( 0 998 999)
+ HHTYPE1 (0 98 99)
+
+  FAMGEN RPLACE (0 98 99)
+ RVISITOR (0 8 9)
+ VISITORS (-1 8 9)
+
+  DATEINTV (0 9999)
+ ISCO681 TO SPISC681 (0 9998 9999)
+ SEI TO SPSEI
+  (0 99.8 99.9)
+  WRKSTAT1(0 9) HRS11 HRS21(-1 98 99) MARITAL(9) HOMPOP1(0 98 99)
+  BABIES1 TO ADULTS1(-1 99) EARNRS1(-1 99) INCME911 RINCM911(0,98,99)
+  PARTYIDA(-1 8 9) POLVIEW1(0  8 THRU HI) RANK(0 98 99) SATFIN1( 0 8 9)
+  FINALTR1 (0 8 9)
+  OPWLTH TO OPPOL(0 8 9) GOODLIFE (0 8 9)
+  OCCMOBIL TO EDUMOBIL(0 8 9)
+  INEQUAL1 TO CONAGE (0 8 9) EARNRESP TO EQWLTH1 (0 8 9)
+  WORK11 TO FINAN51 (0 8 9) UNION1 TO MARITAL1 (0 8 9)
+MISSING VALUE
+  PAYSKILL TO PAYCABNT(-1 99999997 thru HI)
+  GIVSKILL TO GIVCABNT(-1 99999997 thru HI)
+
+recode
+  HRS1     HRS2     SPHRS1    SPHRS2    PARBORN    GRANBORN
+  UNRELAT    VETYEARS   RUSSIA    TO      EGYPT     SOCREL    TO
+  SOCSIBS    CHLDIDEL   TVHOURS    DIVORCE5   UNEMP5    HOSDIS5
+  DEATH5    DEATH16    PADEATH    MADEATH    CHLDDTH    TO
+  TRAUMA5 MEMNUM     CHURHSCH    WRKYEARS    EMPYEARS
+  JOBYEARS    PAYSKILL TO PAYCABNT  GIVSKILL TO GIVCABNT
+  SUIKNEW    SUIREG
+  SUIREG2    SUIREG3    AIDSKNOW   AIDSREG    AIDSREG2   AIDSREG3
+  PARTNERS   SEXFREQ    NUMWOMEN   NUMMEN    PARTOPEN   PARTOPN5
+  PARTNRS5   WORDA     TO      WORDJ     WORDSUM    WRKYEARS   OLD1
+
+  OLD2     OLD3     OLD4     OLD5     OLD6     OLD7     OLD8
+  OLD9     OLD10     OLD11     OLD12     OLD13     OLD14
+  HRS11 HRS21 PARTYIDA
+  BABIES1 TO EARNRS1
+    (sysmis=-1) /
+ WRKSTAT    EVWORK    WRKSLF    OCC80     PAOCC80    PRESTG80
+ INDUS80    DIVORCE    WIDOWED    SPWRKSTA   SPEVWORK   AGEWED
+ PAIND80    SPWRKSLF   PAWRKSLF   PAPRES80   SPOCC80    SPPRES80
+ SPIND80    AGE      TO      ZODIAC    FAMDIF16   TO      BORN
+ ETHNIC    TO      ETH3     SPETHNIC   TO      SPETH3    SPETHNUM
+ HOMPOP    INCOME     RINCOME   INCOME91    RINCOM91
+ REGION     TO       SIZE      DWELLING    DWELOWN
+ POLVIEWS    NATSPAC     TO       COMMUN    DENOM
+ OTHER     JEW      FUND     RELITEN    TO      RELIG16    DENOM16
+ OTH16     JEW16     FUND16    SPREL     SPDEN     SPOTHER    SPJEW
+
+ SPFUND    SPREL16    SPDEN16    SPOTH16    SPJEW16    SPFUND16
+ PRAYER   TO     WORLD4   RACCHURH    AGED      DRINK     TO
+ CLASS     RANK     WKSUB    TO      ABANY    CHLDMORE
+ CHLDNUM    PILLOK     TO   NEWS  PHONE   TO     COMPREND  FORM
+ HELPPOOR TO       HELPBLK    GOD   TO   REBORN   GENEJOB
+ TO      REORG     EVUNEMP    NUMUNEMP   TOTUNEMP   FNDJOB1    TO
+ SAMEJOB    THISJOB1   TO      SPLOCNUM   JOBSALL   TO
+ EQUALIZE   OPWLTH    TO      INEQUAL7   INCGAP    TO      OCCMOBIL
+
+ LOCALNUM   HAPUNHAP   TO      MARELKID   MADENKID   PADENKID
+ DENKID    DENSP     PARELKID   RELIGKID   RELIGSP    ATTENDMA   TO
+
+ PRAYFREQ   RELACTIV   FEELREL    TO      ANTIREL    POVLINE    TO
+ INCDEF    REALINC    REALRINC   SUIWHO    SUIWHO2    SUIWHO3
+ SUISEX    TO      SUIRACE    SUISEX2    TO      SUIRAC2    SUISEX3
+
+ TO      SUIRAC3    AIDSWHO    AIDSWHO2   AIDSWHO3   AIDSDEAD   TO
+ AIDSRACE   AIDSDED2   TO      AIDSRAC2   AIDSDED3   TO
+ AIDSRAC3   MATESEX    TO       SEXSEX     SEXSEX5    EVPAIDSX
+ EVSTRAY    PROB1     TO       PROB4     HLTH1     TO       OTH5
+   EXTRA1     EXTRA2     BALLOT     ISSP      SAMPCODE    TOTMONEY
+  YOUMONEY    LEVELS     YOUSUP     TOTSUP     ORGFIN     RELATE1
+  RELATE2    RELATE3    RELATE4    RELATE5    RELATE6    RELATE7
+ RELATE8    RELATE9    RELATE10    RELATE11    RELATE12    RELATE13
+
+  RELATE14    GENDER1    GENDER2    GENDER3    GENDER4    GENDER5
+  GENDER6    GENDER7    GENDER8    GENDER9    GENDER10    GENDER11
+  GENDER12    GENDER13    GENDER14    MAR1      MAR2      MAR3
+   MAR4      MAR5      MAR6      MAR7      MAR8      MAR9
+  MAR10     MAR11     MAR12     MAR13     MAR14     AWAY1     AWAY2
+
+   AWAY3     AWAY4     AWAY5     AWAY6     AWAY7     AWAY8
+ AWAY9     AWAY10     AWAY11     AWAY12     AWAY13     AWAY14
+ WHERE1     WHERE2     WHERE3     WHERE4     WHERE5     WHERE6
+ WHERE7     WHERE8     WHERE9     WHERE10    WHERE11    WHERE12
+ WHERE13    WHERE14    HEFINFO    HHRACE     RESPNUM    HHTYPE
+ HHTYPE1    FAMGEN     RPLACE     RVISITOR    DATEINTV    ISCO681
+  TO       SPISC681    SEI      SPSEI     PASEI
+  SOLMOBIL TO RINCM911  (sysmis=0) /
+freq var= wrkstat to thisjob6
+freq var= thisjob6 to SEI
+freq var= PASEI to  edincwt1
+finish

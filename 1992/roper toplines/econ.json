@@ -1,0 +1,3408 @@
+[
+ {
+  "key": "econ",
+  "archiveId": 31086710,
+  "qname": "R02",
+  "start": "03/30/1989",
+  "end": "04/03/1989",
+  "surveyBy": "ABC News/Washington Post",
+  "conductedBy": "Chilton Research Services",
+  "study": "National Poll, March, 1989",
+  "text": "Do you approve or disapprove of the way (President George) Bush is handling the nation's economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    61
+   ],
+   [
+    "Disapprove",
+    31
+   ],
+   [
+    "Don't know/No opinion",
+    8
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31091337,
+  "qname": "R03",
+  "start": "04/13/1989",
+  "end": "04/16/1989",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "National Survey, April 1989",
+  "text": "Do you approve or disapprove of the way (President) George Bush is handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    45
+   ],
+   [
+    "Disapprove",
+    35
+   ],
+   [
+    "Don't know/No answer",
+    20
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31105115,
+  "qname": "R02",
+  "start": "04/16/1989",
+  "end": "04/18/1989",
+  "surveyBy": "NBC News/Wall Street Journal",
+  "conductedBy": null,
+  "study": "NBC News/Wall Street Journal Poll: April 1989",
+  "text": "Do you generally approve or disapprove of the job George Bush is doing in handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    49
+   ],
+   [
+    "Disapprove",
+    25
+   ],
+   [
+    "Not sure",
+    26
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31092893,
+  "qname": "R08",
+  "start": "04/22/1989",
+  "end": "04/25/1989",
+  "surveyBy": "Los Angeles Times",
+  "conductedBy": null,
+  "study": "Los Angeles Times Poll # 1989-181:  George Bush's First 100 Days",
+  "text": "Specifically, do you approve or disapprove of the way George Bush is handling the nation's economy--or haven't you heard enough about that yet to say? (Wait for reply) Do you (approve/ disapprove) strongly or do you (approve/disapprove) somewhat?",
+  "subpop": null,
+  "responses": [
+   [
+    "Haven't heard enough",
+    36
+   ],
+   [
+    "Approve strongly",
+    10
+   ],
+   [
+    "Approve somewhat",
+    22
+   ],
+   [
+    "Disapprove somewhat",
+    12
+   ],
+   [
+    "Disapprove strongly",
+    11
+   ],
+   [
+    "Not sure",
+    9
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31086712,
+  "qname": "R03",
+  "start": "05/19/1989",
+  "end": "05/23/1989",
+  "surveyBy": "ABC News/Washington Post",
+  "conductedBy": "Chilton Research Services",
+  "study": "National Poll, May, 1989",
+  "text": "Do you approve or disapprove of the way (President George) Bush is handling the nation's economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    61
+   ],
+   [
+    "Disapprove",
+    35
+   ],
+   [
+    "Don't know/No opinion",
+    4
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31086713,
+  "qname": "R02",
+  "start": "06/05/1989",
+  "end": "06/19/1989",
+  "surveyBy": "ABC News/Washington Post",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News/Washington Post Poll: Omnibus-June, 1989",
+  "text": "Do you approve or disapprove of the way (President George) Bush is handling the nation's economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    61
+   ],
+   [
+    "Disapprove",
+    34
+   ],
+   [
+    "Don't know/No opinion",
+    5
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31086714,
+  "qname": "R03",
+  "start": "08/17/1989",
+  "end": "08/21/1989",
+  "surveyBy": "ABC News/Washington Post",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News/The Washington Post Poll: Omnibus-August, 1989",
+  "text": "Do you approve or disapprove of the way (President) Bush is handling the nation's economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    63
+   ],
+   [
+    "Disapprove",
+    31
+   ],
+   [
+    "Don't know/No opinion",
+    5
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31091345,
+  "qname": "R03",
+  "start": "09/17/1989",
+  "end": "09/20/1989",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times National Survey, September, 1989",
+  "text": "Do you approve or disapprove of the way (President) George Bush is handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    55
+   ],
+   [
+    "Disapprove",
+    32
+   ],
+   [
+    "Don't know/No answer",
+    13
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31086715,
+  "qname": "R03",
+  "start": "09/28/1989",
+  "end": "10/03/1989",
+  "surveyBy": "ABC News/Washington Post",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News/The Washington Post Poll: Omnibus-September, 1989",
+  "text": "Do you approve or disapprove of the way (President) Bush is handling the nation's economy? Is that approve/disapprove strongly, or approve/disapprove somewhat?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve strongly",
+    19
+   ],
+   [
+    "Approve somewhat",
+    45
+   ],
+   [
+    "Disapprove somewhat",
+    15
+   ],
+   [
+    "Disapprove strongly",
+    16
+   ],
+   [
+    "Don't know/No opinion",
+    5
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31094702,
+  "qname": "R05B",
+  "start": "11/04/1989",
+  "end": "11/07/1989",
+  "surveyBy": "NBC News/Wall Street Journal",
+  "conductedBy": "Hart-Teeter Research Companies",
+  "study": "NBC News/Wall Street Journal Poll:",
+  "text": "Do you generally approve or disapprove of the job (President) George Bush is doing in handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    52
+   ],
+   [
+    "Disapprove",
+    33
+   ],
+   [
+    "Not sure",
+    15
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31091341,
+  "qname": "R03",
+  "start": "11/26/1989",
+  "end": "11/28/1989",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Summit Poll, November, 1989",
+  "text": "How about the economy? Do you approve or disapprove of the way (President) George Bush is handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    47
+   ],
+   [
+    "Disapprove",
+    41
+   ],
+   [
+    "Don't know/No answer",
+    12
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31086716,
+  "qname": "R05",
+  "start": "01/11/1990",
+  "end": "01/16/1990",
+  "surveyBy": "ABC News/Washington Post",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News/The Washington Post Poll: Omnibus-January, 1990",
+  "text": "Do you approve or disapprove of the way (President George) Bush is handling the nation's economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    61
+   ],
+   [
+    "Disapprove",
+    34
+   ],
+   [
+    "Don't know/No opinion",
+    6
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31091351,
+  "qname": "R07",
+  "start": "01/13/1990",
+  "end": "01/15/1990",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times National Survey, January, 1990",
+  "text": "Do you approve or disapprove of the way (President) George Bush is handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    49
+   ],
+   [
+    "Disapprove",
+    38
+   ],
+   [
+    "Don't know/No answer",
+    13
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31094707,
+  "qname": "R02",
+  "start": "01/13/1990",
+  "end": "01/16/1990",
+  "surveyBy": "NBC News/Wall Street Journal",
+  "conductedBy": "Hart-Teeter Research Companies",
+  "study": "NBC News/Wall Street Journal Poll:",
+  "text": "Do you generally approve or disapprove of the job (President) George Bush is doing in handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    54
+   ],
+   [
+    "Disapprove",
+    31
+   ],
+   [
+    "Not sure",
+    15
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31086718,
+  "qname": "R03",
+  "start": "02/01/1990",
+  "end": "02/04/1990",
+  "surveyBy": "ABC News/Washington Post",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News/The Washington Post Poll: Omnibus-February, 1990",
+  "text": "Do you approve or disapprove of the way (President) Bush is handling the nation's economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    58
+   ],
+   [
+    "Disapprove",
+    39
+   ],
+   [
+    "Don't know/No opinion",
+    3
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31094709,
+  "qname": "R04A",
+  "start": "03/10/1990",
+  "end": "03/13/1990",
+  "surveyBy": "NBC News/Wall Street Journal",
+  "conductedBy": "Hart-Teeter Research Companies",
+  "study": "NBC News/Wall Street Journal Poll:",
+  "text": "Do you generally approve or disapprove of the job (President) George Bush is doing in handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    53
+   ],
+   [
+    "Disapprove",
+    35
+   ],
+   [
+    "Not sure",
+    12
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31098905,
+  "qname": "R006",
+  "start": "03/22/1990",
+  "end": "03/26/1990",
+  "surveyBy": "Washington Post",
+  "conductedBy": null,
+  "study": "Washington Post Poll: March, 1990",
+  "text": "Do you approve or disapprove of the way Bush is handling the nation's economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    65
+   ],
+   [
+    "Disapprove",
+    32
+   ],
+   [
+    "Don't know/No opinion",
+    3
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31091348,
+  "qname": "R03",
+  "start": "03/30/1990",
+  "end": "04/02/1990",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times National Survey, April, 1990",
+  "text": "Do you approve or disapprove of the way (President) George Bush is handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    47
+   ],
+   [
+    "Disapprove",
+    42
+   ],
+   [
+    "Don't know/No answer",
+    11
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31094704,
+  "qname": "R03A",
+  "start": "04/12/1990",
+  "end": "04/17/1990",
+  "surveyBy": "NBC News/Wall Street Journal",
+  "conductedBy": "Hart-Teeter Research Companies",
+  "study": "NBC News/Wall Street Journal: April 1990 National Poll",
+  "text": "Do you generally approve or disapprove of the job George Bush is doing in handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    59
+   ],
+   [
+    "Disapprove",
+    30
+   ],
+   [
+    "Not sure",
+    11
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31086719,
+  "qname": "R03",
+  "start": "05/17/1990",
+  "end": "05/21/1990",
+  "surveyBy": "ABC News/Washington Post",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News/The Washington Post Poll: Omnibus-May, 1990",
+  "text": "Do you approve or disapprove of the way (President) Bush is handling the nation's economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    52
+   ],
+   [
+    "Disapprove",
+    45
+   ],
+   [
+    "Don't know/No opinion",
+    3
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31094710,
+  "qname": "R05A",
+  "start": "05/18/1990",
+  "end": "05/22/1990",
+  "surveyBy": "NBC News/Wall Street Journal",
+  "conductedBy": "Hart-Teeter Research Companies",
+  "study": "NBC News/Wall Street Journal Poll:",
+  "text": "Do you generally approve or disapprove of the job (President) George Bush is doing in handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    51
+   ],
+   [
+    "Disapprove",
+    40
+   ],
+   [
+    "Not sure",
+    9
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31091617,
+  "qname": "R03",
+  "start": "06/05/1990",
+  "end": "06/07/1990",
+  "surveyBy": "Tokyo Broadcasting System",
+  "conductedBy": "CBS News/New York Times",
+  "study": "CBS News/New York Times Japan Survey, June, 1990",
+  "text": "How about the economy? Do you approve or disapprove of the way (President) George Bush is handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    43
+   ],
+   [
+    "Disapprove",
+    45
+   ],
+   [
+    "Don't know/No answer",
+    12
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31094708,
+  "qname": "R03B",
+  "start": "07/06/1990",
+  "end": "07/10/1990",
+  "surveyBy": "NBC News/Wall Street Journal",
+  "conductedBy": "Hart-Teeter Research Companies",
+  "study": "NBC News/Wall Street Journal Poll:",
+  "text": "Do you generally approve or disapprove of the job George Bush is doing in handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    48
+   ],
+   [
+    "Disapprove",
+    41
+   ],
+   [
+    "Not sure",
+    11
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31086720,
+  "qname": "R003",
+  "start": "07/19/1990",
+  "end": "07/24/1990",
+  "surveyBy": "ABC News/Washington Post",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News/The Washington Post Poll: Omnibus-July, 1990",
+  "text": "Do you approve or disapprove of the way (George) Bush is handling the nation's economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    46
+   ],
+   [
+    "Disapprove",
+    51
+   ],
+   [
+    "Don't know/No opinion",
+    3
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31105328,
+  "qname": "R02",
+  "start": "08/09/1990",
+  "end": "08/10/1990",
+  "surveyBy": "New York Times",
+  "conductedBy": null,
+  "study": "New York Times Poll: August 1990",
+  "text": "Do you approve or disapprove of the way (President) George Bush is handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    47
+   ],
+   [
+    "Disapprove",
+    42
+   ],
+   [
+    "Don't know/No answer",
+    11
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31091349,
+  "qname": "R03",
+  "start": "08/16/1990",
+  "end": "08/19/1990",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times National Survey, August, 1990",
+  "text": "How about the economy? Do you approve or disapprove of the way George Bush is handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    45
+   ],
+   [
+    "Disapprove",
+    44
+   ],
+   [
+    "Don't know/No answer",
+    11
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31086407,
+  "qname": "Q03",
+  "start": "08/17/1990",
+  "end": "08/20/1990",
+  "surveyBy": "ABC News",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News Poll:  Middle East #2",
+  "text": "Do you approve or disapprove of the way (George) Bush is handling the nation's economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    55
+   ],
+   [
+    "Disapprove",
+    41
+   ],
+   [
+    "Don't know/No opinion",
+    4
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31086723,
+  "qname": "R004",
+  "start": "09/06/1990",
+  "end": "09/09/1990",
+  "surveyBy": "ABC News/Washington Post",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News/The Washington Post Poll:  Omnibus-September,1990",
+  "text": "Do you approve or disapprove of the way Bush is handling the nation's economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    53
+   ],
+   [
+    "Disapprove",
+    41
+   ],
+   [
+    "Don't know/No opinion",
+    7
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31094714,
+  "qname": "R02B",
+  "start": "09/15/1990",
+  "end": "09/18/1990",
+  "surveyBy": "NBC News/Wall Street Journal",
+  "conductedBy": "Hart-Teeter Research Companies",
+  "study": "NBC News/Wall Street Journal Poll:",
+  "text": "Do you generally approve or disapprove of the job George Bush is doing in handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    52
+   ],
+   [
+    "Disapprove",
+    36
+   ],
+   [
+    "Not sure",
+    12
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31091354,
+  "qname": "R03",
+  "start": "10/08/1990",
+  "end": "10/10/1990",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  October Omnibus Survey",
+  "text": "How about the economy? Do you approve or disapprove of the way George Bush is handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    36
+   ],
+   [
+    "Disapprove",
+    52
+   ],
+   [
+    "Don't know/No answer",
+    12
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31086726,
+  "qname": "R03",
+  "start": "10/11/1990",
+  "end": "10/14/1990",
+  "surveyBy": "ABC News/Washington Post",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News/Washington Post Poll: Omnibus-October, 1990",
+  "text": "Do you approve or disapprove of the way George Bush is handling the nation's economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    38
+   ],
+   [
+    "Disapprove",
+    58
+   ],
+   [
+    "Don't know/No opinion",
+    4
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31094711,
+  "qname": "R05B",
+  "start": "10/19/1990",
+  "end": "10/21/1990",
+  "surveyBy": "NBC News/Wall Street Journal",
+  "conductedBy": "Hart-Teeter Research Companies",
+  "study": "NBC News/Wall Street Journal Poll:  Omnibus, October 1991",
+  "text": "Do you generally approve or disapprove of the job George Bush is doing in handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    35
+   ],
+   [
+    "Disapprove",
+    55
+   ],
+   [
+    "Not sure",
+    10
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31091355,
+  "qname": "R07",
+  "start": "10/28/1990",
+  "end": "10/31/1990",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  The Deficit, The Election and The Persian Gulf",
+  "text": "How about the economy? Do you approve or disapprove of the way George Bush is handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    30
+   ],
+   [
+    "Disapprove",
+    61
+   ],
+   [
+    "Don't know/No answer",
+    9
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31086408,
+  "qname": "R004",
+  "start": "11/01/1990",
+  "end": "11/04/1990",
+  "surveyBy": "ABC News",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News Poll:  Omnibus - November, 1990",
+  "text": "Do you approve or disapprove of the way Bush is handling the nation's economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    36
+   ],
+   [
+    "Disapprove",
+    61
+   ],
+   [
+    "Don't know/No opinion",
+    3
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31086408,
+  "qname": "Q04",
+  "start": "11/01/1990",
+  "end": "11/04/1990",
+  "surveyBy": "ABC News",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News Poll:  Omnibus - November, 1990",
+  "text": "Do you approve or disapprove of the way (George) Bush is handling the nation's economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    36
+   ],
+   [
+    "Disapprove",
+    61
+   ],
+   [
+    "Don't know/No opinion",
+    3
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31094706,
+  "qname": "R03B",
+  "start": "12/08/1990",
+  "end": "12/11/1990",
+  "surveyBy": "NBC News/Wall Street Journal",
+  "conductedBy": "Hart-Teeter Research Companies",
+  "study": "NBC News/Wall Street Journal Poll:  National Economy and Iraq",
+  "text": "Do you generally approve or disapprove of the job George Bush is doing in handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    37
+   ],
+   [
+    "Disapprove",
+    54
+   ],
+   [
+    "Not sure",
+    9
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31091350,
+  "qname": "R03",
+  "start": "12/09/1990",
+  "end": "12/11/1990",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  December Omnibus Survey",
+  "text": "Do you approve or disapprove of the way George Bush is handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    39
+   ],
+   [
+    "Disapprove",
+    48
+   ],
+   [
+    "Don't know/No answer",
+    13
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31105329,
+  "qname": "R03",
+  "start": "12/12/1990",
+  "end": "12/14/1990",
+  "surveyBy": "New York Times",
+  "conductedBy": null,
+  "study": "New York Times Poll: December 1990",
+  "text": "Do you approve or disapprove of the way George Bush is handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    34
+   ],
+   [
+    "Disapprove",
+    55
+   ],
+   [
+    "Don't know/No answer",
+    12
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31105435,
+  "qname": "R06",
+  "start": "01/23/1991",
+  "end": "01/27/1991",
+  "surveyBy": "ABC News/Washington Post",
+  "conductedBy": null,
+  "study": "ABC News/Washington Post Poll: January 1991",
+  "text": "Do you approve or disapprove of the way George Bush is handling the nation's economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    45
+   ],
+   [
+    "Disapprove",
+    49
+   ],
+   [
+    "Don't know/No opinion",
+    6
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31090758,
+  "qname": "R04",
+  "start": "01/27/1991",
+  "end": "01/28/1991",
+  "surveyBy": "CBS News",
+  "conductedBy": null,
+  "study": "CBS News Poll # 1991-JAN91D:  State of the Union/War in the Middle East",
+  "text": "How about the economy? Do you approve or disapprove of the way George Bush is handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    43
+   ],
+   [
+    "Disapprove",
+    44
+   ],
+   [
+    "Don't know/No answer",
+    13
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31105563,
+  "qname": "R03",
+  "start": "02/24/1991",
+  "end": "03/01/1991",
+  "surveyBy": "New York Times",
+  "conductedBy": null,
+  "study": "New York Times Poll: February 1991",
+  "text": "Do you approve or disapprove of the way George Bush is handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    45
+   ],
+   [
+    "Disapprove",
+    37
+   ],
+   [
+    "Don't know/No answer",
+    18
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31105562,
+  "qname": "R03",
+  "start": "02/28/1991",
+  "end": "02/28/1991",
+  "surveyBy": "New York Times",
+  "conductedBy": null,
+  "study": "New York Times Poll: February 1991",
+  "text": "Do you approve or disapprove of the way George Bush is handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    45
+   ],
+   [
+    "Disapprove",
+    37
+   ],
+   [
+    "Don't know/No answer",
+    18
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31086739,
+  "qname": "R06",
+  "start": "03/01/1991",
+  "end": "03/03/1991",
+  "surveyBy": "ABC News/Washington Post",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News/The Washington Post Poll:  Cease Fire",
+  "text": "Do you approve or disapprove of the way (George) Bush is handling the nation's economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    49
+   ],
+   [
+    "Disapprove",
+    47
+   ],
+   [
+    "Don't know/No opinion",
+    4
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31091372,
+  "qname": "R05",
+  "start": "03/04/1991",
+  "end": "03/06/1991",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  March Omnibus Survey",
+  "text": "How about the economy? Do you approve or disapprove of the way George Bush is handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    44
+   ],
+   [
+    "Disapprove",
+    41
+   ],
+   [
+    "Don't know/No answer",
+    15
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31091372,
+  "qname": "R05",
+  "start": "03/04/1991",
+  "end": "03/06/1991",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  March Omnibus Survey",
+  "text": "How about the economy? Do you approve or disapprove of the way George Bush is handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    42
+   ],
+   [
+    "Disapprove",
+    43
+   ],
+   [
+    "Don't know/No answer",
+    15
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31092948,
+  "qname": "R11",
+  "start": "03/09/1991",
+  "end": "03/11/1991",
+  "surveyBy": "Los Angeles Times",
+  "conductedBy": null,
+  "study": "Los Angeles Times Poll #246:  Aftermath of the War Against Iraq",
+  "text": "Generally speaking, do you approve or disapprove of the way Bush is handling the nation's economy? (If approve or disapprove) Do you (approve/disapprove) strongly or (approve/disapprove) somewhat?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve strongly",
+    17
+   ],
+   [
+    "Approve somewhat",
+    34
+   ],
+   [
+    "Disapprove somewhat",
+    21
+   ],
+   [
+    "Disapprove strongly",
+    20
+   ],
+   [
+    "Not sure",
+    8
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31094721,
+  "qname": "R04C",
+  "start": "03/15/1991",
+  "end": "03/19/1991",
+  "surveyBy": "NBC News/Wall Street Journal",
+  "conductedBy": "Hart-Teeter Research Companies",
+  "study": "NBC News/Wall Street Journal Poll:  Omnibus, March, 1991",
+  "text": "Do you generally approve or disapprove of the job George Bush is doing in handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    44
+   ],
+   [
+    "Disapprove",
+    45
+   ],
+   [
+    "Not sure",
+    11
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31091356,
+  "qname": "R03",
+  "start": "04/01/1991",
+  "end": "04/03/1991",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  April Omnibus Survey",
+  "text": "How about the economy? Do you approve or disapprove of the way George Bush is handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    38
+   ],
+   [
+    "Disapprove",
+    48
+   ],
+   [
+    "Don't know/No answer",
+    14
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31092952,
+  "qname": "R10",
+  "start": "04/06/1991",
+  "end": "04/09/1991",
+  "surveyBy": "Los Angeles Times",
+  "conductedBy": null,
+  "study": "Los Angeles Times Poll #250:  The Economy, Banking and Taxes",
+  "text": "Do you approve or disapprove of the way Bush is handling the nation's economy? (If approve or disapprove) Do you (approve/disapprove) strongly or (approve/disapprove) somewhat?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve strongly",
+    13
+   ],
+   [
+    "Approve somewhat",
+    36
+   ],
+   [
+    "Disapprove somewhat",
+    22
+   ],
+   [
+    "Disapprove strongly",
+    22
+   ],
+   [
+    "Not sure",
+    7
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31091373,
+  "qname": "R03",
+  "start": "05/07/1991",
+  "end": "05/08/1991",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  May Omnibus Survey",
+  "text": "How about the economy? Do you approve or disapprove of the way George Bush is handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    41
+   ],
+   [
+    "Disapprove",
+    47
+   ],
+   [
+    "Don't know/No answer",
+    12
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31094722,
+  "qname": "R03B",
+  "start": "05/10/1991",
+  "end": "05/14/1991",
+  "surveyBy": "NBC News/Wall Street Journal",
+  "conductedBy": "Hart-Teeter Research Companies",
+  "study": "NBC News/Wall Street Journal Poll:  Omnibus, May, 1991",
+  "text": "Do you generally approve or disapprove of the job George Bush is doing in handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    44
+   ],
+   [
+    "Disapprove",
+    44
+   ],
+   [
+    "Not sure",
+    12
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31086742,
+  "qname": "R005",
+  "start": "05/30/1991",
+  "end": "06/02/1991",
+  "surveyBy": "ABC News/Washington Post",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News/The Washington Post Poll:  Omnibus-June 1991",
+  "text": "Do you approve or disapprove of the way Bush is handling the nation's economy? Is that approve/disapprove strongly or approve/disapprove somewhat?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve strongly",
+    13
+   ],
+   [
+    "Approve somewhat",
+    33
+   ],
+   [
+    "Disapprove somewhat",
+    23
+   ],
+   [
+    "Disapprove strongly",
+    27
+   ],
+   [
+    "Don't know/No opinion",
+    4
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31091371,
+  "qname": "R03",
+  "start": "06/03/1991",
+  "end": "06/06/1991",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  June Omnibus Survey",
+  "text": "How about the economy? Do you approve or disapprove of the way George Bush is handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    41
+   ],
+   [
+    "Disapprove",
+    48
+   ],
+   [
+    "Don't know/No answer",
+    11
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31094720,
+  "qname": "R05",
+  "start": "06/22/1991",
+  "end": "06/25/1991",
+  "surveyBy": "NBC News/Wall Street Journal",
+  "conductedBy": "Hart-Teeter Research Companies",
+  "study": "NBC News/Wall Street Journal Poll:  Omnibus, June, 1991",
+  "text": "Do you generally approve or disapprove of the job George Bush is doing in handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    47
+   ],
+   [
+    "Disapprove",
+    48
+   ],
+   [
+    "Not sure",
+    5
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31092955,
+  "qname": "R09",
+  "start": "06/28/1991",
+  "end": "06/30/1991",
+  "surveyBy": "Los Angeles Times",
+  "conductedBy": null,
+  "study": "Los Angeles Times Poll #253:  Patriotism and Civil Liberties",
+  "text": "Do you approve or disapprove of the way Bush is handling the nation's economy? (If approve or disapprove) Do you (approve/disapprove) strongly or (approve/disapprove) somewhat?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    45
+   ],
+   [
+    "Disapprove",
+    46
+   ],
+   [
+    "Don't know",
+    9
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31086413,
+  "qname": "R004",
+  "start": "07/25/1991",
+  "end": "07/28/1991",
+  "surveyBy": "ABC News",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News Poll:  Omnibus - July, 1991",
+  "text": "Do you approve or disapprove of the way (President) Bush is handling the nation's economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    36
+   ],
+   [
+    "Disapprove",
+    60
+   ],
+   [
+    "Don't know/No opinion",
+    4
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31094719,
+  "qname": "R03B",
+  "start": "07/26/1991",
+  "end": "07/29/1991",
+  "surveyBy": "NBC News/Wall Street Journal",
+  "conductedBy": "Hart-Teeter Research Companies",
+  "study": "NBC News/Wall Street Journal Poll:  Omnibus, July, 1991",
+  "text": "Do you generally approve or disapprove of the job George Bush is doing in handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    38
+   ],
+   [
+    "Disapprove",
+    52
+   ],
+   [
+    "Not sure",
+    10
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31091357,
+  "qname": "R03",
+  "start": "08/18/1991",
+  "end": "08/22/1991",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  Health Care",
+  "text": "Do you approve or disapprove of the way George Bush is handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    38
+   ],
+   [
+    "Disapprove",
+    50
+   ],
+   [
+    "Don't know/No answer",
+    11
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31086416,
+  "qname": "R02",
+  "start": "09/13/1991",
+  "end": "09/15/1991",
+  "surveyBy": "ABC News",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News Poll:  Thomas Hearing Poll",
+  "text": "Do you approve or disapprove of the way (George) Bush is handling the nation's economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    42
+   ],
+   [
+    "Disapprove",
+    53
+   ],
+   [
+    "Don't know/No opinion",
+    5
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31094725,
+  "qname": "R03B",
+  "start": "09/20/1991",
+  "end": "09/24/1991",
+  "surveyBy": "NBC News/Wall Street Journal",
+  "conductedBy": "Hart-Teeter Research Companies",
+  "study": "NBC News/Wall Street Journal Poll:  Omnibus, September, 1991",
+  "text": "Do you generally approve or disapprove of the job George Bush is doing in handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    41
+   ],
+   [
+    "Disapprove",
+    51
+   ],
+   [
+    "Not sure",
+    8
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31092960,
+  "qname": "R12",
+  "start": "09/21/1991",
+  "end": "09/25/1991",
+  "surveyBy": "Los Angeles Times",
+  "conductedBy": null,
+  "study": "Los Angeles Times Poll #259:  Judge Thomas, Race Relations and Ronald Reagan",
+  "text": "Do you approve or disapprove of the way Bush is handling the nation's economy? (IF APPROVE OR DISAPPROVE ASK:) Do you (approve/disapprove) strongly or (approve/disapprove) somewhat?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve strongly",
+    8
+   ],
+   [
+    "Approve somewhat",
+    34
+   ],
+   [
+    "Disapprove somewhat",
+    22
+   ],
+   [
+    "Disapprove strongly",
+    28
+   ],
+   [
+    "Not",
+    8
+   ],
+   [
+    "Refused",
+    1e-7
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31091375,
+  "qname": "R03",
+  "start": "10/05/1991",
+  "end": "10/07/1991",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  Foreign Policy/Congressional Scandal",
+  "text": "How about the economy? Do you approve or disapprove of the way George Bush is handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    30
+   ],
+   [
+    "Disapprove",
+    62
+   ],
+   [
+    "Don't know/No answer",
+    8
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31091377,
+  "qname": "R03",
+  "start": "10/15/1991",
+  "end": "10/17/1991",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  Politics",
+  "text": "How about the economy? Do you approve or disapprove of the way George Bush is handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    33
+   ],
+   [
+    "Disapprove",
+    57
+   ],
+   [
+    "Don't know/No answer",
+    10
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31086745,
+  "qname": "R03",
+  "start": "10/15/1991",
+  "end": "10/20/1991",
+  "surveyBy": "ABC News/Washington Post",
+  "conductedBy": "Chilton Research Services",
+  "study": "Omnibus--October, 1991",
+  "text": "Do you approve or disapprove of the way (George) Bush is handling the nation's economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    37
+   ],
+   [
+    "Disapprove",
+    60
+   ],
+   [
+    "Don't know/No opinion",
+    4
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31094724,
+  "qname": "R05B",
+  "start": "10/25/1991",
+  "end": "10/29/1991",
+  "surveyBy": "NBC News/Wall Street Journal",
+  "conductedBy": "Hart-Teeter Research Companies",
+  "study": "NBC News/Wall Street Journal Poll:  Looking Ahead to the 1992 Presidential Election",
+  "text": "Do you generally approve or disapprove of the job George Bush is doing in handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    31
+   ],
+   [
+    "Disapprove",
+    61
+   ],
+   [
+    "Not sure",
+    8
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31094187,
+  "qname": "R02A4",
+  "start": "11/07/1991",
+  "end": "11/20/1991",
+  "surveyBy": "Americans Talk Issues Foundation",
+  "conductedBy": "The Telephone Center",
+  "study": "Americans Talk Issues Survey:  Environment, Energy and Economic Competitiveness",
+  "text": "I am going to ask you how well you think George Bush is handling different things. Do you approve or disapprove of the way President Bush is handling... the economy? (If approve/disapprove, ask:) Is that strongly or somewhat approve/disapprove?",
+  "subpop": "Asked of Form A half sample",
+  "responses": [
+   [
+    "Strongly approve",
+    12
+   ],
+   [
+    "Somewhat approve",
+    17
+   ],
+   [
+    "Somewhat disapprove",
+    20
+   ],
+   [
+    "Strongly disapprove",
+    45
+   ],
+   [
+    "Don't know",
+    6
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31091370,
+  "qname": "R03",
+  "start": "11/18/1991",
+  "end": "11/21/1991",
+  "surveyBy": "CBS News/The New York Times/The Tokyo Broadcasting System",
+  "conductedBy": "CBS News/New York Times",
+  "study": "CBS News/New York Times Poll:  Japan",
+  "text": "Do you approve or disapprove of the way George Bush is handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    25
+   ],
+   [
+    "Disapprove",
+    66
+   ],
+   [
+    "Don't know/No answer",
+    9
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31105545,
+  "qname": "R04B",
+  "start": "11/20/1991",
+  "end": "11/21/1991",
+  "surveyBy": "NBC News/Wall Street Journal",
+  "conductedBy": "Hart-Teeter Research Companies",
+  "study": "NBC News/Wall Street Journal Poll: November 1991",
+  "text": "Do you generally approve or disapprove of the job George Bush is doing handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    27
+   ],
+   [
+    "Disapprove",
+    65
+   ],
+   [
+    "Not sure",
+    8
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31092963,
+  "qname": "R11",
+  "start": "11/21/1991",
+  "end": "11/24/1991",
+  "surveyBy": "Los Angeles Times",
+  "conductedBy": null,
+  "study": "Los Angeles Times Poll #263:  Presidential Politics and the Economy",
+  "text": "Do you approve or disapprove of the way Bush is handling the nation's economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    29
+   ],
+   [
+    "Disapprove",
+    64
+   ],
+   [
+    "Don't know",
+    7
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31094716,
+  "qname": "R05B",
+  "start": "12/06/1991",
+  "end": "12/09/1991",
+  "surveyBy": "NBC News/Wall Street Journal",
+  "conductedBy": "Hart-Breglio Research Companies",
+  "study": "NBC News/Wall Street Journal Poll:  Omnibus, December, 1991",
+  "text": "Do you generally, do you approve or disapprove of the job George Bush is doing in handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    23
+   ],
+   [
+    "Disapprove",
+    71
+   ],
+   [
+    "Not sure",
+    6
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31098346,
+  "qname": "R10",
+  "start": "12/09/1991",
+  "end": "12/10/1991",
+  "surveyBy": "USA Today",
+  "conductedBy": "Gordon S. Black Corporation",
+  "study": "USA Today Poll:  Mood of the Country",
+  "text": "Do you approve or disapprove of the way George Bush is handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    27
+   ],
+   [
+    "Disapprove",
+    65
+   ],
+   [
+    "Don't know",
+    8
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31086728,
+  "qname": "R03",
+  "start": "12/11/1991",
+  "end": "12/15/1991",
+  "surveyBy": "ABC News/Washington Post",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News/The Washington Post Poll:  Omnibus - December, 1991",
+  "text": "Do you approve or disapprove of the way (George) Bush is handling the nation's economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    24
+   ],
+   [
+    "Disapprove",
+    70
+   ],
+   [
+    "Don't know/No opinion",
+    5
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31088169,
+  "qname": "R13F",
+  "start": "01/03/1992",
+  "end": "01/06/1992",
+  "surveyBy": "Cable News Network (CNN)/USA Today",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/CNN/USA Today Poll # 1992-JAN1:  Pre-Presidential Election, January - Part 1",
+  "text": "Please tell me whether you approve or disapprove of the way George Bush is handling each of the following issues and problems. Do you approve or disapprove of the way Bush is handling... the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    24
+   ],
+   [
+    "Disapprove",
+    73
+   ],
+   [
+    "Don't know",
+    3
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31091387,
+  "qname": "R03A",
+  "start": "01/06/1992",
+  "end": "01/08/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  January National Poll",
+  "text": "Do you approve or disapprove of the way George Bush is handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    23
+   ],
+   [
+    "Disapprove",
+    67
+   ],
+   [
+    "Don't know/No answer",
+    10
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31090762,
+  "qname": "R3",
+  "start": "01/14/1992",
+  "end": "01/19/1992",
+  "surveyBy": "CBS News",
+  "conductedBy": null,
+  "study": "CBS News Poll:  January Special Recruitment Poll",
+  "text": "Do you approve or disapprove of the way George Bush is handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    19
+   ],
+   [
+    "Disapprove",
+    73
+   ],
+   [
+    "Don't know/No answer",
+    8
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31094726,
+  "qname": "R10B",
+  "start": "01/17/1992",
+  "end": "01/21/1992",
+  "surveyBy": "NBC News/Wall Street Journal",
+  "conductedBy": "Hart-Breglio Research Companies",
+  "study": "NBC News/Wall Street Journal Poll:  1992 Presidential Election and the Economy",
+  "text": "Do you generally approve or disapprove the job George Bush is doing in handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    23
+   ],
+   [
+    "Disapprove",
+    70
+   ],
+   [
+    "Not sure",
+    7
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31091388,
+  "qname": "R07",
+  "start": "01/22/1992",
+  "end": "01/25/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  State of the Union Poll",
+  "text": "Do you approve or disapprove of the way George Bush is handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    21
+   ],
+   [
+    "Disapprove",
+    73
+   ],
+   [
+    "Don't know/No opinion",
+    6
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31086753,
+  "qname": "R02",
+  "start": "01/29/1992",
+  "end": "01/29/1992",
+  "surveyBy": "ABC News/Washington Post",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News/The Washington Post Poll:  State of the Union",
+  "text": "Do you approve or disapprove of the way Bush is handling the nation's economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    28
+   ],
+   [
+    "Disapprove",
+    69
+   ],
+   [
+    "Don't know/No opinion",
+    3
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31086752,
+  "qname": "R04",
+  "start": "01/30/1992",
+  "end": "02/02/1992",
+  "surveyBy": "ABC News/Washington Post",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News/The Washington Post Poll:  Omnibus - January, 1992",
+  "text": "Do you approve or disapprove of the way Bush is handling the nation's economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    24
+   ],
+   [
+    "Disapprove",
+    73
+   ],
+   [
+    "Don't know/No opinion",
+    3
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31092968,
+  "qname": "Q09",
+  "start": "01/31/1992",
+  "end": "02/03/1992",
+  "surveyBy": "Los Angeles Times",
+  "conductedBy": null,
+  "study": "Los Angeles Times Poll #268:  National Politics and the State of the Union",
+  "text": "Generally speaking, do you approve or disapprove of the way (President George) Bush is handling the nation's economy? (If approve or disapprove) Is that (approve/disapprove) strongly or (approve/disapprove) somewhat?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve strongly",
+    7
+   ],
+   [
+    "Approve somewhat",
+    22
+   ],
+   [
+    "Disapprove somewhat",
+    26
+   ],
+   [
+    "Disapprove strongly",
+    40
+   ],
+   [
+    "Not sure",
+    5
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31088132,
+  "qname": "R13E",
+  "start": "01/31/1992",
+  "end": "02/02/1992",
+  "surveyBy": "Cable News Network (CNN)/USA Today",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/CNN/USA Today Poll:  Pre-Presidential Election, February",
+  "text": "(Please tell me whether you approve or disapprove of the way George Bush is handling each of the following issues and problems.) Do you approve or disapprove of the way Bush is handling... the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    22
+   ],
+   [
+    "Disapprove",
+    76
+   ],
+   [
+    "Don't know",
+    2
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31091383,
+  "qname": "R03",
+  "start": "02/19/1992",
+  "end": "02/20/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  February National Poll",
+  "text": "How about the economy? Do you approve or disapprove of the way George Bush is handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    18
+   ],
+   [
+    "Disapprove",
+    75
+   ],
+   [
+    "Don't know/No answer",
+    7
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31091384,
+  "qname": "R03",
+  "start": "02/26/1992",
+  "end": "03/01/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News Poll:  February National Poll II",
+  "text": "How about the economy? Do you approve or disapprove of the way George Bush is handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    19
+   ],
+   [
+    "Disapprove",
+    74
+   ],
+   [
+    "Don't know/No answer",
+    7
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31094727,
+  "qname": "R05B",
+  "start": "02/28/1992",
+  "end": "03/02/1992",
+  "surveyBy": "NBC News/Wall Street Journal",
+  "conductedBy": "Hart-Breglio Research Companies",
+  "study": "NBC News/Wall Street Journal Poll:  1992 Presidential Election and the Economy",
+  "text": "Do you generally approve or disapprove of the job George Bush is doing in handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    23
+   ],
+   [
+    "Disapprove",
+    72
+   ],
+   [
+    "Not sure",
+    5
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31094025,
+  "qname": "R40",
+  "start": "03/11/1992",
+  "end": "03/18/1992",
+  "surveyBy": "The Star Tribune",
+  "conductedBy": null,
+  "study": "The Minnesota Poll:  Presidential Campaign and Political Cynicism",
+  "text": "Do you approve or disapprove of the way George Bush is handling the nation's economy? (If Approve/Disapprove, ask:) Do you feel strongly or not so strongly about that?",
+  "subpop": "",
+  "responses": [
+   [
+    "Approve strongly",
+    14
+   ],
+   [
+    "Approve not strongly",
+    12
+   ],
+   [
+    "Disapprove not strongly",
+    12
+   ],
+   [
+    "Disapprove strongly",
+    59
+   ],
+   [
+    "Don't know",
+    3
+   ],
+   [
+    "Refused",
+    1
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31091392,
+  "qname": "R03",
+  "start": "03/26/1992",
+  "end": "03/29/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  March National Poll",
+  "text": "How about the economy? Do you approve or disapprove of the way George Bush is handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    18
+   ],
+   [
+    "Disapprove",
+    74
+   ],
+   [
+    "Don't know/No answer",
+    8
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31092975,
+  "qname": "R08",
+  "start": "03/27/1992",
+  "end": "03/29/1992",
+  "surveyBy": "Los Angeles Times",
+  "conductedBy": null,
+  "study": "Los Angeles Times Poll #275:  National Politics and the Congressional Scandal",
+  "text": "Do you approve or disapprove of the way (President George) Bush is handling the nation's economy? (If approve or disapprove) Is that (approve/disapprove) strongly or (approve/disapprove) somewhat?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve strongly",
+    6
+   ],
+   [
+    "Approve somewhat",
+    19
+   ],
+   [
+    "Disapprove somewhat",
+    22
+   ],
+   [
+    "Disapprove strongly",
+    49
+   ],
+   [
+    "Not sure",
+    4
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31086422,
+  "qname": "R03",
+  "start": "04/08/1992",
+  "end": "04/09/1992",
+  "surveyBy": "ABC News",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News Poll:  The Angry Voters",
+  "text": "Do you approve or disapprove of the way Bush is handling the nation's economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    23
+   ],
+   [
+    "Disapprove",
+    75
+   ],
+   [
+    "Don't know/No opinion",
+    2
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31094728,
+  "qname": "R05B",
+  "start": "04/11/1992",
+  "end": "04/14/1992",
+  "surveyBy": "NBC News/Wall Street Journal",
+  "conductedBy": "Hart-Breglio Research Companies",
+  "study": "NBC News/Wall Street Journal Poll:  1992 Presidential Election, Ross Perot, and the Economy",
+  "text": "Do you generally approve or disapprove of the job George Bush is doing in handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    23
+   ],
+   [
+    "Disapprove",
+    72
+   ],
+   [
+    "Not sure",
+    5
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31091379,
+  "qname": "R03",
+  "start": "04/20/1992",
+  "end": "04/23/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  April National Poll",
+  "text": "How about the economy? Do you approve or disapprove of the way George Bush is handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    21
+   ],
+   [
+    "Disapprove",
+    73
+   ],
+   [
+    "Don't know/No answer",
+    6
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31088138,
+  "qname": "R12A",
+  "start": "04/20/1992",
+  "end": "04/22/1992",
+  "surveyBy": "Cable News Network (CNN)/USA Today",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/CNN/USA Today Poll # 1992-222050:  April Campaign Benchmark",
+  "text": "Please tell me whether you approve or disapprove of the way George Bush is handling some specific problems facing the country.... The economy",
+  "subpop": "Registered voters",
+  "responses": [
+   [
+    "Approve",
+    22
+   ],
+   [
+    "Disapprove",
+    73
+   ],
+   [
+    "Don't know",
+    5
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31091393,
+  "qname": "R03",
+  "start": "05/06/1992",
+  "end": "05/08/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  May National Poll",
+  "text": "How about the economy? Do you approve or disapprove of the way George Bush is handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    18
+   ],
+   [
+    "Disapprove",
+    73
+   ],
+   [
+    "Don't know/No answer",
+    9
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31088738,
+  "qname": "Q09A",
+  "start": "05/07/1992",
+  "end": "05/10/1992",
+  "surveyBy": "Gallup Organization",
+  "conductedBy": null,
+  "study": "Gallup News Service Survey:  May Omnibus, Wave 1",
+  "text": "Please tell me whether you approve or disapprove of the way George Bush is handling each of the following issues and problems. Do you approve or disapprove of the way Bush is handling... the economy.",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    20
+   ],
+   [
+    "Disapprove",
+    76
+   ],
+   [
+    "Don't know/Refused",
+    4
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31094729,
+  "qname": "R05B",
+  "start": "05/15/1992",
+  "end": "05/19/1992",
+  "surveyBy": "NBC News/Wall Street Journal",
+  "conductedBy": "Hart-Breglio Research Companies",
+  "study": "NBC News/Wall Street Journal Poll:  The Economy, the King Verdict and Abortion",
+  "text": "Do you generally approve or disapprove of the job George Bush is doing in handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    21
+   ],
+   [
+    "Disapprove",
+    73
+   ],
+   [
+    "Not sure",
+    6
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31086757,
+  "qname": "R03",
+  "start": "06/03/1992",
+  "end": "06/07/1992",
+  "surveyBy": "ABC News/Washington Post",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News/The Washington Post Poll:  Omnibus - June, 1992",
+  "text": "Do you approve or disapprove of the way (George) Bush is handling the nation's economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    23
+   ],
+   [
+    "Disapprove",
+    74
+   ],
+   [
+    "Don't know/No opinion",
+    3
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31094024,
+  "qname": "R20",
+  "start": "06/07/1992",
+  "end": "06/14/1992",
+  "surveyBy": "The Star Tribune",
+  "conductedBy": null,
+  "study": "The Minnesota Poll:  Presidential Campaign",
+  "text": "Do you approve or disapprove of the way George Bush is handling the nation's economy? (Approve/Disapprove, ask:) Do you feel strongly or not so strongly about that?",
+  "subpop": "",
+  "responses": [
+   [
+    "Approve strongly",
+    8
+   ],
+   [
+    "Approve not strongly",
+    11
+   ],
+   [
+    "Disapprove not strongly",
+    13
+   ],
+   [
+    "Disapprove strongly",
+    64
+   ],
+   [
+    "Don't know",
+    4
+   ],
+   [
+    "Refused",
+    1e-7
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31091391,
+  "qname": "R03",
+  "start": "06/17/1992",
+  "end": "06/20/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  June National Poll",
+  "text": "How about the economy? Do you approve or disapprove of the way George Bush is handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    16
+   ],
+   [
+    "Disapprove",
+    78
+   ],
+   [
+    "Don't know/No answer",
+    6
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31086759,
+  "qname": "R02",
+  "start": "07/01/1992",
+  "end": "07/08/1992",
+  "surveyBy": "ABC News/Washington Post",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News/Washington Post Poll: Omnibus - July, 1992",
+  "text": "Do you approve or disapprove of the way (George) Bush is handling the nation's economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    25
+   ],
+   [
+    "Disapprove",
+    72
+   ],
+   [
+    "Don't know/No opinion",
+    2
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31094730,
+  "qname": "R05B",
+  "start": "07/05/1992",
+  "end": "07/07/1992",
+  "surveyBy": "NBC News/Wall Street Journal",
+  "conductedBy": "Hart-Breglio Research Companies",
+  "study": "NBC News/Wall Street Journal Poll:  1992 Presidential Election and the Economy",
+  "text": "Do you generally approve or disapprove of the job George Bush is doing handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    19
+   ],
+   [
+    "Disapprove",
+    76
+   ],
+   [
+    "Not sure",
+    5
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31092986,
+  "qname": "R53",
+  "start": "07/07/1992",
+  "end": "07/09/1992",
+  "surveyBy": "Los Angeles Times",
+  "conductedBy": null,
+  "study": "Los Angeles Times Poll #290:  National Politics/Pre-Democratic Convention",
+  "text": "Do you approve or disapprove of the way George Bush is handling the nation's economy? (If approve or disapprove) Is that (approve/disapprove) strongly or (approve/disapprove) somewhat?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve strongly",
+    4
+   ],
+   [
+    "Approve somewhat",
+    17
+   ],
+   [
+    "Disapprove somewhat",
+    28
+   ],
+   [
+    "Disapprove strongly",
+    44
+   ],
+   [
+    "Don't know",
+    7
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31091389,
+  "qname": "R03",
+  "start": "07/08/1992",
+  "end": "07/11/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  July National Poll",
+  "text": "How about the economy? Do you approve or disapprove of the way George Bush is handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    18
+   ],
+   [
+    "Disapprove",
+    76
+   ],
+   [
+    "Don't know/No answer",
+    6
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31088741,
+  "qname": "Q04A",
+  "start": "07/24/1992",
+  "end": "07/26/1992",
+  "surveyBy": "Gallup Organization",
+  "conductedBy": null,
+  "study": "Gallup News Service Survey:  July, 1992 - Wave 1",
+  "text": "Please tell me whether you approve or disapprove of the way George Bush is handling some specific problems facing the country.... The economy",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    18
+   ],
+   [
+    "Disapprove",
+    76
+   ],
+   [
+    "Don't know/Refused",
+    6
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31091380,
+  "qname": "R57",
+  "start": "08/11/1992",
+  "end": "08/14/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  August National Poll",
+  "text": "How about the economy? Do you approve or disapprove of the way George Bush is handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    14
+   ],
+   [
+    "Disapprove",
+    80
+   ],
+   [
+    "Don't know/No answer",
+    6
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31092988,
+  "qname": "R62",
+  "start": "08/12/1992",
+  "end": "08/14/1992",
+  "surveyBy": "Los Angeles Times",
+  "conductedBy": null,
+  "study": "Los Angeles Times Poll #294:  National Politics/Pre-Republican Convention",
+  "text": "Do you approve or disapprove of the way (George) Bush is handling the nation's economy? (If approve or disapprove) Is that (approve/disapprove) strongly or (approve/disapprove) somewhat?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve strongly",
+    6
+   ],
+   [
+    "Approve somewhat",
+    19
+   ],
+   [
+    "Disapprove somewhat",
+    24
+   ],
+   [
+    "Disapprove strongly",
+    47
+   ],
+   [
+    "Don't know",
+    4
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31090760,
+  "qname": "R20B",
+  "start": "08/18/1992",
+  "end": "08/19/1992",
+  "surveyBy": "CBS News",
+  "conductedBy": null,
+  "study": "CBS News Poll:  August National Poll II",
+  "text": "How about the economy? Do you approve or disapprove of the way George Bush is handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    18
+   ],
+   [
+    "Disapprove",
+    75
+   ],
+   [
+    "Don't know/No answer",
+    7
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31091381,
+  "qname": "R28",
+  "start": "08/20/1992",
+  "end": "08/24/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  August National Poll III",
+  "text": "How about the economy? Do you approve or disapprove of the way George Bush is handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    17
+   ],
+   [
+    "Disapprove",
+    75
+   ],
+   [
+    "Don't know/No answer",
+    8
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31105735,
+  "qname": "QD06A",
+  "start": "09/01/1992",
+  "end": "11/02/1992",
+  "surveyBy": "National Science Foundation (NSF)",
+  "conductedBy": "Survey Research Center at University of Michigan (ANES American National Election Studies)/Center for Political Studies, University of Michigan",
+  "study": "American National Election Studies: 1992 Pre-Election Survey",
+  "text": "Do you approve or disapprove of the way George Bush is handling the economy? (If approve ask:) Do you approve strongly or not strongly? (If disapprove ask:) Do you disapprove strongly or not strongly?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve strongly",
+    7
+   ],
+   [
+    "Approve--not strongly",
+    13
+   ],
+   [
+    "Approve--no strength specified",
+    1e-7
+   ],
+   [
+    "Disapprove--not strongly",
+    17
+   ],
+   [
+    "Disapprove--strongly",
+    61
+   ],
+   [
+    "Disapprove--no strength specified",
+    1e-7
+   ],
+   [
+    "Don't know",
+    2
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31105735,
+  "qname": "QD06",
+  "start": "09/01/1992",
+  "end": "11/02/1992",
+  "surveyBy": "National Science Foundation (NSF)",
+  "conductedBy": "Survey Research Center at University of Michigan (ANES American National Election Studies)/Center for Political Studies, University of Michigan",
+  "study": "American National Election Studies: 1992 Pre-Election Survey",
+  "text": "Do you approve or disapprove of the way George Bush is handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    20
+   ],
+   [
+    "Disapprove",
+    78
+   ],
+   [
+    "Don't know",
+    2
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31091399,
+  "qname": "R49",
+  "start": "09/09/1992",
+  "end": "09/13/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll # 1992-SEPT92A:  September National Poll",
+  "text": "How about the economy? Do you approve or disapprove of the way George Bush is handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    19
+   ],
+   [
+    "Disapprove",
+    75
+   ],
+   [
+    "Don't know/No answer",
+    6
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31094732,
+  "qname": "R05B",
+  "start": "09/12/1992",
+  "end": "09/15/1992",
+  "surveyBy": "NBC News/Wall Street Journal",
+  "conductedBy": "Hart-Breglio Research Companies",
+  "study": "NBC News/Wall Street Journal Poll:  1992 Presidential Election",
+  "text": "Do you generally approve or disapprove of the job George Bush is doing in handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    23
+   ],
+   [
+    "Disapprove",
+    71
+   ],
+   [
+    "Not sure",
+    6
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31094028,
+  "qname": "R20",
+  "start": "10/02/1992",
+  "end": "10/06/1992",
+  "surveyBy": "The Star Tribune",
+  "conductedBy": null,
+  "study": "The Minnesota Poll:  Elections, 1992",
+  "text": "Do you approve or disapprove of the way George Bush is handling the nation's economy? (If Approve/Disapprove, ask:) Do you feel strongly or not so strongly about that?",
+  "subpop": "",
+  "responses": [
+   [
+    "Approve strongly",
+    10
+   ],
+   [
+    "Approve not strongly",
+    9
+   ],
+   [
+    "Disapprove not strongly",
+    10
+   ],
+   [
+    "Disapprove strongly",
+    67
+   ],
+   [
+    "Don't know",
+    3
+   ],
+   [
+    "Refused",
+    1
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31091395,
+  "qname": "R60",
+  "start": "10/02/1992",
+  "end": "10/04/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  October National Survey",
+  "text": "How about the economy? Do you approve or disapprove of the way George Bush is handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    16
+   ],
+   [
+    "Disapprove",
+    77
+   ],
+   [
+    "Don't know/No answer",
+    7
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31094733,
+  "qname": "R04B",
+  "start": "10/20/1992",
+  "end": "10/21/1992",
+  "surveyBy": "NBC News/Wall Street Journal",
+  "conductedBy": "Hart-Breglio Research Companies",
+  "study": "NBC News/Wall Street Journal Poll:  1992 Presidential Election",
+  "text": "Do you generally approve or disapprove of the job George Bush is doing in handling the economy?",
+  "subpop": "Asked of Form A half of registered voter sample",
+  "responses": [
+   [
+    "Approve",
+    17
+   ],
+   [
+    "Disapprove",
+    77
+   ],
+   [
+    "Not sure",
+    6
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31091396,
+  "qname": "R56",
+  "start": "10/21/1992",
+  "end": "10/23/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  October National Survey III",
+  "text": "Do you approve or disapprove of the way George Bush is handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    20
+   ],
+   [
+    "Disapprove",
+    74
+   ],
+   [
+    "Don't know/No answer",
+    6
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31091397,
+  "qname": "R29",
+  "start": "10/27/1992",
+  "end": "11/02/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  Pre-Election Tracking Survey",
+  "text": "How about the economy? Do you approve or disapprove of the way George Bush is handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    18
+   ],
+   [
+    "Disapprove",
+    75
+   ],
+   [
+    "Don't know/No Answer",
+    7
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31091397,
+  "qname": "R29",
+  "start": "10/27/1992",
+  "end": "11/02/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  Pre-Election Tracking Survey",
+  "text": "How about the economy? Do you approve or disapprove of the way George Bush is handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    18
+   ],
+   [
+    "Disapprove",
+    74
+   ],
+   [
+    "Don't know/No answer",
+    7
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31091397,
+  "qname": "R29",
+  "start": "10/27/1992",
+  "end": "11/02/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  Pre-Election Tracking Survey",
+  "text": "How about the economy? Do you approve or disapprove of the way George Bush is handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    18
+   ],
+   [
+    "Disapprove",
+    75
+   ],
+   [
+    "Don't know/No answer",
+    7
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31091397,
+  "qname": "R29",
+  "start": "10/27/1992",
+  "end": "11/02/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  Pre-Election Tracking Survey",
+  "text": "How about the economy? Do you approve or disapprove of the way George Bush is handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    18
+   ],
+   [
+    "Disapprove",
+    75
+   ],
+   [
+    "Don't know/No answer",
+    7
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31091397,
+  "qname": "R29",
+  "start": "10/27/1992",
+  "end": "11/02/1992",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  Pre-Election Tracking Survey",
+  "text": "How about the economy? Do you approve or disapprove of the way George Bush is handling the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    18
+   ],
+   [
+    "Disapprove",
+    75
+   ],
+   [
+    "Don't know/No answer",
+    7
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31098701,
+  "qname": "Q15",
+  "start": "11/03/1992",
+  "end": "11/03/1992",
+  "surveyBy": "ABC News/CBS News/NBC News/CNN",
+  "conductedBy": "Voter Research & Surveys",
+  "study": "Voter Research and Surveys:  National Election Day Exit Poll, 1992",
+  "text": "Do you approve or disapprove of the way George Bush has handled the economy?",
+  "subpop": "Asked of partial sample (26% of voters)",
+  "responses": [
+   [
+    "Approve strongly",
+    9
+   ],
+   [
+    "Approve somewhat",
+    26
+   ],
+   [
+    "Disapprove somewhat",
+    24
+   ],
+   [
+    "Disapprove strongly",
+    40
+   ],
+   [
+    "Don't know/No answer",
+    1
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31086763,
+  "qname": "Q006",
+  "start": "12/11/1992",
+  "end": "12/14/1992",
+  "surveyBy": "ABC News/Washington Post",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News/The Washington Post Poll:  December 1992 Poll",
+  "text": "Do you approve or disapprove of the way (President) Bush has handled the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    27
+   ],
+   [
+    "Disapprove",
+    70
+   ],
+   [
+    "Don't know/No opinion",
+    3
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31094736,
+  "qname": "R04B",
+  "start": "12/12/1992",
+  "end": "12/15/1992",
+  "surveyBy": "NBC News/Wall Street Journal",
+  "conductedBy": "Hart-Breglio Research Companies",
+  "study": "NBC News/Wall Street Journal Poll:  Hillary Clinton, the Economy, and Efforts in Somalia",
+  "text": "In general, do you approve or disapprove of the job George Bush is doing in handling the economy?",
+  "subpop": "Asked of Form A half sample",
+  "responses": [
+   [
+    "Approve",
+    25
+   ],
+   [
+    "Disapprove",
+    69
+   ],
+   [
+    "Not sure",
+    6
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31088172,
+  "qname": "R07E",
+  "start": "01/08/1993",
+  "end": "01/11/1993",
+  "surveyBy": "Cable News Network (CNN)/USA Today",
+  "conductedBy": "Gallup Organization",
+  "study": "Gallup/CNN/USA Today Poll:  Bush Review/The State of the Nation",
+  "text": "Thinking again about President (George) Bush, please tell me whether you approve or disapprove of the way he handled each of the following issues during his four years in office.... The economy",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    28
+   ],
+   [
+    "Disapprove",
+    69
+   ],
+   [
+    "No opinion",
+    3
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31091402,
+  "qname": "R38",
+  "start": "01/12/1993",
+  "end": "01/14/1993",
+  "surveyBy": "CBS News/New York Times",
+  "conductedBy": null,
+  "study": "CBS News/New York Times Poll:  January National Poll",
+  "text": "Do you approve or disapprove of the way George Bush has handled the economy during the last four years?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    21
+   ],
+   [
+    "Disapprove",
+    72
+   ],
+   [
+    "Don't know/No answer",
+    7
+   ]
+  ]
+ },
+ {
+  "key": "econ",
+  "archiveId": 31086776,
+  "qname": "R06",
+  "start": "01/14/1993",
+  "end": "01/17/1993",
+  "surveyBy": "ABC News/Washington Post",
+  "conductedBy": "Chilton Research Services",
+  "study": "ABC News/The Washington Post Poll: The Economy/Clinton as President",
+  "text": "Do you approve or disapprove of the way (George) Bush has handled the economy?",
+  "subpop": null,
+  "responses": [
+   [
+    "Approve",
+    29
+   ],
+   [
+    "Disapprove",
+    68
+   ],
+   [
+    "No opinion",
+    3
+   ]
+  ]
+ }
+]
