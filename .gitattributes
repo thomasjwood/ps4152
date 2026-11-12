@@ -3,3 +3,4 @@
 polls/wikipedia/raw/** -text
 polls/sources/** -text
 pew/** -text
+2016/** -text
