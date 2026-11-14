@@ -1,0 +1,4199 @@
+[
+ {
+  "archiveId": 31120921,
+  "sid": "ac77f0d6-e7bd-470c-afd9-3bb41c7b201b",
+  "qid": "e9d5fca5-22d1-41eb-8490-149e3e97b8bd",
+  "conductedBy": "Social Science Research Solutions (SSRS)/Rutgers Eagleton Center for Public Interest Polling/John J. Heldrich Center for Workforce Development at Rutgers University",
+  "surveyBy": "John J. Heldrich Center for Workforce Development at Rutgers University",
+  "study": "Work Trends: April 2023 Jobs, the Economy, and the Labor Market",
+  "start": "04/07/2023",
+  "end": "04/10/2023",
+  "key": "too_old",
+  "qname": "R10",
+  "text": "(Thinking about some economic issues...how concerned are you about...older workers being able to retire when they want to?)...Very concerned, somewhat concerned, not too concerned, not at all concerned    ",
+  "subpop": "Asked of those employed (61%)",
+  "notes": null,
+  "responses": [
+   [
+    "Very concerned",
+    40
+   ],
+   [
+    "Somewhat concerned",
+    41
+   ],
+   [
+    "Not too concerned",
+    14
+   ],
+   [
+    "Not at all concerned",
+    6
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120262,
+  "sid": "f6a9ab0f-4b90-4422-b908-b3f77e9a88c2",
+  "qid": "fdd52384-da68-4e3c-b49e-8a78c3f20f5d",
+  "conductedBy": "Abt Associates",
+  "surveyBy": "ABC News/Washington Post",
+  "study": "ABC New/Washington Post Poll",
+  "start": "04/28/2023",
+  "end": "05/03/2023",
+  "key": "too_old",
+  "qname": "R20",
+  "text": "If re-elected, (Joe) Biden would be 82 years old at the start of his second term and if elected again, (Donald) Trump would be 78 years old at the start of his second terms. Do you think only  Biden is too old for another term as president, only Trump is too old for another term as president, both are too old for another term as president, or neither is too old for another term as president?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Only Biden is too old",
+    26
+   ],
+   [
+    "Only Trump is too old",
+    1
+   ],
+   [
+    "Both are too old",
+    43
+   ],
+   [
+    "Neither is too old",
+    28
+   ],
+   [
+    "No opinion",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120300,
+  "sid": "df460662-38b2-40ff-b97a-706fcc8d7bd0",
+  "qid": "798a56f0-96f3-4a83-a2d0-818101bbd3f7",
+  "conductedBy": null,
+  "surveyBy": "Quinnipiac University Polling Institute",
+  "study": "Quinnipiac University Poll",
+  "start": "05/18/2023",
+  "end": "05/22/2023",
+  "key": "too_old",
+  "qname": "R24",
+  "text": "Do you think...Joe Biden is too old to effectively serve another 4-year term as president, or not?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Yes/Too old",
+    66
+   ],
+   [
+    "No",
+    31
+   ],
+   [
+    "Don't know/No answer",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120300,
+  "sid": "df460662-38b2-40ff-b97a-706fcc8d7bd0",
+  "qid": "a118b1ba-45da-4178-a270-342bfda5ffb5",
+  "conductedBy": null,
+  "surveyBy": "Quinnipiac University Polling Institute",
+  "study": "Quinnipiac University Poll",
+  "start": "05/18/2023",
+  "end": "05/22/2023",
+  "key": "too_old",
+  "qname": "R25",
+  "text": "Do you think...Donald Trump is too old to effectively serve another 4-year term as president, or not?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Yes/Too old",
+    37
+   ],
+   [
+    "No",
+    59
+   ],
+   [
+    "Don't know/No answer",
+    4
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120494,
+  "sid": "270ed5e0-b920-44b5-bb63-62d317c4d2b1",
+  "qid": "1c6f8475-bb24-4065-95ad-283710f917e0",
+  "conductedBy": "AP-NORC Center for Public Affairs Research",
+  "surveyBy": "Associated Press",
+  "study": "Associated Press-NORC Survey",
+  "start": "08/10/2023",
+  "end": "08/14/2023",
+  "key": "too_old",
+  "qname": "R03",
+  "text": "Do you think each of the following is too old to effectively serve another 4-year term as president, or not?...Joe Biden",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Yes, too old ",
+    77
+   ],
+   [
+    "No, not too old",
+    22
+   ],
+   [
+    "Don't know",
+    1e-07
+   ],
+   [
+    "Skipped/Refused",
+    1e-07
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120494,
+  "sid": "270ed5e0-b920-44b5-bb63-62d317c4d2b1",
+  "qid": "fbad865e-ab19-4a8b-821d-cb389d834cd9",
+  "conductedBy": "AP-NORC Center for Public Affairs Research",
+  "surveyBy": "Associated Press",
+  "study": "Associated Press-NORC Survey",
+  "start": "08/10/2023",
+  "end": "08/14/2023",
+  "key": "too_old",
+  "qname": "R04",
+  "text": "(Do you think each of the following is too old to effectively serve another 4-year term as president, or not?)...Donald Trump",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Yes, too old ",
+    51
+   ],
+   [
+    "No, not too old",
+    49
+   ],
+   [
+    "Don't know",
+    1e-07
+   ],
+   [
+    "Skipped/Refused",
+    1e-07
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120496,
+  "sid": "63790575-408f-4f6b-be99-89942214cf96",
+  "qid": "ef985741-67c8-4c76-9b20-086c56d0ecbd",
+  "conductedBy": "Beacon Research/Shaw & Co. Research",
+  "surveyBy": "Fox News",
+  "study": "Fox News Poll",
+  "start": "08/11/2023",
+  "end": "08/14/2023",
+  "key": "too_old",
+  "qname": "R03",
+  "text": "Why do you disapprove of the job he is doing? (If Doing a bad job, probe:) Why specifically do you think he's doing a bad job?",
+  "subpop": "Asked of those who disapprove of the job Joe Biden is doing as president (58%)",
+  "notes": "Open-ended question. Respondents answered the question in their own words; these responses were coded by the survey organization into the listed response categories.",
+  "responses": [
+   [
+    "Handling of the economy/Inflation/Jobs ",
+    27
+   ],
+   [
+    "Doing a bad job/Disapprove of policies",
+    18
+   ],
+   [
+    "Age/Old/Mental state ",
+    14
+   ],
+   [
+    "Dishonesty/Corrupt/Deception",
+    9
+   ],
+   [
+    "Border/Immigration",
+    6
+   ],
+   [
+    "Not looking out for American people/Doesn’t have best interest of country",
+    6
+   ],
+   [
+    "Spending too much/Deficit/Debt",
+    4
+   ],
+   [
+    "Nothing is getting done",
+    4
+   ],
+   [
+    "Has not kept campaign promises",
+    3
+   ],
+   [
+    "Foreign policy/Defense/Ukraine/Afghanistan withdrawal",
+    3
+   ],
+   [
+    "Energy policies/Oil pipelines/Gas prices ",
+    2
+   ],
+   [
+    "Handling of social issues",
+    1
+   ],
+   [
+    "Student loan forgiveness",
+    1
+   ],
+   [
+    "Other",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120629,
+  "sid": "8eab9834-44d0-4fb4-90c0-fdaa9f296572",
+  "qid": "220338b9-ea51-46c9-8340-e476cae94ba8",
+  "conductedBy": "Ipsos",
+  "surveyBy": "PRRI",
+  "study": "PRRI American Values Survey",
+  "start": "08/25/2023",
+  "end": "08/30/2023",
+  "key": "too_old",
+  "qname": "R63",
+  "text": "(How much do you agree or disagree with the following statements?...Completely agree, mostly agree, mostly disagree, completely disagree)...Donald Trump is too old to be president.",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Completely agree",
+    26
+   ],
+   [
+    "Mostly agree",
+    24
+   ],
+   [
+    "Mostly disagree",
+    23
+   ],
+   [
+    "Completely disagree",
+    24
+   ],
+   [
+    "Skipped/Refused",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120524,
+  "sid": "3ee3ef5e-c95a-45c8-a738-c83c4f839c87",
+  "qid": "4b22f715-2d91-4ea0-af5e-fd15663b66a6",
+  "conductedBy": "SSRS",
+  "surveyBy": "CNN",
+  "study": "CNN Poll",
+  "start": "08/25/2023",
+  "end": "08/31/2023",
+  "key": "too_old",
+  "qname": "R12",
+  "text": "What is your biggest concern, if any, about Joe Biden as a candidate for president in 2024? ",
+  "subpop": "Registered Democrats including leaners (N=391)",
+  "notes": "Adds to more than 100% due to multiple responses.  * = Less than .5 percent.  Open-ended question. Respondents answered the question in their own words; these responses were coded by the survey organization into the listed response categories.",
+  "responses": [
+   [
+    "His age/Too old/Need someone younger",
+    49
+   ],
+   [
+    "His mental competence/Sharpness/Senility",
+    7
+   ],
+   [
+    "His health",
+    7
+   ],
+   [
+    "Ability to handle the job/Effectiveness",
+    7
+   ],
+   [
+    "Concerns about popularity/Too disliked/May not win 2024",
+    6
+   ],
+   [
+    "The economy/Inflation/Prices",
+    4
+   ],
+   [
+    "Not doing a good job/Not doing enough",
+    4
+   ],
+   [
+    "Ability to complete a full term/Risk of dying",
+    4
+   ],
+   [
+    "Concerns about VP selection/Kamala Harris",
+    3
+   ],
+   [
+    "Not a strong leader/Should be stronger",
+    2
+   ],
+   [
+    "Out of touch",
+    2
+   ],
+   [
+    "Does not represent or understand younger Americans",
+    2
+   ],
+   [
+    "Stamina",
+    2
+   ],
+   [
+    "Not inspiring/Not exciting/No vision",
+    2
+   ],
+   [
+    "Policies on poverty/Helping the poor",
+    1
+   ],
+   [
+    "Policies on climate change",
+    1
+   ],
+   [
+    "Not doing enough to stop Republicans",
+    1
+   ],
+   [
+    "Foreign policy issues",
+    1
+   ],
+   [
+    "Misspeaking/Blunders",
+    1
+   ],
+   [
+    "Typical politician/Career politician/Establishment",
+    1
+   ],
+   [
+    "Not uniting the country/Not bringing people together",
+    1
+   ],
+   [
+    "Policies on immigration",
+    1
+   ],
+   [
+    "Race/Racial issues",
+    1
+   ],
+   [
+    "Student loan forgiveness",
+    1
+   ],
+   [
+    "Not progressive enough/Not liberal enough",
+    1
+   ],
+   [
+    "No confidence (general)",
+    1
+   ],
+   [
+    "Not keeping promises (general)",
+    1
+   ],
+   [
+    "Concern a third party candidate will run",
+    1
+   ],
+   [
+    "Does not represent own views",
+    1e-07
+   ],
+   [
+    "Not doing enough on abortion/Women's rights",
+    1e-07
+   ],
+   [
+    "Policies on guns/Gun control",
+    1e-07
+   ],
+   [
+    "Other",
+    13
+   ],
+   [
+    "None/No concerns",
+    5
+   ],
+   [
+    "Not sure",
+    1
+   ],
+   [
+    "No opinion",
+    11
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120629,
+  "sid": "8eab9834-44d0-4fb4-90c0-fdaa9f296572",
+  "qid": "5350e9a0-3d75-4028-a203-d7334ba806f1",
+  "conductedBy": "Ipsos",
+  "surveyBy": "PRRI",
+  "study": "PRRI American Values Survey",
+  "start": "08/25/2023",
+  "end": "08/30/2023",
+  "key": "too_old",
+  "qname": "R62",
+  "text": "(How much do you agree or disagree with the following statements?...Completely agree, mostly agree, mostly disagree, completely disagree)...Joe Biden is too old to be president.",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Completely agree",
+    50
+   ],
+   [
+    "Mostly agree",
+    28
+   ],
+   [
+    "Mostly disagree",
+    12
+   ],
+   [
+    "Completely disagree",
+    8
+   ],
+   [
+    "Skipped/Refused",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120537,
+  "sid": "df3a02b7-a992-4ff2-b24c-71ca0d824570",
+  "qid": "24004d0d-a382-489d-aa6e-6941668ad9ab",
+  "conductedBy": null,
+  "surveyBy": "Quinnipiac University Polling Institute",
+  "study": "Quinnipiac University Poll",
+  "start": "09/07/2023",
+  "end": "09/11/2023",
+  "key": "too_old",
+  "qname": "R30",
+  "text": "Do you think Donald Trump is too old to effectively serve another 4-year term as president, or not?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Yes/Too old",
+    35
+   ],
+   [
+    "No",
+    62
+   ],
+   [
+    "Don't know/No answer",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120537,
+  "sid": "df3a02b7-a992-4ff2-b24c-71ca0d824570",
+  "qid": "57ae69d3-4cbe-4d12-a517-a9cb5f0150a8",
+  "conductedBy": null,
+  "surveyBy": "Quinnipiac University Polling Institute",
+  "study": "Quinnipiac University Poll",
+  "start": "09/07/2023",
+  "end": "09/11/2023",
+  "key": "too_old",
+  "qname": "R29",
+  "text": "Do you think Joe Biden is too old to effectively serve another 4-year term as president, or not?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Yes/Too old",
+    69
+   ],
+   [
+    "No",
+    26
+   ],
+   [
+    "Don't know/No answer",
+    5
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120551,
+  "sid": "f10d6d2b-ebe7-4dd3-b676-8c4e2365a76c",
+  "qid": "c6a79aa8-5348-403b-91ea-e8bd7700301c",
+  "conductedBy": "Abt Associates",
+  "surveyBy": "ABC News/Washington Post",
+  "study": "ABC News/Washington Post Poll",
+  "start": "09/15/2023",
+  "end": "09/20/2023",
+  "key": "too_old",
+  "qname": "R18",
+  "text": "If re-elected, Biden would be 82 years old at the start of his second term and if elected again, Trump would be 78 years old at the start of his second term. Do you think only Biden is too old for another term as president, only Trump is too old for another term as president, both are too old for another term as president, or neither is too old for another term as president?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Only Biden is too old",
+    26
+   ],
+   [
+    "Only Trump is too old",
+    1
+   ],
+   [
+    "Both are too old",
+    48
+   ],
+   [
+    "Neither is too old",
+    23
+   ],
+   [
+    "No opinion",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120584,
+  "sid": "ada98be2-7014-41f7-bb43-3534a86cf01b",
+  "qid": "4b3a8e74-bca9-41dd-9301-029b798c2f93",
+  "conductedBy": "SSRS",
+  "surveyBy": "Marquette Law School",
+  "study": "Marquette Law School National Survey",
+  "start": "09/18/2023",
+  "end": "09/25/2023",
+  "key": "too_old",
+  "qname": "R62",
+  "text": "How well does each of the following phrases describe Donald Trump?...Very well, somewhat well, not too well, not at all well...Is too old to be president",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Very well",
+    24
+   ],
+   [
+    "Somewhat well",
+    28
+   ],
+   [
+    "Not too well",
+    27
+   ],
+   [
+    "Not at all well",
+    21
+   ],
+   [
+    "Skipped/Refused",
+    1e-07
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120584,
+  "sid": "ada98be2-7014-41f7-bb43-3534a86cf01b",
+  "qid": "826b04cb-ea23-4f88-8917-a1cf7b57571b",
+  "conductedBy": "SSRS",
+  "surveyBy": "Marquette Law School",
+  "study": "Marquette Law School National Survey",
+  "start": "09/18/2023",
+  "end": "09/25/2023",
+  "key": "too_old",
+  "qname": "R57",
+  "text": "How well does each of the following phrases describe Joe Biden?...Very well, somewhat well, not too well, not at all well)...Is too old to be president",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Very well",
+    55
+   ],
+   [
+    "Somewhat well",
+    23
+   ],
+   [
+    "Not too well",
+    13
+   ],
+   [
+    "Not at all well",
+    10
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120905,
+  "sid": "586063ea-aba3-40e6-9acb-15b059343a95",
+  "qid": "3687a888-2a6a-40f0-a42f-c0718bf10d8d",
+  "conductedBy": "NORC at the University of Chicago",
+  "surveyBy": "AARP",
+  "study": "AARP 2024 Tech Trends",
+  "start": "10/06/2023",
+  "end": "10/19/2023",
+  "key": "too_old",
+  "qname": "",
+  "text": "Where do you feel the design of technology today is falling short for you, specifically?",
+  "subpop": "Asked of those who feel technology is not designed with their age in mind (n = 903)",
+  "notes": "Adds to more than 100% due to multiple responses.  ",
+  "responses": [
+   [
+    "No instructions/step-by-step manual/Hard to get help",
+    9
+   ],
+   [
+    "Lack of training",
+    6
+   ],
+   [
+    "Need to be simpler/Easier to understand",
+    6
+   ],
+   [
+    "Difficult to use/Not easy",
+    5
+   ],
+   [
+    "Not user friendly",
+    4
+   ],
+   [
+    "I don't understand it",
+    3
+   ],
+   [
+    "Old fashioned/Not tech savvy",
+    3
+   ],
+   [
+    "Too many passwords to remember",
+    1
+   ],
+   [
+    "Too complicated/advanced",
+    13
+   ],
+   [
+    "Always changing/It's hard to keep up",
+    6
+   ],
+   [
+    "A lot to learn/Large learning curve",
+    4
+   ],
+   [
+    "Requires basic knowledge that seniors don't have",
+    3
+   ],
+   [
+    "Too many choices/Too much",
+    1
+   ],
+   [
+    "Made for younger generations",
+    11
+   ],
+   [
+    "Not designed for senior needs",
+    5
+   ],
+   [
+    "My age/I'm too old",
+    4
+   ],
+   [
+    "Not necessary/Unneeded/Lacks substance",
+    3
+   ],
+   [
+    "Privacy concerns",
+    1
+   ],
+   [
+    "Miscellaneous app/product mentions",
+    1
+   ],
+   [
+    "Security/Worried about phishing/hacking",
+    1
+   ],
+   [
+    "Too many ads/spam/junk",
+    1
+   ],
+   [
+    "Not interested in social media",
+    1
+   ],
+   [
+    "Miscellaneous accessibility mentions (phone size, screen size, etc.)",
+    3
+   ],
+   [
+    "Small type/font",
+    2
+   ],
+   [
+    "I'm not interested",
+    5
+   ],
+   [
+    "Cost",
+    3
+   ],
+   [
+    "Too much reliance on technology",
+    2
+   ],
+   [
+    "I am comfortable with technology/l don't think it's falling short",
+    2
+   ],
+   [
+    "Have to be online/have a mobile phone",
+    1
+   ],
+   [
+    "All other mentions",
+    3
+   ],
+   [
+    "None/Nothing",
+    2
+   ],
+   [
+    "Don't know",
+    6
+   ],
+   [
+    "Blank/No answer",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120905,
+  "sid": "586063ea-aba3-40e6-9acb-15b059343a95",
+  "qid": "3bf7cb06-9aaa-4e4f-ba32-9b65918da49f",
+  "conductedBy": "NORC at the University of Chicago",
+  "surveyBy": "AARP",
+  "study": "AARP 2024 Tech Trends",
+  "start": "10/06/2023",
+  "end": "10/19/2023",
+  "key": "too_old",
+  "qname": "",
+  "text": "You indicated you are not interested in using smart home tech devices. Please use the space below to tell us why that is.",
+  "subpop": "Asked of those who are not interested in using smart home tech devices (n = 451)",
+  "notes": "Adds to more than 100% due to multiple responses.  ",
+  "responses": [
+   [
+    "Not needed",
+    20
+   ],
+   [
+    "Old fashioned/Prefer simpler methods",
+    12
+   ],
+   [
+    "Not interested",
+    11
+   ],
+   [
+    "I live in an apartment/rent my house",
+    7
+   ],
+   [
+    "Unnecessary",
+    6
+   ],
+   [
+    "Satisfied with what I have",
+    5
+   ],
+   [
+    "Don't want to learn about it/deal with it",
+    3
+   ],
+   [
+    "I'm home most of the time",
+    1
+   ],
+   [
+    "Expensive",
+    13
+   ],
+   [
+    "Too complicated",
+    5
+   ],
+   [
+    "I'm not tech savvy",
+    5
+   ],
+   [
+    "I'm too old",
+    4
+   ],
+   [
+    "My age/health issues",
+    3
+   ],
+   [
+    "Don't have Internet/Wifi/smartphone",
+    2
+   ],
+   [
+    "My house is too old",
+    1
+   ],
+   [
+    "Do not trust it/Not secure",
+    11
+   ],
+   [
+    "Privacy concerns/Invasive",
+    4
+   ],
+   [
+    "Too many things can go wrong",
+    1
+   ],
+   [
+    "Security",
+    1
+   ],
+   [
+    "Too reliant on technology",
+    5
+   ],
+   [
+    "Not worth it",
+    1
+   ],
+   [
+    "Do not have enough information",
+    1
+   ],
+   [
+    "All other mentions",
+    5
+   ],
+   [
+    "Don't know",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120905,
+  "sid": "586063ea-aba3-40e6-9acb-15b059343a95",
+  "qid": "84d87dfb-3111-49c9-bb05-90734b6ac7ff",
+  "conductedBy": "NORC at the University of Chicago",
+  "surveyBy": "AARP",
+  "study": "AARP 2024 Tech Trends",
+  "start": "10/06/2023",
+  "end": "10/19/2023",
+  "key": "too_old",
+  "qname": "",
+  "text": "Below is an example of some of the types of digital services you noted you do not use on a regular basis. In general, why are you not engaging with these types of services online?",
+  "subpop": "Asked of those who have not regularly engaged with a digital service online in the past 3 months (n = 656)",
+  "notes": "Adds to more than 100% due to multiple responses.  ",
+  "responses": [
+   [
+    "Not interested/No desire",
+    30
+   ],
+   [
+    "Don't need to",
+    24
+   ],
+   [
+    "I don't use them/do this",
+    8
+   ],
+   [
+    "Don't want to",
+    2
+   ],
+   [
+    "I just don't/No reason",
+    2
+   ],
+   [
+    "Not necessary",
+    2
+   ],
+   [
+    "Only use periodically/infrequently/as needed",
+    2
+   ],
+   [
+    "Don't know how to do this/Not tech savvy",
+    7
+   ],
+   [
+    "Too busy/Don't have time to",
+    7
+   ],
+   [
+    "Costs money",
+    2
+   ],
+   [
+    "Because of my age/health issues",
+    2
+   ],
+   [
+    "Don't have access/Internet/phone",
+    1
+   ],
+   [
+    "Too complicated/confusing",
+    1
+   ],
+   [
+    "Don't trust it/Privacy/security concerns",
+    6
+   ],
+   [
+    "Don't like to do this online/prefer in-person/other methods",
+    5
+   ],
+   [
+    "Try to limit time online/on phone",
+    2
+   ],
+   [
+    "Easier on phone/through app",
+    1
+   ],
+   [
+    "I'm too old school",
+    1
+   ],
+   [
+    "I prefer to do other things",
+    1
+   ],
+   [
+    "Miscellaneous communications mentions (email, text, video chat, etc.)",
+    6
+   ],
+   [
+    "Internet browsing",
+    2
+   ],
+   [
+    "I do some of these",
+    1
+   ],
+   [
+    "All other activities mentions (banking, health, etc.)",
+    6
+   ],
+   [
+    "All other mentions",
+    3
+   ],
+   [
+    "None/Nothing",
+    2
+   ],
+   [
+    "Blank/No answer",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121062,
+  "sid": "a364675f-47e6-42b9-a368-7c18d4f387ce",
+  "qid": "0c24959a-e144-4a32-87cd-e816ec529d4c",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times Upshot/Siena College Arizona Poll",
+  "start": "10/22/2023",
+  "end": "11/03/2023",
+  "key": "too_old",
+  "qname": "R34",
+  "text": "(Next, regardless of who you support for the president, tell me whether you strongly agree, somewhat agree, somewhat disagree, or strongly disagree with each of the following statements.)...Donald Trump is just too old to be an effective president.",
+  "subpop": "Asked of one-third sample",
+  "notes": null,
+  "responses": [
+   [
+    "Strongly agree",
+    25
+   ],
+   [
+    "Somewhat agree",
+    19
+   ],
+   [
+    "Somewhat disagree",
+    20
+   ],
+   [
+    "Strongly disagree",
+    32
+   ],
+   [
+    "Don't know/Refused",
+    5
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121064,
+  "sid": "0636bd64-a5f8-471c-a1d4-48186a3f7ca1",
+  "qid": "0f989eee-2b5c-44a7-9d66-13a58eba658b",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times Upshot/Siena College Michigan Poll",
+  "start": "10/22/2023",
+  "end": "11/03/2023",
+  "key": "too_old",
+  "qname": "R35",
+  "text": "(Next, regardless of who you support for the president, tell me whether you strongly agree, somewhat agree, somewhat disagree, or strongly disagree with each of the following statements.)...Donald Trump is just too old to be an effective president. Tell me whether you strongly agree, somewhat agree, somewhat disagree, or strongly disagree.",
+  "subpop": "Asked of one-third sample",
+  "notes": null,
+  "responses": [
+   [
+    "Strongly agree",
+    21
+   ],
+   [
+    "Somewhat agree",
+    18
+   ],
+   [
+    "Somewhat disagree",
+    23
+   ],
+   [
+    "Strongly disagree",
+    35
+   ],
+   [
+    "Don't know/Refused ",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121063,
+  "sid": "ed4b18c0-42f3-482b-9eab-d33bfe4db3b7",
+  "qid": "1ec1252a-a919-4794-84ef-1f6509a5d6c8",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times Upshot/Siena College Georgia Poll",
+  "start": "10/22/2023",
+  "end": "11/03/2023",
+  "key": "too_old",
+  "qname": "R35",
+  "text": "(Next, regardless of who you support for president, tell me whether you strongly agree, somewhat agree, somewhat disagree, or strongly disagree with each of the following statements.)...Donald Trump is just too old to be an effective president.",
+  "subpop": "Asked of one-third sample",
+  "notes": null,
+  "responses": [
+   [
+    "Strongly agree",
+    19
+   ],
+   [
+    "Somewhat agree",
+    20
+   ],
+   [
+    "Somewhat disagree",
+    22
+   ],
+   [
+    "Strongly disagree",
+    37
+   ],
+   [
+    "Don't know/Refused",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121065,
+  "sid": "83e4d10c-2a6e-4359-bea0-90d3f1e476ff",
+  "qid": "430315a5-0ffd-43e7-b6f9-17abcf6ccaa9",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times Upshot/Siena College Nevada Poll",
+  "start": "10/22/2023",
+  "end": "11/03/2023",
+  "key": "too_old",
+  "qname": "R33",
+  "text": "Next, regardless of who you support for president, tell me whether you strongly agree, somewhat agree, somewhat disagree, or strongly disagree with each of the following statements....Joe Biden is just too old to be an effective president.",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Strongly agree",
+    53
+   ],
+   [
+    "Somewhat agree",
+    21
+   ],
+   [
+    "Somewhat disagree",
+    13
+   ],
+   [
+    "Strongly disagree",
+    12
+   ],
+   [
+    "Don't know/Refused",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121066,
+  "sid": "c6fca633-f3f7-4805-b92a-c8ba66e74576",
+  "qid": "4ed6f056-82e0-40d1-83e9-d9ad8ae2468a",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times Upshot/Siena College Pennsylvania Poll",
+  "start": "10/22/2023",
+  "end": "11/03/2023",
+  "key": "too_old",
+  "qname": "R34",
+  "text": "Next, regardless of who you support for the president, tell me whether you strongly agree, somewhat agree, somewhat disagree, or strongly disagree with each of the following statements....Joe Biden is just too old to be an effective president. ",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Strongly agree",
+    45
+   ],
+   [
+    "Somewhat agree",
+    24
+   ],
+   [
+    "Somewhat disagree",
+    16
+   ],
+   [
+    "Strongly disagree",
+    13
+   ],
+   [
+    "Don't know/Refused",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121066,
+  "sid": "c6fca633-f3f7-4805-b92a-c8ba66e74576",
+  "qid": "5b0489af-cdde-4bc9-9310-519b88d78041",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times Upshot/Siena College Pennsylvania Poll",
+  "start": "10/22/2023",
+  "end": "11/03/2023",
+  "key": "too_old",
+  "qname": "R35",
+  "text": "(Next, regardless of who you support for the president, tell me whether you strongly agree, somewhat agree, somewhat disagree, or strongly disagree with each of the following statements.)...Donald Trump is just too old to be an effective president. ",
+  "subpop": "Asked of one-third sample",
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Strongly agree",
+    16
+   ],
+   [
+    "Somewhat agree",
+    19
+   ],
+   [
+    "Somewhat disagree",
+    23
+   ],
+   [
+    "Strongly disagree",
+    41
+   ],
+   [
+    "Don't know/Refused",
+    1e-07
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121064,
+  "sid": "0636bd64-a5f8-471c-a1d4-48186a3f7ca1",
+  "qid": "6c394e77-7fc6-4f07-8dbc-08cf7274384d",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times Upshot/Siena College Michigan Poll",
+  "start": "10/22/2023",
+  "end": "11/03/2023",
+  "key": "too_old",
+  "qname": "R34",
+  "text": "Next, regardless of who you support for the president, tell me whether you strongly agree, somewhat agree, somewhat disagree, or strongly disagree with each of the following statements....Joe Biden is just too old to be an effective president. Tell me whether you strongly agree, somewhat agree, somewhat disagree, or strongly disagree.",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Strongly agree",
+    46
+   ],
+   [
+    "Somewhat agree",
+    25
+   ],
+   [
+    "Somewhat disagree",
+    13
+   ],
+   [
+    "Strongly disagree",
+    14
+   ],
+   [
+    "Don't know/Refused ",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121063,
+  "sid": "ed4b18c0-42f3-482b-9eab-d33bfe4db3b7",
+  "qid": "737b654f-a5f2-42f6-8a22-0ed644cc35c1",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times Upshot/Siena College Georgia Poll",
+  "start": "10/22/2023",
+  "end": "11/03/2023",
+  "key": "too_old",
+  "qname": "R34",
+  "text": "Next, regardless of who you support for president, tell me whether you strongly agree, somewhat agree, somewhat disagree, or strongly disagree with each of the following statements....Joe Biden is just too old to be an effective president.",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Strongly agree",
+    45
+   ],
+   [
+    "Somewhat agree",
+    24
+   ],
+   [
+    "Somewhat disagree",
+    13
+   ],
+   [
+    "Strongly disagree",
+    14
+   ],
+   [
+    "Don't know/Refused",
+    4
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121065,
+  "sid": "83e4d10c-2a6e-4359-bea0-90d3f1e476ff",
+  "qid": "ad3aa8ae-f6f1-4205-8d26-f74378fdfc6b",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times Upshot/Siena College Nevada Poll",
+  "start": "10/22/2023",
+  "end": "11/03/2023",
+  "key": "too_old",
+  "qname": "R34",
+  "text": "(Next, regardless of who you support for president, tell me whether you strongly agree, somewhat agree, somewhat disagree, or strongly disagree with each of the following statements.)...Donald Trump is just too old to be an effective president.",
+  "subpop": "Asked of one-third sample",
+  "notes": null,
+  "responses": [
+   [
+    "Strongly agree",
+    17
+   ],
+   [
+    "Somewhat agree",
+    19
+   ],
+   [
+    "Somewhat disagree",
+    28
+   ],
+   [
+    "Strongly disagree",
+    33
+   ],
+   [
+    "Don't know/Refused",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121067,
+  "sid": "8fc14e86-f5bb-4680-8c40-bdc64342881b",
+  "qid": "bd1c4421-304e-49c1-93ac-ac8332153134",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times Upshot/Siena College Wisconsin Poll",
+  "start": "10/22/2023",
+  "end": "11/03/2023",
+  "key": "too_old",
+  "qname": "R35",
+  "text": "(Next, regardless of who you support for president, tell me whether you strongly agree, somewhat agree, somewhat disagree, or strongly disagree with each of the following statements.)...Donald Trump is just too old to be an effective president.\n",
+  "subpop": "Asked of one-third sample",
+  "notes": null,
+  "responses": [
+   [
+    "Strongly agree",
+    11
+   ],
+   [
+    "Somewhat agree",
+    29
+   ],
+   [
+    "Somewhat disagree",
+    26
+   ],
+   [
+    "Strongly disagree",
+    33
+   ],
+   [
+    "Don't know/Refused",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121062,
+  "sid": "a364675f-47e6-42b9-a368-7c18d4f387ce",
+  "qid": "c7f69cec-ad7a-4fc8-bf5d-3aff41265340",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times Upshot/Siena College Arizona Poll",
+  "start": "10/22/2023",
+  "end": "11/03/2023",
+  "key": "too_old",
+  "qname": "R33",
+  "text": "Next, regardless of who you support for the president, tell me whether you strongly agree, somewhat agree, somewhat disagree, or strongly disagree with each of the following statements....Joe Biden is just too old to be an effective president.",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Strongly agree",
+    47
+   ],
+   [
+    "Somewhat agree",
+    23
+   ],
+   [
+    "Somewhat disagree",
+    13
+   ],
+   [
+    "Strongly disagree",
+    15
+   ],
+   [
+    "Don't know/Refused",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121067,
+  "sid": "8fc14e86-f5bb-4680-8c40-bdc64342881b",
+  "qid": "fe272c87-a3da-40a2-9b7b-772f5a07d0ec",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times Upshot/Siena College Wisconsin Poll",
+  "start": "10/22/2023",
+  "end": "11/03/2023",
+  "key": "too_old",
+  "qname": "R34",
+  "text": "Next, regardless of who you support for president, tell me whether you strongly agree, somewhat agree, somewhat disagree, or strongly disagree with each of the following statements....Joe Biden is just too old to be an effective president.",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Strongly agree",
+    45
+   ],
+   [
+    "Somewhat agree",
+    27
+   ],
+   [
+    "Somewhat disagree",
+    15
+   ],
+   [
+    "Strongly disagree",
+    12
+   ],
+   [
+    "Don't know/Refused",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120659,
+  "sid": "8e3e9007-68c3-40a4-8c69-72eba27062d5",
+  "qid": "0157ca00-959e-49f8-a6db-e26220115b6f",
+  "conductedBy": "SSRS",
+  "surveyBy": "Marquette Law School",
+  "study": "Marquette Law School Poll Wisconsin Survey",
+  "start": "10/26/2023",
+  "end": "11/02/2023",
+  "key": "too_old",
+  "qname": "R51",
+  "text": "How well does each of the following phrases describe Donald Trump?...Very well, somewhat well, not too well, not at all well...Is too old to be president",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Very well",
+    25
+   ],
+   [
+    "Somewhat well",
+    29
+   ],
+   [
+    "Not too well",
+    24
+   ],
+   [
+    "Not at all well",
+    21
+   ],
+   [
+    "Don't know",
+    1
+   ],
+   [
+    "Refused",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120659,
+  "sid": "8e3e9007-68c3-40a4-8c69-72eba27062d5",
+  "qid": "197548f5-ee4e-44d1-918f-d7b56fe19614",
+  "conductedBy": "SSRS",
+  "surveyBy": "Marquette Law School",
+  "study": "Marquette Law School Poll Wisconsin Survey",
+  "start": "10/26/2023",
+  "end": "11/02/2023",
+  "key": "too_old",
+  "qname": "R47",
+  "text": "How well does each of the following phrases describe Joe Biden?...Very well, somewhat well, not too well, not at all well...Is too old to be president",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Very well",
+    55
+   ],
+   [
+    "Somewhat well",
+    22
+   ],
+   [
+    "Not too well",
+    11
+   ],
+   [
+    "Not at all well",
+    11
+   ],
+   [
+    "Don't know",
+    1e-07
+   ],
+   [
+    "Refused",
+    1e-07
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120658,
+  "sid": "afb11db0-1343-42b0-9e7c-9610fdd4f7ea",
+  "qid": "632b6fd6-cd9b-4097-a81a-4d7efa8ce0fc",
+  "conductedBy": "SSRS",
+  "surveyBy": "Marquette Law School",
+  "study": "Marquette Law School National Survey",
+  "start": "11/02/2023",
+  "end": "11/07/2023",
+  "key": "too_old",
+  "qname": "R62",
+  "text": "How well does each of the following phrases describe Donald Trump?...Very well, somewhat well, not too well, not at all well...Is too old to be president",
+  "subpop": "Registered voters ",
+  "notes": null,
+  "responses": [
+   [
+    "Very well",
+    23
+   ],
+   [
+    "Somewhat well",
+    28
+   ],
+   [
+    "Not too well",
+    27
+   ],
+   [
+    "Not at all well",
+    22
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120658,
+  "sid": "afb11db0-1343-42b0-9e7c-9610fdd4f7ea",
+  "qid": "a6cd176d-176c-407d-9863-3b5d3a820cde",
+  "conductedBy": "SSRS",
+  "surveyBy": "Marquette Law School",
+  "study": "Marquette Law School National Survey",
+  "start": "11/02/2023",
+  "end": "11/07/2023",
+  "key": "too_old",
+  "qname": "R58",
+  "text": "How well does each of the following phrases describe Joe Biden?...Very well, somewhat well, not too well, not at all well...Is too old to be president",
+  "subpop": "Registered voters ",
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Very well",
+    57
+   ],
+   [
+    "Somewhat well",
+    23
+   ],
+   [
+    "Not too well",
+    8
+   ],
+   [
+    "Not at all well",
+    12
+   ],
+   [
+    "Skipped/Refused",
+    1e-07
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120661,
+  "sid": "d43cab6e-cbd7-4dd3-8919-8d6e5f3ee2ef",
+  "qid": "4fe5be9e-0a47-4e2a-b4bd-8160aebf1eb4",
+  "conductedBy": "Beacon Research/Shaw & Co. Research",
+  "surveyBy": "Fox News",
+  "study": "Fox News Poll",
+  "start": "11/10/2023",
+  "end": "11/13/2023",
+  "key": "too_old",
+  "qname": "R02",
+  "text": "Why do you disapprove of the job he is doing? (If 'Doing a bad job,' Probe:) Why specifically do you think he's doing a bad job?",
+  "subpop": "Asked of those who disapprove of the job Joe Biden is doing as president (59%)",
+  "notes": null,
+  "responses": [
+   [
+    "Handling of economy/Inflation/Jobs",
+    25
+   ],
+   [
+    "Age/Old/Mental state",
+    18
+   ],
+   [
+    "Doing a bad job/Disapprove of policies",
+    12
+   ],
+   [
+    "Foreign policy/Defense/Afghanistan withdrawal",
+    8
+   ],
+   [
+    "Border/Immigration",
+    8
+   ],
+   [
+    "Not looking out for American people/Doesn't have best interest of country",
+    7
+   ],
+   [
+    "Dishonesty/Corrupt/Deception",
+    4
+   ],
+   [
+    "Spending too much/Deficit/Debt",
+    3
+   ],
+   [
+    "Puppet/Not really in charge",
+    2
+   ],
+   [
+    "Divisive",
+    2
+   ],
+   [
+    "Nothing is getting done",
+    2
+   ],
+   [
+    "Not keeping campaign promises",
+    1
+   ],
+   [
+    "Energy policies/Oil pipelines/Gas prices",
+    1
+   ],
+   [
+    "Handling of social issues",
+    1
+   ],
+   [
+    "Student loan forgiveness",
+    1
+   ],
+   [
+    "Other",
+    3
+   ],
+   [
+    "Don't know/Refused",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121074,
+  "sid": "c8f4c455-1567-4ec2-b702-141604d9b327",
+  "qid": "0d9f783a-49b0-444f-a30e-7e11b62aa050",
+  "conductedBy": "NORC at the University of Chicago",
+  "surveyBy": "AARP",
+  "study": "AARP Poll: A New Look at Telehealth",
+  "start": "01/18/2024",
+  "end": "01/23/2024",
+  "key": "too_old",
+  "qname": "",
+  "text": "When would you most likely opt for a telehealth visit over an in-person visit with your primary healthcare provider(s)?",
+  "subpop": null,
+  "notes": "Adds to more than 100% due to multiple responses. ",
+  "responses": [
+   [
+    "To check in test results",
+    57
+   ],
+   [
+    "To report my vitals (like blood pressure, temperature, etc.)",
+    30
+   ],
+   [
+    "If the facility is too far away",
+    45
+   ],
+   [
+    "If I can't get an in-person appointment right away",
+    56
+   ],
+   [
+    "If it's just to ask a simple question",
+    66
+   ],
+   [
+    "If it is hard to get to the office (lack of transportation, traffic, inclement weather, etc.)",
+    53
+   ],
+   [
+    "If it is a follow-up to an in-person visit",
+    54
+   ],
+   [
+    "If it is related to an existing condition",
+    40
+   ],
+   [
+    "If it is cheaper (i.e., no co-pay, reduced co-pay, etc.)",
+    36
+   ],
+   [
+    "If I can't find someone to watch those I care for (i.e., children, older adults)",
+    17
+   ],
+   [
+    "To get prescription refills",
+    63
+   ],
+   [
+    "To talk about medication options",
+    44
+   ],
+   [
+    "For a regular mental health visit",
+    18
+   ],
+   [
+    "Other",
+    2
+   ],
+   [
+    "Never, I will always want an in-person visit",
+    9
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120789,
+  "sid": "190e4c3d-6ed2-4211-ae44-ce053b0d4f13",
+  "qid": "62bb26da-f912-4ee6-a8d0-b2106c5a41f3",
+  "conductedBy": "Ipsos",
+  "surveyBy": "Reuters",
+  "study": "Reuters/Ipsos January 2024 Election Survey",
+  "start": "01/22/2024",
+  "end": "01/24/2024",
+  "key": "too_old",
+  "qname": "R14",
+  "text": "(To what extent do you agree or disagree with the following statements?...Strongly agree, somewhat agree, strongly disagree, strongly disagree)...At 77 years old, Donald Trump is too old to work in government",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Strongly agree",
+    23
+   ],
+   [
+    "Somewhat agree",
+    26
+   ],
+   [
+    "Somewhat disagree",
+    20
+   ],
+   [
+    "Strongly disagree",
+    22
+   ],
+   [
+    "Don't know",
+    9
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120789,
+  "sid": "190e4c3d-6ed2-4211-ae44-ce053b0d4f13",
+  "qid": "cd840c8f-a19c-4123-82b0-eae06cb9cbae",
+  "conductedBy": "Ipsos",
+  "surveyBy": "Reuters",
+  "study": "Reuters/Ipsos January 2024 Election Survey",
+  "start": "01/22/2024",
+  "end": "01/24/2024",
+  "key": "too_old",
+  "qname": "R13",
+  "text": "(To what extent do you agree or disagree with the following statements?...Strongly agree, somewhat agree, strongly disagree, strongly disagree)...At 81 years old, Joe Biden is too old to work in government",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Strongly agree",
+    49
+   ],
+   [
+    "Somewhat agree",
+    25
+   ],
+   [
+    "Somewhat disagree",
+    11
+   ],
+   [
+    "Strongly disagree",
+    7
+   ],
+   [
+    "Don't know",
+    7
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120852,
+  "sid": "d711dc43-a9a7-48cd-b0c3-c9c1669c9373",
+  "qid": "0d9d3973-8a03-41a1-aef3-5eb9fae0881f",
+  "conductedBy": "SSRS",
+  "surveyBy": "Marquette Law School",
+  "study": "Marquette Law School Wisconsin Poll",
+  "start": "01/24/2024",
+  "end": "01/31/2024",
+  "key": "too_old",
+  "qname": "F12",
+  "text": "How well does each of the following phrases describe Donald Trump?...Very well, somewhat well, not too well, not at all well...Is too old to be president",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Very well",
+    29
+   ],
+   [
+    "Somewhat well",
+    27
+   ],
+   [
+    "Not too well",
+    21
+   ],
+   [
+    "Not at all well",
+    23
+   ],
+   [
+    "Don't know",
+    1e-07
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120852,
+  "sid": "d711dc43-a9a7-48cd-b0c3-c9c1669c9373",
+  "qid": "845b2399-2129-4bc0-b8f7-e8165a329fab",
+  "conductedBy": "SSRS",
+  "surveyBy": "Marquette Law School",
+  "study": "Marquette Law School Wisconsin Poll",
+  "start": "01/24/2024",
+  "end": "01/31/2024",
+  "key": "too_old",
+  "qname": "F8",
+  "text": "How well does each of the following phrases describe Joe Biden?...Very well, somewhat well, not too well, not at all well...Is too old to be president",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Very well",
+    61
+   ],
+   [
+    "Somewhat well",
+    22
+   ],
+   [
+    "Not too well",
+    8
+   ],
+   [
+    "Not at all well",
+    9
+   ],
+   [
+    "Refused",
+    1e-07
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120801,
+  "sid": "bef49c6e-75d0-48c0-a149-801cc5552348",
+  "qid": "1d978925-69d3-4f59-980e-32d46a91c432",
+  "conductedBy": "SSRS",
+  "surveyBy": "CNN",
+  "study": "CNN Poll",
+  "start": "01/25/2024",
+  "end": "01/30/2024",
+  "key": "too_old",
+  "qname": "R15",
+  "text": "What is your biggest concern, if any, about Joe Biden as a candidate for president in 2024?",
+  "subpop": "Asked of Registered Democrats including leaners",
+  "notes": "* = Less than .5 percent.  Open-ended question. Respondents answered the question in their own words; these responses were coded by the survey organization into the listed response categories. Adds to more than 100% due to multiple responses.",
+  "responses": [
+   [
+    "His age/Too old/Need someone younger",
+    46
+   ],
+   [
+    "The economy/Inflation/Prices",
+    6
+   ],
+   [
+    "Israel/Middle East",
+    5
+   ],
+   [
+    "His mental competence/Sharpness/Senility",
+    5
+   ],
+   [
+    "Concerns about popularity/Too disliked/May not win",
+    4
+   ],
+   [
+    "Not doing a good job/Not doing enough",
+    3
+   ],
+   [
+    "Not progressive/Liberal enough",
+    3
+   ],
+   [
+    "Ageism/Effect of age on support",
+    3
+   ],
+   [
+    "Not a strong leader/Should be stronger",
+    3
+   ],
+   [
+    "Ability to handle the job/Effectiveness",
+    2
+   ],
+   [
+    "May lose to Trump",
+    2
+   ],
+   [
+    "Immigration policies",
+    2
+   ],
+   [
+    "Risk of death/Ability to complete a full-term",
+    2
+   ],
+   [
+    "Inability to get message out/Bad messaging",
+    2
+   ],
+   [
+    "His health",
+    1
+   ],
+   [
+    "Concerns about Kamala Harris/VP selection",
+    1
+   ],
+   [
+    "Misinformation/Disinformation about him",
+    1
+   ],
+   [
+    "Won't get young voters to turn out",
+    1
+   ],
+   [
+    "Ukraine",
+    1
+   ],
+   [
+    "Not inspiring/Not exciting/No vision",
+    1
+   ],
+   [
+    "Typical politician/Career politician/Establishment",
+    1
+   ],
+   [
+    "Student loan repayment/Forgiveness",
+    1
+   ],
+   [
+    "Too liberal/Doesn't appeal to moderates",
+    1
+   ],
+   [
+    "Not aligned on policy/Doesn't represent me (general)",
+    1
+   ],
+   [
+    "No confidence in him/Disapprove of performance (general)",
+    1
+   ],
+   [
+    "Foreign policy issues",
+    1e-07
+   ],
+   [
+    "Misspeaking/Errors/Blunders",
+    1e-07
+   ],
+   [
+    "Not doing enough on abortion/Women's rights",
+    1e-07
+   ],
+   [
+    "Other",
+    6
+   ],
+   [
+    "Everything",
+    1e-07
+   ],
+   [
+    "None/No concerns",
+    9
+   ],
+   [
+    "No opinion",
+    4
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120876,
+  "sid": "d74e814f-c8ac-4561-8bba-47f112596665",
+  "qid": "0793be80-e79b-4a37-b6fb-a44fab776b4d",
+  "conductedBy": "SSRS",
+  "surveyBy": "Marquette Law School",
+  "study": "Marquette Law School National Survey",
+  "start": "02/05/2024",
+  "end": "02/15/2024",
+  "key": "too_old",
+  "qname": "F14",
+  "text": "How well does each of the following phrases describe Joe Biden?...Very well, somewhat well, not too well, not at all well...Is too old to be president",
+  "subpop": "Asked of Registered voters",
+  "notes": null,
+  "responses": [
+   [
+    "Very well",
+    55
+   ],
+   [
+    "Somewhat well",
+    23
+   ],
+   [
+    "Not too well",
+    11
+   ],
+   [
+    "Not at all well",
+    11
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120876,
+  "sid": "d74e814f-c8ac-4561-8bba-47f112596665",
+  "qid": "1ef7d7dc-db75-4ed0-8203-3370a72ae706",
+  "conductedBy": "SSRS",
+  "surveyBy": "Marquette Law School",
+  "study": "Marquette Law School National Survey",
+  "start": "02/05/2024",
+  "end": "02/15/2024",
+  "key": "too_old",
+  "qname": "F18",
+  "text": "(How well does each of the following phrases describe Donald Trump?...Very well, somewhat well, not too well, not at all well)...Is too old to be president",
+  "subpop": "Asked of Registered voters",
+  "notes": null,
+  "responses": [
+   [
+    "Very well",
+    25
+   ],
+   [
+    "Somewhat well",
+    28
+   ],
+   [
+    "Not too well",
+    23
+   ],
+   [
+    "Not at all well",
+    24
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120855,
+  "sid": "532ff5e5-34f9-4b6a-ac49-96b610b36102",
+  "qid": "730b0b0a-d676-4c3a-83f8-0adadc7dc4b8",
+  "conductedBy": "Ipsos",
+  "surveyBy": "ABC News",
+  "study": "ABC News/Ipsos Poll: February 2024",
+  "start": "02/09/2024",
+  "end": "02/10/2024",
+  "key": "too_old",
+  "qname": "R19",
+  "text": "If re-elected, (Joe) Biden would be 82 years old at the start of his second term and if elected again, (Donald) Trump would be 78 years old at the start of his second term. Do you think only Biden is too old for another term as president, only Trump is too old for another term as president, both are too old for another term as president, or neither is too old for another term as president?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Only Biden is too old for another term as president",
+    27
+   ],
+   [
+    "Only Trump is too old for another term as president",
+    3
+   ],
+   [
+    "Both are too old for another term as president",
+    59
+   ],
+   [
+    "Neither is too old for another term as president",
+    11
+   ],
+   [
+    "Skipped",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120858,
+  "sid": "9d2523c5-694c-46ea-97c9-96e76dad47c9",
+  "qid": "7a8cd704-5f0c-4945-89b4-0da9105ba30c",
+  "conductedBy": "Ipsos",
+  "surveyBy": "Reuters",
+  "study": "Reuters/Ipsos Survey",
+  "start": "02/09/2024",
+  "end": "02/12/2024",
+  "key": "too_old",
+  "qname": "R12",
+  "text": "(As you may know, President Joe Biden is 81 years old. Former President Donald Trump is 77 years old. To what extent, if at all, do the following statements describe each of the public figures below?...Strongly describes, slightly describes, doesn't really describe, doesn't describe at all)...Trump is too old to work in government",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Strongly describes",
+    26
+   ],
+   [
+    "Slightly describes",
+    27
+   ],
+   [
+    "Doesn't really describe",
+    23
+   ],
+   [
+    "Doesn't describe at all",
+    21
+   ],
+   [
+    "Refused",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120858,
+  "sid": "9d2523c5-694c-46ea-97c9-96e76dad47c9",
+  "qid": "abb72ea9-47ed-497c-a324-505d0ff412d0",
+  "conductedBy": "Ipsos",
+  "surveyBy": "Reuters",
+  "study": "Reuters/Ipsos Survey",
+  "start": "02/09/2024",
+  "end": "02/12/2024",
+  "key": "too_old",
+  "qname": "R10",
+  "text": "As you may know, President Joe Biden is 81 years old. Former President Donald Trump is 77 years old. To what extent, if at all, do the following statements describe each of the public figures below?...Strongly describes, slightly describes, doesn't really describe, doesn't describe at all...Joe Biden is too old to work in government",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Strongly describes",
+    49
+   ],
+   [
+    "Slightly describes",
+    29
+   ],
+   [
+    "Doesn't really describe",
+    11
+   ],
+   [
+    "Doesn't describe at all",
+    9
+   ],
+   [
+    "Refused",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120877,
+  "sid": "c6126715-5a6e-4e9b-8f0d-7c12f018db01",
+  "qid": "5fdfe45a-0f74-44b8-acfd-d809b87c7140",
+  "conductedBy": null,
+  "surveyBy": "Quinnipiac University Polling Institute",
+  "study": "Quinnipiac University National Poll",
+  "start": "02/15/2024",
+  "end": "02/19/2024",
+  "key": "too_old",
+  "qname": "Q21",
+  "text": "Do you think Joe Biden is too old to effectively serve another 4-year term as president, or not?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Yes/Too old",
+    67
+   ],
+   [
+    "No",
+    31
+   ],
+   [
+    "Don't know/No answer",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120877,
+  "sid": "c6126715-5a6e-4e9b-8f0d-7c12f018db01",
+  "qid": "edb4e933-f039-424a-99f1-c7f9bf0bfcda",
+  "conductedBy": null,
+  "surveyBy": "Quinnipiac University Polling Institute",
+  "study": "Quinnipiac University National Poll",
+  "start": "02/15/2024",
+  "end": "02/19/2024",
+  "key": "too_old",
+  "qname": "Q22",
+  "text": "Do you think Donald Trump is too old to effectively serve another 4-year term as president, or not?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Yes/Too old",
+    41
+   ],
+   [
+    "No",
+    57
+   ],
+   [
+    "Don't know/No answer",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121081,
+  "sid": "77e96373-5889-4387-a9c3-f5c575185bec",
+  "qid": "8a3e6d96-8ec3-4075-a062-39e256a29797",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times/Siena College Poll",
+  "start": "02/25/2024",
+  "end": "02/28/2024",
+  "key": "too_old",
+  "qname": "R22",
+  "text": "Next, regardless of who you support for president, tell me whether you strongly agree, somewhat agree, somewhat disagree or strongly disagree with each of the following statements....Joe Biden is just too old to be an effective president.",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Strongly agree",
+    47
+   ],
+   [
+    "Somewhat agree",
+    26
+   ],
+   [
+    "Somewhat disagree",
+    14
+   ],
+   [
+    "Strongly disagree",
+    11
+   ],
+   [
+    "Don't know/Refused",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121081,
+  "sid": "77e96373-5889-4387-a9c3-f5c575185bec",
+  "qid": "a9447bb3-fb26-40e6-b93b-aa223dd9b699",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times/Siena College Poll",
+  "start": "02/25/2024",
+  "end": "02/28/2024",
+  "key": "too_old",
+  "qname": "R23",
+  "text": "(Next, regardless of who you support for president, tell me whether you strongly agree, somewhat agree, somewhat disagree, or strongly disagree with each of the following statements.)...Donald Trump is just too old to be an effective president.",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Strongly agree",
+    21
+   ],
+   [
+    "Somewhat agree",
+    21
+   ],
+   [
+    "Somewhat disagree",
+    23
+   ],
+   [
+    "Strongly disagree",
+    32
+   ],
+   [
+    "Don't know/Refused",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120950,
+  "sid": "493f7b01-47a5-465d-b163-1ef61ed185d7",
+  "qid": "25935355-3826-4df4-bbc9-43b70055d0b5",
+  "conductedBy": "SSRS",
+  "surveyBy": "Marquette Law School",
+  "study": "Marquette Law School National Poll",
+  "start": "03/18/2024",
+  "end": "03/28/2024",
+  "key": "too_old",
+  "qname": "F18",
+  "text": "How well does each of the following phrases describe Donald Trump?...Very well, somewhat well, not too well, not at all well...Is too old to be president",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Very well",
+    23
+   ],
+   [
+    "Somewhat well",
+    29
+   ],
+   [
+    "Not too well",
+    26
+   ],
+   [
+    "Not at all well",
+    22
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120950,
+  "sid": "493f7b01-47a5-465d-b163-1ef61ed185d7",
+  "qid": "4e33edfb-c582-4e13-9f3e-52c8ef77c1ae",
+  "conductedBy": "SSRS",
+  "surveyBy": "Marquette Law School",
+  "study": "Marquette Law School National Poll",
+  "start": "03/18/2024",
+  "end": "03/28/2024",
+  "key": "too_old",
+  "qname": "F13",
+  "text": "How well does each of the following phrases describe Joe Biden?...Very well, somewhat well, not too well, not at all well...Is too old to be president",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Very well",
+    55
+   ],
+   [
+    "Somewhat well",
+    22
+   ],
+   [
+    "Not too well",
+    13
+   ],
+   [
+    "Not at all well",
+    10
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120989,
+  "sid": "1dfc762c-e01a-41e0-ac73-17fc9b5301e4",
+  "qid": "7504f26b-f625-464e-977a-fade42080b5f",
+  "conductedBy": "SSRS",
+  "surveyBy": "Marquette Law School",
+  "study": "Marquette Law School Wisconsin Poll",
+  "start": "04/03/2024",
+  "end": "04/10/2024",
+  "key": "too_old",
+  "qname": "FF8",
+  "text": "How well does each of the following phrases describe Joe Biden?...Very well, somewhat well, not too well, not at all well...Is too old to be president",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Very well",
+    57
+   ],
+   [
+    "Somewhat well",
+    23
+   ],
+   [
+    "Not too well",
+    9
+   ],
+   [
+    "Not at all well",
+    10
+   ],
+   [
+    "Don't know",
+    1e-07
+   ],
+   [
+    "Refused",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120989,
+  "sid": "1dfc762c-e01a-41e0-ac73-17fc9b5301e4",
+  "qid": "d1538634-bbf4-407d-ab6f-ceffad3b603d",
+  "conductedBy": "SSRS",
+  "surveyBy": "Marquette Law School",
+  "study": "Marquette Law School Wisconsin Poll",
+  "start": "04/03/2024",
+  "end": "04/10/2024",
+  "key": "too_old",
+  "qname": "FF13",
+  "text": "How well does each of the following phrases describe Donald Trump?...Very well, somewhat well, not too well, not at all well...Is too old to be president",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Very well",
+    28
+   ],
+   [
+    "Somewhat well",
+    30
+   ],
+   [
+    "Not too well",
+    18
+   ],
+   [
+    "Not at all well",
+    22
+   ],
+   [
+    "Don't know",
+    1
+   ],
+   [
+    "Refused",
+    1e-07
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121086,
+  "sid": "64bceed8-20ca-461d-bcc7-4981b300893b",
+  "qid": "5641d296-2644-41ef-b142-c9398aab1e3d",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times Upshot/Siena College Poll",
+  "start": "04/07/2024",
+  "end": "04/11/2024",
+  "key": "too_old",
+  "qname": "R36",
+  "text": "Next, regardless of who you support for president, tell me whether you strongly agree, somewhat agree, somewhat disagree, or strongly disagree with each of the following statements....Joe Biden is just too old to be an effective president.",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Strongly agree",
+    48
+   ],
+   [
+    "Somewhat agree",
+    21
+   ],
+   [
+    "Somewhat disagree",
+    14
+   ],
+   [
+    "Strongly disagree",
+    13
+   ],
+   [
+    "Don't know/Refused",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121086,
+  "sid": "64bceed8-20ca-461d-bcc7-4981b300893b",
+  "qid": "f9ef7ef9-d39e-4eb6-a923-83e4591cbe87",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times Upshot/Siena College Poll",
+  "start": "04/07/2024",
+  "end": "04/11/2024",
+  "key": "too_old",
+  "qname": "R37",
+  "text": "(Next, regardless of who you support for president, tell me whether you strongly agree, somewhat agree, somewhat disagree, or strongly disagree with each of the following statements.)...Donald Trump is just too old to be an effective president.",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Strongly agree",
+    21
+   ],
+   [
+    "Somewhat agree",
+    20
+   ],
+   [
+    "Somewhat disagree",
+    24
+   ],
+   [
+    "Strongly disagree",
+    32
+   ],
+   [
+    "Don't know/Refused",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122059,
+  "sid": "4b86ae9a-2821-4eff-a431-26821988fd0f",
+  "qid": "251ed6e1-dbf9-4c09-b765-f97046d62d6d",
+  "conductedBy": "NORC at the University of Chicago",
+  "surveyBy": "AARP",
+  "study": "AARP Survey: Disparities in Wealth Transfer: Experiences and Expectations of Adults Ages 50-Plus",
+  "start": "04/11/2024",
+  "end": "04/16/2024",
+  "key": "too_old",
+  "qname": "",
+  "text": "(The following is a list of financial goals that some people have as they get older. When thinking about your finances, how important is each of the following to you?)...Building your savings",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Very important",
+    57
+   ],
+   [
+    "Somewhat important",
+    32
+   ],
+   [
+    "Not too important",
+    7
+   ],
+   [
+    "Not at all important",
+    2
+   ],
+   [
+    "Skipped on web",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122059,
+  "sid": "4b86ae9a-2821-4eff-a431-26821988fd0f",
+  "qid": "76f8488d-2f67-41b7-97d8-11815f7635f7",
+  "conductedBy": "NORC at the University of Chicago",
+  "surveyBy": "AARP",
+  "study": "AARP Survey: Disparities in Wealth Transfer: Experiences and Expectations of Adults Ages 50-Plus",
+  "start": "04/11/2024",
+  "end": "04/16/2024",
+  "key": "too_old",
+  "qname": "",
+  "text": "The following is a list of financial goals that some people have as they get older. When thinking about your finances, how important is each of the following to you?...Reducing your debt",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Very important",
+    63
+   ],
+   [
+    "Somewhat important",
+    17
+   ],
+   [
+    "Not too important",
+    9
+   ],
+   [
+    "Not at all important",
+    11
+   ],
+   [
+    "Skipped on web",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122059,
+  "sid": "4b86ae9a-2821-4eff-a431-26821988fd0f",
+  "qid": "9845028f-41fc-4700-bb17-34a3ec258a2c",
+  "conductedBy": "NORC at the University of Chicago",
+  "surveyBy": "AARP",
+  "study": "AARP Survey: Disparities in Wealth Transfer: Experiences and Expectations of Adults Ages 50-Plus",
+  "start": "04/11/2024",
+  "end": "04/16/2024",
+  "key": "too_old",
+  "qname": "",
+  "text": "(The following is a list of financial goals that some people have as they get older. When thinking about your finances, how important is each of the following to you?)...Ensuring that you don't run out of money in retirement",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Very important",
+    82
+   ],
+   [
+    "Somewhat important",
+    13
+   ],
+   [
+    "Not too important",
+    2
+   ],
+   [
+    "Not at all important",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122059,
+  "sid": "4b86ae9a-2821-4eff-a431-26821988fd0f",
+  "qid": "9e917e03-d983-4aab-9ee3-532bddc9ea4f",
+  "conductedBy": "NORC at the University of Chicago",
+  "surveyBy": "AARP",
+  "study": "AARP Survey: Disparities in Wealth Transfer: Experiences and Expectations of Adults Ages 50-Plus",
+  "start": "04/11/2024",
+  "end": "04/16/2024",
+  "key": "too_old",
+  "qname": "",
+  "text": "(The following is a list of financial goals that some people have as they get older. When thinking about your finances, how important is each of the following to you?)...Having an updated legal document such as a will that explains who you would like to receive your assets after your death",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Very important",
+    65
+   ],
+   [
+    "Somewhat important",
+    27
+   ],
+   [
+    "Not too important",
+    5
+   ],
+   [
+    "Not at all important",
+    2
+   ],
+   [
+    "Skipped on web",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121042,
+  "sid": "b2d17f5a-4b92-4e05-a465-b7c144089983",
+  "qid": "56fade37-b303-4530-9fdf-a51b2b561905",
+  "conductedBy": "Ipsos",
+  "surveyBy": "ABC News",
+  "study": "ABC News/Ipsos Poll",
+  "start": "04/25/2024",
+  "end": "04/30/2024",
+  "key": "too_old",
+  "qname": "R34",
+  "text": "If re-elected, (Joe) Biden would be 82 years old at the start of his second term and if elected again, (Donald) Trump would be 78 years old at the start of his second term. Which of these best fits your opinion?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Only Biden is too old",
+    28
+   ],
+   [
+    "Only Trump is too old",
+    2
+   ],
+   [
+    "Both are too old",
+    53
+   ],
+   [
+    "Neither is too old",
+    16
+   ],
+   [
+    "Skipped/No opinion",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121069,
+  "sid": "c9c5ce14-481d-428a-8fe1-0287d52a5556",
+  "qid": "906fd8a8-586f-479f-b11a-c6de45dde24a",
+  "conductedBy": "SSRS",
+  "surveyBy": "Marquette Law School",
+  "study": "Marquette Law School National Poll",
+  "start": "05/06/2024",
+  "end": "05/15/2024",
+  "key": "too_old",
+  "qname": "F14",
+  "text": "How well does each of the following phrases describe Joe Biden?...Very well, somewhat well, not too well, not at all well...Is too old to be president\n",
+  "subpop": "Asked of registered voters",
+  "notes": null,
+  "responses": [
+   [
+    "Very well",
+    55
+   ],
+   [
+    "Somewhat well",
+    24
+   ],
+   [
+    "Not too well",
+    9
+   ],
+   [
+    "Not at all well",
+    12
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121069,
+  "sid": "c9c5ce14-481d-428a-8fe1-0287d52a5556",
+  "qid": "cdada3ab-7356-4acd-b543-8ed95282787e",
+  "conductedBy": "SSRS",
+  "surveyBy": "Marquette Law School",
+  "study": "Marquette Law School National Poll",
+  "start": "05/06/2024",
+  "end": "05/15/2024",
+  "key": "too_old",
+  "qname": "F19",
+  "text": "How well does each of the following phrases describe Donald Trump?...Very well, somewhat well, not too well, not at all well...Is too old to be president\n",
+  "subpop": "Asked of registered voters",
+  "notes": null,
+  "responses": [
+   [
+    "Very well",
+    24
+   ],
+   [
+    "Somewhat well",
+    30
+   ],
+   [
+    "Not too well",
+    24
+   ],
+   [
+    "Not at all well",
+    22
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122055,
+  "sid": "3f60a980-9b99-479c-b88f-4a283fede9f9",
+  "qid": "003794ec-6a97-4332-8414-a68df95182c6",
+  "conductedBy": "NORC at the University of Chicago",
+  "surveyBy": "AARP",
+  "study": "AARP Survey: Experiences with Age Discrimination in Healthcare",
+  "start": "05/16/2024",
+  "end": "05/28/2024",
+  "key": "too_old",
+  "qname": "",
+  "text": "(How important, if at all, would the following be in addressing possible age discrimination in healthcare?)...Creating national standards of healthcare for older adults",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Very important",
+    46
+   ],
+   [
+    "Somewhat important",
+    37
+   ],
+   [
+    "Not too important",
+    12
+   ],
+   [
+    "Not at all important",
+    4
+   ],
+   [
+    "Don't know/Skipped on web/Refused",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122055,
+  "sid": "3f60a980-9b99-479c-b88f-4a283fede9f9",
+  "qid": "71e25052-7b60-461e-a011-8c7dafcbb761",
+  "conductedBy": "NORC at the University of Chicago",
+  "surveyBy": "AARP",
+  "study": "AARP Survey: Experiences with Age Discrimination in Healthcare",
+  "start": "05/16/2024",
+  "end": "05/28/2024",
+  "key": "too_old",
+  "qname": "",
+  "text": "How important, if at all, would the following be in addressing possible age discrimination in healthcare?...Training healthcare providers on issues related to older patients",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.  ",
+  "responses": [
+   [
+    "Very important",
+    60
+   ],
+   [
+    "Somewhat important",
+    34
+   ],
+   [
+    "Not too important",
+    4
+   ],
+   [
+    "Not at all important",
+    2
+   ],
+   [
+    "Don't know/Skipped on web/Refused",
+    1e-07
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122055,
+  "sid": "3f60a980-9b99-479c-b88f-4a283fede9f9",
+  "qid": "dea0ce06-ece1-499c-9323-7080726cad20",
+  "conductedBy": "NORC at the University of Chicago",
+  "surveyBy": "AARP",
+  "study": "AARP Survey: Experiences with Age Discrimination in Healthcare",
+  "start": "05/16/2024",
+  "end": "05/28/2024",
+  "key": "too_old",
+  "qname": "",
+  "text": "(How important, if at all, would the following be in addressing possible age discrimination in healthcare?)...Ensuring data collection for research includes older adults",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Very important",
+    55
+   ],
+   [
+    "Somewhat important",
+    36
+   ],
+   [
+    "Not too important",
+    6
+   ],
+   [
+    "Not at all important",
+    2
+   ],
+   [
+    "Don't know/Skipped on web/Refused",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121124,
+  "sid": "9d79436e-9113-4484-b6cc-08926e9e8835",
+  "qid": "19f621fa-3c36-492c-a758-d59381e31b8c",
+  "conductedBy": null,
+  "surveyBy": "Gallup Organization",
+  "study": "Gallup Poll",
+  "start": "06/03/2024",
+  "end": "06/23/2024",
+  "key": "too_old",
+  "qname": "R11",
+  "text": "Do you feel...Joe Biden is too old to be president, or not?",
+  "subpop": "Asked of Form A half sample",
+  "notes": null,
+  "responses": [
+   [
+    "Yes, too old",
+    67
+   ],
+   [
+    "No, not too old",
+    31
+   ],
+   [
+    "No opinion",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122208,
+  "sid": "706917f2-c9d1-4b35-8bee-a9b85534c1ac",
+  "qid": "2b72166d-831d-4f22-97bc-ed43780c9e85",
+  "conductedBy": "Mason-Dixon Polling & Strategy, Inc.",
+  "surveyBy": "KARE 11/Minnesota Public Radio News/Star Tribune",
+  "study": "The Minnesota Poll: June 2024",
+  "start": "06/03/2024",
+  "end": "06/05/2024",
+  "key": "too_old",
+  "qname": "q11",
+  "text": "On Inauguration Day 2025, Joe Biden will be 82 years old and Donald Trump will be 78 years old. Do you think Biden is “too old,” Trump is “too old,” both are “too old” or neither is “too old” to serve a second term as president?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Biden is too old",
+    25
+   ],
+   [
+    "Trump is too old",
+    2
+   ],
+   [
+    "Both are too old",
+    52
+   ],
+   [
+    "Neither are too old",
+    20
+   ],
+   [
+    "Not sure (Vol.)",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121124,
+  "sid": "9d79436e-9113-4484-b6cc-08926e9e8835",
+  "qid": "57c584b0-a2a9-4ec4-8ced-0f79036e874c",
+  "conductedBy": null,
+  "surveyBy": "Gallup Organization",
+  "study": "Gallup Poll",
+  "start": "06/03/2024",
+  "end": "06/23/2024",
+  "key": "too_old",
+  "qname": "R13",
+  "text": "How concerned are you that...Joe Biden is too old to be president--very concerned, somewhat concerned, not too concerned, or not concerned at all?",
+  "subpop": "Asked of Form B half sample",
+  "notes": null,
+  "responses": [
+   [
+    "Very concerned",
+    59
+   ],
+   [
+    "Somewhat concerned",
+    17
+   ],
+   [
+    "Not too concerned",
+    10
+   ],
+   [
+    "Not concerned at all",
+    14
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121124,
+  "sid": "9d79436e-9113-4484-b6cc-08926e9e8835",
+  "qid": "64868e84-adb3-4fa8-87e4-31cb90ee5e4d",
+  "conductedBy": null,
+  "surveyBy": "Gallup Organization",
+  "study": "Gallup Poll",
+  "start": "06/03/2024",
+  "end": "06/23/2024",
+  "key": "too_old",
+  "qname": "R14",
+  "text": "How concerned are you that...Donald Trump is too old to be president--very concerned, somewhat concerned, not too concerned, or not concerned at all?",
+  "subpop": "Asked of Form B half sample",
+  "notes": null,
+  "responses": [
+   [
+    "Very concerned",
+    18
+   ],
+   [
+    "Somewhat concerned",
+    20
+   ],
+   [
+    "Not too concerned",
+    20
+   ],
+   [
+    "Not concerned at all",
+    41
+   ],
+   [
+    "No opinion",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121124,
+  "sid": "9d79436e-9113-4484-b6cc-08926e9e8835",
+  "qid": "ef611d6e-1f4d-4505-8f90-62405cd3a2b3",
+  "conductedBy": null,
+  "surveyBy": "Gallup Organization",
+  "study": "Gallup Poll",
+  "start": "06/03/2024",
+  "end": "06/23/2024",
+  "key": "too_old",
+  "qname": "R12",
+  "text": "Do you feel...Donald Trump is too old to be president, or not?",
+  "subpop": "Asked of Form A half sample",
+  "notes": null,
+  "responses": [
+   [
+    "Yes, too old",
+    37
+   ],
+   [
+    "No, not too old",
+    62
+   ],
+   [
+    "No opinion",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31123055,
+  "sid": "1454d00c-6fcd-42f2-8473-c9ff0d0319e3",
+  "qid": "2c637675-ee3a-4b05-ab3b-13329ade3745",
+  "conductedBy": "NORC at the University of Chicago",
+  "surveyBy": "Consumer Reports",
+  "study": "Right to Repair Survey",
+  "start": "06/17/2024",
+  "end": "07/05/2024",
+  "key": "too_old",
+  "qname": "",
+  "text": "Which, if any, of the following are reasons why you did not repair this electronic device? Select all that apply.",
+  "subpop": "Asked of those who repaired or tried to repair their device",
+  "notes": "Adds to more than 100% due to multiple responses. Open-ended question. Respondents answered the question in their own words; these responses were coded by the survey organization into the listed response categories.  ",
+  "responses": [
+   [
+    "It was more cost-effective to replace it than to repair it",
+    40
+   ],
+   [
+    "It was too old to be worth repairing",
+    36
+   ],
+   [
+    "I wanted to replace it anyway",
+    24
+   ],
+   [
+    "The repair professional couldn’t fix it, or told me it wasn't worth fixing",
+    16
+   ],
+   [
+    "I think of items like this as disposable when they break",
+    12
+   ],
+   [
+    "Convenience: it was too much of an effort or the repair shop was too far away",
+    12
+   ],
+   [
+    "Warranty or insurance covered a replacement",
+    10
+   ],
+   [
+    "It would have taken too long to get it fixed",
+    9
+   ],
+   [
+    "I couldn’t find a repair professional who I believed could fix it",
+    6
+   ],
+   [
+    "The repair professional told me I had to go to an authorized repair shop",
+    2
+   ],
+   [
+    "Other, please specify",
+    5
+   ],
+   [
+    "No particular reason",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31123055,
+  "sid": "1454d00c-6fcd-42f2-8473-c9ff0d0319e3",
+  "qid": "4ef603a7-e368-48c0-93cb-349bab7fbaab",
+  "conductedBy": "NORC at the University of Chicago",
+  "surveyBy": "Consumer Reports",
+  "study": "Right to Repair Survey",
+  "start": "06/17/2024",
+  "end": "07/05/2024",
+  "key": "too_old",
+  "qname": "",
+  "text": "Which, if any, of the following are reasons why you did not repair this appliance?",
+  "subpop": "Asked of those who have owned a large home appliance that stopped working well enough to use in the past 5 years, and did not try to repair it",
+  "notes": "Adds to more than 100% due to multiple responses.  Open-ended question. Respondents answered the question in their own words; these responses were coded by the survey organization into the listed response categories.  ",
+  "responses": [
+   [
+    "It was too old to be worth repairing",
+    43
+   ],
+   [
+    "It was more cost-effective to replace it",
+    42
+   ],
+   [
+    "The repair professional couldn't fix it, or told me it wasn't worth fixing",
+    19
+   ],
+   [
+    "Convenience: it was too much of an effort or the repair shop was too far away",
+    13
+   ],
+   [
+    "I wanted to get rid of it anyway",
+    11
+   ],
+   [
+    "I couldn't find a repair professional who I believed could fix it",
+    7
+   ],
+   [
+    "It would have taken too long to get it fixed",
+    6
+   ],
+   [
+    "Warranty or insurance covered a replacement",
+    5
+   ],
+   [
+    "The repair professional told me that I had to go to an authorized repair shop",
+    2
+   ],
+   [
+    "Other, please specify",
+    8
+   ],
+   [
+    "No particular reason",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121127,
+  "sid": "5ea690ad-fc4b-4e91-8c00-1b3aa0efc39a",
+  "qid": "01fdb135-e740-409e-b809-2e1a45f3cc59",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times/Siena College Poll",
+  "start": "06/20/2024",
+  "end": "06/25/2024",
+  "key": "too_old",
+  "qname": "R20",
+  "text": "Next, regardless of who you support for the president, tell me whether you strongly agree, somewhat agree, somewhat disagree, or strongly disagree with each of the following statements....Joe Biden is just too old to be an effective president.",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Strongly agree",
+    48
+   ],
+   [
+    "Somewhat agree",
+    22
+   ],
+   [
+    "Somewhat disagree",
+    15
+   ],
+   [
+    "Strongly disagree",
+    13
+   ],
+   [
+    "Don't know/Refused",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121127,
+  "sid": "5ea690ad-fc4b-4e91-8c00-1b3aa0efc39a",
+  "qid": "2794b675-2399-42ad-8b07-33854f22c7d3",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times/Siena College Poll",
+  "start": "06/20/2024",
+  "end": "06/25/2024",
+  "key": "too_old",
+  "qname": "R21",
+  "text": "(Next, regardless of who you support for the president, tell me whether you strongly agree, somewhat agree, somewhat disagree, or strongly disagree with each of the following statements.)...Donald Trump is just too old to be an effective president.",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Strongly agree",
+    19
+   ],
+   [
+    "Somewhat agree",
+    20
+   ],
+   [
+    "Somewhat disagree",
+    25
+   ],
+   [
+    "Strongly disagree",
+    33
+   ],
+   [
+    "Don't know/Refused",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121126,
+  "sid": "0133c159-bc6a-4bb4-b968-522138409cd9",
+  "qid": "0fc9bfdb-ce29-4919-9882-000054524ffa",
+  "conductedBy": "SSRS",
+  "surveyBy": "Marquette Law School",
+  "study": "Marquette Law School Poll Wisconsin Poll",
+  "start": "06/21/2024",
+  "end": "06/24/2024",
+  "key": "too_old",
+  "qname": "FF13",
+  "text": "How well does each of the following phrases describe Donald Trump?...Very well, somewhat well, not too well, not at all well...Is too old to be president",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Very well",
+    26
+   ],
+   [
+    "Somewhat well",
+    27
+   ],
+   [
+    "Not too well",
+    22
+   ],
+   [
+    "Not at all well",
+    24
+   ],
+   [
+    "Don't know",
+    1
+   ],
+   [
+    "Refused",
+    1e-07
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121126,
+  "sid": "0133c159-bc6a-4bb4-b968-522138409cd9",
+  "qid": "e37228a0-71c3-4d1a-8e59-10d582f1b800",
+  "conductedBy": "SSRS",
+  "surveyBy": "Marquette Law School",
+  "study": "Marquette Law School Poll Wisconsin Poll",
+  "start": "06/21/2024",
+  "end": "06/24/2024",
+  "key": "too_old",
+  "qname": "FF8",
+  "text": "How well does each of the following phrases describe Joe Biden?...Very well, somewhat well, not too well, not at all well...Is too old to be president",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Very well",
+    57
+   ],
+   [
+    "Somewhat well",
+    19
+   ],
+   [
+    "Not too well",
+    9
+   ],
+   [
+    "Not at all well",
+    14
+   ],
+   [
+    "Refused",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121135,
+  "sid": "cb3d9d4a-c4e5-40a4-a62b-7bc16eb40073",
+  "qid": "46d2d3a0-1e22-467e-9a65-da8c4e91045b",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times Upshot/Siena College Poll",
+  "start": "06/28/2024",
+  "end": "07/02/2024",
+  "key": "too_old",
+  "qname": "R19",
+  "text": "Next, regardless of who you support for president, tell me whether you strongly agree, somewhat agree, somewhat disagree, or strongly disagree with each of the following statements. Joe Biden is just too old to be an effective president.",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Strongly agree",
+    53
+   ],
+   [
+    "Somewhat agree",
+    21
+   ],
+   [
+    "Somewhat disagree",
+    11
+   ],
+   [
+    "Strongly disagree",
+    10
+   ],
+   [
+    "Don't know/Refused",
+    4
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121135,
+  "sid": "cb3d9d4a-c4e5-40a4-a62b-7bc16eb40073",
+  "qid": "e7490cec-918e-47bf-9daf-e8aedd0edd22",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times Upshot/Siena College Poll",
+  "start": "06/28/2024",
+  "end": "07/02/2024",
+  "key": "too_old",
+  "qname": "R20",
+  "text": "(Next, regardless of who you support for president, tell me whether you strongly agree, somewhat agree, somewhat disagree, or strongly disagree with each of the following statements.) Donald Trump is just too old to be an effective president.",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Strongly agree",
+    22
+   ],
+   [
+    "Somewhat agree",
+    21
+   ],
+   [
+    "Somewhat disagree",
+    21
+   ],
+   [
+    "Strongly disagree",
+    33
+   ],
+   [
+    "Don't know/Refused",
+    4
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121134,
+  "sid": "11c88f13-28b8-4917-9945-22874e967821",
+  "qid": "8d8d253c-439d-473c-b388-0f1db265b322",
+  "conductedBy": "Ipsos",
+  "surveyBy": "Reuters",
+  "study": "Reuters/Ipsos Presidential Debate Survey",
+  "start": "07/01/2024",
+  "end": "07/02/2024",
+  "key": "too_old",
+  "qname": "R27",
+  "text": "(To what extent do you agree or disagree with the following statements?...Strongly agree, somewhat agree, somewhat disagree, strongly disagree)...At 78 years old, Donald Trump is too old to work in the government",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Strongly agree",
+    24
+   ],
+   [
+    "Somewhat agree",
+    24
+   ],
+   [
+    "Somewhat disagree",
+    20
+   ],
+   [
+    "Strongly disagree",
+    23
+   ],
+   [
+    "Don't know",
+    6
+   ],
+   [
+    "Skipped",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121134,
+  "sid": "11c88f13-28b8-4917-9945-22874e967821",
+  "qid": "b23237c2-a7e8-4c36-8f35-b8598057cb97",
+  "conductedBy": "Ipsos",
+  "surveyBy": "Reuters",
+  "study": "Reuters/Ipsos Presidential Debate Survey",
+  "start": "07/01/2024",
+  "end": "07/02/2024",
+  "key": "too_old",
+  "qname": "R26",
+  "text": "To what extent do you agree or disagree with the following statements?...Strongly agree, somewhat agree, somewhat disagree, strongly disagree...At 81 years old, Joe Biden is too old to work in the government",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Strongly agree",
+    49
+   ],
+   [
+    "Somewhat agree",
+    24
+   ],
+   [
+    "Somewhat disagree",
+    12
+   ],
+   [
+    "Strongly disagree",
+    8
+   ],
+   [
+    "Don't know",
+    5
+   ],
+   [
+    "Skipped",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121143,
+  "sid": "8028535d-8ab9-4bac-88b5-d6170d27916a",
+  "qid": "e8e4cf3b-1bb5-4472-aacf-b9d4be57dc32",
+  "conductedBy": "Ipsos",
+  "surveyBy": "ABC News/Washington Post",
+  "study": "Washington Post-ABC News-Ipsos Poll",
+  "start": "07/05/2024",
+  "end": "07/09/2024",
+  "key": "too_old",
+  "qname": "R08",
+  "text": "If re-elected, (Joe) Biden would be 82 years old at the start of his second term and if elected again, (Donald) Trump would be 78 years old at the start of his second term. Which of these best fits your opinion?...Only Biden is too old, only Trump is too old, both are too old, neither is too old",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Only Biden is too old",
+    28
+   ],
+   [
+    "Only Trump is too old",
+    2
+   ],
+   [
+    "Both are too old",
+    58
+   ],
+   [
+    "Neither is too old",
+    11
+   ],
+   [
+    "Skipped",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121150,
+  "sid": "a0c2e03a-d083-48fd-a425-729e0c577366",
+  "qid": "970b586f-1d03-4ddd-bfdf-890d58f50b10",
+  "conductedBy": "Ipsos",
+  "surveyBy": "Reuters",
+  "study": "Reuters/Ipsos Post Trump Assassination Attempt Poll",
+  "start": "07/16/2024",
+  "end": "07/16/2024",
+  "key": "too_old",
+  "qname": "R25",
+  "text": "To what extent do you agree or disagree with the following statements?...Strongly agree, somewhat agree, somewhat disagree, strongly disagree...At 81 years old, Joe Biden is too old to work in government",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Strongly agree ",
+    46
+   ],
+   [
+    "Somewhat agree",
+    24
+   ],
+   [
+    "Somewhat disagree",
+    12
+   ],
+   [
+    "Strongly disagree",
+    10
+   ],
+   [
+    "Don't know",
+    8
+   ],
+   [
+    "Skipped",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121164,
+  "sid": "78904bc8-8d49-4d8f-826c-31820986cc8a",
+  "qid": "e90fa8f2-49be-4d8c-a085-af1f69d22631",
+  "conductedBy": "Ipsos",
+  "surveyBy": "Reuters",
+  "study": "Reuters/Ipsos Survey",
+  "start": "07/22/2024",
+  "end": "07/23/2024",
+  "key": "too_old",
+  "qname": "R19",
+  "text": "To what extent do you agree or disagree with the following statements?...Strongly agree, somewhat agree, somewhat disagree, strongly disagree...At 78 years old, Donald Trump is too old to work in government",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Strongly agree",
+    31
+   ],
+   [
+    "Somewhat agree",
+    20
+   ],
+   [
+    "Somewhat disagree",
+    16
+   ],
+   [
+    "Strongly disagree",
+    24
+   ],
+   [
+    "Don't know",
+    6
+   ],
+   [
+    "Skipped",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122004,
+  "sid": "f7011bf9-6220-4600-8d85-80f901e5b0f7",
+  "qid": "8728b403-164c-4d17-a55f-d75ee7932676",
+  "conductedBy": "SSRS",
+  "surveyBy": "Marquette Law School",
+  "study": "Marquette Law School National Poll",
+  "start": "07/24/2024",
+  "end": "08/01/2024",
+  "key": "too_old",
+  "qname": "F14",
+  "text": "How well does each of the following phrases describe Kamala Harris?...Very well, somewhat well, not too well, not at all well...Is too old to be president ",
+  "subpop": "Registered voters (N=879)",
+  "notes": null,
+  "responses": [
+   [
+    "Very well",
+    7
+   ],
+   [
+    "Somewhat well",
+    6
+   ],
+   [
+    "Not too well",
+    17
+   ],
+   [
+    "Not at all well",
+    70
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122004,
+  "sid": "f7011bf9-6220-4600-8d85-80f901e5b0f7",
+  "qid": "e1edc4fb-2751-4892-a8ab-afa147b6344c",
+  "conductedBy": "SSRS",
+  "surveyBy": "Marquette Law School",
+  "study": "Marquette Law School National Poll",
+  "start": "07/24/2024",
+  "end": "08/01/2024",
+  "key": "too_old",
+  "qname": "F19",
+  "text": "How well does each of the following phrases describe Donald Trump?...Very well, somewhat well, not too well, not at all well...Is too old to be president",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Very well",
+    39
+   ],
+   [
+    "Somewhat well",
+    18
+   ],
+   [
+    "Not too well",
+    19
+   ],
+   [
+    "Not at all well",
+    24
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122067,
+  "sid": "5475287b-c31b-405f-9266-cf8e5167b78a",
+  "qid": "b06e2adf-5980-4fad-ac59-582e632720f9",
+  "conductedBy": "SSRS",
+  "surveyBy": "Marquette Law School",
+  "study": "Marquette Law School Wisconsin Poll",
+  "start": "08/28/2024",
+  "end": "09/05/2024",
+  "key": "too_old",
+  "qname": "FF9",
+  "text": "How well does each of the following phrases describe Kamala Harris?...Is too old to be president ",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Very well",
+    6
+   ],
+   [
+    "Somewhat well",
+    8
+   ],
+   [
+    "Not too well",
+    13
+   ],
+   [
+    "Not at all well",
+    72
+   ],
+   [
+    "Don't know",
+    1e-07
+   ],
+   [
+    "Refused",
+    1e-07
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122067,
+  "sid": "5475287b-c31b-405f-9266-cf8e5167b78a",
+  "qid": "ff4482bd-3896-437e-9a8a-a11ec7cb6eba",
+  "conductedBy": "SSRS",
+  "surveyBy": "Marquette Law School",
+  "study": "Marquette Law School Wisconsin Poll",
+  "start": "08/28/2024",
+  "end": "09/05/2024",
+  "key": "too_old",
+  "qname": "FF17",
+  "text": "How well does each of the following phrases describe Donald Trump?...Is too old to be president",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Very well",
+    38
+   ],
+   [
+    "Somewhat well",
+    21
+   ],
+   [
+    "Not too well",
+    17
+   ],
+   [
+    "Not at all well",
+    23
+   ],
+   [
+    "Refused",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122071,
+  "sid": "4c13d25d-1e21-492b-b720-2e2ab53457a1",
+  "qid": "7cc6d006-29aa-40e9-a045-3b456041b753",
+  "conductedBy": "Ipsos",
+  "surveyBy": "Reuters",
+  "study": "Reuters/Ipsos Presidential Debate Survey",
+  "start": "09/11/2024",
+  "end": "09/12/2024",
+  "key": "too_old",
+  "qname": "R16",
+  "text": "(To what extent do you agree or disagree with the following statements?...Strongly agree, somewhat agree, somewhat disagree, strongly disagree)...At 78 years old, Donald Trump is too old to work in government",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Strongly agree",
+    33
+   ],
+   [
+    "Somewhat agree",
+    18
+   ],
+   [
+    "Somewhat disagree",
+    14
+   ],
+   [
+    "Strongly disagree",
+    25
+   ],
+   [
+    "Don't know",
+    9
+   ],
+   [
+    "Skipped",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122071,
+  "sid": "4c13d25d-1e21-492b-b720-2e2ab53457a1",
+  "qid": "fa9e74ee-d494-4ad7-9521-c1eb494fe6bf",
+  "conductedBy": "Ipsos",
+  "surveyBy": "Reuters",
+  "study": "Reuters/Ipsos Presidential Debate Survey",
+  "start": "09/11/2024",
+  "end": "09/12/2024",
+  "key": "too_old",
+  "qname": "R15",
+  "text": "To what extent do you agree or disagree with the following statements?...Strongly agree, somewhat agree, somewhat disagree, strongly disagree...At 59 years old, Kamala Harris is too old to work in the government",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Strongly agree",
+    4
+   ],
+   [
+    "Somewhat agree",
+    4
+   ],
+   [
+    "Somewhat disagree",
+    18
+   ],
+   [
+    "Strongly disagree",
+    61
+   ],
+   [
+    "Don't know",
+    12
+   ],
+   [
+    "Skipped",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122120,
+  "sid": "2197d3d7-c5c9-47bf-9a52-79b8c696633d",
+  "qid": "bdecd11a-605f-47d7-a7b6-71611da50133",
+  "conductedBy": "SSRS",
+  "surveyBy": "Marquette Law School",
+  "study": "Marquette Law School Wisconsin Poll",
+  "start": "09/18/2024",
+  "end": "09/26/2024",
+  "key": "too_old",
+  "qname": "FF17",
+  "text": "How well does each of the following phrases describe Donald Trump?...Is too old to be president",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Very well",
+    42
+   ],
+   [
+    "Somewhat well",
+    20
+   ],
+   [
+    "Not too well",
+    18
+   ],
+   [
+    "Not at all well",
+    20
+   ],
+   [
+    "Don't know",
+    1e-07
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122120,
+  "sid": "2197d3d7-c5c9-47bf-9a52-79b8c696633d",
+  "qid": "ebf32596-dd30-45ef-9337-109cfae5e40f",
+  "conductedBy": "SSRS",
+  "surveyBy": "Marquette Law School",
+  "study": "Marquette Law School Wisconsin Poll",
+  "start": "09/18/2024",
+  "end": "09/26/2024",
+  "key": "too_old",
+  "qname": "FF9",
+  "text": "How well does each of the following phrases describe Kamala Harris?...Is too old to be president",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Very well",
+    6
+   ],
+   [
+    "Somewhat well",
+    7
+   ],
+   [
+    "Not too well",
+    15
+   ],
+   [
+    "Not at all well",
+    72
+   ],
+   [
+    "Don't know",
+    1e-07
+   ],
+   [
+    "Refused",
+    1e-07
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122139,
+  "sid": "01d09856-f92c-446c-a52a-8fe026069f5f",
+  "qid": "546ceeec-2f10-466a-a065-79c0efceab78",
+  "conductedBy": "SSRS",
+  "surveyBy": "Marquette Law School",
+  "study": "Marquette Law School National Poll",
+  "start": "10/01/2024",
+  "end": "10/10/2024",
+  "key": "too_old",
+  "qname": "F14",
+  "text": "How well does each of the following phrases describe Kamala Harris?...Is too old to be president ",
+  "subpop": "Asked of Registered voters",
+  "notes": null,
+  "responses": [
+   [
+    "Very well",
+    5
+   ],
+   [
+    "Somewhat well",
+    8
+   ],
+   [
+    "Not too well",
+    17
+   ],
+   [
+    "Not at all well",
+    70
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122139,
+  "sid": "01d09856-f92c-446c-a52a-8fe026069f5f",
+  "qid": "d446a8c3-4ef0-474e-b2f4-cc80e90a7b2e",
+  "conductedBy": "SSRS",
+  "surveyBy": "Marquette Law School",
+  "study": "Marquette Law School National Poll",
+  "start": "10/01/2024",
+  "end": "10/10/2024",
+  "key": "too_old",
+  "qname": "F21",
+  "text": "How well does each of the following phrases describe Donald Trump?...Is too old to be president ",
+  "subpop": "Asked of Registered voters",
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Very well",
+    37
+   ],
+   [
+    "Somewhat well",
+    22
+   ],
+   [
+    "Not too well",
+    22
+   ],
+   [
+    "Not at all well",
+    19
+   ],
+   [
+    "Skipped/Ref",
+    1e-07
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122178,
+  "sid": "590e096e-8813-4871-bb75-5da3ed66f3e2",
+  "qid": "5637e168-eebe-4b51-8577-3ca267519c38",
+  "conductedBy": "SSRS",
+  "surveyBy": "Marquette Law School",
+  "study": "Marquette Law School Wisconsin Poll",
+  "start": "10/16/2024",
+  "end": "10/24/2024",
+  "key": "too_old",
+  "qname": "FF9",
+  "text": "How well does each of the following phrases describe Kamala Harris?...Is too old to be president",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Very well",
+    5
+   ],
+   [
+    "Somewhat well",
+    8
+   ],
+   [
+    "Not too well",
+    17
+   ],
+   [
+    "Not at all well",
+    69
+   ],
+   [
+    "Don't know",
+    1
+   ],
+   [
+    "Refused",
+    1e-07
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122178,
+  "sid": "590e096e-8813-4871-bb75-5da3ed66f3e2",
+  "qid": "9d1dcdf7-ec90-430c-9db8-c987327b6562",
+  "conductedBy": "SSRS",
+  "surveyBy": "Marquette Law School",
+  "study": "Marquette Law School Wisconsin Poll",
+  "start": "10/16/2024",
+  "end": "10/24/2024",
+  "key": "too_old",
+  "qname": "FF17",
+  "text": "How well does each of the following phrases describe Donald Trump?...Is too old to be president",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Very well",
+    39
+   ],
+   [
+    "Somewhat well",
+    18
+   ],
+   [
+    "Not too well",
+    19
+   ],
+   [
+    "Not at all well",
+    24
+   ],
+   [
+    "Don't know",
+    1e-07
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122217,
+  "sid": "39f9e66d-d26c-432e-acbb-b836ef31ef79",
+  "qid": "0b968849-f871-4f19-9d81-636124d2495c",
+  "conductedBy": "SSRS",
+  "surveyBy": "Pew Research Center",
+  "study": "Pew Research Center: American Trends Panel Wave 158",
+  "start": "10/21/2024",
+  "end": "10/27/2024",
+  "key": "too_old",
+  "qname": "R03",
+  "text": "(In general, when people have cold-like symptoms, how important do you think it is that they)...Avoid contact with vulnerable people, such as older people and pregnant women",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Extremely important",
+    40
+   ],
+   [
+    "Very important",
+    34
+   ],
+   [
+    "Somewhat important",
+    20
+   ],
+   [
+    "Not too important",
+    4
+   ],
+   [
+    "Not at all important",
+    2
+   ],
+   [
+    "No answer",
+    1e-07
+   ]
+  ]
+ }
+]

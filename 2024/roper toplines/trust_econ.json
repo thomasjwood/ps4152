@@ -1,0 +1,1433 @@
+[
+ {
+  "archiveId": 31120538,
+  "sid": "6ae6e547-9fe9-4c8a-8f04-5b2049470902",
+  "qid": "1d93801d-8d55-4ebf-9f82-9be813fa8a6e",
+  "conductedBy": "Suffolk University Political Research Center",
+  "surveyBy": "USA Today/Suffolk University Sawyer Business School",
+  "study": "Suffolk University Sawyer Business School/USA Today Main Street Survey of Consumer Issues Poll",
+  "start": "09/06/2023",
+  "end": "09/11/2023",
+  "key": "trust_econ",
+  "qname": "R36",
+  "text": "Thinking about improving the economy, who do you trust more, President Joe Biden or former President Donald Trump, to improve the economy?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Joe Biden",
+    36
+   ],
+   [
+    "Donald Trump",
+    47
+   ],
+   [
+    "Undecided",
+    14
+   ],
+   [
+    "Refused",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120706,
+  "sid": "be992100-9424-4bb5-ac98-3edb02fcb697",
+  "qid": "5ee38397-138b-417f-bcba-ddfcb25e9012",
+  "conductedBy": "Ipsos",
+  "surveyBy": "Public Policy Institute of California (PPIC)",
+  "study": "PPIC California Statewide Survey",
+  "start": "10/03/2023",
+  "end": "10/19/2023",
+  "key": "trust_econ",
+  "qname": "R03",
+  "text": "How much of the time can you trust the state government to do what is right when it comes to handling the issue of jobs and the economy?...Just about always, most of the time, only some of the time",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Just about always",
+    5
+   ],
+   [
+    "Most of the time",
+    36
+   ],
+   [
+    "Only some of the time",
+    58
+   ],
+   [
+    "Don't know",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120590,
+  "sid": "d677ea5d-6576-4960-a420-29d1391261c9",
+  "qid": "5caf403a-05ef-43c9-af9a-61f38a68edec",
+  "conductedBy": "Suffolk University Political Research Center",
+  "surveyBy": "USA Today",
+  "study": "Suffolk University/USA Today Poll",
+  "start": "10/17/2023",
+  "end": "10/20/2023",
+  "key": "trust_econ",
+  "qname": "R02",
+  "text": "Who do you trust more to handle the economy, Joe Biden, or Donald Trump?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Joe Biden",
+    41
+   ],
+   [
+    "Donald Trump",
+    52
+   ],
+   [
+    "Undecided",
+    6
+   ],
+   [
+    "Refused",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120590,
+  "sid": "d677ea5d-6576-4960-a420-29d1391261c9",
+  "qid": "dc388fcc-cd28-4e15-b42a-97db4625c7b2",
+  "conductedBy": "Suffolk University Political Research Center",
+  "surveyBy": "USA Today",
+  "study": "Suffolk University/USA Today Poll",
+  "start": "10/17/2023",
+  "end": "10/20/2023",
+  "key": "trust_econ",
+  "qname": "R02",
+  "text": "Who do you trust more to handle the economy, Joe Biden, or Donald Trump?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Joe Biden",
+    41
+   ],
+   [
+    "Donald Trump",
+    52
+   ],
+   [
+    "Undecided",
+    6
+   ],
+   [
+    "Refused",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121063,
+  "sid": "ed4b18c0-42f3-482b-9eab-d33bfe4db3b7",
+  "qid": "11d0332d-2a6b-45b6-bc6a-889349609053",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times Upshot/Siena College Georgia Poll",
+  "start": "10/22/2023",
+  "end": "11/03/2023",
+  "key": "trust_econ",
+  "qname": "R21",
+  "text": "Regardless of how you might vote, tell me whether you trust Joe Biden or Donald Trump to do a better job on each of the following?...The economy",
+  "subpop": "Asked of Form A half sample",
+  "notes": null,
+  "responses": [
+   [
+    "Biden",
+    32
+   ],
+   [
+    "Trump",
+    59
+   ],
+   [
+    "Don't know/Refused",
+    9
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121066,
+  "sid": "c6fca633-f3f7-4805-b92a-c8ba66e74576",
+  "qid": "1bc46c45-a315-460e-9fc1-cf3d4deca4e2",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times Upshot/Siena College Pennsylvania Poll",
+  "start": "10/22/2023",
+  "end": "11/03/2023",
+  "key": "trust_econ",
+  "qname": "R21",
+  "text": "Regardless of how you might vote, tell me whether you trust Joe Biden or Donald Trump to do a better job on each of the following....The economy",
+  "subpop": "Asked of Form A half sample ",
+  "notes": null,
+  "responses": [
+   [
+    "Biden",
+    37
+   ],
+   [
+    "Trump",
+    59
+   ],
+   [
+    "Don't know/Refused",
+    4
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121067,
+  "sid": "8fc14e86-f5bb-4680-8c40-bdc64342881b",
+  "qid": "9aec97cb-674d-410d-b847-7fa209f175b2",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times Upshot/Siena College Wisconsin Poll",
+  "start": "10/22/2023",
+  "end": "11/03/2023",
+  "key": "trust_econ",
+  "qname": "R21",
+  "text": "Regardless of how you might vote, tell me whether you trust Joe Biden or Donald Trump to do a better job on each of the following....The economy",
+  "subpop": "Asked of Form A half sample",
+  "notes": null,
+  "responses": [
+   [
+    "Biden\n",
+    44
+   ],
+   [
+    "Trump",
+    52
+   ],
+   [
+    "Don't know/Refused",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121064,
+  "sid": "0636bd64-a5f8-471c-a1d4-48186a3f7ca1",
+  "qid": "ab0e732e-3f02-4f19-99ff-ce2b8864af5f",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times Upshot/Siena College Michigan Poll",
+  "start": "10/22/2023",
+  "end": "11/03/2023",
+  "key": "trust_econ",
+  "qname": "R21",
+  "text": "Regardless of how you might vote, tell me whether you trust Joe Biden or Donald Trump to do a better job on each of the following....The economy",
+  "subpop": "Asked of Form A half sample",
+  "notes": null,
+  "responses": [
+   [
+    "Biden",
+    36
+   ],
+   [
+    "Trump",
+    59
+   ],
+   [
+    "Don't know/Refused",
+    5
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121062,
+  "sid": "a364675f-47e6-42b9-a368-7c18d4f387ce",
+  "qid": "b5baf583-2963-4d8e-b24d-912fc44ab621",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times Upshot/Siena College Arizona Poll",
+  "start": "10/22/2023",
+  "end": "11/03/2023",
+  "key": "trust_econ",
+  "qname": "R20",
+  "text": "Regardless of how you might vote, tell me whether you trust Joe Biden or Donald Trump to do a better job on each of the following....The economy",
+  "subpop": "Asked of Form A half sample",
+  "notes": null,
+  "responses": [
+   [
+    "Biden",
+    33
+   ],
+   [
+    "Trump",
+    62
+   ],
+   [
+    "Don't know/Refused",
+    5
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121065,
+  "sid": "83e4d10c-2a6e-4359-bea0-90d3f1e476ff",
+  "qid": "f3a9efb5-58f7-408c-ba8e-a5e956652d39",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times Upshot/Siena College Nevada Poll",
+  "start": "10/22/2023",
+  "end": "11/03/2023",
+  "key": "trust_econ",
+  "qname": "R20",
+  "text": "Regardless of how you might vote. tell me whether you trust Joe Biden or Donald Trump to do a better job on each of the following....The economy",
+  "subpop": "Asked of Form A half sample",
+  "notes": null,
+  "responses": [
+   [
+    "Biden",
+    37
+   ],
+   [
+    "Trump",
+    61
+   ],
+   [
+    "Don't know/Refused",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120637,
+  "sid": "75f38ab7-7b78-4a39-932a-bad9750bf08d",
+  "qid": "afc315be-cbe9-4f23-8d0c-7bf900b056af",
+  "conductedBy": "Ipsos",
+  "surveyBy": "ABC News",
+  "study": "ABC News/Ipsos Poll: November 2023",
+  "start": "11/03/2023",
+  "end": "11/04/2023",
+  "key": "trust_econ",
+  "qname": "R15",
+  "text": "Which political party, the Democrats or the Republicans, do you trust to do a better job handling...the economy?...The Democrats, the Republicans, both equally, neither",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "The Democrats",
+    25
+   ],
+   [
+    "The Republicans",
+    35
+   ],
+   [
+    "Both equally",
+    9
+   ],
+   [
+    "Neither",
+    29
+   ],
+   [
+    "Skipped",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120691,
+  "sid": "92882913-80a3-46b6-b27f-637f4a3f760d",
+  "qid": "42304287-3801-42fd-955e-0c72a5f00b0a",
+  "conductedBy": "AP-NORC Center for Public Affairs Research",
+  "surveyBy": "AAPI Data",
+  "study": "AAPI Data/AP-NORC Poll",
+  "start": "11/06/2023",
+  "end": "11/15/2023",
+  "key": "trust_econ",
+  "qname": "R07",
+  "text": "Now which party do you trust to do a better job of handling...the economy?...The Republicans, the Democrats, both equally, neither",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "The Republicans",
+    31
+   ],
+   [
+    "The Democrats ",
+    25
+   ],
+   [
+    "Both equally",
+    15
+   ],
+   [
+    "Neither",
+    29
+   ],
+   [
+    "Skipped/Refused",
+    1e-07
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120707,
+  "sid": "ce78138f-45a9-47cd-b220-7b2c7746bf12",
+  "qid": "2f7bce8d-7d52-4f33-9a99-b5337922bffb",
+  "conductedBy": "Ipsos",
+  "surveyBy": "Public Policy Institute of California (PPIC)",
+  "study": "PPIC California Statewide Survey",
+  "start": "11/09/2023",
+  "end": "11/16/2023",
+  "key": "trust_econ",
+  "qname": "R69",
+  "text": "Regardless of how you usually vote, overall, which political party--the Democrats or the Republicans--do you trust to do a better job in handling the following issues that the nation will face over the next few years?...Jobs and the economy",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "The Democrats",
+    54
+   ],
+   [
+    "The Republicans",
+    40
+   ],
+   [
+    "Neither (Vol.)",
+    3
+   ],
+   [
+    "Don't know",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120855,
+  "sid": "532ff5e5-34f9-4b6a-ac49-96b610b36102",
+  "qid": "260d86ad-743f-4104-82a1-01b84568e56e",
+  "conductedBy": "Ipsos",
+  "surveyBy": "ABC News",
+  "study": "ABC News/Ipsos Poll: February 2024",
+  "start": "02/09/2024",
+  "end": "02/10/2024",
+  "key": "trust_econ",
+  "qname": "R01",
+  "text": "Who do you trust, Joe Biden or Donald Trump, to do a better job handling...the economy?...Biden, Trump, both equally, neither ",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Biden",
+    31
+   ],
+   [
+    "Trump",
+    43
+   ],
+   [
+    "Both equally",
+    4
+   ],
+   [
+    "Neither",
+    21
+   ],
+   [
+    "Skipped",
+    1e-07
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121045,
+  "sid": "b42b936c-0efb-462a-928d-0e19049b9721",
+  "qid": "bea9b1b9-c8a5-4931-b13a-f4e133aa165c",
+  "conductedBy": "Ipsos",
+  "surveyBy": "Washington Post",
+  "study": "Washington Post-Ipsos Poll",
+  "start": "04/09/2024",
+  "end": "04/16/2024",
+  "key": "trust_econ",
+  "qname": "R12",
+  "text": "Who do you trust more to handle the following (Joe) Biden or (Donald) Trump?...Biden, Trump, neither, both equally...The economy",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Biden",
+    50
+   ],
+   [
+    "Trump",
+    16
+   ],
+   [
+    "Neither",
+    27
+   ],
+   [
+    "Both equally",
+    5
+   ],
+   [
+    "No opinion/Skipped",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121042,
+  "sid": "b2d17f5a-4b92-4e05-a465-b7c144089983",
+  "qid": "0a12d857-435c-4d4f-8330-f2a3386046f0",
+  "conductedBy": "Ipsos",
+  "surveyBy": "ABC News",
+  "study": "ABC News/Ipsos Poll",
+  "start": "04/25/2024",
+  "end": "04/30/2024",
+  "key": "trust_econ",
+  "qname": "R22",
+  "text": "Who do you trust more to handle each of these issues, (Joe) Biden, (Donald) Trump, or do you not trust either of them to handle it?...Biden strongly, Biden somewhat, Trump, strongly, Trump, somewhat...The economy ",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Biden, strongly",
+    16
+   ],
+   [
+    "Biden, somewhat",
+    16
+   ],
+   [
+    "Trump, strongly",
+    33
+   ],
+   [
+    "Trump, somewhat",
+    13
+   ],
+   [
+    "Don't trust either",
+    21
+   ],
+   [
+    "Skipped",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121133,
+  "sid": "dc47bfd7-fb79-4443-b294-6567d3f0fa91",
+  "qid": "10cab960-107b-4836-8e08-ac8de7da812a",
+  "conductedBy": "SSRS",
+  "surveyBy": "CNN",
+  "study": "CNN Poll: Outlook on America Poll June 2024",
+  "start": "06/28/2024",
+  "end": "06/30/2024",
+  "key": "trust_econ",
+  "qname": "R24",
+  "text": "Which candidate do you trust more to handle each of the following issues?...Joe Biden, Donald Trump, neither of them...The economy",
+  "subpop": "Registered voters (N = 1045)",
+  "notes": null,
+  "responses": [
+   [
+    "Biden",
+    32
+   ],
+   [
+    "Trump",
+    51
+   ],
+   [
+    "Neither of them",
+    17
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121143,
+  "sid": "8028535d-8ab9-4bac-88b5-d6170d27916a",
+  "qid": "c836c88e-b337-41c7-ab91-b654b100c87c",
+  "conductedBy": "Ipsos",
+  "surveyBy": "ABC News/Washington Post",
+  "study": "Washington Post-ABC News-Ipsos Poll",
+  "start": "07/05/2024",
+  "end": "07/09/2024",
+  "key": "trust_econ",
+  "qname": "R20",
+  "text": "Who do you trust more to handle each of these issues, (Joe) Biden, (Donald) Trump, or do you not trust either of them to handle it? Is that strongly or somewhat?...The economy",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Trust Biden more strongly",
+    17
+   ],
+   [
+    "Trust Biden more somewhat",
+    17
+   ],
+   [
+    "Trust Trump more somewhat",
+    14
+   ],
+   [
+    "Trust Trump more strongly",
+    31
+   ],
+   [
+    "Neither",
+    19
+   ],
+   [
+    "Skipped",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122027,
+  "sid": "7c0f9740-c3a9-4c25-8bd1-a75995955966",
+  "qid": "d5193e9b-2fac-4055-9cbe-71858968c382",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times/Siena College Michigan Poll",
+  "start": "08/05/2024",
+  "end": "08/08/2024",
+  "key": "trust_econ",
+  "qname": "R36",
+  "text": "Regardless of how you might vote, tell me whether you trust Kamala Harris or Donald Trump to do a better job on each of the following....The economy",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Harris",
+    41
+   ],
+   [
+    "Trump",
+    55
+   ],
+   [
+    "Don't know/Refused",
+    4
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122033,
+  "sid": "5511ccb9-90ab-43f4-9b9a-f0b2d148d233",
+  "qid": "f8e6a1a6-1389-4ab3-a0c4-05e66c13fb86",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times/Siena College Wisconsin Poll",
+  "start": "08/05/2024",
+  "end": "08/08/2024",
+  "key": "trust_econ",
+  "qname": "R37",
+  "text": "Regardless of how you might vote, tell me whether you trust Kamala Harris or Donald Trump to do a better job on each of the following....The economy",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Harris",
+    46
+   ],
+   [
+    "Trump",
+    52
+   ],
+   [
+    "Don't know/Refused",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122028,
+  "sid": "afeb40d4-85f4-4802-b624-37988dd4e9d1",
+  "qid": "ae90626c-cbf6-4423-a76e-b7d96880a02d",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times/Siena College Pennsylvania Poll",
+  "start": "08/06/2024",
+  "end": "08/09/2024",
+  "key": "trust_econ",
+  "qname": "R37",
+  "text": "Regardless of how you might vote, tell me whether you trust Kamala Harris or Donald Trump to do a better job on each of the following....The economy",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Harris",
+    46
+   ],
+   [
+    "Trump",
+    52
+   ],
+   [
+    "Don't know/Refused",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122023,
+  "sid": "e853d659-686d-4518-9b48-caa1acb18f85",
+  "qid": "95a06dc7-6698-40f0-a77e-4de4c3f5837c",
+  "conductedBy": "AP-NORC Center for Public Affairs Research",
+  "surveyBy": "Associated Press",
+  "study": "Associated Press/NORC Poll",
+  "start": "08/08/2024",
+  "end": "08/12/2024",
+  "key": "trust_econ",
+  "qname": "R17",
+  "text": "Regardless of who you support, which candidate do you trust to do a better job of handling...the economy?...Kamala Harris, Donald Trump, both\nequally, neither",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Harris",
+    38
+   ],
+   [
+    "Trump",
+    45
+   ],
+   [
+    "Both equally",
+    7
+   ],
+   [
+    "Neither",
+    9
+   ],
+   [
+    "Skipped/Refused",
+    1e-07
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122034,
+  "sid": "7a9e9210-da92-44ba-9883-220bf3e2e355",
+  "qid": "bc2c861d-3940-4eaf-9c3b-fe0206a8450d",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times/Siena College Arizona Poll",
+  "start": "08/08/2024",
+  "end": "08/15/2024",
+  "key": "trust_econ",
+  "qname": "R37",
+  "text": "Regardless of how you might vote, tell me whether you trust Kamala Harris or Donald Trump to do a better job on each of the following....The economy",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Harris",
+    41
+   ],
+   [
+    "Trump",
+    55
+   ],
+   [
+    "Don't know/Refused",
+    4
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122042,
+  "sid": "6b69de0f-0f0a-4edc-94aa-136eb76708be",
+  "qid": "10fea43b-1f2e-40a9-a8bc-77acc4ed3a50",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times/Siena College North Carolina Poll",
+  "start": "08/09/2024",
+  "end": "08/14/2024",
+  "key": "trust_econ",
+  "qname": "R37",
+  "text": "Regardless of how you might vote, tell me whether you trust Kamala Harris or Donald Trump to do a better job on each of the following....The economy\n",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Harris",
+    44
+   ],
+   [
+    "Trump",
+    54
+   ],
+   [
+    "Don't know/Refused",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122040,
+  "sid": "68646b67-9a65-49df-90ad-d77268976e6e",
+  "qid": "8dbcbf6b-1038-45f6-8d4c-1be581de71b7",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times/Siena College Georgia Poll",
+  "start": "08/09/2024",
+  "end": "08/14/2024",
+  "key": "trust_econ",
+  "qname": "R37",
+  "text": "Regardless of how you might vote, tell me whether you trust Kamala Harris or Donald Trump to do a better job on each of the following....The economy",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Harris",
+    39
+   ],
+   [
+    "Trump",
+    57
+   ],
+   [
+    "Don't know/Refused",
+    4
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122029,
+  "sid": "ef873727-dfd3-4f10-ad20-0244336d8765",
+  "qid": "ccc6f93e-7c76-4d83-a86d-390d7aa4e60d",
+  "conductedBy": "Ipsos",
+  "surveyBy": "ABC News/Washington Post",
+  "study": "ABC News/Washington Post/Ipsos poll",
+  "start": "08/09/2024",
+  "end": "08/13/2024",
+  "key": "trust_econ",
+  "qname": "R26",
+  "text": "Who do you trust more to handle each of these issues, (Kamala) Harris, (Donald) Trump, or do you not trust either of them to handle it?...The economy",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Trust Harris more strongly",
+    19
+   ],
+   [
+    "Trust Harris more somewhat",
+    18
+   ],
+   [
+    "Trust Trump more somewhat",
+    12
+   ],
+   [
+    "Trust Trump more strongly",
+    34
+   ],
+   [
+    "Neither",
+    16
+   ],
+   [
+    "Skipped",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122041,
+  "sid": "c55bbfb0-6af0-4e1b-96c2-d300647787c4",
+  "qid": "864f0f8e-bb3b-417e-9c58-2a697fffed18",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times/Siena College Nevada Poll",
+  "start": "08/12/2024",
+  "end": "08/15/2024",
+  "key": "trust_econ",
+  "qname": "R37",
+  "text": "Regardless of how you might vote, tell me whether you trust Kamala Harris or Donald Trump to do a better job on each of the following....The economy",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Harris",
+    39
+   ],
+   [
+    "Trump",
+    58
+   ],
+   [
+    "Don't know/Refused",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122046,
+  "sid": "a83c25d5-1616-4cf6-affe-26b6b75b7e76",
+  "qid": "a00d7e18-657c-429a-8ef2-ba03d1f2efda",
+  "conductedBy": "Ipsos",
+  "surveyBy": "ABC News",
+  "study": "ABC News/Ipsos Poll",
+  "start": "08/23/2024",
+  "end": "08/27/2024",
+  "key": "trust_econ",
+  "qname": "R17",
+  "text": "Who do you trust more to handle each of these issues, (Kamala) Harris, (Donald) Trump, or do you not trust either of them to handle it?...Strongly trust Harris, somewhat trust Harris, somewhat trust Trump, strongly trust Trump...The economy",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Strongly trust Harris",
+    21
+   ],
+   [
+    "Somewhat trust Harris",
+    17
+   ],
+   [
+    "Somewhat trust Trump",
+    12
+   ],
+   [
+    "Strongly trust Trump",
+    34
+   ],
+   [
+    "Neither",
+    15
+   ],
+   [
+    "Skipped",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122060,
+  "sid": "37c7006d-d3a0-4a2a-ad49-59ad9e2382d9",
+  "qid": "d4e15883-f3bd-4f86-94a7-2c0624b3e841",
+  "conductedBy": "Ipsos",
+  "surveyBy": "Washington Post",
+  "study": "Washington Post – Ipsos Fall 2024 Survey of Black Americans",
+  "start": "08/23/2024",
+  "end": "09/03/2024",
+  "key": "trust_econ",
+  "qname": "R17",
+  "text": "Who do you trust more to handle the following, (Kamala) Harris or (Donald) Trump?...Harris, Trump, Neither, both equally...The economy",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Harris",
+    60
+   ],
+   [
+    "Trump",
+    15
+   ],
+   [
+    "Neither",
+    16
+   ],
+   [
+    "Both equally",
+    7
+   ],
+   [
+    "No opinion/Skipped",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122063,
+  "sid": "14961609-9a7d-4c68-963d-ce7f2e79f78d",
+  "qid": "0f195321-bbb2-4bed-aa00-a7a2addba291",
+  "conductedBy": "SSRS",
+  "surveyBy": "KFF",
+  "study": "KFF Poll: September 2024 Health Tracking Poll on Health Information and Trust",
+  "start": "08/26/2024",
+  "end": "09/04/2024",
+  "key": "trust_econ",
+  "qname": "R04",
+  "text": "Regardless of who you intend to vote for in the upcoming elections, which presidential candidate do you trust to do a better job dealing with each of the following?...Vice President Kamala Harris, former President Donald Trump, neither, someone else, both...The economy and inflation",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Vice President Harris",
+    35
+   ],
+   [
+    "Former President Trump",
+    51
+   ],
+   [
+    "Neither",
+    13
+   ],
+   [
+    "Someone else",
+    1e-07
+   ],
+   [
+    "Both",
+    1e-07
+   ],
+   [
+    "No answer",
+    1e-07
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122137,
+  "sid": "abbab997-1f8e-420a-8ae9-ba641ee14d78",
+  "qid": "7072d5d9-17c4-45ae-8da0-0b19f4414624",
+  "conductedBy": "AP-NORC Center for Public Affairs Research",
+  "surveyBy": "AAPI Data",
+  "study": "AAPI Data/AP-NORC Center Poll",
+  "start": "09/03/2024",
+  "end": "10/09/2024",
+  "key": "trust_econ",
+  "qname": "R10",
+  "text": "Regardless of who you support, which candidate do you trust to do a better job of handling...the economy?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Kamala Harris ",
+    41
+   ],
+   [
+    "Donald Trump",
+    34
+   ],
+   [
+    "Both equally ",
+    11
+   ],
+   [
+    "Neither",
+    14
+   ],
+   [
+    "Skipped/Refused",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122072,
+  "sid": "bc35a4eb-fb93-425a-998a-3a3ca4a3b126",
+  "qid": "25eb4fb4-591a-4f11-a4bc-b157f8a12e28",
+  "conductedBy": "Ipsos",
+  "surveyBy": "ABC News",
+  "study": "ABC News/Ipsos Poll",
+  "start": "09/11/2024",
+  "end": "09/13/2024",
+  "key": "trust_econ",
+  "qname": "R26",
+  "text": "Who do you trust more to handle each of these issues, (Kamala) Harris, (Donald) Trump, or do you not trust either of them to handle it?...Harris, strongly, Harris, somewhat, Trump, somewhat, Trump strongly, don't trust either...The economy",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Harris, strongly",
+    22
+   ],
+   [
+    "Harris, somewhat",
+    17
+   ],
+   [
+    "Trump, somewhat",
+    11
+   ],
+   [
+    " Trump, strongly",
+    35
+   ],
+   [
+    "Don't trust either",
+    14
+   ],
+   [
+    "Skipped",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122097,
+  "sid": "fe8f2559-07c2-482e-a9ca-74d03b931fec",
+  "qid": "f8ca0b39-d8d1-45d8-a900-d1cfd0aad41d",
+  "conductedBy": "AP-NORC Center for Public Affairs Research",
+  "surveyBy": "Associated Press",
+  "study": "Associated Press/NORC Poll",
+  "start": "09/12/2024",
+  "end": "09/16/2024",
+  "key": "trust_econ",
+  "qname": "R16",
+  "text": "Regardless of who you support, which candidate do you trust to do a better job of handling...the economy?...Kamala Harris, Donald Trump, both equally,  neither",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Harris",
+    39
+   ],
+   [
+    "Donald",
+    43
+   ],
+   [
+    "Both equally",
+    7
+   ],
+   [
+    "Neither",
+    10
+   ],
+   [
+    "Don't know",
+    1e-07
+   ],
+   [
+    "Skipped/Refused",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122207,
+  "sid": "a9a8b0dc-4d6e-4e72-8192-1b87f8d1abf7",
+  "qid": "92e9e96f-75ce-4bd4-9db0-1af4fc8db9c5",
+  "conductedBy": "Mason-Dixon Polling & Strategy, Inc.",
+  "surveyBy": "Minnesota Public Radio News/KARE 11/Star Tribune",
+  "study": "The Minnesota Poll: September 2024",
+  "start": "09/16/2024",
+  "end": "09/18/2024",
+  "key": "trust_econ",
+  "qname": "q14",
+  "text": "Which presidential candidate do you trust more to handle the economy -- Kamala Harris, the Democrat, or Donald Trump, the Republican?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Harris",
+    45
+   ],
+   [
+    "Trump",
+    52
+   ],
+   [
+    "Not sure",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122105,
+  "sid": "123dbb71-035c-49e4-aaa5-8246f34ff6ee",
+  "qid": "04931bb3-b58f-44aa-bf73-05bcebc251b5",
+  "conductedBy": "SSRS",
+  "surveyBy": "CNN",
+  "study": "CNN Poll",
+  "start": "09/19/2024",
+  "end": "09/22/2024",
+  "key": "trust_econ",
+  "qname": "R17",
+  "text": "Which candidate do you trust more to handle each of the following issues?...Kamala Harris, Donald Trump, neither of them...The economy",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Harris",
+    37
+   ],
+   [
+    "Trump",
+    51
+   ],
+   [
+    "Neither of them",
+    12
+   ],
+   [
+    "No opinion",
+    1e-07
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122131,
+  "sid": "53342669-38a3-46b8-9bbd-c91c5bb31e35",
+  "qid": "392f8c9f-e447-4186-bb4f-f25cac1dd5fd",
+  "conductedBy": "Ipsos",
+  "surveyBy": "ABC News",
+  "study": "ABC News/Ipsos Poll",
+  "start": "10/04/2024",
+  "end": "10/08/2024",
+  "key": "trust_econ",
+  "qname": "R09",
+  "text": "Who do you trust more to handle each of these issues, (Kamala) Harris, (Donald) Trump, or do you not trust either of them to handle it?...The economy",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Trust Harris more strongly",
+    22
+   ],
+   [
+    "Trust Harris more somewhat",
+    16
+   ],
+   [
+    "Trust Trump more somewhat",
+    12
+   ],
+   [
+    "Trust Trump more strongly",
+    34
+   ],
+   [
+    "Neither",
+    16
+   ],
+   [
+    "Skipped",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122174,
+  "sid": "b19ef1f5-7b18-424d-be71-64838e00bbac",
+  "qid": "905c2614-ad9e-43ac-879d-822fe97fe307",
+  "conductedBy": null,
+  "surveyBy": "Gallup",
+  "study": "Gallup Poll",
+  "start": "10/14/2024",
+  "end": "10/27/2024",
+  "key": "trust_econ",
+  "qname": "R02",
+  "text": "What is the most important factor or issue determining which candidate you are voting for in this year's presidential election?",
+  "subpop": "Asked of registered voters who plan to vote",
+  "notes": "Open-ended question. Respondents answered the question in their own words; these responses were coded by the survey organization into the listed response categories.",
+  "responses": [
+   [
+    "The economy",
+    21
+   ],
+   [
+    "Immigration/Border security",
+    13
+   ],
+   [
+    "Abortion/Women's rights",
+    9
+   ],
+   [
+    "Preservation of democracy",
+    8
+   ],
+   [
+    "Dislike a particular candidate",
+    5
+   ],
+   [
+    "Ethics/Morals/Decency/Honesty",
+    5
+   ],
+   [
+    "Maintain rule of law/Equal rights/Freedoms",
+    4
+   ],
+   [
+    "Competency/Common sense/Experience",
+    4
+   ],
+   [
+    "Candidate character",
+    3
+   ],
+   [
+    "Inflation/High cost of living",
+    3
+   ],
+   [
+    "Maintain integrity of United States government, constitution",
+    3
+   ],
+   [
+    "Foreign policy",
+    2
+   ],
+   [
+    "General policies",
+    2
+   ],
+   [
+    "Promise of a better life for Americans",
+    2
+   ],
+   [
+    "Party affiliation/Party platform",
+    2
+   ],
+   [
+    "Progressive policies",
+    1
+   ],
+   [
+    "International relations/National security",
+    1
+   ],
+   [
+    "Israel/Palestine situation",
+    1
+   ],
+   [
+    "Climate change/The environment",
+    1
+   ],
+   [
+    "Tax reform",
+    1
+   ],
+   [
+    "Criminal indictment",
+    1
+   ],
+   [
+    "LGBTQ rights",
+    1
+   ],
+   [
+    "Lack of trust in candidate",
+    1
+   ],
+   [
+    "Fear of war",
+    1
+   ],
+   [
+    "Balancing the budget/Federal budget deficit",
+    1
+   ],
+   [
+    "Kindness/Humanity/Respect/Civility",
+    1
+   ],
+   [
+    "Based on gender/race",
+    1
+   ],
+   [
+    "Homeland security",
+    1
+   ],
+   [
+    "Other",
+    2
+   ],
+   [
+    "None",
+    1
+   ],
+   [
+    "No opinion",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122169,
+  "sid": "0660a65c-8c82-48cc-8a2e-5a3f46cb80c2",
+  "qid": "f159dd74-deb1-45a6-9d79-b2e0f837e7ab",
+  "conductedBy": "Ipsos",
+  "surveyBy": "ABC News",
+  "study": "ABC News/Ipsos Poll",
+  "start": "10/18/2024",
+  "end": "10/22/2024",
+  "key": "trust_econ",
+  "qname": "R16",
+  "text": "Who do you trust more to handle each of these issues, (Kamala) Harris, (Donald) Trump, or do you not trust either of them to handle it?...Trust Harris more strongly, trust Harris more somewhat, trust Trump more somewhat, trust Trump more strongly, neither...The economy",
+  "subpop": "Registered voters",
+  "notes": null,
+  "responses": [
+   [
+    "Trust Harris more strongly",
+    24
+   ],
+   [
+    "Trust Harris more somewhat",
+    16
+   ],
+   [
+    "Trust Trump more somewhat",
+    12
+   ],
+   [
+    "Trust Trump more strongly",
+    36
+   ],
+   [
+    "Neither",
+    12
+   ],
+   [
+    "Skipped",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122168,
+  "sid": "ba56fa20-f26f-4912-91ba-a47bc7fbf8c8",
+  "qid": "11abc056-e712-4fb1-8f08-36370586d49a",
+  "conductedBy": "SSRS",
+  "surveyBy": "CNN",
+  "study": "CNN Poll",
+  "start": "10/20/2024",
+  "end": "10/23/2024",
+  "key": "trust_econ",
+  "qname": "R18",
+  "text": "Which candidate do you trust more to handle each of the following issues?...Kamala Harris, Donald Trump, neither of them...The economy",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Harris",
+    35
+   ],
+   [
+    "Trump",
+    50
+   ],
+   [
+    "Neither of them",
+    15
+   ]
+  ]
+ }
+]

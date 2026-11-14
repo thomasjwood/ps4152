@@ -1,0 +1,2570 @@
+[
+ {
+  "archiveId": 31120139,
+  "sid": "be468559-d334-43af-9656-3e79d90e407f",
+  "qid": "f7a9e127-d403-46a1-a35f-fdb6d1311bb3",
+  "conductedBy": "Beacon Research/Shaw & Co. Research",
+  "surveyBy": "Fox News",
+  "study": "Fox News Poll",
+  "start": "02/19/2023",
+  "end": "02/22/2023",
+  "key": "betterjob_immig",
+  "qname": "R30",
+  "text": "(Which political party--the Democrats or the Republicans--do you think would do a better job on each of the following? (If Equal, ask:) If you had to say one way or the other...Democrats, Republicans)...Immigration",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Democrats",
+    42
+   ],
+   [
+    "Republicans",
+    52
+   ],
+   [
+    "Equal (Vol.)",
+    3
+   ],
+   [
+    "Don't know",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120584,
+  "sid": "ada98be2-7014-41f7-bb43-3534a86cf01b",
+  "qid": "04a19e4a-d854-477f-8877-06e040933868",
+  "conductedBy": "SSRS",
+  "surveyBy": "Marquette Law School",
+  "study": "Marquette Law School National Survey",
+  "start": "09/18/2023",
+  "end": "09/25/2023",
+  "key": "betterjob_immig",
+  "qname": "R50",
+  "text": "(Do you think Joe Biden or Donald Trump would do a better job handling each of the following issues?)...Immigration and border security",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Biden",
+    27
+   ],
+   [
+    "Trump",
+    52
+   ],
+   [
+    "Both about the same",
+    7
+   ],
+   [
+    "Neither good",
+    15
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121067,
+  "sid": "8fc14e86-f5bb-4680-8c40-bdc64342881b",
+  "qid": "083f038d-2324-42f2-91cc-0195a62281fe",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times Upshot/Siena College Wisconsin Poll",
+  "start": "10/22/2023",
+  "end": "11/03/2023",
+  "key": "betterjob_immig",
+  "qname": "R22",
+  "text": "(Regardless of how you might vote, tell me whether you trust Joe Biden or Donald Trump to do a better job on each of the following.)...Immigration",
+  "subpop": "Asked of Form A half sample",
+  "notes": null,
+  "responses": [
+   [
+    "Biden\n",
+    45
+   ],
+   [
+    "Trump",
+    51
+   ],
+   [
+    "Don't know/Refused",
+    4
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121064,
+  "sid": "0636bd64-a5f8-471c-a1d4-48186a3f7ca1",
+  "qid": "47cea3aa-7693-42f5-bab1-f553d05df7a4",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times Upshot/Siena College Michigan Poll",
+  "start": "10/22/2023",
+  "end": "11/03/2023",
+  "key": "betterjob_immig",
+  "qname": "R22",
+  "text": "(Regardless of how you might vote, tell me whether you trust Joe Biden or Donald Trump to do a better job on each of the following.)...Immigration",
+  "subpop": "Asked of Form A half sample",
+  "notes": null,
+  "responses": [
+   [
+    "Biden",
+    42
+   ],
+   [
+    "Trump",
+    52
+   ],
+   [
+    "Don't know/Refused",
+    7
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121063,
+  "sid": "ed4b18c0-42f3-482b-9eab-d33bfe4db3b7",
+  "qid": "5a73ab8c-5723-4716-88fc-1fc4782bc688",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times Upshot/Siena College Georgia Poll",
+  "start": "10/22/2023",
+  "end": "11/03/2023",
+  "key": "betterjob_immig",
+  "qname": "R22",
+  "text": "(Regardless of how you might vote, tell me whether you trust Joe Biden or Donald Trump to do a better job on each of the following?)...Immigration",
+  "subpop": "Asked of Form A half sample",
+  "notes": null,
+  "responses": [
+   [
+    "Biden",
+    41
+   ],
+   [
+    "Trump",
+    51
+   ],
+   [
+    "Don't know/Refused",
+    8
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121066,
+  "sid": "c6fca633-f3f7-4805-b92a-c8ba66e74576",
+  "qid": "7dc0fc95-2be9-4654-8554-76a7ece5e8c2",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times Upshot/Siena College Pennsylvania Poll",
+  "start": "10/22/2023",
+  "end": "11/03/2023",
+  "key": "betterjob_immig",
+  "qname": "R22",
+  "text": "(Regardless of how you might vote, tell me whether you trust Joe Biden or Donald Trump to do a better job on each of the following.)...Immigration",
+  "subpop": "Asked of Form A half sample ",
+  "notes": null,
+  "responses": [
+   [
+    "Biden",
+    37
+   ],
+   [
+    "Trump",
+    56
+   ],
+   [
+    "Don't know/Refused",
+    7
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121062,
+  "sid": "a364675f-47e6-42b9-a368-7c18d4f387ce",
+  "qid": "ea22cc7d-7ef3-49e2-82df-ab85aaf31fd8",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times Upshot/Siena College Arizona Poll",
+  "start": "10/22/2023",
+  "end": "11/03/2023",
+  "key": "betterjob_immig",
+  "qname": "R21",
+  "text": "(Regardless of how you might vote, tell me whether you trust Joe Biden or Donald Trump to do a better job on each of the following.)...Immigration",
+  "subpop": "Asked of Form A half sample",
+  "notes": null,
+  "responses": [
+   [
+    "Biden",
+    41
+   ],
+   [
+    "Trump",
+    54
+   ],
+   [
+    "Don't know/Refused",
+    5
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121065,
+  "sid": "83e4d10c-2a6e-4359-bea0-90d3f1e476ff",
+  "qid": "ebd14fd8-facd-48b6-8a84-c713287fd39f",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times Upshot/Siena College Nevada Poll",
+  "start": "10/22/2023",
+  "end": "11/03/2023",
+  "key": "betterjob_immig",
+  "qname": "R21",
+  "text": "(Regardless of how you might vote, tell me whether you trust Joe Biden or Donald Trump to do a better job on each of the following.)...Immigration",
+  "subpop": "Asked of Form A half sample",
+  "notes": null,
+  "responses": [
+   [
+    "Biden",
+    40
+   ],
+   [
+    "Trump",
+    56
+   ],
+   [
+    "Don't know/Refused",
+    4
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120659,
+  "sid": "8e3e9007-68c3-40a4-8c69-72eba27062d5",
+  "qid": "2a4a6eb0-fe01-4f8e-80ef-579623d66f9f",
+  "conductedBy": "SSRS",
+  "surveyBy": "Marquette Law School",
+  "study": "Marquette Law School Poll Wisconsin Survey",
+  "start": "10/26/2023",
+  "end": "11/02/2023",
+  "key": "betterjob_immig",
+  "qname": "R42",
+  "text": "(Do you think Joe Biden or Donald Trump would do a better job handling each of the following issues, they are both about the same, or would neither be good on the issue?)...Immigration and border security",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Biden",
+    30
+   ],
+   [
+    "Trump",
+    50
+   ],
+   [
+    "Both about the same",
+    7
+   ],
+   [
+    "Neither good",
+    13
+   ],
+   [
+    "Don't know",
+    1e-07
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120663,
+  "sid": "eb3b9aba-d0d9-4c93-8f3d-66005cb624fc",
+  "qid": "467ba573-ba05-4d5c-9f3f-3d78c5c5a00c",
+  "conductedBy": "SSRS",
+  "surveyBy": "KFF",
+  "study": "KFF Poll: November 2023 Health Tracking Poll/COVID-19 Vaccine Monitor",
+  "start": "10/31/2023",
+  "end": "11/07/2023",
+  "key": "betterjob_immig",
+  "qname": "R18",
+  "text": "(Regardless of who you intend to vote for in the upcoming elections, which political party, the Democrats or the Republicans, do you trust to do a better job addressing each of the following?)...Immigration",
+  "subpop": "Registered voters (82%)",
+  "notes": null,
+  "responses": [
+   [
+    "The Democratic Party",
+    41
+   ],
+   [
+    "The Republican Party",
+    57
+   ],
+   [
+    "No answer",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120658,
+  "sid": "afb11db0-1343-42b0-9e7c-9610fdd4f7ea",
+  "qid": "ab66b59f-4381-4e79-ab2f-3f59b631f349",
+  "conductedBy": "SSRS",
+  "surveyBy": "Marquette Law School",
+  "study": "Marquette Law School National Survey",
+  "start": "11/02/2023",
+  "end": "11/07/2023",
+  "key": "betterjob_immig",
+  "qname": "R52",
+  "text": "(Do you think Joe Biden or Donald Trump would do a better job handling each of the following issues?)...Immigration and border security",
+  "subpop": "Registered voters ",
+  "notes": null,
+  "responses": [
+   [
+    "Biden",
+    27
+   ],
+   [
+    "Trump",
+    50
+   ],
+   [
+    "Both about the same",
+    7
+   ],
+   [
+    "Neither good",
+    16
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120637,
+  "sid": "75f38ab7-7b78-4a39-932a-bad9750bf08d",
+  "qid": "ffea70dd-5e39-4074-8a65-fc20ceb890ad",
+  "conductedBy": "Ipsos",
+  "surveyBy": "ABC News",
+  "study": "ABC News/Ipsos Poll: November 2023",
+  "start": "11/03/2023",
+  "end": "11/04/2023",
+  "key": "betterjob_immig",
+  "qname": "R19",
+  "text": "Which political party, the Democrats or the Republicans, do you trust to do a better job handling...immigration?...The Democrats, the Republicans, both equally, neither",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "The Democrats",
+    24
+   ],
+   [
+    "The Republicans",
+    36
+   ],
+   [
+    "Both equally",
+    7
+   ],
+   [
+    "Neither",
+    31
+   ],
+   [
+    "Skipped",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120691,
+  "sid": "92882913-80a3-46b6-b27f-637f4a3f760d",
+  "qid": "64016942-7e32-4528-8c38-e9cd643d6e40",
+  "conductedBy": "AP-NORC Center for Public Affairs Research",
+  "surveyBy": "AAPI Data",
+  "study": "AAPI Data/AP-NORC Poll",
+  "start": "11/06/2023",
+  "end": "11/15/2023",
+  "key": "betterjob_immig",
+  "qname": "R10",
+  "text": "Now which party do you trust to do a better job of handling...immigration?...The Republicans, the Democrats, both equally, neither",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "The Republicans",
+    29
+   ],
+   [
+    "The Democrats ",
+    32
+   ],
+   [
+    "Both equally",
+    10
+   ],
+   [
+    "Neither",
+    27
+   ],
+   [
+    "Skipped/Refused",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120707,
+  "sid": "ce78138f-45a9-47cd-b220-7b2c7746bf12",
+  "qid": "6b59ca1f-6db1-4653-8d76-c86a37dec49f",
+  "conductedBy": "Ipsos",
+  "surveyBy": "Public Policy Institute of California (PPIC)",
+  "study": "PPIC California Statewide Survey",
+  "start": "11/09/2023",
+  "end": "11/16/2023",
+  "key": "betterjob_immig",
+  "qname": "R71",
+  "text": "(Regardless of how you usually vote, overall, which political party--the Democrats or the Republicans--do you trust to do a better job in handling the following issues that the nation will face over the next few years?)...Immigration and dealing with the United States-Mexico border",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "The Democrats",
+    51
+   ],
+   [
+    "The Republicans",
+    44
+   ],
+   [
+    "Neither (Vol.)",
+    3
+   ],
+   [
+    "Don't know",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120852,
+  "sid": "d711dc43-a9a7-48cd-b0c3-c9c1669c9373",
+  "qid": "179def85-028f-4698-ba41-7fec81e18dbb",
+  "conductedBy": "SSRS",
+  "surveyBy": "Marquette Law School",
+  "study": "Marquette Law School Wisconsin Poll",
+  "start": "01/24/2024",
+  "end": "01/31/2024",
+  "key": "betterjob_immig",
+  "qname": "F2",
+  "text": "(Do you think Joe Biden or Donald Trump would do a better job handling each of the following issues, they are both about the same or would neither be good on the issue?)...Immigration and border security",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Biden",
+    28
+   ],
+   [
+    "Trump",
+    54
+   ],
+   [
+    "Both about the same",
+    6
+   ],
+   [
+    "Neither good",
+    11
+   ],
+   [
+    "Don't know",
+    1e-07
+   ],
+   [
+    "Refused",
+    1e-07
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120801,
+  "sid": "bef49c6e-75d0-48c0-a149-801cc5552348",
+  "qid": "d5886f33-ba1f-4d14-b0ff-3f1c1f36c034",
+  "conductedBy": "SSRS",
+  "surveyBy": "CNN",
+  "study": "CNN Poll",
+  "start": "01/25/2024",
+  "end": "01/30/2024",
+  "key": "betterjob_immig",
+  "qname": "R09",
+  "text": "What is the main reason you feel that the economy is still in a downturn?",
+  "subpop": "Asked of those who said the economy is still in a downturn, (48%)",
+  "notes": "Open-ended question. Respondents answered the question in their own words; these responses were coded by the survey organization into the listed response categories.",
+  "responses": [
+   [
+    "Cost of Iiving/lnflation/Rising prices (general)",
+    50
+   ],
+   [
+    "(Joe) Biden/Democratic policies",
+    13
+   ],
+   [
+    "Food prices",
+    9
+   ],
+   [
+    "Wages/Income",
+    9
+   ],
+   [
+    "Government/Government spending/Welfare",
+    7
+   ],
+   [
+    "Housing market/Housing costs/Homelessness",
+    7
+   ],
+   [
+    "Immigration/Border",
+    6
+   ],
+   [
+    "Jobs/Unemployment/Layoffs",
+    6
+   ],
+   [
+    "Gas/Energy prices",
+    4
+   ],
+   [
+    "Interest rates",
+    4
+   ],
+   [
+    "Personal financial situation",
+    4
+   ],
+   [
+    "Foreign spending/War",
+    4
+   ],
+   [
+    "Everything/Nothing is getting better",
+    3
+   ],
+   [
+    "Income inequality/Middle and working-class struggling",
+    2
+   ],
+   [
+    "Businesses/Corporate greed",
+    2
+   ],
+   [
+    "Bad economy/Depression (general)",
+    2
+   ],
+   [
+    "Taxes",
+    1
+   ],
+   [
+    "Energy/Climate policy",
+    1
+   ],
+   [
+    "Violence/Crime",
+    1
+   ],
+   [
+    "Pandemic/Covid stimulus",
+    1
+   ],
+   [
+    "Health care costs",
+    1
+   ],
+   [
+    "Not enough government aid",
+    1
+   ],
+   [
+    "Stock market",
+    1
+   ],
+   [
+    "Other",
+    4
+   ],
+   [
+    "Don't know/Refused",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120876,
+  "sid": "d74e814f-c8ac-4561-8bba-47f112596665",
+  "qid": "cd836904-bc47-48f4-8479-e17686f94f65",
+  "conductedBy": "SSRS",
+  "surveyBy": "Marquette Law School",
+  "study": "Marquette Law School National Survey",
+  "start": "02/05/2024",
+  "end": "02/15/2024",
+  "key": "betterjob_immig",
+  "qname": "F8",
+  "text": "(Do you think Joe Biden or Donald Trump would do a better job handling each of the following issues?...Biden, Trump, both about the same, neither good)...Immigration and border security",
+  "subpop": "Asked of Registered voters",
+  "notes": null,
+  "responses": [
+   [
+    "Biden",
+    25
+   ],
+   [
+    "Trump",
+    53
+   ],
+   [
+    "Both about the same",
+    6
+   ],
+   [
+    "Neither good",
+    15
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120855,
+  "sid": "532ff5e5-34f9-4b6a-ac49-96b610b36102",
+  "qid": "000eb67b-df93-4943-9cac-3f352167b962",
+  "conductedBy": "Ipsos",
+  "surveyBy": "ABC News",
+  "study": "ABC News/Ipsos Poll: February 2024",
+  "start": "02/09/2024",
+  "end": "02/10/2024",
+  "key": "betterjob_immig",
+  "qname": "R05",
+  "text": "Who do you trust, Joe Biden or Donald Trump, to do a better job handling...immigration and the situation at the United States-Mexico border?...Biden, Trump, both equally, neither ",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Biden",
+    26
+   ],
+   [
+    "Trump",
+    44
+   ],
+   [
+    "Both equally",
+    3
+   ],
+   [
+    "Neither",
+    26
+   ],
+   [
+    "Skipped",
+    1e-07
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120950,
+  "sid": "493f7b01-47a5-465d-b163-1ef61ed185d7",
+  "qid": "77f0f1a0-810a-4ab4-9f51-4f38b8950a42",
+  "conductedBy": "SSRS",
+  "surveyBy": "Marquette Law School",
+  "study": "Marquette Law School National Poll",
+  "start": "03/18/2024",
+  "end": "03/28/2024",
+  "key": "betterjob_immig",
+  "qname": "F7",
+  "text": "(Do you think Joe Biden or Donald Trump would do a better job handling each of the following issues?...Biden, Trump, both about the same, neither good)...Immigration and border security",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Biden",
+    27
+   ],
+   [
+    "Trump",
+    54
+   ],
+   [
+    "Both about the same",
+    7
+   ],
+   [
+    "Neither good",
+    12
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120989,
+  "sid": "1dfc762c-e01a-41e0-ac73-17fc9b5301e4",
+  "qid": "a25652f0-05b3-49d0-841b-48ea491bdc42",
+  "conductedBy": "SSRS",
+  "surveyBy": "Marquette Law School",
+  "study": "Marquette Law School Wisconsin Poll",
+  "start": "04/03/2024",
+  "end": "04/10/2024",
+  "key": "betterjob_immig",
+  "qname": "FF2",
+  "text": "(Do you think Joe Biden or Donald Trump would do a better job handling each of the following issues, they are both about the same or would neither be good on the issue?)...Immigration and border security",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Biden",
+    28
+   ],
+   [
+    "Trump",
+    53
+   ],
+   [
+    "Both about the same",
+    8
+   ],
+   [
+    "Neither good",
+    11
+   ],
+   [
+    "Don't know",
+    1e-07
+   ],
+   [
+    "Refused",
+    1e-07
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120963,
+  "sid": "1e3e3048-65b2-4f88-9d9e-ef428a2ce488",
+  "qid": "c28b118d-87c1-4f1a-8c56-4ba64d3b2ccb",
+  "conductedBy": null,
+  "surveyBy": "Quinnipiac University Polling Institute",
+  "study": "Quinnipiac University North Carolina Poll",
+  "start": "04/04/2024",
+  "end": "04/08/2024",
+  "key": "betterjob_immig",
+  "qname": "Q20",
+  "text": "Regardless of how you intend to vote, who do you think would do a better job...handling immigration: Donald Trump or Joe Biden?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Trump",
+    54
+   ],
+   [
+    "Biden",
+    42
+   ],
+   [
+    "Don't know/No answer",
+    5
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121049,
+  "sid": "7d7baacf-d73c-4cd3-af07-0f66f73f298b",
+  "qid": "543dbcfb-163d-4a63-826c-6c6af47cfde0",
+  "conductedBy": null,
+  "surveyBy": "Quinnipiac University Polling Institute",
+  "study": "Quinnipiac University Wisconsin Poll",
+  "start": "05/02/2024",
+  "end": "05/06/2024",
+  "key": "betterjob_immig",
+  "qname": "Q23",
+  "text": "Regardless of how you intend to vote, who do you think would do a better job...handling immigration: Donald Trump or Joe Biden?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Trump",
+    51
+   ],
+   [
+    "Biden",
+    43
+   ],
+   [
+    "Don't know/No answer",
+    5
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121069,
+  "sid": "c9c5ce14-481d-428a-8fe1-0287d52a5556",
+  "qid": "6e88e94e-99ec-48d7-b7ba-b899d1457a89",
+  "conductedBy": "SSRS",
+  "surveyBy": "Marquette Law School",
+  "study": "Marquette Law School National Poll",
+  "start": "05/06/2024",
+  "end": "05/15/2024",
+  "key": "betterjob_immig",
+  "qname": "F7",
+  "text": "(Do you think Joe Biden or Donald Trump would do a better job handling each of the following issues?...Biden, Trump, both about the same, neither good)...Immigration and border security",
+  "subpop": "Asked of registered voters",
+  "notes": null,
+  "responses": [
+   [
+    "Biden",
+    25
+   ],
+   [
+    "Trump",
+    52
+   ],
+   [
+    "Both about the same",
+    8
+   ],
+   [
+    "Neither good",
+    14
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121071,
+  "sid": "ca4c4349-ee5f-4a9a-bd45-8ec755aea20e",
+  "qid": "3a808828-01a2-4203-b66d-5b5b1b6d77d1",
+  "conductedBy": null,
+  "surveyBy": "Quinnipiac University Polling Institute",
+  "study": "Quinnipiac University National Poll",
+  "start": "05/16/2024",
+  "end": "05/20/2024",
+  "key": "betterjob_immig",
+  "qname": "Q16",
+  "text": "Regardless of how you intend to vote, who do you think would do a better job...handling immigration: Donald Trump or Joe Biden?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Trump",
+    52
+   ],
+   [
+    "Biden",
+    41
+   ],
+   [
+    "Don't know/No answer",
+    6
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121113,
+  "sid": "b26f56fc-5a06-4b93-b7e5-f9c509fd1436",
+  "qid": "09af94dc-cfd7-48e5-8ebf-236ea4cbf9d6",
+  "conductedBy": "SSRS",
+  "surveyBy": "KFF",
+  "study": "KFF Survey of Women Voters",
+  "start": "05/23/2024",
+  "end": "06/05/2024",
+  "key": "betterjob_immig",
+  "qname": "R25",
+  "text": "What is the main reason why you aren't satisfied with Joe Biden as the Democratic nominee for president?",
+  "subpop": "Asked of Democrats or Democrat leaning who aren't satisfied with options for president (N = 466)",
+  "notes": "* = Less than .5 percent. Open-ended question. Respondents answered the question in their own words; these responses were coded by the survey organization into the listed response categories.",
+  "responses": [
+   [
+    "Age",
+    42
+   ],
+   [
+    "Mental/Physical health",
+    3
+   ],
+   [
+    "Economy/Inflation/Debt",
+    8
+   ],
+   [
+    "Hasn't fulfilled promises/accomplished much",
+    8
+   ],
+   [
+    "Israel-Palestine conflict",
+    6
+   ],
+   [
+    "Performance as president/Hasn't done a good job",
+    5
+   ],
+   [
+    "Out of touch/Need someone with new/Fresh ideas",
+    5
+   ],
+   [
+    "No answer",
+    4
+   ],
+   [
+    "Not assertive/strong enough",
+    3
+   ],
+   [
+    "Generally support Joe Biden",
+    3
+   ],
+   [
+    "Other reason",
+    3
+   ],
+   [
+    "Immigration",
+    2
+   ],
+   [
+    "Concerned he won't win against Trump/Republicans/Other candidates",
+    2
+   ],
+   [
+    "Doesn't do enough for the people",
+    2
+   ],
+   [
+    "Too moderate/conservative",
+    1
+   ],
+   [
+    "Abortion/Reproductive rights",
+    1
+   ],
+   [
+    "Dislike him or his policies/Not satisfied/Want a better option (unspecified)",
+    1
+   ],
+   [
+    "Dislike both candidates",
+    1
+   ],
+   [
+    "Doesn't have enough support from Congress/Democrats",
+    1
+   ],
+   [
+    "Domestic policy",
+    1e-07
+   ],
+   [
+    "Other reason",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121116,
+  "sid": "0f0296e8-8d3c-4b89-bcfd-29a6d2b5505b",
+  "qid": "7ab13773-55ac-43a0-9b72-5dfd3ea94371",
+  "conductedBy": "SSRS",
+  "surveyBy": "KFF",
+  "study": "KFF Michigan Survey of Women Voters",
+  "start": "05/23/2024",
+  "end": "06/05/2024",
+  "key": "betterjob_immig",
+  "qname": "R25",
+  "text": "What is the main reason why you aren't satisfied with Joe Biden as the Democratic nominee for president?",
+  "subpop": "Asked of Democrats or Democrat leaning who aren't satisfied with options for president (N = 263)",
+  "notes": "* = Less than .5 percent. Open-ended question. Respondents answered the question in their own words; these responses were coded by the survey organization into the listed response categories. Adds to more than 100% due to multiple responses.",
+  "responses": [
+   [
+    "Age",
+    46
+   ],
+   [
+    "Mental/physical health",
+    4
+   ],
+   [
+    "Economy/inflation/debt",
+    8
+   ],
+   [
+    "Hasn't fulfilled promises/accomplished much",
+    6
+   ],
+   [
+    "Israel-Palestine conflict",
+    6
+   ],
+   [
+    "Performance as president/hasn't done a good job",
+    3
+   ],
+   [
+    "Out of touch/need someone with new/fresh ideas",
+    4
+   ],
+   [
+    "No answer",
+    4
+   ],
+   [
+    "Not assertive/strong enough",
+    3
+   ],
+   [
+    "Generally support Biden",
+    3
+   ],
+   [
+    "Other reason",
+    5
+   ],
+   [
+    "Immigration",
+    1
+   ],
+   [
+    "Concerned he won't win against Trump/Republicans/other candidates",
+    2
+   ],
+   [
+    "Doesn't do enough for the people",
+    1
+   ],
+   [
+    "Too moderate/conservative",
+    4
+   ],
+   [
+    "Abortion/reproductive rights",
+    1
+   ],
+   [
+    "Dislike him or his policies/not satisfied/want a better option (unspecified)",
+    1e-07
+   ],
+   [
+    "Dislike both candidates",
+    1e-07
+   ],
+   [
+    "Domestic policy",
+    1
+   ],
+   [
+    "Other reason",
+    5
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121115,
+  "sid": "1eb5d6a8-8f01-4c30-9994-29fe0d9ad229",
+  "qid": "a9a36d1e-d4f1-4d3f-80fa-ff69799a5e30",
+  "conductedBy": "SSRS",
+  "surveyBy": "KFF",
+  "study": "KFF Arizona Survey of Women Voters",
+  "start": "05/23/2024",
+  "end": "06/05/2024",
+  "key": "betterjob_immig",
+  "qname": "R25",
+  "text": "What is the main reason why you aren't satisfied with Joe Biden as the Democratic nominee for president?",
+  "subpop": "Asked of Democrats or Democrat leaning who aren't satisfied with options for president (N = 297)",
+  "notes": "* = Less than .5 percent.  Open-ended question. Respondents answered the question in their own words; these responses were coded by the survey organization into the listed response categories.",
+  "responses": [
+   [
+    "Age",
+    44
+   ],
+   [
+    "Mental/Physical health",
+    2
+   ],
+   [
+    "Economy/Inflation/Debt",
+    8
+   ],
+   [
+    "Hasn't fulfilled promises/accomplished much",
+    8
+   ],
+   [
+    "Israel-Palestine conflict",
+    8
+   ],
+   [
+    "Performance as president/Hasn't done a good job",
+    6
+   ],
+   [
+    "Out of touch/Need someone with new/Fresh ideas",
+    5
+   ],
+   [
+    "No answer",
+    4
+   ],
+   [
+    "Not assertive/strong enough",
+    2
+   ],
+   [
+    "Generally support Biden",
+    3
+   ],
+   [
+    "Other reason",
+    2
+   ],
+   [
+    "Immigration",
+    1
+   ],
+   [
+    "Concerned he won't win against Trump/Republicans/other candidates",
+    2
+   ],
+   [
+    "Doesn't do enough for the people",
+    2
+   ],
+   [
+    "Too moderate/conservative",
+    1e-07
+   ],
+   [
+    "Abortion/Reproductive rights",
+    1
+   ],
+   [
+    "Dislike him or his policies/Not satisfied/Want a better option (unspecified)",
+    1
+   ],
+   [
+    "Dislike both candidates",
+    1e-07
+   ],
+   [
+    "Doesn't have enough support from Congress/Democrats",
+    1e-07
+   ],
+   [
+    "Domestic policy",
+    2
+   ],
+   [
+    "Other reason",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121100,
+  "sid": "8fc9c17a-9829-480f-9e63-b12e392a69a7",
+  "qid": "577f27ff-684b-43ed-9448-812002d23c78",
+  "conductedBy": null,
+  "surveyBy": "Quinnipiac University Polling Institute",
+  "study": "Quinnipiac University Georgia Poll",
+  "start": "05/30/2024",
+  "end": "06/03/2024",
+  "key": "betterjob_immig",
+  "qname": "Q21",
+  "text": "Regardless of how you intend to vote, who do you think would do a better job...handling immigration: Donald Trump or Joe Biden?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Trump",
+    56
+   ],
+   [
+    "Biden",
+    39
+   ],
+   [
+    "Don't know/No answer",
+    5
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121121,
+  "sid": "b5df0b95-b7ce-4a24-805c-949f0616a78f",
+  "qid": "1290b8f5-5683-4c6f-991e-8cf2453fb563",
+  "conductedBy": null,
+  "surveyBy": "Suffolk University Political Research Center",
+  "study": "Suffolk/USA Today Pennsylvania Survey of African-American Voters",
+  "start": "06/09/2024",
+  "end": "06/13/2024",
+  "key": "betterjob_immig",
+  "qname": "R06",
+  "text": "Earlier you indicated you voted for President (Joe) Biden in 2020, but you aren't voting for him at this point. In your own words, what is the reason Biden has lost your support? ",
+  "subpop": "Asked of those who voted for Biden but don't support him now (N = 101)",
+  "notes": "Open-ended question. Respondents answered the question in their own words; these responses were coded by the survey organization into the listed response categories. Adds to more than 100% due to multiple responses.",
+  "responses": [
+   [
+    "Has done a poor job",
+    29
+   ],
+   [
+    "Hasn't kept his promises",
+    7
+   ],
+   [
+    "Old/Mental state",
+    16
+   ],
+   [
+    "Wars/Funding/Support for Israel",
+    15
+   ],
+   [
+    "Invest in America ",
+    3
+   ],
+   [
+    "Economy/Inflation",
+    6
+   ],
+   [
+    "Immigration",
+    2
+   ],
+   [
+    "Hasn't lost my support/Undecided",
+    16
+   ],
+   [
+    "Not a good candidate/There are better candidates",
+    6
+   ],
+   [
+    "Different views",
+    4
+   ],
+   [
+    "Other",
+    11
+   ],
+   [
+    "Don't know/Refused/No answer",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121126,
+  "sid": "0133c159-bc6a-4bb4-b968-522138409cd9",
+  "qid": "a3f57472-19ae-4b06-b647-08fb5bde7c90",
+  "conductedBy": "SSRS",
+  "surveyBy": "Marquette Law School",
+  "study": "Marquette Law School Poll Wisconsin Poll",
+  "start": "06/21/2024",
+  "end": "06/24/2024",
+  "key": "betterjob_immig",
+  "qname": "FF2",
+  "text": "(Do you think Joe Biden or Donald Trump would do a better job handling each of the following issues, they are both about the same or would neither be good on the issue?)...Immigration and border security",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Biden",
+    28
+   ],
+   [
+    "Trump",
+    52
+   ],
+   [
+    "Both about the same",
+    8
+   ],
+   [
+    "Neither good",
+    13
+   ],
+   [
+    "Don't know",
+    1e-07
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121131,
+  "sid": "97fbc23a-2c3c-4980-ac5c-628b3fdaf34f",
+  "qid": "ed413e38-4ea4-4c76-876c-62d72fcbaaec",
+  "conductedBy": "Suffolk University Political Research Center",
+  "surveyBy": "USA Today",
+  "study": "Suffolk University/USA Today National Poll",
+  "start": "06/28/2024",
+  "end": "06/30/2024",
+  "key": "betterjob_immig",
+  "qname": "R09",
+  "text": "(Now, just focusing on (Donald) Trump and (Joe) Biden, who would do a better job as president in handling each of the following issues?...Trump, Biden, both, neither)...Immigration",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Trump",
+    53
+   ],
+   [
+    "Biden",
+    40
+   ],
+   [
+    "Both",
+    1e-07
+   ],
+   [
+    "Neither",
+    5
+   ],
+   [
+    "Undecided",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122004,
+  "sid": "f7011bf9-6220-4600-8d85-80f901e5b0f7",
+  "qid": "1548dd1a-044d-47e9-80f6-0a9a53a15d21",
+  "conductedBy": "SSRS",
+  "surveyBy": "Marquette Law School",
+  "study": "Marquette Law School National Poll",
+  "start": "07/24/2024",
+  "end": "08/01/2024",
+  "key": "betterjob_immig",
+  "qname": "F7",
+  "text": "(Do you think Kamala Harris or Donald Trump would do a better job handling each of the following issues?...Harris, Trump, both about the same, neither good)...Immigration and border security",
+  "subpop": "Registered voters (N=879)",
+  "notes": null,
+  "responses": [
+   [
+    "Harris",
+    35
+   ],
+   [
+    "Trump",
+    53
+   ],
+   [
+    "Both about the same",
+    5
+   ],
+   [
+    "Neither good",
+    7
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122027,
+  "sid": "7c0f9740-c3a9-4c25-8bd1-a75995955966",
+  "qid": "82d1dbda-50bf-4916-b7e9-6120d0442ba4",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times/Siena College Michigan Poll",
+  "start": "08/05/2024",
+  "end": "08/08/2024",
+  "key": "betterjob_immig",
+  "qname": "R38",
+  "text": "(Regardless of how you might vote, tell me whether you trust Kamala Harris or Donald Trump to do a better job on each of the following.)...Immigration",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Harris",
+    45
+   ],
+   [
+    "Trump",
+    51
+   ],
+   [
+    "Don't know/Refused",
+    4
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122033,
+  "sid": "5511ccb9-90ab-43f4-9b9a-f0b2d148d233",
+  "qid": "8c4e1ac9-b959-498b-9b5b-b266e18ff577",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times/Siena College Wisconsin Poll",
+  "start": "08/05/2024",
+  "end": "08/08/2024",
+  "key": "betterjob_immig",
+  "qname": "R39",
+  "text": "(Regardless of how you might vote, tell me whether you trust Kamala Harris or Donald Trump to do a better job on each of the following.)...Immigration",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Harris",
+    46
+   ],
+   [
+    "Trump",
+    52
+   ],
+   [
+    "Don't know/Refused",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122028,
+  "sid": "afeb40d4-85f4-4802-b624-37988dd4e9d1",
+  "qid": "e27984e1-1ee8-4648-bd25-617b8563a6bd",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times/Siena College Pennsylvania Poll",
+  "start": "08/06/2024",
+  "end": "08/09/2024",
+  "key": "betterjob_immig",
+  "qname": "R39",
+  "text": "(Regardless of how you might vote, tell me whether you trust Kamala Harris or Donald Trump to do a better job on each of the following.)...Immigration",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Harris",
+    46
+   ],
+   [
+    "Trump",
+    51
+   ],
+   [
+    "Don't know/Refused",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122023,
+  "sid": "e853d659-686d-4518-9b48-caa1acb18f85",
+  "qid": "72655edf-1dd5-40c8-ae6a-1b7d880e9f2c",
+  "conductedBy": "AP-NORC Center for Public Affairs Research",
+  "surveyBy": "Associated Press",
+  "study": "Associated Press/NORC Poll",
+  "start": "08/08/2024",
+  "end": "08/12/2024",
+  "key": "betterjob_immig",
+  "qname": "R18",
+  "text": "Regardless of who you support, which candidate do you trust to do a better job of handling...immigration?...Kamala Harris, Donald Trump, both\nequally, neither",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Harris",
+    36
+   ],
+   [
+    "Trump",
+    46
+   ],
+   [
+    "Both equally",
+    6
+   ],
+   [
+    "Neither",
+    12
+   ],
+   [
+    "Don't know",
+    1e-07
+   ],
+   [
+    "Skipped/Refused",
+    1e-07
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122034,
+  "sid": "7a9e9210-da92-44ba-9883-220bf3e2e355",
+  "qid": "d48b0d16-029e-41e8-bf5a-90499d864eae",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times/Siena College Arizona Poll",
+  "start": "08/08/2024",
+  "end": "08/15/2024",
+  "key": "betterjob_immig",
+  "qname": "R39",
+  "text": "(Regardless of how you might vote, tell me whether you trust Kamala Harris or Donald Trump to do a better job on each of the following.)...Immigration",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Harris",
+    43
+   ],
+   [
+    "Trump",
+    54
+   ],
+   [
+    "Don't know/Refused",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122042,
+  "sid": "6b69de0f-0f0a-4edc-94aa-136eb76708be",
+  "qid": "6a2f8a33-5479-45e8-ae81-1337f94ed3b6",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times/Siena College North Carolina Poll",
+  "start": "08/09/2024",
+  "end": "08/14/2024",
+  "key": "betterjob_immig",
+  "qname": "R39",
+  "text": "(Regardless of how you might vote, tell me whether you trust Kamala Harris or Donald Trump to do a better job on each of the following.)...Immigration\n",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Harris",
+    45
+   ],
+   [
+    "Trump",
+    52
+   ],
+   [
+    "Don't know/Refused",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122040,
+  "sid": "68646b67-9a65-49df-90ad-d77268976e6e",
+  "qid": "e077d31c-b03c-4d1a-9962-0bb7a90eb919",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times/Siena College Georgia Poll",
+  "start": "08/09/2024",
+  "end": "08/14/2024",
+  "key": "betterjob_immig",
+  "qname": "R39",
+  "text": "(Regardless of how you might vote, tell me whether you trust Kamala Harris or Donald Trump to do a better job on each of the following.)...Immigration",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Harris",
+    41
+   ],
+   [
+    "Trump",
+    56
+   ],
+   [
+    "Don't know/Refused",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122041,
+  "sid": "c55bbfb0-6af0-4e1b-96c2-d300647787c4",
+  "qid": "8f8b783b-1a56-421e-b51c-0ba390d3ca0c",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times/Siena College Nevada Poll",
+  "start": "08/12/2024",
+  "end": "08/15/2024",
+  "key": "betterjob_immig",
+  "qname": "R39",
+  "text": "(Regardless of how you might vote, tell me whether you trust Kamala Harris or Donald Trump to do a better job on each of the following.)...Immigration",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Harris",
+    44
+   ],
+   [
+    "Trump",
+    51
+   ],
+   [
+    "Don't know/Refused",
+    5
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122047,
+  "sid": "1e572b15-fae8-4ac5-9c41-f48efc94e3c6",
+  "qid": "71e74133-f7b6-48cc-841b-f8339a2e1904",
+  "conductedBy": null,
+  "surveyBy": "Quinnipiac University Polling Institute",
+  "study": "Quinnipiac University National Poll",
+  "start": "08/23/2024",
+  "end": "08/27/2024",
+  "key": "betterjob_immig",
+  "qname": "Q36",
+  "text": "Regardless of how you intend to vote, who do you think would do a better job - handling immigration: Donald Trump or Kamala Harris?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Trump",
+    51
+   ],
+   [
+    "Harris",
+    46
+   ],
+   [
+    "Don't know/No answer",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122044,
+  "sid": "9e061dfa-b24b-409d-ab82-cc5ba6b33670",
+  "qid": "ae7eea90-2ca8-4b19-93b0-8e10ed14ea3e",
+  "conductedBy": "Suffolk University Political Research Center",
+  "surveyBy": "USA Today",
+  "study": "Suffolk University/USA Today Poll",
+  "start": "08/25/2024",
+  "end": "08/28/2024",
+  "key": "betterjob_immig",
+  "qname": "R16",
+  "text": "(Now just focusing on (Donald) Trump and (Kamala) Harris, who would do a better job as president in handling each of the following issues?)...Immigration",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Trump",
+    50
+   ],
+   [
+    "Harris",
+    47
+   ],
+   [
+    "Both",
+    1e-07
+   ],
+   [
+    "Neither",
+    2
+   ],
+   [
+    "Undecided",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122063,
+  "sid": "14961609-9a7d-4c68-963d-ce7f2e79f78d",
+  "qid": "32730a2c-a196-408d-8eea-5d2b95720374",
+  "conductedBy": "SSRS",
+  "surveyBy": "KFF",
+  "study": "KFF Poll: September 2024 Health Tracking Poll on Health Information and Trust",
+  "start": "08/26/2024",
+  "end": "09/04/2024",
+  "key": "betterjob_immig",
+  "qname": "R06",
+  "text": "(Regardless of who you intend to vote for in the upcoming elections, which presidential candidate do you trust to do a better job dealing with each of the following?...Vice President Kamala Harris, former President Donald Trump, neither, someone else, both)...Immigration and border security",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Vice President Harris",
+    33
+   ],
+   [
+    "Former President Trump",
+    52
+   ],
+   [
+    "Neither",
+    14
+   ],
+   [
+    "Someone else",
+    1e-07
+   ],
+   [
+    "Both",
+    1e-07
+   ],
+   [
+    "No answer",
+    1e-07
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122067,
+  "sid": "5475287b-c31b-405f-9266-cf8e5167b78a",
+  "qid": "59d23629-9f15-4057-b673-c11e67d6f674",
+  "conductedBy": "SSRS",
+  "surveyBy": "Marquette Law School",
+  "study": "Marquette Law School Wisconsin Poll",
+  "start": "08/28/2024",
+  "end": "09/05/2024",
+  "key": "betterjob_immig",
+  "qname": "FF2",
+  "text": "Do you think Kamala Harris or Donald Trump would do a better job handling each of the following issues, they are both about the same or would neither be good on the issue?...Immigration and border security ",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Harris",
+    35
+   ],
+   [
+    "Trump",
+    52
+   ],
+   [
+    "Both about the same",
+    6
+   ],
+   [
+    "Neither good",
+    7
+   ],
+   [
+    "Don't know",
+    1e-07
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122137,
+  "sid": "abbab997-1f8e-420a-8ae9-ba641ee14d78",
+  "qid": "68180b2b-f07b-4afc-90f4-0aa68388574c",
+  "conductedBy": "AP-NORC Center for Public Affairs Research",
+  "surveyBy": "AAPI Data",
+  "study": "AAPI Data/AP-NORC Center Poll",
+  "start": "09/03/2024",
+  "end": "10/09/2024",
+  "key": "betterjob_immig",
+  "qname": "R11",
+  "text": "Regardless of who you support, which candidate do you trust to do a better job of handling...immigration?",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Kamala Harris ",
+    42
+   ],
+   [
+    "Donald Trump",
+    35
+   ],
+   [
+    "Both equally ",
+    7
+   ],
+   [
+    "Neither",
+    15
+   ],
+   [
+    "Skipped/Refused",
+    1e-07
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122132,
+  "sid": "9091d92a-4cd9-4112-ab40-30c6aa0acbde",
+  "qid": "055abc34-99bc-41b9-bd60-46ac8524ad19",
+  "conductedBy": "SSRS",
+  "surveyBy": "KFF",
+  "study": "KFF Survey of Women Voters: Revisited",
+  "start": "09/12/2024",
+  "end": "10/01/2024",
+  "key": "betterjob_immig",
+  "qname": "R21",
+  "text": "Why do you plan to vote for former President Donald Trump in the 2024 presidential election?",
+  "subpop": "Asked of those who are voting for Donald Trump including leaners (40%)",
+  "notes": "Open-ended question. Respondents answered the question in their own words; these responses were coded by the survey organization into the listed response categories. Adds to more than 100% due to multiple responses.",
+  "responses": [
+   [
+    "Better choice/Did a good job before",
+    32
+   ],
+   [
+    "His economic policies",
+    21
+   ],
+   [
+    "I agree with his policies/Platform (general)",
+    14
+   ],
+   [
+    "Disliked Biden/Harris administration",
+    7
+   ],
+   [
+    "His border/Immigration policies",
+    7
+   ],
+   [
+    "He is knowledgeable/Qualified",
+    7
+   ],
+   [
+    "He cares/Has our best interest at heart",
+    6
+   ],
+   [
+    "His foreign policy position",
+    6
+   ],
+   [
+    "Like his values/Character",
+    4
+   ],
+   [
+    "He keeps the country safe/Secure",
+    4
+   ],
+   [
+    "His stance on abortion",
+    2
+   ],
+   [
+    "He isn't a politician",
+    2
+   ],
+   [
+    "Don't know as much about Harris/Her stance",
+    2
+   ],
+   [
+    "Other",
+    12
+   ],
+   [
+    "Don't know",
+    2
+   ],
+   [
+    "Refused",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122097,
+  "sid": "fe8f2559-07c2-482e-a9ca-74d03b931fec",
+  "qid": "1489ebb0-75b4-480a-b016-fce41bbcb220",
+  "conductedBy": "AP-NORC Center for Public Affairs Research",
+  "surveyBy": "Associated Press",
+  "study": "Associated Press/NORC Poll",
+  "start": "09/12/2024",
+  "end": "09/16/2024",
+  "key": "betterjob_immig",
+  "qname": "R21",
+  "text": "Regardless of who you support, which candidate do you trust to do a better job of handling...immigration?...Kamala Harris, Donald Trump, both equally, neither",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Harris",
+    37
+   ],
+   [
+    "Donald",
+    44
+   ],
+   [
+    "Both equally",
+    6
+   ],
+   [
+    "Neither",
+    11
+   ],
+   [
+    "Don't know",
+    1e-07
+   ],
+   [
+    "Skipped/Refused",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122096,
+  "sid": "d33e0d36-630d-4746-8b92-0c826026837e",
+  "qid": "29bfb1e4-a57c-40b2-be72-dabb4d9e430e",
+  "conductedBy": null,
+  "surveyBy": "Quinnipiac University Polling Institute",
+  "study": "Quinnipiac University Wisconsin Poll",
+  "start": "09/12/2024",
+  "end": "09/16/2024",
+  "key": "betterjob_immig",
+  "qname": "R09",
+  "text": "Regardless of how you intend to vote, who do you think would do a better job--handling immigration: Donald Trump or Kamala Harris?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Trump",
+    52
+   ],
+   [
+    "Harris",
+    45
+   ],
+   [
+    "Don't know/No answer",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122094,
+  "sid": "b8bd0946-d155-45ed-9aaf-7d3a0ca2a225",
+  "qid": "7924b134-a1c0-40f9-873b-8e2d3c289ee3",
+  "conductedBy": null,
+  "surveyBy": "Quinnipiac University Polling Institute",
+  "study": "Quinnipiac University Pennsylvania Poll",
+  "start": "09/12/2024",
+  "end": "09/16/2024",
+  "key": "betterjob_immig",
+  "qname": "R09",
+  "text": "Regardless of how you intend to vote, who do you think would do a better job--handling immigration: Donald Trump or Kamala Harris?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Trump",
+    50
+   ],
+   [
+    "Harris",
+    46
+   ],
+   [
+    "Don't know/No answer",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122095,
+  "sid": "6d6f0c4d-7b4f-45e5-b0f1-7cf3f0ada63f",
+  "qid": "df19103d-93b8-4354-9420-096761009119",
+  "conductedBy": null,
+  "surveyBy": "Quinnipiac University Polling Institute",
+  "study": "Quinnipiac University Michigan Poll",
+  "start": "09/12/2024",
+  "end": "09/16/2024",
+  "key": "betterjob_immig",
+  "qname": "R09",
+  "text": "Regardless of how you intend to vote, who do you think would do a better job--handling immigration: Donald Trump or Kamala Harris?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Trump",
+    49
+   ],
+   [
+    "Harris",
+    48
+   ],
+   [
+    "Don't know/No answer",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122092,
+  "sid": "257397c7-c68d-4f70-9666-31bac80d8921",
+  "qid": "fd4c8a13-f6bd-4d45-bf33-f35ad4d21958",
+  "conductedBy": "Ipsos",
+  "surveyBy": "Scripps News",
+  "study": "Scripps News/Ipsos Poll",
+  "start": "09/13/2024",
+  "end": "09/15/2024",
+  "key": "betterjob_immig",
+  "qname": "R15",
+  "text": "Which presidential candidate do you believe will do a better job handling immigration?...Donald Trump, Kamala Harris, neither",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Trump",
+    44
+   ],
+   [
+    "Harris",
+    34
+   ],
+   [
+    "Neither",
+    12
+   ],
+   [
+    "Don't know",
+    8
+   ],
+   [
+    "Skipped",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122120,
+  "sid": "2197d3d7-c5c9-47bf-9a52-79b8c696633d",
+  "qid": "4eda1abe-2975-4ea9-855a-98d252ee46df",
+  "conductedBy": "SSRS",
+  "surveyBy": "Marquette Law School",
+  "study": "Marquette Law School Wisconsin Poll",
+  "start": "09/18/2024",
+  "end": "09/26/2024",
+  "key": "betterjob_immig",
+  "qname": "FF2",
+  "text": "Do you think Kamala Harris or Donald Trump would do a better job handling each of the following issues, they are both about the same or would neither be good on the issue?...Immigration and border security",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Harris",
+    37
+   ],
+   [
+    "Trump",
+    49
+   ],
+   [
+    "Both about the same",
+    8
+   ],
+   [
+    "Neither good",
+    6
+   ],
+   [
+    "Don't know",
+    1e-07
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122106,
+  "sid": "08850ed2-780e-48e1-9fb2-24a99e096ebe",
+  "qid": "ee0615d9-f400-4656-8e46-4d33f306b044",
+  "conductedBy": null,
+  "surveyBy": "Quinnipiac University Polling Institute",
+  "study": "Quinnipiac University National Poll",
+  "start": "09/19/2024",
+  "end": "09/22/2024",
+  "key": "betterjob_immig",
+  "qname": "Q16",
+  "text": "Regardless of how you intend to vote, who do you think would do a better job - handling immigration: Donald Trump or Kamala Harris?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Trump",
+    53
+   ],
+   [
+    "Harris",
+    45
+   ],
+   [
+    "Don't know/No answer",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122115,
+  "sid": "c4765bff-3dd1-4ae9-a49a-34e8caacf257",
+  "qid": "b29575eb-d801-48c6-80e8-398117ed6432",
+  "conductedBy": null,
+  "surveyBy": "Quinnipiac University Polling Institute",
+  "study": "Quinnipiac University North Carolina Poll",
+  "start": "09/25/2024",
+  "end": "09/29/2024",
+  "key": "betterjob_immig",
+  "qname": "R11",
+  "text": "Regardless of how you intend to vote, who do you think would do a better job...handling immigration: Donald Trump or Kamala Harris?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Trump",
+    53
+   ],
+   [
+    "Harris",
+    45
+   ],
+   [
+    "Don't know/No answer",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122114,
+  "sid": "33218ac7-b0ac-41aa-9c4b-e3c3f5746bb1",
+  "qid": "e2555fd6-3158-47af-80ac-bc10736e01f2",
+  "conductedBy": null,
+  "surveyBy": "Quinnipiac University Polling Institute",
+  "study": "Quinnipiac University Georgia Poll",
+  "start": "09/25/2024",
+  "end": "09/29/2024",
+  "key": "betterjob_immig",
+  "qname": "R09",
+  "text": "Regardless of how you intend to vote, who do you think would do a better job...handling immigration: Donald Trump or Kamala Harris?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Trump",
+    53
+   ],
+   [
+    "Harris",
+    43
+   ],
+   [
+    "Don't know/No answer",
+    4
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122139,
+  "sid": "01d09856-f92c-446c-a52a-8fe026069f5f",
+  "qid": "ee8ad5d4-2b4f-493a-93c1-410e4161f8b9",
+  "conductedBy": "SSRS",
+  "surveyBy": "Marquette Law School",
+  "study": "Marquette Law School National Poll",
+  "start": "10/01/2024",
+  "end": "10/10/2024",
+  "key": "betterjob_immig",
+  "qname": "F7",
+  "text": "Do you think Kamala Harris or Donald Trump would do a better job handling each of the following issues?...Immigration and border security ",
+  "subpop": "Asked of Registered voters",
+  "notes": null,
+  "responses": [
+   [
+    "Harris",
+    36
+   ],
+   [
+    "Trump",
+    51
+   ],
+   [
+    "Both about the same",
+    6
+   ],
+   [
+    "Neither good",
+    6
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122127,
+  "sid": "96968dd7-86d1-428f-abe8-25c2dcc50f59",
+  "qid": "2d33bd64-5ec4-42e3-98b8-c37317b67071",
+  "conductedBy": null,
+  "surveyBy": "Quinnipiac University Polling Institute",
+  "study": "Quinnipiac University Pennsylvania Poll",
+  "start": "10/03/2024",
+  "end": "10/07/2024",
+  "key": "betterjob_immig",
+  "qname": "R12",
+  "text": "Regardless of how you intend to vote, who do you think would do a better job...handling immigration: Donald Trump or Kamala Harris?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Trump",
+    50
+   ],
+   [
+    "Harris",
+    46
+   ],
+   [
+    "Don't know/No answer",
+    4
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122129,
+  "sid": "bb22132f-c85a-44cf-9746-309008a90f81",
+  "qid": "4984ef44-4e7c-49ef-bae6-3717439a4ce6",
+  "conductedBy": null,
+  "surveyBy": "Quinnipiac University Polling Institute",
+  "study": "Quinnipiac University Wisconsin Poll",
+  "start": "10/03/2024",
+  "end": "10/07/2024",
+  "key": "betterjob_immig",
+  "qname": "R12",
+  "text": "Regardless of how you intend to vote, who do you think would do a better job...handling the immigration: Donald Trump or Kamala Harris?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Trump",
+    52
+   ],
+   [
+    "Harris",
+    44
+   ],
+   [
+    "Don't know/No answer",
+    4
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122128,
+  "sid": "e8892cb6-867f-4c0e-a89a-6f0cee1ed891",
+  "qid": "d081d4c8-1703-4306-a813-c4990c42c14c",
+  "conductedBy": null,
+  "surveyBy": "Quinnipiac University Polling Institute",
+  "study": "Quinnipiac University Michigan Poll",
+  "start": "10/03/2024",
+  "end": "10/07/2024",
+  "key": "betterjob_immig",
+  "qname": "R12",
+  "text": "Regardless of how you intend to vote, who do you think would do a better job...handling immigration Donald Trump or Kamala Harris?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Trump",
+    53
+   ],
+   [
+    "Harris",
+    44
+   ],
+   [
+    "Don't know/No answer",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122143,
+  "sid": "c5277264-0ed4-423b-a37d-210a2dee0592",
+  "qid": "0779eca2-9764-4d12-ada4-4d116ad5cce6",
+  "conductedBy": null,
+  "surveyBy": "Quinnipiac University Polling Institute",
+  "study": "Quinnipiac University North Carolina Poll",
+  "start": "10/10/2024",
+  "end": "10/14/2024",
+  "key": "betterjob_immig",
+  "qname": "R13",
+  "text": "Regardless of how you intend to vote, who do you think would do a better job...handling immigration: Donald Trump or Kamala Harris?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Trump",
+    50
+   ],
+   [
+    "Harris",
+    47
+   ],
+   [
+    "Don't know/No answer",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122142,
+  "sid": "aac4c332-187e-481c-aad2-9c109055418a",
+  "qid": "3fc495cb-82fc-4c3b-8a77-0a1d4ee15631",
+  "conductedBy": null,
+  "surveyBy": "Quinnipiac University Polling Institute",
+  "study": "Quinnipiac University Georgia Poll",
+  "start": "10/10/2024",
+  "end": "10/14/2024",
+  "key": "betterjob_immig",
+  "qname": "R11",
+  "text": "Regardless of how you intend to vote, who do you think would do a better job...handling immigration: Donald Trump or Kamala Harris?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Trump",
+    57
+   ],
+   [
+    "Harris",
+    41
+   ],
+   [
+    "Don't know/No answer",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122157,
+  "sid": "5e2d30f9-1be4-4eed-85ec-7411c4a81a79",
+  "qid": "8d0aece4-d17f-4452-946c-c6f27467da6a",
+  "conductedBy": "AP-NORC Center for Public Affairs Research",
+  "surveyBy": "Associated Press",
+  "study": "AP/NORC Poll",
+  "start": "10/11/2024",
+  "end": "10/14/2024",
+  "key": "betterjob_immig",
+  "qname": "R16",
+  "text": "Regardless of who you support, which candidate do you trust to do a better job of handling...immigration?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Kamala Harris",
+    37
+   ],
+   [
+    "Donald Trump",
+    45
+   ],
+   [
+    "Both equally",
+    5
+   ],
+   [
+    "Neither",
+    13
+   ],
+   [
+    "Skipped/Refused",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122158,
+  "sid": "e09cbcf2-9e9f-4b14-acd3-06ad3e721520",
+  "qid": "45471e12-7cb3-499c-ada8-00550d39db4b",
+  "conductedBy": "Suffolk University Political Research Center",
+  "surveyBy": "USA Today",
+  "study": "Suffolk University/USA Today Poll",
+  "start": "10/14/2024",
+  "end": "10/18/2024",
+  "key": "betterjob_immig",
+  "qname": "R09",
+  "text": "(Now, just focusing on (Donald) Trump and (Kamala) Harris, who would do a better job as president in handling each of the following issues?)...Immigration",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Trump",
+    51
+   ],
+   [
+    "Harris",
+    44
+   ],
+   [
+    "Both",
+    1e-07
+   ],
+   [
+    "Neither",
+    2
+   ],
+   [
+    "Undecided",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122178,
+  "sid": "590e096e-8813-4871-bb75-5da3ed66f3e2",
+  "qid": "1c9789b9-6365-40a9-8df0-1f417dd403d8",
+  "conductedBy": "SSRS",
+  "surveyBy": "Marquette Law School",
+  "study": "Marquette Law School Wisconsin Poll",
+  "start": "10/16/2024",
+  "end": "10/24/2024",
+  "key": "betterjob_immig",
+  "qname": "FF2",
+  "text": "Do you think Kamala Harris or Donald Trump would do a better job handling each of the following issues, they are both about the same or would neither be good on the issue?...Immigration and border security",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Harris",
+    37
+   ],
+   [
+    "Trump",
+    51
+   ],
+   [
+    "Both about the same",
+    5
+   ],
+   [
+    "Neither good",
+    7
+   ],
+   [
+    "Don't know",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122162,
+  "sid": "653aa4aa-433c-4bf8-a386-9c9deb9f57dd",
+  "qid": "1ea83673-aeee-462a-957a-32ce9c231b09",
+  "conductedBy": null,
+  "surveyBy": "Quinnipiac University Polling Institute",
+  "study": "Quinnipiac University Wisconsin Poll",
+  "start": "10/17/2024",
+  "end": "10/21/2024",
+  "key": "betterjob_immig",
+  "qname": "R12",
+  "text": "Regardless of how you intend to vote, who do you think would do a better job...handling immigration: Donald Trump or Kamala Harris?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Trump",
+    53
+   ],
+   [
+    "Harris",
+    44
+   ],
+   [
+    "Don't know",
+    4
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122161,
+  "sid": "c7de3a87-cf58-4653-9d58-fac1dee5a414",
+  "qid": "e66c4433-6db5-42bf-a42a-e94212b95823",
+  "conductedBy": null,
+  "surveyBy": "Quinnipiac University Polling Institute",
+  "study": "Quinnipiac University Michigan Poll",
+  "start": "10/17/2024",
+  "end": "10/21/2024",
+  "key": "betterjob_immig",
+  "qname": "R12",
+  "text": "Regardless of how you intend to vote, who do you think would do a better job...handling immigration: Donald Trump or Kamala Harris?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Trump\n",
+    52
+   ],
+   [
+    "Harris",
+    45
+   ],
+   [
+    "Don't know/No answer",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122172,
+  "sid": "cdfcb950-1de3-4111-acab-5d13c5f2d117",
+  "qid": "32117bf9-b1b2-4166-95d9-6e433fc988a8",
+  "conductedBy": null,
+  "surveyBy": "Quinnipiac University Polling Institute",
+  "study": "Quinnipiac University Pennsylvania Poll",
+  "start": "10/24/2024",
+  "end": "10/28/2024",
+  "key": "betterjob_immig",
+  "qname": "Q12",
+  "text": "Regardless of how you intend to vote, who do you think would do a better job - handling immigration: Donald Trump or Kamala Harris?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Trump",
+    54
+   ],
+   [
+    "Harris",
+    42
+   ],
+   [
+    "Don't know/No answer",
+    4
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122173,
+  "sid": "6c742bc8-bb28-4740-b3f6-58a11929f3c2",
+  "qid": "ee6699f4-42e4-4cd1-adb2-3899db6bd6d7",
+  "conductedBy": null,
+  "surveyBy": "Quinnipiac University Polling Institute",
+  "study": "Quinnipiac University Pennsylvania Poll",
+  "start": "10/24/2024",
+  "end": "10/28/2024",
+  "key": "betterjob_immig",
+  "qname": "Q12",
+  "text": "Regardless of how you intend to vote, who do you think would do a better job - handling immigration: Donald Trump or Kamala Harris?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Trump",
+    54
+   ],
+   [
+    "Harris",
+    42
+   ],
+   [
+    "Don't know/No answer",
+    4
+   ]
+  ]
+ }
+]

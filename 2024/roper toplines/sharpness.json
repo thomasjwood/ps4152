@@ -1,0 +1,1899 @@
+[
+ {
+  "archiveId": 31120206,
+  "sid": "5d04abbe-0731-41a3-aca0-02f8afb4f493",
+  "qid": "ab743c29-5d90-41b3-91e3-4915717bb23e",
+  "conductedBy": "Ipsos",
+  "surveyBy": "Pew Research Center for the People & the Press",
+  "study": "Pew American Trends Panel Poll, Wave 125",
+  "start": "03/27/2023",
+  "end": "04/02/2023",
+  "key": "sharpness",
+  "qname": "R15",
+  "text": "(How well does each of the following describe Joe Biden?...Very well, fairly well, not too well, not at all well)...Mentally sharp",
+  "subpop": "Asked of Form 2 half sample",
+  "notes": null,
+  "responses": [
+   [
+    "Very well",
+    7
+   ],
+   [
+    "Fairly well",
+    24
+   ],
+   [
+    "Not too well",
+    24
+   ],
+   [
+    "Not at all well",
+    44
+   ],
+   [
+    "No answer",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120262,
+  "sid": "f6a9ab0f-4b90-4422-b908-b3f77e9a88c2",
+  "qid": "c4b44309-6e83-40bb-8b90-35be9afe65fa",
+  "conductedBy": "Abt Associates",
+  "surveyBy": "ABC News/Washington Post",
+  "study": "ABC New/Washington Post Poll",
+  "start": "04/28/2023",
+  "end": "05/03/2023",
+  "key": "sharpness",
+  "qname": "R15",
+  "text": "Do you think (Joe) Biden...has the mental sharpness it takes to serve effectively as president, or not?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Yes",
+    32
+   ],
+   [
+    "No",
+    63
+   ],
+   [
+    "No opinion",
+    5
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120262,
+  "sid": "f6a9ab0f-4b90-4422-b908-b3f77e9a88c2",
+  "qid": "f34c934a-e379-4358-9840-2f3e160fe85d",
+  "conductedBy": "Abt Associates",
+  "surveyBy": "ABC News/Washington Post",
+  "study": "ABC New/Washington Post Poll",
+  "start": "04/28/2023",
+  "end": "05/03/2023",
+  "key": "sharpness",
+  "qname": "R18",
+  "text": "Do you think (Donald) Trump...has the mental sharpness it takes to serve effectively as president, or not?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Yes",
+    54
+   ],
+   [
+    "No",
+    43
+   ],
+   [
+    "No opinion",
+    4
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120524,
+  "sid": "3ee3ef5e-c95a-45c8-a738-c83c4f839c87",
+  "qid": "4b22f715-2d91-4ea0-af5e-fd15663b66a6",
+  "conductedBy": "SSRS",
+  "surveyBy": "CNN",
+  "study": "CNN Poll",
+  "start": "08/25/2023",
+  "end": "08/31/2023",
+  "key": "sharpness",
+  "qname": "R12",
+  "text": "What is your biggest concern, if any, about Joe Biden as a candidate for president in 2024? ",
+  "subpop": "Registered Democrats including leaners (N=391)",
+  "notes": "Adds to more than 100% due to multiple responses.  * = Less than .5 percent.  Open-ended question. Respondents answered the question in their own words; these responses were coded by the survey organization into the listed response categories.",
+  "responses": [
+   [
+    "His age/Too old/Need someone younger",
+    49
+   ],
+   [
+    "His mental competence/Sharpness/Senility",
+    7
+   ],
+   [
+    "His health",
+    7
+   ],
+   [
+    "Ability to handle the job/Effectiveness",
+    7
+   ],
+   [
+    "Concerns about popularity/Too disliked/May not win 2024",
+    6
+   ],
+   [
+    "The economy/Inflation/Prices",
+    4
+   ],
+   [
+    "Not doing a good job/Not doing enough",
+    4
+   ],
+   [
+    "Ability to complete a full term/Risk of dying",
+    4
+   ],
+   [
+    "Concerns about VP selection/Kamala Harris",
+    3
+   ],
+   [
+    "Not a strong leader/Should be stronger",
+    2
+   ],
+   [
+    "Out of touch",
+    2
+   ],
+   [
+    "Does not represent or understand younger Americans",
+    2
+   ],
+   [
+    "Stamina",
+    2
+   ],
+   [
+    "Not inspiring/Not exciting/No vision",
+    2
+   ],
+   [
+    "Policies on poverty/Helping the poor",
+    1
+   ],
+   [
+    "Policies on climate change",
+    1
+   ],
+   [
+    "Not doing enough to stop Republicans",
+    1
+   ],
+   [
+    "Foreign policy issues",
+    1
+   ],
+   [
+    "Misspeaking/Blunders",
+    1
+   ],
+   [
+    "Typical politician/Career politician/Establishment",
+    1
+   ],
+   [
+    "Not uniting the country/Not bringing people together",
+    1
+   ],
+   [
+    "Policies on immigration",
+    1
+   ],
+   [
+    "Race/Racial issues",
+    1
+   ],
+   [
+    "Student loan forgiveness",
+    1
+   ],
+   [
+    "Not progressive enough/Not liberal enough",
+    1
+   ],
+   [
+    "No confidence (general)",
+    1
+   ],
+   [
+    "Not keeping promises (general)",
+    1
+   ],
+   [
+    "Concern a third party candidate will run",
+    1
+   ],
+   [
+    "Does not represent own views",
+    1e-07
+   ],
+   [
+    "Not doing enough on abortion/Women's rights",
+    1e-07
+   ],
+   [
+    "Policies on guns/Gun control",
+    1e-07
+   ],
+   [
+    "Other",
+    13
+   ],
+   [
+    "None/No concerns",
+    5
+   ],
+   [
+    "Not sure",
+    1
+   ],
+   [
+    "No opinion",
+    11
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121062,
+  "sid": "a364675f-47e6-42b9-a368-7c18d4f387ce",
+  "qid": "17b0e628-4faf-404c-807e-c7394d18304a",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times Upshot/Siena College Arizona Poll",
+  "start": "10/22/2023",
+  "end": "11/03/2023",
+  "key": "sharpness",
+  "qname": "R36",
+  "text": "Do you think Joe Biden has the mental sharpness to be an effective president?",
+  "subpop": "Asked of one-third sample",
+  "notes": null,
+  "responses": [
+   [
+    "Yes",
+    36
+   ],
+   [
+    "No",
+    61
+   ],
+   [
+    "Don't know/Refused",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121063,
+  "sid": "ed4b18c0-42f3-482b-9eab-d33bfe4db3b7",
+  "qid": "2af8d0ea-06ed-41ec-92eb-7c9abdb6631d",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times Upshot/Siena College Georgia Poll",
+  "start": "10/22/2023",
+  "end": "11/03/2023",
+  "key": "sharpness",
+  "qname": "R39",
+  "text": "Do you think Donald Trump has the mental sharpness to be an effective president?",
+  "subpop": "Asked of one-third sample",
+  "notes": null,
+  "responses": [
+   [
+    "Yes",
+    52
+   ],
+   [
+    "No",
+    45
+   ],
+   [
+    "Don't know/Refused",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121065,
+  "sid": "83e4d10c-2a6e-4359-bea0-90d3f1e476ff",
+  "qid": "562129b5-1a96-4894-9a1f-33a5db387233",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times Upshot/Siena College Nevada Poll",
+  "start": "10/22/2023",
+  "end": "11/03/2023",
+  "key": "sharpness",
+  "qname": "R36",
+  "text": "Do you think Joe Biden has the mental sharpness to be an effective president?",
+  "subpop": "Asked of one-third sample",
+  "notes": null,
+  "responses": [
+   [
+    "Yes",
+    33
+   ],
+   [
+    "No",
+    65
+   ],
+   [
+    "Don't know/Refused",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121067,
+  "sid": "8fc14e86-f5bb-4680-8c40-bdc64342881b",
+  "qid": "755cda45-929f-4caf-854c-d3ca96e1253e",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times Upshot/Siena College Wisconsin Poll",
+  "start": "10/22/2023",
+  "end": "11/03/2023",
+  "key": "sharpness",
+  "qname": "R37",
+  "text": "Do you think Joe Biden has the mental sharpness to be an effective president?",
+  "subpop": "Asked of one-third sample",
+  "notes": null,
+  "responses": [
+   [
+    "Yes",
+    35
+   ],
+   [
+    "No",
+    62
+   ],
+   [
+    "Don't know/Refused",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121067,
+  "sid": "8fc14e86-f5bb-4680-8c40-bdc64342881b",
+  "qid": "7b1c7575-cf20-42b5-864d-b9c1e3b867ee",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times Upshot/Siena College Wisconsin Poll",
+  "start": "10/22/2023",
+  "end": "11/03/2023",
+  "key": "sharpness",
+  "qname": "R39",
+  "text": "Do you think Donald Trump has the mental sharpness to be an effective president?",
+  "subpop": "Asked of one-third sample",
+  "notes": null,
+  "responses": [
+   [
+    "Yes",
+    51
+   ],
+   [
+    "No",
+    49
+   ],
+   [
+    "Don't know/Refused",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121066,
+  "sid": "c6fca633-f3f7-4805-b92a-c8ba66e74576",
+  "qid": "896a2576-36ff-477e-b1c4-622b1e1643c1",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times Upshot/Siena College Pennsylvania Poll",
+  "start": "10/22/2023",
+  "end": "11/03/2023",
+  "key": "sharpness",
+  "qname": "R39",
+  "text": "Do you think Donald Trump has the mental sharpness to be an effective president?",
+  "subpop": "Asked of one-third sample",
+  "notes": null,
+  "responses": [
+   [
+    "Yes",
+    57
+   ],
+   [
+    "No",
+    43
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121065,
+  "sid": "83e4d10c-2a6e-4359-bea0-90d3f1e476ff",
+  "qid": "969d9fca-619a-4b69-bbea-43eb68152580",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times Upshot/Siena College Nevada Poll",
+  "start": "10/22/2023",
+  "end": "11/03/2023",
+  "key": "sharpness",
+  "qname": "R38",
+  "text": "Do you think Donald Trump has the mental sharpness to be an effective president?",
+  "subpop": "Asked of one-third sample",
+  "notes": null,
+  "responses": [
+   [
+    "Yes",
+    61
+   ],
+   [
+    "No",
+    39
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121064,
+  "sid": "0636bd64-a5f8-471c-a1d4-48186a3f7ca1",
+  "qid": "a18d1c47-2eb5-4d98-84b9-7b52fca30eb7",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times Upshot/Siena College Michigan Poll",
+  "start": "10/22/2023",
+  "end": "11/03/2023",
+  "key": "sharpness",
+  "qname": "R39",
+  "text": "Do you think Donald Trump has the mental sharpness to be an effective president?",
+  "subpop": "Asked of one-third sample",
+  "notes": null,
+  "responses": [
+   [
+    "Yes",
+    51
+   ],
+   [
+    "No",
+    43
+   ],
+   [
+    "Don't know/Refused",
+    6
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121066,
+  "sid": "c6fca633-f3f7-4805-b92a-c8ba66e74576",
+  "qid": "b3fe8a96-ef2e-450c-8b2c-76346bedcd2e",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times Upshot/Siena College Pennsylvania Poll",
+  "start": "10/22/2023",
+  "end": "11/03/2023",
+  "key": "sharpness",
+  "qname": "R37",
+  "text": "Do you think Joe Biden has the mental sharpness to be an effective president?",
+  "subpop": "Asked of one-third sample",
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Yes",
+    38
+   ],
+   [
+    "No",
+    61
+   ],
+   [
+    "Don't know/Refused",
+    1e-07
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121062,
+  "sid": "a364675f-47e6-42b9-a368-7c18d4f387ce",
+  "qid": "b86c0f01-7ed5-4b1a-8e4b-d4bd7b29322e",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times Upshot/Siena College Arizona Poll",
+  "start": "10/22/2023",
+  "end": "11/03/2023",
+  "key": "sharpness",
+  "qname": "R38",
+  "text": "Do you think Donald Trump has the mental sharpness to be an effective president?",
+  "subpop": "Asked of one-third sample",
+  "notes": null,
+  "responses": [
+   [
+    "Yes",
+    52
+   ],
+   [
+    "No",
+    45
+   ],
+   [
+    "Don't know/Refused",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121064,
+  "sid": "0636bd64-a5f8-471c-a1d4-48186a3f7ca1",
+  "qid": "ba810104-d5a6-4753-85d0-a64a95b16812",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times Upshot/Siena College Michigan Poll",
+  "start": "10/22/2023",
+  "end": "11/03/2023",
+  "key": "sharpness",
+  "qname": "R37",
+  "text": "Do you think Joe Biden has the mental sharpness to be an effective president?",
+  "subpop": "Asked of one-third sample",
+  "notes": null,
+  "responses": [
+   [
+    "Yes",
+    32
+   ],
+   [
+    "No",
+    65
+   ],
+   [
+    "Don't know/Refused",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121063,
+  "sid": "ed4b18c0-42f3-482b-9eab-d33bfe4db3b7",
+  "qid": "f9954a7b-aa02-4956-9006-3819001c1eaf",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times Upshot/Siena College Georgia Poll",
+  "start": "10/22/2023",
+  "end": "11/03/2023",
+  "key": "sharpness",
+  "qname": "R37",
+  "text": "Do you think Joe Biden has the mental sharpness to be an effective president?",
+  "subpop": "Asked of one-third sample",
+  "notes": null,
+  "responses": [
+   [
+    "Yes",
+    34
+   ],
+   [
+    "No",
+    60
+   ],
+   [
+    "Don't know/Refused",
+    6
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122271,
+  "sid": "5a312027-21a3-4eeb-9cbf-d4f34113062e",
+  "qid": "7bcb86b8-5d41-40e3-8f04-6600e6fbdb8e",
+  "conductedBy": "NORC",
+  "surveyBy": "Consumer Reports",
+  "study": "Consumer Reports American Experiences Survey",
+  "start": "11/10/2023",
+  "end": "11/20/2023",
+  "key": "sharpness",
+  "qname": "R39",
+  "text": "Have you used a health, mental health, fitness, or nutrition app in the past six months? For this question, we are interested in apps that are designed for health purposes, including weight management, exercise planning or tracking, period tracking, illness management, mental health management, and meditation. We aren't interested in apps designed to improve mental sharpness, like puzzle games.",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Yes",
+    35
+   ],
+   [
+    "No",
+    60
+   ],
+   [
+    "Unsure",
+    5
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120711,
+  "sid": "c715a63c-bfd7-4176-afe3-a8d5743251b3",
+  "qid": "47ed4072-580d-44cb-a0dc-42a4d00e96cb",
+  "conductedBy": "Ipsos",
+  "surveyBy": "ABC News",
+  "study": "ABC News/Ipsos Poll",
+  "start": "01/04/2024",
+  "end": "01/08/2024",
+  "key": "sharpness",
+  "qname": "R26",
+  "text": "(Do you think these do or don't apply to (Donald) Trump?)...He has the mental sharpness it takes to serve effectively as president ",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Applies",
+    47
+   ],
+   [
+    "Doesn't apply",
+    50
+   ],
+   [
+    "Skipped",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120711,
+  "sid": "c715a63c-bfd7-4176-afe3-a8d5743251b3",
+  "qid": "6f965a2c-4643-4769-b145-c08f260622ab",
+  "conductedBy": "Ipsos",
+  "surveyBy": "ABC News",
+  "study": "ABC News/Ipsos Poll",
+  "start": "01/04/2024",
+  "end": "01/08/2024",
+  "key": "sharpness",
+  "qname": "R23",
+  "text": "(Do you think these do or don't apply to (Joe) Biden?)...He has the mental sharpness it takes to serve effectively as president",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Applies",
+    28
+   ],
+   [
+    "Doesn't apply",
+    69
+   ],
+   [
+    "Skipped",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120786,
+  "sid": "0912a6cc-d9de-4f82-b44d-a0ebcd21dd58",
+  "qid": "4b19ae50-9836-4bfd-b397-f053e8b6c3b2",
+  "conductedBy": "Ipsos",
+  "surveyBy": "Pew Research Center",
+  "study": "Pew Research Center: American Trends Panel Wave 140",
+  "start": "01/16/2024",
+  "end": "01/21/2024",
+  "key": "sharpness",
+  "qname": "R06",
+  "text": "(How well does each of the following describe Joe Biden?...Very well, fairly well, not too well, not at all well)...Mentally sharp",
+  "subpop": "Asked of Form 1 half-sample",
+  "notes": null,
+  "responses": [
+   [
+    "Very well",
+    7
+   ],
+   [
+    "Fairly well",
+    22
+   ],
+   [
+    "Not too well",
+    26
+   ],
+   [
+    "Not at all well",
+    44
+   ],
+   [
+    "No answer",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120801,
+  "sid": "bef49c6e-75d0-48c0-a149-801cc5552348",
+  "qid": "1d978925-69d3-4f59-980e-32d46a91c432",
+  "conductedBy": "SSRS",
+  "surveyBy": "CNN",
+  "study": "CNN Poll",
+  "start": "01/25/2024",
+  "end": "01/30/2024",
+  "key": "sharpness",
+  "qname": "R15",
+  "text": "What is your biggest concern, if any, about Joe Biden as a candidate for president in 2024?",
+  "subpop": "Asked of Registered Democrats including leaners",
+  "notes": "* = Less than .5 percent.  Open-ended question. Respondents answered the question in their own words; these responses were coded by the survey organization into the listed response categories. Adds to more than 100% due to multiple responses.",
+  "responses": [
+   [
+    "His age/Too old/Need someone younger",
+    46
+   ],
+   [
+    "The economy/Inflation/Prices",
+    6
+   ],
+   [
+    "Israel/Middle East",
+    5
+   ],
+   [
+    "His mental competence/Sharpness/Senility",
+    5
+   ],
+   [
+    "Concerns about popularity/Too disliked/May not win",
+    4
+   ],
+   [
+    "Not doing a good job/Not doing enough",
+    3
+   ],
+   [
+    "Not progressive/Liberal enough",
+    3
+   ],
+   [
+    "Ageism/Effect of age on support",
+    3
+   ],
+   [
+    "Not a strong leader/Should be stronger",
+    3
+   ],
+   [
+    "Ability to handle the job/Effectiveness",
+    2
+   ],
+   [
+    "May lose to Trump",
+    2
+   ],
+   [
+    "Immigration policies",
+    2
+   ],
+   [
+    "Risk of death/Ability to complete a full-term",
+    2
+   ],
+   [
+    "Inability to get message out/Bad messaging",
+    2
+   ],
+   [
+    "His health",
+    1
+   ],
+   [
+    "Concerns about Kamala Harris/VP selection",
+    1
+   ],
+   [
+    "Misinformation/Disinformation about him",
+    1
+   ],
+   [
+    "Won't get young voters to turn out",
+    1
+   ],
+   [
+    "Ukraine",
+    1
+   ],
+   [
+    "Not inspiring/Not exciting/No vision",
+    1
+   ],
+   [
+    "Typical politician/Career politician/Establishment",
+    1
+   ],
+   [
+    "Student loan repayment/Forgiveness",
+    1
+   ],
+   [
+    "Too liberal/Doesn't appeal to moderates",
+    1
+   ],
+   [
+    "Not aligned on policy/Doesn't represent me (general)",
+    1
+   ],
+   [
+    "No confidence in him/Disapprove of performance (general)",
+    1
+   ],
+   [
+    "Foreign policy issues",
+    1e-07
+   ],
+   [
+    "Misspeaking/Errors/Blunders",
+    1e-07
+   ],
+   [
+    "Not doing enough on abortion/Women's rights",
+    1e-07
+   ],
+   [
+    "Other",
+    6
+   ],
+   [
+    "Everything",
+    1e-07
+   ],
+   [
+    "None/No concerns",
+    9
+   ],
+   [
+    "No opinion",
+    4
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120858,
+  "sid": "9d2523c5-694c-46ea-97c9-96e76dad47c9",
+  "qid": "a0db5003-ae85-4178-9b6d-4857b1d1e3b8",
+  "conductedBy": "Ipsos",
+  "surveyBy": "Reuters",
+  "study": "Reuters/Ipsos Survey",
+  "start": "02/09/2024",
+  "end": "02/12/2024",
+  "key": "sharpness",
+  "qname": "R13",
+  "text": "(As you may know, President Joe Biden is 81 years old. Former President Donald Trump is 77 years old. To what extent, if at all, do the following statements describe each of the public figures below?...Strongly describes, slightly describes, doesn't really describe, doesn't describe at all)...Trump is mentally sharp and able to deal with challenges",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Strongly describes",
+    28
+   ],
+   [
+    "Slightly describes",
+    22
+   ],
+   [
+    "Doesn't really describe",
+    19
+   ],
+   [
+    "Doesn't describe at all",
+    28
+   ],
+   [
+    "Refused",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120858,
+  "sid": "9d2523c5-694c-46ea-97c9-96e76dad47c9",
+  "qid": "ba273958-ebef-4b32-a6f9-c6beb1b1d004",
+  "conductedBy": "Ipsos",
+  "surveyBy": "Reuters",
+  "study": "Reuters/Ipsos Survey",
+  "start": "02/09/2024",
+  "end": "02/12/2024",
+  "key": "sharpness",
+  "qname": "R11",
+  "text": "(As you may know, President Joe Biden is 81 years old. Former President Donald Trump is 77 years old. To what extent, if at all, do the following statements describe each of the public figures below?...Strongly describes, slightly describes, doesn't really describe, doesn't describe at all)...Biden is mentally sharp and able to deal with challenges",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Strongly describes",
+    14
+   ],
+   [
+    "Slightly describes",
+    21
+   ],
+   [
+    "Doesn't really describe",
+    20
+   ],
+   [
+    "Doesn't describe at all",
+    42
+   ],
+   [
+    "Refused",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122056,
+  "sid": "0c1c78b1-6801-4653-b423-f927e00ae100",
+  "qid": "73de4f0d-09d4-4bdf-ab42-6ee50674e370",
+  "conductedBy": "NORC at the University of Chicago",
+  "surveyBy": "AARP",
+  "study": "AARP Survey: Healthy Living and Sleep: Views of Adults Ages 40 and Older",
+  "start": "04/03/2024",
+  "end": "04/18/2024",
+  "key": "sharpness",
+  "qname": "",
+  "text": "How would you rate your...brain health or mental sharpness?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Excellent",
+    17
+   ],
+   [
+    "Very good",
+    43
+   ],
+   [
+    "Good",
+    30
+   ],
+   [
+    "Fair",
+    9
+   ],
+   [
+    "Poor",
+    1
+   ],
+   [
+    "Don't know/Skipped on web/Refused",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122056,
+  "sid": "0c1c78b1-6801-4653-b423-f927e00ae100",
+  "qid": "836bb0ed-caeb-43f7-b9c0-09b672ea1744",
+  "conductedBy": "NORC at the University of Chicago",
+  "surveyBy": "AARP",
+  "study": "AARP Survey: Healthy Living and Sleep: Views of Adults Ages 40 and Older",
+  "start": "04/03/2024",
+  "end": "04/18/2024",
+  "key": "sharpness",
+  "qname": "",
+  "text": "How important do you think getting enough sleep is for your...brain health or mental sharpness?",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.  ",
+  "responses": [
+   [
+    "Very important",
+    82
+   ],
+   [
+    "Somewhat important",
+    15
+   ],
+   [
+    "Not too important",
+    1
+   ],
+   [
+    "Not at all important",
+    1e-07
+   ],
+   [
+    "Don't know/Skipped on web/Refused",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121045,
+  "sid": "b42b936c-0efb-462a-928d-0e19049b9721",
+  "qid": "de24c780-bd79-4c5e-8c32-b9ad689228c5",
+  "conductedBy": "Ipsos",
+  "surveyBy": "Washington Post",
+  "study": "Washington Post-Ipsos Poll",
+  "start": "04/09/2024",
+  "end": "04/16/2024",
+  "key": "sharpness",
+  "qname": "R18",
+  "text": "Who do you think...is more mentally sharp?...Joe Biden, Donald Trump, neither or both equally",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Biden",
+    40
+   ],
+   [
+    "Trump",
+    14
+   ],
+   [
+    "Neither",
+    36
+   ],
+   [
+    "Both equally",
+    7
+   ],
+   [
+    "No opinion/Skipped",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122154,
+  "sid": "4b1fea61-d02e-4a83-9576-5a0c0c7abe0f",
+  "qid": "1c42ecd8-93d7-4ceb-b712-dd7b67098cb3",
+  "conductedBy": "Ipsos",
+  "surveyBy": "AARP",
+  "study": "AARP Poll: Brain Health and Employment",
+  "start": "04/24/2024",
+  "end": "05/09/2024",
+  "key": "sharpness",
+  "qname": "",
+  "text": "To what extent do you think it is the responsibility of employers to assist workers to...maintain their brain health or mental sharpness?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "To a great extent",
+    13
+   ],
+   [
+    "To some extent",
+    41
+   ],
+   [
+    "To a small extent",
+    27
+   ],
+   [
+    "To no extent at all",
+    17
+   ],
+   [
+    "No answer",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122154,
+  "sid": "4b1fea61-d02e-4a83-9576-5a0c0c7abe0f",
+  "qid": "4b1a0dfc-baca-42b2-b553-e5c7d3a13661",
+  "conductedBy": "Ipsos",
+  "surveyBy": "AARP",
+  "study": "AARP Poll: Brain Health and Employment",
+  "start": "04/24/2024",
+  "end": "05/09/2024",
+  "key": "sharpness",
+  "qname": "",
+  "text": "(To what extent do you feel the leadership at your place of employment does each of the following?)...Support your brain health and mental sharpness",
+  "subpop": "Asked of those who said it is the role of their employe to provide opportunities to engage in activities that benefit their health and wellness to a great extent/some extent/small extent (N = 2711)",
+  "notes": "* = Less than .5 percent.  ",
+  "responses": [
+   [
+    "To a great extent",
+    9
+   ],
+   [
+    "To some extent",
+    36
+   ],
+   [
+    "To a small extent",
+    31
+   ],
+   [
+    "To no extent at all",
+    23
+   ],
+   [
+    "No answer",
+    1e-07
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121042,
+  "sid": "b2d17f5a-4b92-4e05-a465-b7c144089983",
+  "qid": "120f56ab-20e6-4b91-9971-7f5af0e83ac0",
+  "conductedBy": "Ipsos",
+  "surveyBy": "ABC News",
+  "study": "ABC News/Ipsos Poll",
+  "start": "04/25/2024",
+  "end": "04/30/2024",
+  "key": "sharpness",
+  "qname": "R36",
+  "text": "(Does each of these statements apply more to (Joe) Biden, apply more to (Donald) Trump, or not apply to either one?)...He has the mental sharpness it takes to serve effectively as president",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "More to Biden",
+    23
+   ],
+   [
+    "More to Trump",
+    42
+   ],
+   [
+    "Doesn't apply to either",
+    34
+   ],
+   [
+    "Skipped ",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121134,
+  "sid": "11c88f13-28b8-4917-9945-22874e967821",
+  "qid": "4659db96-64fa-45c7-bd50-c8b255bad271",
+  "conductedBy": "Ipsos",
+  "surveyBy": "Reuters",
+  "study": "Reuters/Ipsos Presidential Debate Survey",
+  "start": "07/01/2024",
+  "end": "07/02/2024",
+  "key": "sharpness",
+  "qname": "R28",
+  "text": "(To what extent do you agree or disagree with the following statements?...Strongly agree, somewhat agree, somewhat disagree, strongly disagree)...Donald Trump is mentally sharp and able to deal with challenges",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Strongly agree",
+    29
+   ],
+   [
+    "Somewhat agree",
+    19
+   ],
+   [
+    "Somewhat disagree",
+    14
+   ],
+   [
+    "Strongly disagree",
+    29
+   ],
+   [
+    "Don't know",
+    5
+   ],
+   [
+    "Skipped",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121145,
+  "sid": "08e0e512-a4c0-421f-9aaa-d45e60168c27",
+  "qid": "c7cf60f4-3ef2-4df5-8ab0-4a450b3913e7",
+  "conductedBy": "SSRS",
+  "surveyBy": "Pew Research Center",
+  "study": "Pew Research Center: American Trends Panel Wave 149",
+  "start": "07/01/2024",
+  "end": "07/07/2024",
+  "key": "sharpness",
+  "qname": "R43",
+  "text": "(How well does each of the following describe Joe Biden?...Very well, fairly well, not too well, not at all well)...Mentally sharp",
+  "subpop": "Asked of Form 2 half sample",
+  "notes": null,
+  "responses": [
+   [
+    "Very well",
+    4
+   ],
+   [
+    "Fairly well",
+    20
+   ],
+   [
+    "Not too well",
+    25
+   ],
+   [
+    "Not at all well",
+    51
+   ],
+   [
+    "No answer",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121145,
+  "sid": "08e0e512-a4c0-421f-9aaa-d45e60168c27",
+  "qid": "e9adf42a-db78-4dd7-b2b3-3c8c3523f176",
+  "conductedBy": "SSRS",
+  "surveyBy": "Pew Research Center",
+  "study": "Pew Research Center: American Trends Panel Wave 149",
+  "start": "07/01/2024",
+  "end": "07/07/2024",
+  "key": "sharpness",
+  "qname": "R38",
+  "text": "(How well does each of the following describe Donald Trump?...Very well, fairly well, not too well, not at all well)...Mentally sharp",
+  "subpop": "Asked of Form 2 half sample",
+  "notes": null,
+  "responses": [
+   [
+    "Very well",
+    29
+   ],
+   [
+    "Fairly well",
+    29
+   ],
+   [
+    "Not too well",
+    21
+   ],
+   [
+    "Not at all well",
+    20
+   ],
+   [
+    "No answer",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121134,
+  "sid": "11c88f13-28b8-4917-9945-22874e967821",
+  "qid": "f810af9a-781b-41bd-8a1a-4d4ff499bccb",
+  "conductedBy": "Ipsos",
+  "surveyBy": "Reuters",
+  "study": "Reuters/Ipsos Presidential Debate Survey",
+  "start": "07/01/2024",
+  "end": "07/02/2024",
+  "key": "sharpness",
+  "qname": "R29",
+  "text": "(To what extent do you agree or disagree with the following statements?...Strongly agree, somewhat agree, somewhat disagree, strongly disagree)...Joe Biden is mentally sharp and able to deal with challenges",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Strongly agree",
+    8
+   ],
+   [
+    "Somewhat agree",
+    15
+   ],
+   [
+    "Somewhat disagree",
+    18
+   ],
+   [
+    "Strongly disagree",
+    50
+   ],
+   [
+    "Don't know",
+    6
+   ],
+   [
+    "Skipped",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121143,
+  "sid": "8028535d-8ab9-4bac-88b5-d6170d27916a",
+  "qid": "d5f9173a-58dd-4aeb-b1a0-fe6b326b392e",
+  "conductedBy": "Ipsos",
+  "surveyBy": "ABC News/Washington Post",
+  "study": "Washington Post-ABC News-Ipsos Poll",
+  "start": "07/05/2024",
+  "end": "07/09/2024",
+  "key": "sharpness",
+  "qname": "R10",
+  "text": "(Does each of these statements apply more to (Joe) Biden, apply more to (Donald) Trump, or not apply to either one?)...He has the mental sharpness it takes to serve effectively as president ",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "More to Biden",
+    14
+   ],
+   [
+    "More to Trump",
+    44
+   ],
+   [
+    "Doesn't apply to either",
+    41
+   ],
+   [
+    "Skipped",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121150,
+  "sid": "a0c2e03a-d083-48fd-a425-729e0c577366",
+  "qid": "161e0ab0-c551-4e3b-8c6c-4c18b67f0321",
+  "conductedBy": "Ipsos",
+  "surveyBy": "Reuters",
+  "study": "Reuters/Ipsos Post Trump Assassination Attempt Poll",
+  "start": "07/16/2024",
+  "end": "07/16/2024",
+  "key": "sharpness",
+  "qname": "R28",
+  "text": "(To what extent do you agree or disagree with the following statements?...Strongly agree, somewhat agree, somewhat disagree, strongly disagree)...Joe Biden is mentally sharp and able to deal with challenges",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Strongly agree ",
+    9
+   ],
+   [
+    "Somewhat agree",
+    16
+   ],
+   [
+    "Somewhat disagree",
+    17
+   ],
+   [
+    "Strongly disagree",
+    46
+   ],
+   [
+    "Don't know",
+    9
+   ],
+   [
+    "Skipped",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121150,
+  "sid": "a0c2e03a-d083-48fd-a425-729e0c577366",
+  "qid": "5c163e68-8ed6-481a-b9c4-5876bd28aefd",
+  "conductedBy": "Ipsos",
+  "surveyBy": "Reuters",
+  "study": "Reuters/Ipsos Post Trump Assassination Attempt Poll",
+  "start": "07/16/2024",
+  "end": "07/16/2024",
+  "key": "sharpness",
+  "qname": "R27",
+  "text": "(To what extent do you agree or disagree with the following statements?...Strongly agree, somewhat agree, somewhat disagree, strongly disagree)...Donald Trump is mentally sharp and able to deal with challenges",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Strongly agree ",
+    29
+   ],
+   [
+    "Somewhat agree",
+    17
+   ],
+   [
+    "Somewhat disagree",
+    12
+   ],
+   [
+    "Strongly disagree",
+    31
+   ],
+   [
+    "Don't know",
+    9
+   ],
+   [
+    "Skipped",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121164,
+  "sid": "78904bc8-8d49-4d8f-826c-31820986cc8a",
+  "qid": "00172e80-dd45-4af8-a625-734e2dfddda5",
+  "conductedBy": "Ipsos",
+  "surveyBy": "Reuters",
+  "study": "Reuters/Ipsos Survey",
+  "start": "07/22/2024",
+  "end": "07/23/2024",
+  "key": "sharpness",
+  "qname": "R21",
+  "text": "(To what extent do you agree or disagree with the following statements?...Strongly agree, somewhat agree, somewhat disagree, strongly disagree)...Joe Biden is mentally sharp and able to deal with challenges",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Strongly agree",
+    5
+   ],
+   [
+    "Somewhat agree",
+    15
+   ],
+   [
+    "Somewhat disagree",
+    21
+   ],
+   [
+    "Strongly disagree",
+    52
+   ],
+   [
+    "Don't know",
+    5
+   ],
+   [
+    "Skipped",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121164,
+  "sid": "78904bc8-8d49-4d8f-826c-31820986cc8a",
+  "qid": "5d877776-2830-48c8-9190-4bcdbee41073",
+  "conductedBy": "Ipsos",
+  "surveyBy": "Reuters",
+  "study": "Reuters/Ipsos Survey",
+  "start": "07/22/2024",
+  "end": "07/23/2024",
+  "key": "sharpness",
+  "qname": "R23",
+  "text": "(To what extent do you agree or disagree with the following statements?...Strongly agree, somewhat agree, somewhat disagree, strongly disagree)...Kamala Harris is mentally sharp and able to deal with challenges",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Strongly agree",
+    35
+   ],
+   [
+    "Somewhat agree",
+    17
+   ],
+   [
+    "Somewhat disagree",
+    13
+   ],
+   [
+    "Strongly disagree",
+    22
+   ],
+   [
+    "Don't know",
+    10
+   ],
+   [
+    "Skipped",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121164,
+  "sid": "78904bc8-8d49-4d8f-826c-31820986cc8a",
+  "qid": "72d7c0e9-b2be-416b-a946-ef201e9e6662",
+  "conductedBy": "Ipsos",
+  "surveyBy": "Reuters",
+  "study": "Reuters/Ipsos Survey",
+  "start": "07/22/2024",
+  "end": "07/23/2024",
+  "key": "sharpness",
+  "qname": "R20",
+  "text": "(To what extent do you agree or disagree with the following statements?...Strongly agree, somewhat agree, somewhat disagree, strongly disagree)...Donald Trump is mentally sharp and able to deal with challenges ",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Strongly agree",
+    29
+   ],
+   [
+    "Somewhat agree",
+    18
+   ],
+   [
+    "Somewhat disagree",
+    13
+   ],
+   [
+    "Strongly disagree",
+    33
+   ],
+   [
+    "Don't know",
+    5
+   ],
+   [
+    "Skipped",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122029,
+  "sid": "ef873727-dfd3-4f10-ad20-0244336d8765",
+  "qid": "a739b21c-e7a3-4dcf-a45b-71a1aec89980",
+  "conductedBy": "Ipsos",
+  "surveyBy": "ABC News/Washington Post",
+  "study": "ABC News/Washington Post/Ipsos poll",
+  "start": "08/09/2024",
+  "end": "08/13/2024",
+  "key": "sharpness",
+  "qname": "R40",
+  "text": "(Does each of these statements apply more to (Kamala) Harris, apply more to (Donald) Trump, or not apply to either one?)...Has the mental sharpness, it takes to serve effectively as president",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "More to Harris",
+    46
+   ],
+   [
+    "More to Trump",
+    37
+   ],
+   [
+    "Doesn't apply to either",
+    15
+   ],
+   [
+    "Skipped",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122046,
+  "sid": "a83c25d5-1616-4cf6-affe-26b6b75b7e76",
+  "qid": "b5ec055a-d6b9-4487-bd16-a32f0e2d40cc",
+  "conductedBy": "Ipsos",
+  "surveyBy": "ABC News",
+  "study": "ABC News/Ipsos Poll",
+  "start": "08/23/2024",
+  "end": "08/27/2024",
+  "key": "sharpness",
+  "qname": "R33",
+  "text": "Does each of these statements apply more to (Kamala) Harris, apply more to (Donald) Trump, or not apply to either one?...Has the mental sharpness it takes to serve effectively as president",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "More to Harris",
+    47
+   ],
+   [
+    "More to Trump",
+    37
+   ],
+   [
+    "Doesn't apply to either",
+    15
+   ],
+   [
+    "Skipped",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122060,
+  "sid": "37c7006d-d3a0-4a2a-ad49-59ad9e2382d9",
+  "qid": "c1c67841-de8e-44f5-a269-442cab370cdd",
+  "conductedBy": "Ipsos",
+  "surveyBy": "Washington Post",
+  "study": "Washington Post – Ipsos Fall 2024 Survey of Black Americans",
+  "start": "08/23/2024",
+  "end": "09/03/2024",
+  "key": "sharpness",
+  "qname": "R30",
+  "text": "Do you think each of the following apply to (Donald) Trump, or not?...Has the mental sharpness it takes to serve effectively as president",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Yes",
+    20
+   ],
+   [
+    "No",
+    78
+   ],
+   [
+    "No opinion/Skipped",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122060,
+  "sid": "37c7006d-d3a0-4a2a-ad49-59ad9e2382d9",
+  "qid": "f15a7d7f-b35e-48e7-b348-cc97abf7e740",
+  "conductedBy": "Ipsos",
+  "surveyBy": "Washington Post",
+  "study": "Washington Post – Ipsos Fall 2024 Survey of Black Americans",
+  "start": "08/23/2024",
+  "end": "09/03/2024",
+  "key": "sharpness",
+  "qname": "R24",
+  "text": "Do you think the following items apply to (Kamala) Harris, or not?...Has the mental sharpness it takes to serve effectively as president",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Yes",
+    81
+   ],
+   [
+    "No",
+    17
+   ],
+   [
+    "No opinion/Skipped",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122064,
+  "sid": "e3d78cbf-ac7f-4ed4-82e8-47f75a40c6e0",
+  "qid": "665b3e44-7cb8-424c-b09d-7c921ecd7bcc",
+  "conductedBy": "SSRS",
+  "surveyBy": "Pew Research Center",
+  "study": "Pew Research Center: American Trends Panel Wave 153",
+  "start": "08/26/2024",
+  "end": "09/02/2024",
+  "key": "sharpness",
+  "qname": "R56",
+  "text": "(How well does each of the following describe Donald Trump?...Very well, fairly well, not too well, not at all well)...Mentally sharp",
+  "subpop": "Asked of Form 2 half sample",
+  "notes": null,
+  "responses": [
+   [
+    "Very well",
+    30
+   ],
+   [
+    "Fairly well",
+    23
+   ],
+   [
+    "Not too well",
+    18
+   ],
+   [
+    "Not at all well",
+    29
+   ],
+   [
+    "No answer",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122064,
+  "sid": "e3d78cbf-ac7f-4ed4-82e8-47f75a40c6e0",
+  "qid": "aa1a339e-639b-4c3c-a8b9-b310630acc4d",
+  "conductedBy": "SSRS",
+  "surveyBy": "Pew Research Center",
+  "study": "Pew Research Center: American Trends Panel Wave 153",
+  "start": "08/26/2024",
+  "end": "09/02/2024",
+  "key": "sharpness",
+  "qname": "R65",
+  "text": "(How well does each of the following describe Kamala Harris?...Very well, fairly well, not too well, not at all well)...Mentally sharp",
+  "subpop": "Asked of Form 2 half sample",
+  "notes": null,
+  "responses": [
+   [
+    "Very well",
+    36
+   ],
+   [
+    "Fairly well",
+    26
+   ],
+   [
+    "Not too well",
+    16
+   ],
+   [
+    "Not at all well",
+    21
+   ],
+   [
+    "No answer",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122071,
+  "sid": "4c13d25d-1e21-492b-b720-2e2ab53457a1",
+  "qid": "3929965c-ec44-4501-ad52-c90205047ee4",
+  "conductedBy": "Ipsos",
+  "surveyBy": "Reuters",
+  "study": "Reuters/Ipsos Presidential Debate Survey",
+  "start": "09/11/2024",
+  "end": "09/12/2024",
+  "key": "sharpness",
+  "qname": "R17",
+  "text": "(To what extent do you agree or disagree with the following statements?...Strongly agree, somewhat agree, somewhat disagree, strongly disagree)...Donald Trump is mentally sharp and able to deal with challenges",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Strongly agree",
+    29
+   ],
+   [
+    "Somewhat agree",
+    15
+   ],
+   [
+    "Somewhat disagree",
+    11
+   ],
+   [
+    "Strongly disagree",
+    35
+   ],
+   [
+    "Don't know",
+    10
+   ],
+   [
+    "Skipped",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122071,
+  "sid": "4c13d25d-1e21-492b-b720-2e2ab53457a1",
+  "qid": "a3c047e1-4f2d-4bc7-a41e-a6c9d75f2fa4",
+  "conductedBy": "Ipsos",
+  "surveyBy": "Reuters",
+  "study": "Reuters/Ipsos Presidential Debate Survey",
+  "start": "09/11/2024",
+  "end": "09/12/2024",
+  "key": "sharpness",
+  "qname": "R18",
+  "text": "(To what extent do you agree or disagree with the following statements?...Strongly agree, somewhat agree, somewhat disagree, strongly disagree)...Kamala Harris is mentally sharp and able to deal with challenges",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Strongly agree",
+    37
+   ],
+   [
+    "Somewhat agree",
+    18
+   ],
+   [
+    "Somewhat disagree",
+    12
+   ],
+   [
+    "Strongly disagree",
+    21
+   ],
+   [
+    "Don't know",
+    11
+   ],
+   [
+    "Skipped",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122072,
+  "sid": "bc35a4eb-fb93-425a-998a-3a3ca4a3b126",
+  "qid": "a5fbf097-00e2-49dd-a850-d989c86f54bd",
+  "conductedBy": "Ipsos",
+  "surveyBy": "ABC News",
+  "study": "ABC News/Ipsos Poll",
+  "start": "09/11/2024",
+  "end": "09/13/2024",
+  "key": "sharpness",
+  "qname": "R40",
+  "text": "(Does each of these statements apply more to (Kamala) Harris, apply more to (Donald) Trump, or not apply to either one?)...Has the mental sharpness it takes to serve effectively as president",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "More to Harris",
+    48
+   ],
+   [
+    "More to Trump",
+    38
+   ],
+   [
+    "Doesn't apply to either",
+    13
+   ],
+   [
+    "Skipped",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122169,
+  "sid": "0660a65c-8c82-48cc-8a2e-5a3f46cb80c2",
+  "qid": "e3caca1e-0f6d-4359-b243-8ca01932cd5e",
+  "conductedBy": "Ipsos",
+  "surveyBy": "ABC News",
+  "study": "ABC News/Ipsos Poll",
+  "start": "10/18/2024",
+  "end": "10/22/2024",
+  "key": "sharpness",
+  "qname": "R26",
+  "text": "(Does each of these statements apply more to (Kamala) Harris, apply more to (Donald) Trump, or not apply to either one?)...Has the mental sharpness it takes to serve effectively as president",
+  "subpop": "Registered voters",
+  "notes": null,
+  "responses": [
+   [
+    "More to Harris",
+    49
+   ],
+   [
+    "More to Trump",
+    38
+   ],
+   [
+    "Doesn't apply to either",
+    12
+   ],
+   [
+    "Skipped",
+    1
+   ]
+  ]
+ }
+]

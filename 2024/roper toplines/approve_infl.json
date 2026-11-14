@@ -1,0 +1,1294 @@
+[
+ {
+  "archiveId": 31119330,
+  "sid": "771ee2e0-0a27-4001-aa88-bf9cc5bf302d",
+  "qid": "1b9134ba-3d65-44ad-92e2-f3c5d9e740a8",
+  "conductedBy": "Winston Group",
+  "surveyBy": "Winning the Issues",
+  "study": "Winning the Issues National Poll",
+  "start": "11/22/2021",
+  "end": "11/24/2021",
+  "key": "approve_infl",
+  "qname": "R26",
+  "text": "Overall would you say that you approve or disapprove of the job Joe Biden is doing in handling inflation?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    36
+   ],
+   [
+    "Disapprove",
+    52
+   ],
+   [
+    "Don't know",
+    12
+   ]
+  ]
+ },
+ {
+  "archiveId": 31119085,
+  "sid": "d14c387f-5a98-4284-8f4f-e4f3ca7fe374",
+  "qid": "652693da-1155-4344-8539-5e389efbf5ee",
+  "conductedBy": "Ipsos",
+  "surveyBy": "ABC News",
+  "study": "ABC News/Ipsos Poll: 2021 Wave 39",
+  "start": "12/10/2021",
+  "end": "12/11/2021",
+  "key": "approve_infl",
+  "qname": "R10",
+  "text": "Do you approve or disapprove of the way Joe Biden is handling...inflation? ",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    28
+   ],
+   [
+    "Disapprove",
+    69
+   ],
+   [
+    "Skipped",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31119334,
+  "sid": "a1379bc3-3d6e-4b60-bf3a-d646d3b97d14",
+  "qid": "263dcd3a-53cb-4353-828f-7fb12c56d6b0",
+  "conductedBy": "Winston Group",
+  "surveyBy": "Winning the Issues",
+  "study": "Winning the Issues National Survey",
+  "start": "01/02/2022",
+  "end": "01/04/2022",
+  "key": "approve_infl",
+  "qname": "R22",
+  "text": "Overall would you say that you approve or disapprove of the job Joe Biden is doing in handling inflation?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    37
+   ],
+   [
+    "Disapprove",
+    51
+   ],
+   [
+    "Don't know",
+    12
+   ]
+  ]
+ },
+ {
+  "archiveId": 31119302,
+  "sid": "06f57e8b-cbf7-452c-87f1-ea709ec0d808",
+  "qid": "cb14e8b2-6d93-420e-af19-aff2124a94c9",
+  "conductedBy": "Ipsos",
+  "surveyBy": "ABC News",
+  "study": "ABC News/Ipsos Poll: 2021 Wave 41",
+  "start": "01/28/2022",
+  "end": "01/29/2022",
+  "key": "approve_infl",
+  "qname": "R09",
+  "text": "Do you approve or disapprove of the way Joe Biden is handling...inflation?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    29
+   ],
+   [
+    "Disapprove",
+    69
+   ],
+   [
+    "Skipped",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31119394,
+  "sid": "7a6b164e-3987-42ed-bddc-6789ce19a2b4",
+  "qid": "b3a72892-de1d-4484-ae76-4cf161f55f68",
+  "conductedBy": "Ipsos",
+  "surveyBy": "ABC News",
+  "study": "ABC News/Ipsos Poll: 2022 Wave 42",
+  "start": "03/11/2022",
+  "end": "03/12/2022",
+  "key": "approve_infl",
+  "qname": "R07",
+  "text": "Do you approve or disapprove of the way Joe Biden is handling...inflation?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    29
+   ],
+   [
+    "Disapprove",
+    70
+   ],
+   [
+    "Skipped",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31119449,
+  "sid": "115dbf3b-5bb9-4d74-98ad-a873d7518ddf",
+  "qid": "cc2e4b0e-8534-4985-9b71-ab840f32e567",
+  "conductedBy": "Beacon Research/Shaw & Co. Research",
+  "surveyBy": "Fox News",
+  "study": "Fox News Poll 153",
+  "start": "03/18/2022",
+  "end": "03/21/2022",
+  "key": "approve_infl",
+  "qname": "R07",
+  "text": "(Do you approve or disapprove of the way Joe Biden is handling the following issues?)...Inflation",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    31
+   ],
+   [
+    "Disapprove",
+    66
+   ],
+   [
+    "Don't know",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31119491,
+  "sid": "be4132fa-d60c-42fe-8366-0f9f9915f6e4",
+  "qid": "80810fca-a388-4f79-8e56-bee9c39a54a8",
+  "conductedBy": "Ipsos",
+  "surveyBy": "ABC News",
+  "study": "ABC News/Ipsos Poll: 2022 Wave 43",
+  "start": "04/08/2022",
+  "end": "04/09/2022",
+  "key": "approve_infl",
+  "qname": "R07",
+  "text": "Do you approve or disapprove of the way Joe Biden is handling...inflation?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    29
+   ],
+   [
+    "Disapprove",
+    69
+   ],
+   [
+    "Skipped",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31119558,
+  "sid": "970ed774-46a5-47e0-80bf-e8a8dc09dd2b",
+  "qid": "a3d45c24-db98-474c-832e-def01bbe8123",
+  "conductedBy": "Langer Research Associates",
+  "surveyBy": "ABC News/Washington Post",
+  "study": "ABC News/Washington Post Poll: Ukraine/Abortion/Party Leadership",
+  "start": "04/24/2022",
+  "end": "04/28/2022",
+  "key": "approve_infl",
+  "qname": "R05",
+  "text": "Do you approve or disapprove of the way (Joe) Biden is handling...inflation, that is, rising prices?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    28
+   ],
+   [
+    "Disapprove",
+    68
+   ],
+   [
+    "No opinion",
+    4
+   ]
+  ]
+ },
+ {
+  "archiveId": 31119563,
+  "sid": "83d5567d-f23a-4d88-bf38-05e3d1a6934b",
+  "qid": "dca9d882-a2a0-43aa-8a2f-3239111c6e98",
+  "conductedBy": "Beacon Research/Shaw & Co. Research",
+  "surveyBy": "Fox News",
+  "study": "Fox News Poll 154",
+  "start": "04/28/2022",
+  "end": "05/01/2022",
+  "key": "approve_infl",
+  "qname": "R09",
+  "text": "(Do you approve or disapprove of the way Joe Biden is handling the following issues?)..Inflation",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    28
+   ],
+   [
+    "Disapprove",
+    67
+   ],
+   [
+    "Don't know",
+    5
+   ]
+  ]
+ },
+ {
+  "archiveId": 31119618,
+  "sid": "a3830b10-7169-4528-9887-2af0593e99dc",
+  "qid": "0644bb16-0e3e-4e4e-8610-be3053c4822b",
+  "conductedBy": "Ipsos",
+  "surveyBy": "ABC News",
+  "study": "ABC News/Ipsos Poll: 2022 Wave 44",
+  "start": "06/03/2022",
+  "end": "06/04/2022",
+  "key": "approve_infl",
+  "qname": "R07",
+  "text": "Do you approve or disapprove of the way Joe Biden is handling...inflation?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    28
+   ],
+   [
+    "Disapprove",
+    71
+   ],
+   [
+    "Skipped",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31119641,
+  "sid": "b1735e69-21a0-4c03-95bb-20dfd9082b00",
+  "qid": "c541600c-5e7d-45f8-a990-ed0d70c38ada",
+  "conductedBy": "Beacon Research/Shaw & Co. Research",
+  "surveyBy": "Fox News",
+  "study": "Fox News Poll 155",
+  "start": "06/10/2022",
+  "end": "06/13/2022",
+  "key": "approve_infl",
+  "qname": "R06",
+  "text": "(Do you approve or disapprove of the job Joe Biden is handling the following issues?)...Inflation",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    23
+   ],
+   [
+    "Disapprove",
+    71
+   ],
+   [
+    "Don't know",
+    6
+   ]
+  ]
+ },
+ {
+  "archiveId": 31119720,
+  "sid": "d1b4c2aa-2f26-48f4-ac4d-1156b4f0a021",
+  "qid": "1d508ea9-9541-4204-a1c4-c4457303e3ca",
+  "conductedBy": "SSRS",
+  "surveyBy": "CNN",
+  "study": "CNN Poll: Outlook on America Poll July 2022",
+  "start": "06/13/2022",
+  "end": "07/13/2022",
+  "key": "approve_infl",
+  "qname": "R06",
+  "text": "Do you approve or disapprove of the way Joe Biden is handling...inflation?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    25
+   ],
+   [
+    "Disapprove",
+    74
+   ],
+   [
+    "No opinion",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31119719,
+  "sid": "9ee16d85-74bf-4c21-8620-d5278380bd4a",
+  "qid": "853c6760-12f3-4b77-a2a5-3ed9ebf4d550",
+  "conductedBy": "Beacon Research/Shaw & Co. Research",
+  "surveyBy": "Fox News",
+  "study": "Fox News Poll: Economy/Energy/Immigration",
+  "start": "07/10/2022",
+  "end": "07/13/2022",
+  "key": "approve_infl",
+  "qname": "R07",
+  "text": "(Do you approve or disapprove of the way Joe Biden is handling the following issues?)...Inflation",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    25
+   ],
+   [
+    "Disapprove",
+    73
+   ],
+   [
+    "Don't know",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31119778,
+  "sid": "29492b20-079a-4adf-afcd-b6799c0f8752",
+  "qid": "8993fb79-5eba-47b4-b6c2-0d29d2db4683",
+  "conductedBy": "Ipsos",
+  "surveyBy": "ABC News",
+  "study": "ABC News/Ipsos Poll",
+  "start": "08/05/2022",
+  "end": "08/06/2022",
+  "key": "approve_infl",
+  "qname": "R07",
+  "text": "Do you approve or disapprove of the way Joe Biden is handling...inflation?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    29
+   ],
+   [
+    "Disapprove",
+    69
+   ],
+   [
+    "Skipped",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31119793,
+  "sid": "ad62d59f-8f0a-4e2e-8837-a767e0fd0906",
+  "qid": "644fae77-95e4-4990-a05f-daffc8cbbe08",
+  "conductedBy": "Beacon Research/Shaw & Co. Research",
+  "surveyBy": "Fox News",
+  "study": "Fox News Poll: Economy/Energy/Border Security",
+  "start": "08/06/2022",
+  "end": "08/09/2022",
+  "key": "approve_infl",
+  "qname": "R08",
+  "text": "(Do you approve or disapprove of the job Joe Biden is handling the following issues?)...Inflation",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    27
+   ],
+   [
+    "Disapprove",
+    71
+   ],
+   [
+    "Don't know",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31119949,
+  "sid": "d5fe3fd4-362e-4927-85a5-e584abbc2c2a",
+  "qid": "693c8798-5972-4961-a6db-7738a6f5bebb",
+  "conductedBy": "SSRS",
+  "surveyBy": "CNN",
+  "study": "CNN Poll: Outlook on America Poll October 2022",
+  "start": "09/03/2022",
+  "end": "10/05/2022",
+  "key": "approve_infl",
+  "qname": "R09",
+  "text": "Do you approve or disapprove the way Joe Biden is handling...inflation?",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Approve",
+    32
+   ],
+   [
+    "Disapprove",
+    68
+   ],
+   [
+    "No opinion",
+    1e-07
+   ]
+  ]
+ },
+ {
+  "archiveId": 31119856,
+  "sid": "b3a47e19-66f5-455f-a5e4-7ea905ac65ad",
+  "qid": "e2401b86-38a5-4851-a153-35746ba62f87",
+  "conductedBy": "Beacon Research/Shaw & Co. Research",
+  "surveyBy": "Fox News",
+  "study": "Fox News Poll 158",
+  "start": "09/09/2022",
+  "end": "09/12/2022",
+  "key": "approve_infl",
+  "qname": "R07",
+  "text": "(Do you approve or disapprove of the way Joe Biden is handling the following issues?)...Inflation",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    29
+   ],
+   [
+    "Disapprove",
+    65
+   ],
+   [
+    "Don't know",
+    5
+   ]
+  ]
+ },
+ {
+  "archiveId": 31119880,
+  "sid": "1577268e-c3b2-403d-852f-c3289631988e",
+  "qid": "7271dd26-2395-4bec-ba6d-0a76fdabd371",
+  "conductedBy": null,
+  "surveyBy": "Monmouth University Polling Institute",
+  "study": "Monmouth University Poll",
+  "start": "09/21/2022",
+  "end": "09/25/2022",
+  "key": "approve_infl",
+  "qname": "R27",
+  "text": "(Do you approve or disapprove of how Joe Biden has handled the following policy areas?)...Inflation",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    30
+   ],
+   [
+    "Disapprove",
+    66
+   ],
+   [
+    "Don't know",
+    4
+   ]
+  ]
+ },
+ {
+  "archiveId": 31119955,
+  "sid": "c3b8f2a0-38b0-4c05-a92c-405fa49c4331",
+  "qid": "d3302088-1428-4ba9-8d2f-668c9babbcc4",
+  "conductedBy": "Beacon Research/Shaw & Co. Research",
+  "surveyBy": "Fox News",
+  "study": "Fox News Poll 159",
+  "start": "10/09/2022",
+  "end": "10/12/2022",
+  "key": "approve_infl",
+  "qname": "R09",
+  "text": "(Do you approve or disapprove of the way Joe Biden is handling the following issues?)...Inflation",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    29
+   ],
+   [
+    "Disapprove",
+    67
+   ],
+   [
+    "Don't know",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120034,
+  "sid": "4c89195b-8f4c-4ccd-8c05-23ffae160ab2",
+  "qid": "a3833819-ff5c-4ec3-b0ed-fc12d490aac3",
+  "conductedBy": "SSRS",
+  "surveyBy": "CNN",
+  "study": "CNN Poll: Quick Turn Probability Panel Poll December 2022",
+  "start": "12/01/2022",
+  "end": "12/07/2022",
+  "key": "approve_infl",
+  "qname": "R08",
+  "text": "Do you approve or disapprove of the way Joe Biden is handling...inflation?",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Approve",
+    33
+   ],
+   [
+    "Disapprove",
+    66
+   ],
+   [
+    "No opinion",
+    1e-07
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120044,
+  "sid": "ba561438-93e7-4b2f-bf41-5e3522891c1a",
+  "qid": "82dd2016-a0a8-4dbc-9f19-037a509e76f9",
+  "conductedBy": "Beacon Research/Shaw & Co. Research",
+  "surveyBy": "Fox News",
+  "study": "Fox News Poll 160",
+  "start": "12/09/2022",
+  "end": "12/12/2022",
+  "key": "approve_infl",
+  "qname": "R08",
+  "text": "(Do you approve or disapprove of the way Joe Biden is handling the following issues?)...Inflation",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    30
+   ],
+   [
+    "Disapprove",
+    67
+   ],
+   [
+    "Don't know",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120127,
+  "sid": "c1fa6877-babe-4d47-9e7a-81f20c6da962",
+  "qid": "4371221f-2291-40b0-8c9e-0dc5e408413a",
+  "conductedBy": null,
+  "surveyBy": "Ipsos",
+  "study": "Ipsos Core Political Survey",
+  "start": "01/13/2023",
+  "end": "01/15/2023",
+  "key": "approve_infl",
+  "qname": "R13",
+  "text": "(Do you approve or disapprove of the way Joe Biden is handling the following issues?)...Inflation/Rising prices",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    28
+   ],
+   [
+    "Disapprove",
+    72
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120091,
+  "sid": "29623ec4-fac1-4183-b1f6-698d7d5dbfc6",
+  "qid": "90f6756a-dc52-40a2-b8b3-4c312334b79b",
+  "conductedBy": "Ipsos",
+  "surveyBy": "ABC News",
+  "study": "ABC News/Ipsos Poll: January 2023",
+  "start": "01/20/2023",
+  "end": "01/21/2023",
+  "key": "approve_infl",
+  "qname": "R05",
+  "text": "Do you approve or disapprove of the way Joe Biden is handling...inflation?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    31
+   ],
+   [
+    "Disapprove",
+    67
+   ],
+   [
+    "Skipped",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120112,
+  "sid": "15875ec7-5df3-4789-afc5-fffa14d683bb",
+  "qid": "3250df25-aac0-407b-b4a2-3bd18f7a6eaf",
+  "conductedBy": "Beacon Research/Shaw & Co. Research",
+  "surveyBy": "Fox News",
+  "study": "Fox News Poll",
+  "start": "01/27/2023",
+  "end": "01/30/2023",
+  "key": "approve_infl",
+  "qname": "R06",
+  "text": "(Do you approve or disapprove of the way Joe Biden is handling the following issues?)...Inflation",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    31
+   ],
+   [
+    "Disapprove",
+    66
+   ],
+   [
+    "Don't know",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120128,
+  "sid": "81d42479-d0e7-4193-a210-4f99d27d937e",
+  "qid": "845b55f6-be6e-47b7-b9ec-50ad20244231",
+  "conductedBy": "Ipsos",
+  "surveyBy": "Reuters",
+  "study": "Reuters/Ipsos Core Political Survey",
+  "start": "02/03/2023",
+  "end": "02/05/2023",
+  "key": "approve_infl",
+  "qname": "R13",
+  "text": "(Do you approve or disapprove of the way Joe Biden is handling the following issues?)...Inflation/rising prices",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Strongly/Somewhat approve",
+    28
+   ],
+   [
+    "Strongly/Somewhat disapprove",
+    60
+   ],
+   [
+    "Don't know/Refused",
+    12
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120139,
+  "sid": "be468559-d334-43af-9656-3e79d90e407f",
+  "qid": "08ea454b-758e-477b-a7cd-b3e6f1a37adf",
+  "conductedBy": "Beacon Research/Shaw & Co. Research",
+  "surveyBy": "Fox News",
+  "study": "Fox News Poll",
+  "start": "02/19/2023",
+  "end": "02/22/2023",
+  "key": "approve_infl",
+  "qname": "R09",
+  "text": "(Do you approve or disapprove of the way Joe Biden is handling the following issues?)...Inflation",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    31
+   ],
+   [
+    "Disapprove",
+    66
+   ],
+   [
+    "Don't know",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120156,
+  "sid": "0e0d6e1d-784c-4ab6-a6da-f075f8cac64b",
+  "qid": "d2339a6a-8a02-459a-a5d3-57facf711e79",
+  "conductedBy": "Ipsos",
+  "surveyBy": "Reuters",
+  "study": "Reuters/Ipsos Core Political Survey",
+  "start": "03/03/2023",
+  "end": "03/05/2023",
+  "key": "approve_infl",
+  "qname": "R15",
+  "text": "(Do you approve or disapprove of the way Joe Biden is handling the following issues?)...Inflation/rising prices",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    28
+   ],
+   [
+    "Disapprove",
+    60
+   ],
+   [
+    "Don't know/Refused",
+    12
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120239,
+  "sid": "4385abaf-3087-4193-b085-3c131d570403",
+  "qid": "b7d4bd46-18a3-4d3f-8d43-3c5118d3010a",
+  "conductedBy": "Ipsos",
+  "surveyBy": "Reuters",
+  "study": "Reuters/Ipsos Core Political Survey",
+  "start": "04/14/2023",
+  "end": "04/16/2023",
+  "key": "approve_infl",
+  "qname": "R12",
+  "text": "(Do you approve or disapprove of the way Joe Biden is handling the following issues?)...Inflation/rising prices ",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    27
+   ],
+   [
+    "Disapprove",
+    61
+   ],
+   [
+    "Don't know/Refused",
+    12
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120273,
+  "sid": "709bf6b5-2e96-4ca3-937f-fa5203963a9b",
+  "qid": "ef9bab38-6976-4f58-a2f0-f8fcf54691fe",
+  "conductedBy": "Ipsos",
+  "surveyBy": "Reuters",
+  "study": "Reuters/Ipsos Core Political Survey",
+  "start": "05/05/2023",
+  "end": "05/07/2023",
+  "key": "approve_infl",
+  "qname": "R13",
+  "text": "(Do you approve or disapprove of the way Joe Biden is handling the following issues?)...Inflation/Rising prices",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    27
+   ],
+   [
+    "Disapprove",
+    64
+   ],
+   [
+    "Don't know/Refused",
+    9
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120314,
+  "sid": "b2601730-d28c-40ca-bf62-db4ac8f1314e",
+  "qid": "da4e0668-23fb-4e1c-b001-268d8c26b275",
+  "conductedBy": "Ipsos",
+  "surveyBy": "Reuters",
+  "study": "Reuters/Ipsos Core Political Survey",
+  "start": "06/02/2023",
+  "end": "06/05/2023",
+  "key": "approve_infl",
+  "qname": "R15",
+  "text": "(Do you approve or disapprove of the way Joe Biden is handling the following issues?)...Inflation/rising prices",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    25
+   ],
+   [
+    "Disapprove",
+    64
+   ],
+   [
+    "Don't know/Refused",
+    11
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120466,
+  "sid": "e2cd2ec6-ce3d-4e05-badd-75a7539b4d57",
+  "qid": "a345ef31-365d-4e78-b75d-e1e60dd14af4",
+  "conductedBy": "SSRS",
+  "surveyBy": "CNN",
+  "study": "CNN Poll",
+  "start": "07/01/2023",
+  "end": "07/31/2023",
+  "key": "approve_infl",
+  "qname": "R05",
+  "text": "Do you approve or disapprove of the way Joe Biden is handling...inflation?",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Approve",
+    30
+   ],
+   [
+    "Disapprove",
+    70
+   ],
+   [
+    "No opinion",
+    1e-07
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120414,
+  "sid": "abb3ac98-3535-4702-ad6e-6367bd70e30c",
+  "qid": "37a29d3b-9f39-44ed-b60c-10873b1e7b95",
+  "conductedBy": "Ipsos",
+  "surveyBy": "Reuters",
+  "study": "Reuters/Ipsos Core Political Survey",
+  "start": "07/07/2023",
+  "end": "07/09/2023",
+  "key": "approve_infl",
+  "qname": "R14",
+  "text": "(Do you approve or disapprove of the way Joe Biden is handling the following issues?)...Inflation/rising prices",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    28
+   ],
+   [
+    "Disapprove",
+    62
+   ],
+   [
+    "Don't know/Refused",
+    10
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120492,
+  "sid": "3ac352c3-e517-440b-9439-5573bc03638c",
+  "qid": "0629e473-1d50-4d4f-86ca-8f52a3e2ff56",
+  "conductedBy": "Ipsos",
+  "surveyBy": "Reuters",
+  "study": "Reuters/Ipsos Core Political Survey",
+  "start": "08/04/2023",
+  "end": "08/06/2023",
+  "key": "approve_infl",
+  "qname": "R11",
+  "text": "(Do you approve or disapprove of the way Joe Biden is handling the following issues?)...Inflation/rising prices",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    29
+   ],
+   [
+    "Disapprove",
+    60
+   ],
+   [
+    "Don't know/Refused",
+    11
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120496,
+  "sid": "63790575-408f-4f6b-be99-89942214cf96",
+  "qid": "7f792814-fded-47fb-9d8c-cfd77687f7a5",
+  "conductedBy": "Beacon Research/Shaw & Co. Research",
+  "surveyBy": "Fox News",
+  "study": "Fox News Poll",
+  "start": "08/11/2023",
+  "end": "08/14/2023",
+  "key": "approve_infl",
+  "qname": "R08",
+  "text": "(Do you approve or disapprove of the way Joe Biden is handling the following issues?)...Inflation",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    31
+   ],
+   [
+    "Disapprove",
+    67
+   ],
+   [
+    "Don't know",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120540,
+  "sid": "918b9fa2-d9c5-464a-aed1-6dd4d8856822",
+  "qid": "466d1877-05ef-4d3a-94fe-5fc4db7a224b",
+  "conductedBy": "Beacon Research/Shaw & Co. Research",
+  "surveyBy": "Fox News",
+  "study": "Fox News Poll",
+  "start": "09/09/2023",
+  "end": "09/12/2023",
+  "key": "approve_infl",
+  "qname": "R06",
+  "text": "(Do you approve or disapprove of the way Joe Biden is handling the following issues?)...Inflation ",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    29
+   ],
+   [
+    "Disapprove",
+    69
+   ],
+   [
+    "Don't know",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120576,
+  "sid": "baffac74-e235-4fed-9b8b-8215f64e8664",
+  "qid": "1920f1b0-3400-4274-b13b-a35b62a0bd3c",
+  "conductedBy": "Beacon Research/Shaw & Co. Research",
+  "surveyBy": "Fox News",
+  "study": "Fox News Poll",
+  "start": "10/06/2023",
+  "end": "10/09/2023",
+  "key": "approve_infl",
+  "qname": "R04",
+  "text": "(Do you approve or disapprove of the way Joe Biden is handling the following issues?)...Inflation",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    30
+   ],
+   [
+    "Disapprove",
+    67
+   ],
+   [
+    "Don't know",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120578,
+  "sid": "b5f3651a-fa62-435c-a42f-19b8b74c75ce",
+  "qid": "72e6a001-f428-4060-983a-b115de4c4fc8",
+  "conductedBy": "Ipsos",
+  "surveyBy": "ABC News",
+  "study": "ABC News/Ipsos Poll: October 2023",
+  "start": "10/13/2023",
+  "end": "10/14/2023",
+  "key": "approve_infl",
+  "qname": "R04",
+  "text": "Do you approve or disapprove of the way Joe Biden is handling...inflation?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    29
+   ],
+   [
+    "Disapprove",
+    69
+   ],
+   [
+    "Skipped",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120791,
+  "sid": "9ce23613-4c66-4314-9085-ff8446159620",
+  "qid": "d0591ffd-e149-47c6-9c50-8b80acdf7d41",
+  "conductedBy": "AP-NORC Center for Public Affairs Research",
+  "surveyBy": "Associated Press",
+  "study": "AAPI Data/AP-NORC Center Poll",
+  "start": "12/04/2023",
+  "end": "12/11/2023",
+  "key": "approve_infl",
+  "qname": "R02",
+  "text": "Overall, do you approve or disapprove of the way Joe Biden is handling...inflation?",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Approve",
+    32
+   ],
+   [
+    "Disapprove",
+    67
+   ],
+   [
+    "Skipped/Refused",
+    1e-07
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120696,
+  "sid": "b6de334b-28e7-400b-b303-775c3e62d266",
+  "qid": "4bf341a8-311b-4c0e-a173-74beac2eff54",
+  "conductedBy": "Beacon Research/Shaw & Co. Research",
+  "surveyBy": "Fox News",
+  "study": "Fox News Poll",
+  "start": "12/10/2023",
+  "end": "12/13/2023",
+  "key": "approve_infl",
+  "qname": "R03",
+  "text": "(Do you approve or disapprove of the way Joe Biden is handling the following issues?)....Inflation",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    28
+   ],
+   [
+    "Disapprove",
+    70
+   ],
+   [
+    "Don't know",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120928,
+  "sid": "69ec23d5-06d2-4a67-8f8f-f99f35ae9117",
+  "qid": "59a5f1c3-c8df-4ca0-afc6-720575bfa77f",
+  "conductedBy": "Ipsos",
+  "surveyBy": "ABC News",
+  "study": "ABC News/Ipsos poll: State of the Union, Biden-Trump issue matchups",
+  "start": "03/08/2024",
+  "end": "03/09/2024",
+  "key": "approve_infl",
+  "qname": "R06",
+  "text": "Do you approve or disapprove of the way Joe Biden is handling...inflation?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    31
+   ],
+   [
+    "Disapprove",
+    66
+   ],
+   [
+    "Skipped",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121007,
+  "sid": "60322737-8554-4cf7-8832-b834d5c6c2f5",
+  "qid": "465ec288-e95c-4ff1-b365-8ea6fc2c055f",
+  "conductedBy": "SSRS",
+  "surveyBy": "CNN",
+  "study": "CNN Poll",
+  "start": "04/18/2024",
+  "end": "04/23/2024",
+  "key": "approve_infl",
+  "qname": "R05",
+  "text": "Do you approve or disapprove of the way Joe Biden is handling...inflation?",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Approve",
+    29
+   ],
+   [
+    "Disapprove",
+    71
+   ],
+   [
+    "No opinion",
+    1e-07
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121115,
+  "sid": "1eb5d6a8-8f01-4c30-9994-29fe0d9ad229",
+  "qid": "a1573acd-9cc3-46f4-a92d-3f689274d6db",
+  "conductedBy": "SSRS",
+  "surveyBy": "KFF",
+  "study": "KFF Arizona Survey of Women Voters",
+  "start": "05/23/2024",
+  "end": "06/05/2024",
+  "key": "approve_infl",
+  "qname": "R31",
+  "text": "(Do you approve or disapprove of the way President Joe Biden is handling each of the following?...Strongly approve, somewhat approve, somewhat disapprove, strongly disapprove)...Inflation, including the rising cost of household expenses",
+  "subpop": "Asked of Democrats including leaners (41%)   ",
+  "notes": null,
+  "responses": [
+   [
+    "Strongly approve",
+    20
+   ],
+   [
+    "Somewhat approve",
+    32
+   ],
+   [
+    "Somewhat disapprove",
+    28
+   ],
+   [
+    "Strongly disapprove",
+    20
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121113,
+  "sid": "b26f56fc-5a06-4b93-b7e5-f9c509fd1436",
+  "qid": "b1f56fd8-a0fd-4122-84c2-fd6840fe4d59",
+  "conductedBy": "SSRS",
+  "surveyBy": "KFF",
+  "study": "KFF Survey of Women Voters",
+  "start": "05/23/2024",
+  "end": "06/05/2024",
+  "key": "approve_infl",
+  "qname": "R31",
+  "text": "(Do you approve or disapprove of the way President Joe Biden is handling each of the following?...Strongly approve, somewhat approve, somewhat disapprove, strongly disapprove)...Inflation, including the rising cost of household expenses",
+  "subpop": "Asked of Democrats including leaners (47%)",
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Strongly approve",
+    15
+   ],
+   [
+    "Somewhat approve",
+    37
+   ],
+   [
+    "Somewhat disapprove",
+    27
+   ],
+   [
+    "Strongly disapprove",
+    21
+   ],
+   [
+    "No answer",
+    1e-07
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121116,
+  "sid": "0f0296e8-8d3c-4b89-bcfd-29a6d2b5505b",
+  "qid": "f80ed798-0af5-4d2e-9dde-3c9be8b8bb07",
+  "conductedBy": "SSRS",
+  "surveyBy": "KFF",
+  "study": "KFF Michigan Survey of Women Voters",
+  "start": "05/23/2024",
+  "end": "06/05/2024",
+  "key": "approve_infl",
+  "qname": "R31",
+  "text": "(Do you approve or disapprove of the way President Joe Biden is handling each of the following?...Strongly approve, somewhat approve, somewhat disapprove, strongly disapprove)...Inflation, including the rising cost of household expenses",
+  "subpop": "Asked of Democrats including leaners (44%)",
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Strongly approve",
+    17
+   ],
+   [
+    "Somewhat approve",
+    36
+   ],
+   [
+    "Somewhat disapprove",
+    26
+   ],
+   [
+    "Strongly disapprove",
+    21
+   ],
+   [
+    "No answer",
+    1e-07
+   ]
+  ]
+ }
+]

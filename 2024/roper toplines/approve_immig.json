@@ -1,0 +1,3273 @@
+[
+ {
+  "archiveId": 31118266,
+  "sid": "55ebcc9f-5aba-4a7b-af4a-e79df8795e66",
+  "qid": "e9b32f66-eeb5-482a-9c70-de373e1aa633",
+  "conductedBy": "SSRS",
+  "surveyBy": "CNN",
+  "study": "CNN Poll",
+  "start": "03/03/2021",
+  "end": "03/08/2021",
+  "key": "approve_immig",
+  "qname": "R08",
+  "text": "Do you approve or disapprove of the way Joe Biden is handling...immigration?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    43
+   ],
+   [
+    "Disapprove",
+    49
+   ],
+   [
+    "No opinion",
+    8
+   ]
+  ]
+ },
+ {
+  "archiveId": 31118322,
+  "sid": "902539dc-c39f-4d2b-b273-b97f85290138",
+  "qid": "54ceb904-910b-449e-a3ec-6fb4ab03eb09",
+  "conductedBy": "Marist College Institute for Public Opinion",
+  "surveyBy": "NPR",
+  "study": "NPR/Marist Poll: March 2021",
+  "start": "03/22/2021",
+  "end": "03/25/2021",
+  "key": "approve_immig",
+  "qname": "R05",
+  "text": "Do you approve or disapprove of how President (Joe) Biden is handling immigration?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    34
+   ],
+   [
+    "Disapprove",
+    53
+   ],
+   [
+    "Unsure",
+    14
+   ]
+  ]
+ },
+ {
+  "archiveId": 31118326,
+  "sid": "89176a29-8192-4927-9d8a-f7c151e753da",
+  "qid": "b67145e1-f109-4e41-bc0e-1aa96c80ed3e",
+  "conductedBy": null,
+  "surveyBy": "AP-NORC Center for Public Affairs Research",
+  "study": "Associated Press-NORC Survey",
+  "start": "03/25/2021",
+  "end": "03/29/2021",
+  "key": "approve_immig",
+  "qname": "R06",
+  "text": "Overall, do you approve or disapprove of the way Joe Biden is handling...immigration?",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Approve",
+    42
+   ],
+   [
+    "Disapprove",
+    56
+   ],
+   [
+    "Don't know",
+    1e-07
+   ],
+   [
+    "Skipped/Refused",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31118589,
+  "sid": "578b127a-166c-4431-bb1e-e8cda91ecc63",
+  "qid": "c4c5be6e-0a16-46a7-b591-2ecbf1e399a7",
+  "conductedBy": "Winston Group",
+  "surveyBy": "Winning the Issues",
+  "study": "Winning the Issues National Survey",
+  "start": "04/07/2021",
+  "end": "04/11/2021",
+  "key": "approve_immig",
+  "qname": "R42",
+  "text": "Overall would you say that you approve or disapprove of the job Joe Biden is doing in handling the immigration situation at the United States border with Mexico?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    34
+   ],
+   [
+    "Disapprove",
+    46
+   ],
+   [
+    "Don't know",
+    20
+   ]
+  ]
+ },
+ {
+  "archiveId": 31118381,
+  "sid": "c6e319d5-1189-48d9-8815-55c27355224e",
+  "qid": "aee8bad8-734d-4afe-bbf3-993ec8e79ca2",
+  "conductedBy": "Hart Research Associates/Public Opinion Strategies",
+  "surveyBy": "NBC News",
+  "study": "NBC News Poll",
+  "start": "04/17/2021",
+  "end": "04/20/2021",
+  "key": "approve_immig",
+  "qname": "R25",
+  "text": "(Now, for each of the following please tell me if you approve or disapprove of President (Joe) Biden’s handling of each item.)...Border security and immigration",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    33
+   ],
+   [
+    "Disapprove",
+    59
+   ],
+   [
+    "No opinion (Vol.)",
+    4
+   ],
+   [
+    "Not sure",
+    4
+   ]
+  ]
+ },
+ {
+  "archiveId": 31118379,
+  "sid": "ed6a921f-d58b-4ac4-b292-e4714a282d92",
+  "qid": "066f7719-e5de-40ca-a450-7ff5364a5788",
+  "conductedBy": "Langer Research Associates",
+  "surveyBy": "ABC News/Washington Post",
+  "study": "ABC News/Washington Post Poll: Biden/COVID-19 Vaccine/Criminal Justice System",
+  "start": "04/18/2021",
+  "end": "04/21/2021",
+  "key": "approve_immig",
+  "qname": "R04",
+  "text": "Do you approve or disapprove of the way (Joe) Biden is handling...the immigration situation at the United States-Mexico border? Do you approve/disapprove strongly or somewhat?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Strongly approve",
+    16
+   ],
+   [
+    "Somewhat approve",
+    20
+   ],
+   [
+    "Somewhat disapprove",
+    10
+   ],
+   [
+    "Strongly disapprove",
+    42
+   ],
+   [
+    "No opinion",
+    11
+   ]
+  ]
+ },
+ {
+  "archiveId": 31118382,
+  "sid": "cf68ec7b-efe0-4cac-b5ec-567b94aedf78",
+  "qid": "cfa1c24e-b004-4daa-9a8f-79b9e7d2dce8",
+  "conductedBy": "Beacon Research/Shaw & Co. Research",
+  "surveyBy": "Fox News",
+  "study": "Fox News Poll 143",
+  "start": "04/18/2021",
+  "end": "04/21/2021",
+  "key": "approve_immig",
+  "qname": "R08",
+  "text": "(Do you approve or disapprove of the way Joe Biden is handling the following issues?)...Immigration",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    34
+   ],
+   [
+    "Disapprove",
+    52
+   ],
+   [
+    "Don't know",
+    13
+   ]
+  ]
+ },
+ {
+  "archiveId": 31118385,
+  "sid": "33b58738-0f65-4708-b86d-adacc5ab3108",
+  "qid": "554ec252-e968-4a70-b90e-318d9bc685d1",
+  "conductedBy": "SSRS",
+  "surveyBy": "CNN",
+  "study": "CNN Poll",
+  "start": "04/21/2021",
+  "end": "04/26/2021",
+  "key": "approve_immig",
+  "qname": "R10",
+  "text": "Do you approve or disapprove of the way Joe Biden is handling...immigration?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    41
+   ],
+   [
+    "Disapprove",
+    53
+   ],
+   [
+    "No opinion",
+    6
+   ]
+  ]
+ },
+ {
+  "archiveId": 31118406,
+  "sid": "dda37ec5-e2db-49ab-bd90-0acca0f43c76",
+  "qid": "bd7b8323-508e-43af-ba13-70d440c46568",
+  "conductedBy": "AP-NORC Center for Public Affairs Research",
+  "surveyBy": "Associated Press",
+  "study": "Associated Press-NORC Survey",
+  "start": "04/29/2021",
+  "end": "05/03/2021",
+  "key": "approve_immig",
+  "qname": "R06",
+  "text": "Overall, do you approve or disapprove of the way Joe Biden is handling...immigration?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    43
+   ],
+   [
+    "Disapprove",
+    54
+   ],
+   [
+    "Don't know",
+    1
+   ],
+   [
+    "SKP/Ref",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31118441,
+  "sid": "0e7d0244-ccd8-4d02-943e-65129e18c280",
+  "qid": "f131df98-aff0-4efd-bcba-8c033082b08a",
+  "conductedBy": null,
+  "surveyBy": "Quinnipiac University Polling Institute",
+  "study": "Quinnipiac University Poll",
+  "start": "05/18/2021",
+  "end": "05/24/2021",
+  "key": "approve_immig",
+  "qname": "R24",
+  "text": "Do you approve or disapprove of the way Joe Biden is handling...immigration issues?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    35
+   ],
+   [
+    "Disapprove",
+    52
+   ],
+   [
+    "Don't know/No answer",
+    13
+   ]
+  ]
+ },
+ {
+  "archiveId": 31118444,
+  "sid": "654a6830-d26f-4a94-a07b-fd9b3d4452d6",
+  "qid": "8a57b9f5-e8cc-4186-a3ca-7eca6f2e5687",
+  "conductedBy": "Beacon Research/Shaw & Co. Research",
+  "surveyBy": "Fox News",
+  "study": "Fox News Poll 144",
+  "start": "05/22/2021",
+  "end": "05/25/2021",
+  "key": "approve_immig",
+  "qname": "R09",
+  "text": "(Do you approve or disapprove of the way Joe Biden is handling the following issues?)...Immigration",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    38
+   ],
+   [
+    "Disapprove",
+    57
+   ],
+   [
+    "Don't know",
+    5
+   ]
+  ]
+ },
+ {
+  "archiveId": 31118454,
+  "sid": "3bbd82af-d899-4d8b-aa04-8ada0777833f",
+  "qid": "67f5bea7-0175-4fbc-b89f-a2809a7fea69",
+  "conductedBy": "Ipsos",
+  "surveyBy": "Spectrum News",
+  "study": "Spectrum News/Ipsos Immigration Poll",
+  "start": "05/24/2021",
+  "end": "05/31/2021",
+  "key": "approve_immig",
+  "qname": "R02",
+  "text": "Overall, do you approve or disapprove of the way the following people or groups handle immigration into the United States?...Strongly approve, somewhat approve, somewhat disapprove, strongly disapprove...Joe Biden",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Strongly approve",
+    17
+   ],
+   [
+    "Somewhat approve",
+    28
+   ],
+   [
+    "Somewhat disapprove",
+    13
+   ],
+   [
+    "Strongly disapprove",
+    30
+   ],
+   [
+    "Don't know",
+    11
+   ],
+   [
+    "Skipped",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31118456,
+  "sid": "d869cff0-4929-4541-b1b1-83d7157d383c",
+  "qid": "76a9b916-e277-4a07-82e1-bfbcab96f82e",
+  "conductedBy": "Ipsos",
+  "surveyBy": "Spectrum News",
+  "study": "Spectrum News/Ipsos Texas Immigration Poll",
+  "start": "05/24/2021",
+  "end": "05/31/2021",
+  "key": "approve_immig",
+  "qname": "R03",
+  "text": "(Overall, do you approve or disapprove of the way the following people or groups handle immigration into the United States?...Strongly approve, somewhat approve, somewhat disapprove, strongly disapprove)...Joe Biden",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Strongly approve",
+    18
+   ],
+   [
+    "Somewhat approve",
+    26
+   ],
+   [
+    "Somewhat disapprove",
+    13
+   ],
+   [
+    "Strongly disapprove",
+    29
+   ],
+   [
+    "Don't know",
+    13
+   ],
+   [
+    "Skipped",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31118455,
+  "sid": "497e19a2-9a4b-45df-bb87-52d91eff1702",
+  "qid": "8856fa65-cc05-4bde-8dd8-5c4ca577f0c5",
+  "conductedBy": "Ipsos",
+  "surveyBy": "Spectrum News",
+  "study": "Spectrum News/Ipsos California Immigration Poll",
+  "start": "05/24/2021",
+  "end": "05/31/2021",
+  "key": "approve_immig",
+  "qname": "R03",
+  "text": "(Overall, do you approve or disapprove of the way the following people or groups handle immigration into the United States?...Strongly approve, somewhat approve, somewhat disapprove, strongly disapprove)...Joe Biden",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Strongly approve",
+    24
+   ],
+   [
+    "Somewhat approve",
+    32
+   ],
+   [
+    "Somewhat disapprove",
+    11
+   ],
+   [
+    "Strongly disapprove",
+    23
+   ],
+   [
+    "Don't know",
+    8
+   ],
+   [
+    "Skipped",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31118590,
+  "sid": "329ddb07-4806-46dc-8d19-bf74c13a5de1",
+  "qid": "8a5e8970-c1bb-445a-ba1f-baa250999f0f",
+  "conductedBy": "Winston Group",
+  "surveyBy": "Winning the Issues",
+  "study": "Winning the Issues National Survey",
+  "start": "06/07/2021",
+  "end": "06/10/2021",
+  "key": "approve_immig",
+  "qname": "R41",
+  "text": "Overall would you say that you approve or disapprove of the job Joe Biden is doing in handling the immigration situation at the United States border with Mexico?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    39
+   ],
+   [
+    "Disapprove",
+    45
+   ],
+   [
+    "Don't know",
+    16
+   ]
+  ]
+ },
+ {
+  "archiveId": 31118475,
+  "sid": "5b59350d-31d9-41e4-b6bc-457222a9eb2e",
+  "qid": "7a97144e-969b-434e-9bd0-e88e03738065",
+  "conductedBy": "The AP-NORC Center for Public Affairs Research",
+  "surveyBy": "AP-NORC Center",
+  "study": "The June 2021 AP-NORC Center Poll",
+  "start": "06/10/2021",
+  "end": "06/14/2021",
+  "key": "approve_immig",
+  "qname": "R05",
+  "text": "Overall, do you approve or disapprove of the way Joe Biden is handling...immigration?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    40
+   ],
+   [
+    "Disapprove",
+    59
+   ],
+   [
+    "Skipped/Refused",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31118481,
+  "sid": "2cf9b016-0041-4f99-bc65-fe28ac069c37",
+  "qid": "5a6dc32b-a140-44be-98d4-408b463f291e",
+  "conductedBy": "Beacon Research/Shaw & Co. Research",
+  "surveyBy": "Fox News",
+  "study": "Fox News Poll 145",
+  "start": "06/19/2021",
+  "end": "06/22/2021",
+  "key": "approve_immig",
+  "qname": "R05",
+  "text": "(Do you approve or disapprove of the way Joe Biden is handling the following issues?)...Immigration",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    41
+   ],
+   [
+    "Disapprove",
+    54
+   ],
+   [
+    "Don't know",
+    5
+   ]
+  ]
+ },
+ {
+  "archiveId": 31118497,
+  "sid": "62c88163-6516-4acd-85e4-680e9dc6abc1",
+  "qid": "d175beea-e6bc-48d4-a197-ab0df079767a",
+  "conductedBy": "Marist College Institute for Public Opinion",
+  "surveyBy": "PBS NewsHour/NPR",
+  "study": "NPR/PBS NewsHour/Marist Poll: June 2021 Coronavirus",
+  "start": "06/22/2021",
+  "end": "06/29/2021",
+  "key": "approve_immig",
+  "qname": "R06",
+  "text": "Do you approve or disapprove of how President (Joe) Biden is handling immigration?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    38
+   ],
+   [
+    "Disapprove",
+    49
+   ],
+   [
+    "Unsure",
+    13
+   ]
+  ]
+ },
+ {
+  "archiveId": 31118502,
+  "sid": "f44d7413-1a6f-4a9c-acf3-329907a23a04",
+  "qid": "363e06ab-79e0-495b-86be-b7e0c0f3eb7d",
+  "conductedBy": "Langer Research Associates",
+  "surveyBy": "ABC News/Washington Post",
+  "study": "ABC News/Washington Post Poll: June 2021",
+  "start": "06/27/2021",
+  "end": "06/30/2021",
+  "key": "approve_immig",
+  "qname": "R03",
+  "text": "Do you approve or disapprove of the way (Joe) Biden is handling...the immigration situation at the United States-Mexico border?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    33
+   ],
+   [
+    "Disapprove",
+    51
+   ],
+   [
+    "No opinion",
+    16
+   ]
+  ]
+ },
+ {
+  "archiveId": 31118538,
+  "sid": "a83cca66-be3c-4edb-ab62-04ae2f333e16",
+  "qid": "0ae8405b-3f5a-43ab-8eb5-9018b836a480",
+  "conductedBy": "Ipsos",
+  "surveyBy": "ABC News",
+  "study": "ABC News/Ipsos Poll: 2021 Wave 35",
+  "start": "07/23/2021",
+  "end": "07/24/2021",
+  "key": "approve_immig",
+  "qname": "R02",
+  "text": "Do you approve or disapprove of the way Joe Biden is handling...immigration and the situation at the United States-Mexico border?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    37
+   ],
+   [
+    "Disapprove",
+    61
+   ],
+   [
+    "Skipped",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31118579,
+  "sid": "674e4f88-f55d-43c6-91e8-0ec1df22ef9a",
+  "qid": "fe2bafee-6445-41d2-a7a0-ce94550f0de2",
+  "conductedBy": null,
+  "surveyBy": "Gallup Organization",
+  "study": "Gallup Poll",
+  "start": "08/02/2021",
+  "end": "08/17/2021",
+  "key": "approve_immig",
+  "qname": "R05",
+  "text": "Do you approve or disapprove of the way Joe Biden is handling...immigration?",
+  "subpop": "Asked of Form A half sample",
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    41
+   ],
+   [
+    "Disapprove",
+    57
+   ],
+   [
+    "No opinion",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31118569,
+  "sid": "8cb42a9d-d420-47fe-870f-4471230b1c9a",
+  "qid": "c79dff07-57b9-4a71-9ec9-359ba281580b",
+  "conductedBy": "Beacon Research/Shaw & Co. Research",
+  "surveyBy": "Fox News",
+  "study": "Fox News Poll: COVID/Economy/Crime",
+  "start": "08/07/2021",
+  "end": "08/10/2021",
+  "key": "approve_immig",
+  "qname": "R05",
+  "text": "(Do you approve or disapprove of the way Joe Biden is handling the following issues?)...Immigration",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    35
+   ],
+   [
+    "Disapprove",
+    57
+   ],
+   [
+    "Don't know",
+    8
+   ]
+  ]
+ },
+ {
+  "archiveId": 31118583,
+  "sid": "cb330c8a-3c0c-4d9e-b424-d4d1b3e640c1",
+  "qid": "824fcb0d-6e92-4616-ac63-d1a649e0899c",
+  "conductedBy": "Suffolk University Political Research Center",
+  "surveyBy": "USA Today",
+  "study": "Suffolk University/USA Today Poll",
+  "start": "08/19/2021",
+  "end": "08/23/2021",
+  "key": "approve_immig",
+  "qname": "R06",
+  "text": "How about President (Joe) Biden’s handling of immigration--approve or disapprove?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    25
+   ],
+   [
+    "Disapprove",
+    62
+   ],
+   [
+    "Undecided",
+    13
+   ]
+  ]
+ },
+ {
+  "archiveId": 31118582,
+  "sid": "a5b20969-371e-478b-98bf-9b069636756f",
+  "qid": "26624654-306e-4916-944c-5a9ce581143f",
+  "conductedBy": "Ipsos",
+  "surveyBy": "ABC News",
+  "study": "ABC News/Ipsos Poll: 2021 Wave 36",
+  "start": "08/27/2021",
+  "end": "08/28/2021",
+  "key": "approve_immig",
+  "qname": "R02",
+  "text": "Do you approve or disapprove of the way Joe Biden is handling...immigration and the situation at the United States-Mexico border?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    41
+   ],
+   [
+    "Disapprive",
+    56
+   ],
+   [
+    "Skipped",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31118794,
+  "sid": "3a2ab12d-33a5-4757-8c55-ce0fbbcd62f7",
+  "qid": "321e12d1-ae57-442a-bdd5-11942e6b6291",
+  "conductedBy": "Ipsos",
+  "surveyBy": "PRRI",
+  "study": "PRRI American Values Survey",
+  "start": "09/16/2021",
+  "end": "09/29/2021",
+  "key": "approve_immig",
+  "qname": "R03",
+  "text": "Do you approve or disapprove of...the job President (Joe) Biden is doing handling immigration?...Strongly approve, somewhat approve, somewhat disapprove, strongly disapprove",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Strongly approve",
+    10
+   ],
+   [
+    "Somewhat approve",
+    31
+   ],
+   [
+    "Somewhat disapprove",
+    21
+   ],
+   [
+    "Strongly disapprove",
+    37
+   ],
+   [
+    "Skipped",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31118681,
+  "sid": "ca26dff7-6c19-4bce-9c6a-dafb65318fa4",
+  "qid": "cbfaf32e-bc74-4712-ac42-737bcca6c1e0",
+  "conductedBy": "AP-NORC Center for Public Affairs Research",
+  "surveyBy": "Associated Press",
+  "study": "The Associated Press-NORC Survey",
+  "start": "09/23/2021",
+  "end": "09/27/2021",
+  "key": "approve_immig",
+  "qname": "R01",
+  "text": "Overall, do you approve or disapprove of the way Joe Biden is handling...immigration?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    35
+   ],
+   [
+    "Disapprove",
+    64
+   ],
+   [
+    "Don't know",
+    1
+   ],
+   [
+    "Skipped/Refused",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31118680,
+  "sid": "c88cafd6-3196-4351-b721-216988375605",
+  "qid": "55527daa-2f16-4a84-acd1-b0c95ebb39a0",
+  "conductedBy": "Ipsos",
+  "surveyBy": "ABC News",
+  "study": "ABC News/Ipsos Poll: 2021 Wave 37",
+  "start": "09/24/2021",
+  "end": "09/28/2021",
+  "key": "approve_immig",
+  "qname": "R02",
+  "text": "Do you approve or disapprove of the way Joe Biden is handling...immigration and the situation at the United States-Mexico border?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    33
+   ],
+   [
+    "Disapprove",
+    66
+   ],
+   [
+    "Skipped",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31118703,
+  "sid": "23320964-ce70-46fa-b396-111b22c9ee32",
+  "qid": "51308de6-5c28-4be4-bdd8-3336aa623e66",
+  "conductedBy": null,
+  "surveyBy": "Quinnipiac University Polling Institute",
+  "study": "Quinnipiac University Poll",
+  "start": "10/01/2021",
+  "end": "10/04/2021",
+  "key": "approve_immig",
+  "qname": "R07",
+  "text": "Do you approve of disapprove of the way Joe Biden is handling...immigration issues?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    25
+   ],
+   [
+    "Disapprove",
+    67
+   ],
+   [
+    "Don't know/No answer",
+    8
+   ]
+  ]
+ },
+ {
+  "archiveId": 31119318,
+  "sid": "0622ff79-7642-4017-b232-ce59dde6ac72",
+  "qid": "9e294291-64b5-4b67-9344-c6ce42816d16",
+  "conductedBy": "Winston Group",
+  "surveyBy": "Winning the Issues",
+  "study": "Winning the Issues National Survey",
+  "start": "10/08/2021",
+  "end": "10/10/2021",
+  "key": "approve_immig",
+  "qname": "R46",
+  "text": "Overall, would you say that you approve or disapprove of the job Joe Biden is doing in handling the immigration situation at the United States border with Mexico?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    33
+   ],
+   [
+    "Disapprove",
+    53
+   ],
+   [
+    "Don't know",
+    14
+   ]
+  ]
+ },
+ {
+  "archiveId": 31118751,
+  "sid": "f3cdbd89-3e71-4c1f-8753-7ac2a506a1b6",
+  "qid": "1e9aea61-44b8-4d45-80fd-87a8cf6f7bbf",
+  "conductedBy": "Selzer & Co.",
+  "surveyBy": "Grinnell College",
+  "study": "Grinnell College National Poll",
+  "start": "10/13/2021",
+  "end": "10/17/2021",
+  "key": "approve_immig",
+  "qname": "R04",
+  "text": "Do you approve or disapprove of the way Joe Biden is handling...immigration?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    27
+   ],
+   [
+    "Disapprove",
+    58
+   ],
+   [
+    "Not sure",
+    16
+   ]
+  ]
+ },
+ {
+  "archiveId": 31118754,
+  "sid": "b27e8c3a-affb-4829-8c46-5a4c5464934c",
+  "qid": "179c146a-5f7a-4548-b02e-fee6702cd1e9",
+  "conductedBy": "Beacon Research/Shaw & Co. Research",
+  "surveyBy": "Fox News",
+  "study": "Fox News Poll 148",
+  "start": "10/16/2021",
+  "end": "10/19/2021",
+  "key": "approve_immig",
+  "qname": "R10",
+  "text": "(Do you approve or disapprove of the way Joe Biden is handling the following issues?)...Immigration",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    34
+   ],
+   [
+    "Disapprove",
+    62
+   ],
+   [
+    "Don't know",
+    4
+   ]
+  ]
+ },
+ {
+  "archiveId": 31118783,
+  "sid": "13cccdd6-8fba-43fb-8552-8a5570e65f96",
+  "qid": "26e49c79-c82c-49d1-81e8-5697cbe5df9b",
+  "conductedBy": "AP-NORC Center for Public Affairs Research",
+  "surveyBy": "Associated Press",
+  "study": "Associated Press/NORC Survey",
+  "start": "10/21/2021",
+  "end": "10/25/2021",
+  "key": "approve_immig",
+  "qname": "R06",
+  "text": "Overall, do you approve or disapprove of the way Joe Biden is handling...immigration?",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Approve",
+    36
+   ],
+   [
+    "Disapprove",
+    63
+   ],
+   [
+    "Don't know",
+    1e-07
+   ],
+   [
+    "Skipped/Refused",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31118781,
+  "sid": "f0074401-1ff9-4f0e-8ea5-500de44fc599",
+  "qid": "ebf3db46-72cc-4e8c-950e-6c334273d5f4",
+  "conductedBy": "Ipsos",
+  "surveyBy": "ABC News",
+  "study": "ABC News/Ipsos Poll: 2021 Wave 38",
+  "start": "10/29/2021",
+  "end": "10/30/2021",
+  "key": "approve_immig",
+  "qname": "R02",
+  "text": "Do you approve or disapprove of the way Joe Biden is handling...immigration and the situation at the United States-Mexico border?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    31
+   ],
+   [
+    "Disapprove",
+    68
+   ],
+   [
+    "Skipped",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31119054,
+  "sid": "62715b97-6a26-4f35-b4ae-f204eb79a184",
+  "qid": "21c36f5a-8389-4ce9-a41e-7ee410d2ea0b",
+  "conductedBy": null,
+  "surveyBy": "Gallup Organization",
+  "study": "Gallup Poll",
+  "start": "11/01/2021",
+  "end": "11/16/2021",
+  "key": "approve_immig",
+  "qname": "R06",
+  "text": "Do you approve or disapprove of the way Joe Biden is handling...immigration?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    31
+   ],
+   [
+    "Disapprove",
+    66
+   ],
+   [
+    "No opinion",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31118787,
+  "sid": "67538fd8-1d95-4968-9829-5bc1a6f45750",
+  "qid": "b816d3ac-6ebd-427b-8385-549786a800a4",
+  "conductedBy": "Suffolk University Political Research Center",
+  "surveyBy": "USA Today",
+  "study": "Suffolk University/USA Today Poll",
+  "start": "11/03/2021",
+  "end": "11/05/2021",
+  "key": "approve_immig",
+  "qname": "R09",
+  "text": "How about President (Joe) Biden's handling of immigration--approve or disapprove?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    18
+   ],
+   [
+    "Disapprove",
+    67
+   ],
+   [
+    "Undecided",
+    14
+   ]
+  ]
+ },
+ {
+  "archiveId": 31118876,
+  "sid": "99d5704a-e36d-46e0-bbec-a27931144c91",
+  "qid": "c5041401-1855-4d85-9a49-4b3ebc7270db",
+  "conductedBy": "Selzer & Co.",
+  "surveyBy": "The Des Moines Register/Mediacom",
+  "study": "Des Moines Register/Mediacom Iowa Poll",
+  "start": "11/07/2021",
+  "end": "11/10/2021",
+  "key": "approve_immig",
+  "qname": "R05",
+  "text": "Do you approve or disapprove of the way Joe Biden is handling...Immigration?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    24
+   ],
+   [
+    "Disapprove",
+    66
+   ],
+   [
+    "Not sure",
+    10
+   ]
+  ]
+ },
+ {
+  "archiveId": 31119060,
+  "sid": "e07fa4f0-3341-45ad-9fb6-3e09dceceaaa",
+  "qid": "ea4a6f11-43d4-4acf-ad05-e4acac69fcc0",
+  "conductedBy": "Beacon Research/Shaw & Co. Research",
+  "surveyBy": "Fox News",
+  "study": "Fox News Poll 149",
+  "start": "11/14/2021",
+  "end": "11/17/2021",
+  "key": "approve_immig",
+  "qname": "R07",
+  "text": "(Do you approve or disapprove of the way Joe Biden is handling the following issues?)...Immigration",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    31
+   ],
+   [
+    "Disapprove",
+    59
+   ],
+   [
+    "Don't know",
+    10
+   ]
+  ]
+ },
+ {
+  "archiveId": 31119090,
+  "sid": "e6a488b6-fed4-4e1f-b698-59c8764b1957",
+  "qid": "214bb86a-6f5e-418f-8562-b0694bc26f94",
+  "conductedBy": "SSRS",
+  "surveyBy": "CNN",
+  "study": "CNN Poll",
+  "start": "12/08/2021",
+  "end": "12/12/2021",
+  "key": "approve_immig",
+  "qname": "R04",
+  "text": "Do you approve or disapprove of the way Joe Biden is handling...immigration?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    40
+   ],
+   [
+    "Disapprove",
+    59
+   ],
+   [
+    "No opinion",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31119085,
+  "sid": "d14c387f-5a98-4284-8f4f-e4f3ca7fe374",
+  "qid": "c187e1e1-a7a6-470f-bbb7-73bdc76c71fb",
+  "conductedBy": "Ipsos",
+  "surveyBy": "ABC News",
+  "study": "ABC News/Ipsos Poll: 2021 Wave 39",
+  "start": "12/10/2021",
+  "end": "12/11/2021",
+  "key": "approve_immig",
+  "qname": "R02",
+  "text": "Do you approve or disapprove of the way Joe Biden is handling...immigration? ",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    34
+   ],
+   [
+    "Disapprove",
+    63
+   ],
+   [
+    "Skipped",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31119092,
+  "sid": "0fbe1322-713b-4772-bd90-0cccac1419cd",
+  "qid": "6d054319-3de7-4cf4-87be-e60099f7de92",
+  "conductedBy": "Beacon Research/Shaw & Co. Research",
+  "surveyBy": "Fox News",
+  "study": "Fox Business Poll 150",
+  "start": "12/11/2021",
+  "end": "12/14/2021",
+  "key": "approve_immig",
+  "qname": "R07",
+  "text": "(Do you approve or disapprove of the way Joe Biden is handling the following issues?)...Immigration",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    36
+   ],
+   [
+    "Disapprove",
+    59
+   ],
+   [
+    "Don't know",
+    5
+   ]
+  ]
+ },
+ {
+  "archiveId": 31119277,
+  "sid": "cfe6ec37-d70e-48cf-a6dc-a2d7c3b0ee24",
+  "qid": "f7fcefb0-557f-4697-bca4-85bb0ac6699c",
+  "conductedBy": "AP-NORC Center for Public Affairs Research",
+  "surveyBy": "Associated Press",
+  "study": "Associated Press-NORC Survey",
+  "start": "01/13/2022",
+  "end": "01/18/2022",
+  "key": "approve_immig",
+  "qname": "R08",
+  "text": "Overall, do you approve or disapprove of the way Joe Biden is handling...immigration?",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Approve",
+    39
+   ],
+   [
+    "Disapprove",
+    59
+   ],
+   [
+    "Don't know",
+    1e-07
+   ],
+   [
+    "Skipped/Refused",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31119302,
+  "sid": "06f57e8b-cbf7-452c-87f1-ea709ec0d808",
+  "qid": "c7451305-ca4d-4bf0-b3f4-dda4de7b3820",
+  "conductedBy": "Ipsos",
+  "surveyBy": "ABC News",
+  "study": "ABC News/Ipsos Poll: 2021 Wave 41",
+  "start": "01/28/2022",
+  "end": "01/29/2022",
+  "key": "approve_immig",
+  "qname": "R02",
+  "text": "Do you approve or disapprove of the way Joe Biden is handling...immigration?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    34
+   ],
+   [
+    "Disapprove",
+    64
+   ],
+   [
+    "Skipped",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31119360,
+  "sid": "c533d6af-0f55-4250-9b43-2c36569807b8",
+  "qid": "691fb060-2856-4308-b7a9-df24d5529f98",
+  "conductedBy": "Beacon Research/Shaw & Co. Research",
+  "surveyBy": "Fox News",
+  "study": "Fox News Poll 152",
+  "start": "02/19/2022",
+  "end": "02/22/2022",
+  "key": "approve_immig",
+  "qname": "R08",
+  "text": "(Do you approve or disapprove of the way Joe Biden is handling the following issues?)...Immigration",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    34
+   ],
+   [
+    "Disapprove",
+    62
+   ],
+   [
+    "Don't know",
+    4
+   ]
+  ]
+ },
+ {
+  "archiveId": 31119394,
+  "sid": "7a6b164e-3987-42ed-bddc-6789ce19a2b4",
+  "qid": "8ef273fe-7db6-4c9c-ba9b-6ba4d47ebd29",
+  "conductedBy": "Ipsos",
+  "surveyBy": "ABC News",
+  "study": "ABC News/Ipsos Poll: 2022 Wave 42",
+  "start": "03/11/2022",
+  "end": "03/12/2022",
+  "key": "approve_immig",
+  "qname": "R02",
+  "text": "Do you approve or disapprove of the way Joe Biden is handling...immigration?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    39
+   ],
+   [
+    "Disapprove",
+    59
+   ],
+   [
+    "Skipped",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31119491,
+  "sid": "be4132fa-d60c-42fe-8366-0f9f9915f6e4",
+  "qid": "ee371de4-eb07-431d-a36e-03458dd05692",
+  "conductedBy": "Ipsos",
+  "surveyBy": "ABC News",
+  "study": "ABC News/Ipsos Poll: 2022 Wave 43",
+  "start": "04/08/2022",
+  "end": "04/09/2022",
+  "key": "approve_immig",
+  "qname": "R02",
+  "text": "Do you approve or disapprove of the way Joe Biden is handling...immigration?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    37
+   ],
+   [
+    "Disapprove",
+    60
+   ],
+   [
+    "Skipped",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31119563,
+  "sid": "83d5567d-f23a-4d88-bf38-05e3d1a6934b",
+  "qid": "aa1e0c88-1a27-4151-9d49-0c7adc30aeca",
+  "conductedBy": "Beacon Research/Shaw & Co. Research",
+  "surveyBy": "Fox News",
+  "study": "Fox News Poll 154",
+  "start": "04/28/2022",
+  "end": "05/01/2022",
+  "key": "approve_immig",
+  "qname": "R08",
+  "text": "(Do you approve or disapprove of the way Joe Biden is handling the following issues?)...Immigration",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    32
+   ],
+   [
+    "Disapprove",
+    61
+   ],
+   [
+    "Don't know",
+    7
+   ]
+  ]
+ },
+ {
+  "archiveId": 31119565,
+  "sid": "79b18980-bbaf-4778-af8c-c9f6106def15",
+  "qid": "cf6389cf-e577-4e14-8b9e-d2052ea8d688",
+  "conductedBy": "SSRS",
+  "surveyBy": "CNN",
+  "study": "CNN Poll: Quick Turnaround Probability Panel May 2022",
+  "start": "04/28/2022",
+  "end": "05/01/2022",
+  "key": "approve_immig",
+  "qname": "R03",
+  "text": "Do you approve or disapprove of the way Joe Biden is handling...immigration?",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Approve",
+    34
+   ],
+   [
+    "Disapprove",
+    66
+   ],
+   [
+    "No opinion",
+    1e-07
+   ]
+  ]
+ },
+ {
+  "archiveId": 31119576,
+  "sid": "78cf7e3c-eb9e-4e27-854f-e32ad6de9e07",
+  "qid": "c16710e2-545a-432b-987d-fa2f98629e6a",
+  "conductedBy": "Hart Research Associates/Public Opinion Strategies",
+  "surveyBy": "NBC News",
+  "study": "NBC News Poll",
+  "start": "05/05/2022",
+  "end": "05/10/2022",
+  "key": "approve_immig",
+  "qname": "R23",
+  "text": "(For the following please tell me if you approve or disapprove of President (Joe) Biden’s handling of each item.)...Border security and immigration",
+  "subpop": "Asked of full sample May 5 and Form A half sample May 6-10 (N  = 621)",
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    34
+   ],
+   [
+    "Disapprove",
+    58
+   ],
+   [
+    "No opinion (Vol.)",
+    4
+   ],
+   [
+    "Not sure",
+    4
+   ]
+  ]
+ },
+ {
+  "archiveId": 31119594,
+  "sid": "9fa05d7d-13ab-4de3-8f55-32ab5f8f708b",
+  "qid": "729683bb-7476-4eb1-80f8-d6d0e400a793",
+  "conductedBy": null,
+  "surveyBy": "AP-NORC Center for Public Affairs Research",
+  "study": "Associated Press-NORC Survey",
+  "start": "05/12/2022",
+  "end": "05/16/2022",
+  "key": "approve_immig",
+  "qname": "R06",
+  "text": "Overall, do you approve or disapprove of the way Joe Biden is handling...immigration?",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Approve",
+    38
+   ],
+   [
+    "Disapprove",
+    62
+   ],
+   [
+    "Don't know",
+    1e-07
+   ],
+   [
+    "Skipped/Refused",
+    1e-07
+   ]
+  ]
+ },
+ {
+  "archiveId": 31119618,
+  "sid": "a3830b10-7169-4528-9887-2af0593e99dc",
+  "qid": "bc2e1cc9-57b9-471c-8489-1d7763221946",
+  "conductedBy": "Ipsos",
+  "surveyBy": "ABC News",
+  "study": "ABC News/Ipsos Poll: 2022 Wave 44",
+  "start": "06/03/2022",
+  "end": "06/04/2022",
+  "key": "approve_immig",
+  "qname": "R02",
+  "text": "Do you approve or disapprove of the way Joe Biden is handling...immigration?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    37
+   ],
+   [
+    "Disapprove",
+    61
+   ],
+   [
+    "Skipped",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31119720,
+  "sid": "d1b4c2aa-2f26-48f4-ac4d-1156b4f0a021",
+  "qid": "cd2cd8bf-a577-428d-bf3c-14ebef40c10a",
+  "conductedBy": "SSRS",
+  "surveyBy": "CNN",
+  "study": "CNN Poll: Outlook on America Poll July 2022",
+  "start": "06/13/2022",
+  "end": "07/13/2022",
+  "key": "approve_immig",
+  "qname": "R04",
+  "text": "Do you approve or disapprove of the way Joe Biden is handling...immigration?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    39
+   ],
+   [
+    "Disapprove",
+    59
+   ],
+   [
+    "No opinion",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31119719,
+  "sid": "9ee16d85-74bf-4c21-8620-d5278380bd4a",
+  "qid": "e6a8e67d-1dda-4197-9bca-f3d3bdd64865",
+  "conductedBy": "Beacon Research/Shaw & Co. Research",
+  "surveyBy": "Fox News",
+  "study": "Fox News Poll: Economy/Energy/Immigration",
+  "start": "07/10/2022",
+  "end": "07/13/2022",
+  "key": "approve_immig",
+  "qname": "R05",
+  "text": "(Do you approve or disapprove of the way Joe Biden is handling the following issues?)...Immigration",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    34
+   ],
+   [
+    "Disapprove",
+    61
+   ],
+   [
+    "Don't know",
+    5
+   ]
+  ]
+ },
+ {
+  "archiveId": 31119827,
+  "sid": "ed0073d2-54bd-4d7b-baa7-e64c299d82da",
+  "qid": "bbb30f52-adf5-4567-92ca-446c0feebca5",
+  "conductedBy": null,
+  "surveyBy": "Gallup Organization",
+  "study": "Gallup Poll",
+  "start": "08/01/2022",
+  "end": "08/23/2022",
+  "key": "approve_immig",
+  "qname": "R06",
+  "text": "Do you approve or disapprove of the way Joe Biden is handling...immigration?",
+  "subpop": "Asked of half sample",
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    37
+   ],
+   [
+    "Disapprove",
+    61
+   ],
+   [
+    "No opinion",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31119778,
+  "sid": "29492b20-079a-4adf-afcd-b6799c0f8752",
+  "qid": "134fe867-c53c-4381-8f4b-5001f843c077",
+  "conductedBy": "Ipsos",
+  "surveyBy": "ABC News",
+  "study": "ABC News/Ipsos Poll",
+  "start": "08/05/2022",
+  "end": "08/06/2022",
+  "key": "approve_immig",
+  "qname": "R02",
+  "text": "Do you approve or disapprove of the way Joe Biden is handling...immigration?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    34
+   ],
+   [
+    "Disapprove",
+    64
+   ],
+   [
+    "Skipped",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31119979,
+  "sid": "3dce2a6a-5350-443c-8035-39884860d508",
+  "qid": "8964fc64-5d2d-451f-ac2b-0d10a18a080d",
+  "conductedBy": "Ipsos",
+  "surveyBy": "PRRI",
+  "study": "PRRI American Values Survey",
+  "start": "09/01/2022",
+  "end": "09/11/2022",
+  "key": "approve_immig",
+  "qname": "R11",
+  "text": "Do you approve or disapprove of...the job President (Joe) Biden is doing handling immigration?...Strongly approve, somewhat approve, somewhat disapprove, strongly disapprove ",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Strongly approve ",
+    6
+   ],
+   [
+    "Somewhat approve ",
+    31
+   ],
+   [
+    "Somewhat disapprove",
+    21
+   ],
+   [
+    "Strongly disapprove ",
+    38
+   ],
+   [
+    "Skipped/Refused",
+    4
+   ]
+  ]
+ },
+ {
+  "archiveId": 31119949,
+  "sid": "d5fe3fd4-362e-4927-85a5-e584abbc2c2a",
+  "qid": "e94415ea-4b57-446b-9b4c-abbf89303594",
+  "conductedBy": "SSRS",
+  "surveyBy": "CNN",
+  "study": "CNN Poll: Outlook on America Poll October 2022",
+  "start": "09/03/2022",
+  "end": "10/05/2022",
+  "key": "approve_immig",
+  "qname": "R04",
+  "text": "Do you approve or disapprove the way Joe Biden is handling...immigration?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    38
+   ],
+   [
+    "Disapprove",
+    61
+   ],
+   [
+    "No opinion",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31119856,
+  "sid": "b3a47e19-66f5-455f-a5e4-7ea905ac65ad",
+  "qid": "01741663-156a-40ac-9c63-df24c323d2c3",
+  "conductedBy": "Beacon Research/Shaw & Co. Research",
+  "surveyBy": "Fox News",
+  "study": "Fox News Poll 158",
+  "start": "09/09/2022",
+  "end": "09/12/2022",
+  "key": "approve_immig",
+  "qname": "R06",
+  "text": "(Do you approve or disapprove of the way Joe Biden is handling the following issues?)...Immigration",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    32
+   ],
+   [
+    "Disapprove",
+    60
+   ],
+   [
+    "Don't know",
+    8
+   ]
+  ]
+ },
+ {
+  "archiveId": 31119860,
+  "sid": "abcc0eee-640a-464c-856c-91d1fb86e5f9",
+  "qid": "0a8d8ce2-d876-467d-9619-ead4897ad960",
+  "conductedBy": "Hart Research Associates/Public Opinion Strategies",
+  "surveyBy": "NBC News",
+  "study": "NBC News Poll",
+  "start": "09/09/2022",
+  "end": "09/13/2022",
+  "key": "approve_immig",
+  "qname": "R06",
+  "text": "(Please tell me if you approve or disapprove of President (Joe) Biden's handling of each of the following.)...Border security and immigration",
+  "subpop": "Asked of Form A half sample",
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    36
+   ],
+   [
+    "Disapprove",
+    54
+   ],
+   [
+    "No opinion (Vol.)",
+    4
+   ],
+   [
+    "Not sure",
+    6
+   ]
+  ]
+ },
+ {
+  "archiveId": 31119909,
+  "sid": "88fa1bee-a4c5-4a85-b490-403eb7279b5e",
+  "qid": "05e14e59-3785-4d3a-b024-812dd99b5fd9",
+  "conductedBy": "Hart Research Associates/Public Opinion Strategies",
+  "surveyBy": "NBC News/Telemundo",
+  "study": "NBC News/Telemundo Survey",
+  "start": "09/17/2022",
+  "end": "09/26/2022",
+  "key": "approve_immig",
+  "qname": "R08",
+  "text": "(Please tell me whether you approve or disapprove of President (Joe) Biden’s handling of each of the following.)...Border security and immigration",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    42
+   ],
+   [
+    "Disapprove",
+    51
+   ],
+   [
+    "No opinion (Vol.)",
+    4
+   ],
+   [
+    "Not sure",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31119880,
+  "sid": "1577268e-c3b2-403d-852f-c3289631988e",
+  "qid": "58aa2d3d-eb79-4049-9346-391cc8e5070b",
+  "conductedBy": null,
+  "surveyBy": "Monmouth University Polling Institute",
+  "study": "Monmouth University Poll",
+  "start": "09/21/2022",
+  "end": "09/25/2022",
+  "key": "approve_immig",
+  "qname": "R26",
+  "text": "(Do you approve or disapprove of how Joe Biden has handled the following policy areas?)...Immigration",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    31
+   ],
+   [
+    "Disapprove",
+    63
+   ],
+   [
+    "Don't know",
+    6
+   ]
+  ]
+ },
+ {
+  "archiveId": 31119953,
+  "sid": "a834dea4-b36a-4907-895e-b7468791d0f7",
+  "qid": "a086a34e-ce38-4b83-a153-d7acf108e0a5",
+  "conductedBy": "AmeriSpeak by NORC",
+  "surveyBy": "The Associated Press-NORC Center for Public Affairs Research",
+  "study": "Associated Press-NORC Survey",
+  "start": "10/06/2022",
+  "end": "10/10/2022",
+  "key": "approve_immig",
+  "qname": "R05",
+  "text": "Overall, do you approve or disapprove of the way Joe Biden is handling...immigration?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    39
+   ],
+   [
+    "Disapprove",
+    59
+   ],
+   [
+    "Don't know",
+    1
+   ],
+   [
+    "Skipped/Refused",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120034,
+  "sid": "4c89195b-8f4c-4ccd-8c05-23ffae160ab2",
+  "qid": "a199a5d4-c880-497a-83d5-c23e76ce8d92",
+  "conductedBy": "SSRS",
+  "surveyBy": "CNN",
+  "study": "CNN Poll: Quick Turn Probability Panel Poll December 2022",
+  "start": "12/01/2022",
+  "end": "12/07/2022",
+  "key": "approve_immig",
+  "qname": "R04",
+  "text": "Do you approve or disapprove of the way Joe Biden is handling...immigration?",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Approve",
+    38
+   ],
+   [
+    "Disapprove",
+    61
+   ],
+   [
+    "No opinion",
+    1e-07
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120044,
+  "sid": "ba561438-93e7-4b2f-bf41-5e3522891c1a",
+  "qid": "bb85af1e-1ab9-415f-a59e-229f851cc875",
+  "conductedBy": "Beacon Research/Shaw & Co. Research",
+  "surveyBy": "Fox News",
+  "study": "Fox News Poll 160",
+  "start": "12/09/2022",
+  "end": "12/12/2022",
+  "key": "approve_immig",
+  "qname": "R06",
+  "text": "(Do you approve or disapprove of the way Joe Biden is handling the following issues?)...Immigration",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    35
+   ],
+   [
+    "Disapprove",
+    61
+   ],
+   [
+    "Don't know",
+    4
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120084,
+  "sid": "4eb08d28-3371-4234-94f1-3e0dcbb5ca46",
+  "qid": "8108aa72-7c76-4b21-a092-8b4c508bf98d",
+  "conductedBy": null,
+  "surveyBy": "Quinnipiac University Polling Institute",
+  "study": "Quinnipiac University Poll",
+  "start": "01/11/2023",
+  "end": "01/16/2023",
+  "key": "approve_immig",
+  "qname": "R14",
+  "text": "Do you approve or disapprove of the way Joe Biden is handling...Immigration issues?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    22
+   ],
+   [
+    "Disapprove",
+    65
+   ],
+   [
+    "Don't know/No answer",
+    12
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120127,
+  "sid": "c1fa6877-babe-4d47-9e7a-81f20c6da962",
+  "qid": "526d39b8-e548-4be4-b584-89dd1511350a",
+  "conductedBy": null,
+  "surveyBy": "Ipsos",
+  "study": "Ipsos Core Political Survey",
+  "start": "01/13/2023",
+  "end": "01/15/2023",
+  "key": "approve_immig",
+  "qname": "R14",
+  "text": "(Do you approve or disapprove of the way Joe Biden is handling the following issues?)...Immigration",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    27
+   ],
+   [
+    "Disapprove",
+    73
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120091,
+  "sid": "29623ec4-fac1-4183-b1f6-698d7d5dbfc6",
+  "qid": "cdfac17e-95f9-4d89-bf26-47e485c63e77",
+  "conductedBy": "Ipsos",
+  "surveyBy": "ABC News",
+  "study": "ABC News/Ipsos Poll: January 2023",
+  "start": "01/20/2023",
+  "end": "01/21/2023",
+  "key": "approve_immig",
+  "qname": "R06",
+  "text": "Do you approve or disapprove of the way Joe Biden is handling...immigration and the situation at the United States-Mexico border?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    31
+   ],
+   [
+    "Disapprove",
+    67
+   ],
+   [
+    "Skipped",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120111,
+  "sid": "003f4a67-ab74-4dfc-8a75-b23941f4f9d9",
+  "qid": "4db9059c-41a5-4cdc-a634-f9c999f42470",
+  "conductedBy": "AmeriSpeak by NORC",
+  "surveyBy": "The Associated Press-NORC Center for Public Affairs Research",
+  "study": "Associated Press/NORC Survey",
+  "start": "01/26/2023",
+  "end": "01/30/2023",
+  "key": "approve_immig",
+  "qname": "R06",
+  "text": "Overall, do you approve or disapprove of the way Joe Biden is handling...immigration?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    32
+   ],
+   [
+    "Disapprove",
+    66
+   ],
+   [
+    "Don't know",
+    1
+   ],
+   [
+    "Skipped/Refused",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120112,
+  "sid": "15875ec7-5df3-4789-afc5-fffa14d683bb",
+  "qid": "83d441ff-3bbf-4454-baf2-7a5951d8297d",
+  "conductedBy": "Beacon Research/Shaw & Co. Research",
+  "surveyBy": "Fox News",
+  "study": "Fox News Poll",
+  "start": "01/27/2023",
+  "end": "01/30/2023",
+  "key": "approve_immig",
+  "qname": "R05",
+  "text": "(Do you approve or disapprove of the way Joe Biden is handling the following issues?)...Immigration",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    35
+   ],
+   [
+    "Disapprove",
+    61
+   ],
+   [
+    "Don't know",
+    4
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120114,
+  "sid": "86a05f99-e325-41f6-8926-dc891a045c95",
+  "qid": "e021c1ed-1273-43a5-85c7-e1f2b084e1db",
+  "conductedBy": "Abt Associates",
+  "surveyBy": "ABC News/Washington Post",
+  "study": "ABC News/Washington Post Poll: February 2024",
+  "start": "01/27/2023",
+  "end": "02/01/2023",
+  "key": "approve_immig",
+  "qname": "R03",
+  "text": "Do you approve or disapprove of the way (Joe) Biden is handling...the immigration situation at the United States-Mexico border?",
+  "subpop": "Asked of half sample",
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    28
+   ],
+   [
+    "Disapprove",
+    59
+   ],
+   [
+    "No opinion",
+    13
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120141,
+  "sid": "b1617401-6187-4e4a-851b-466d35caf7dc",
+  "qid": "ded0b5c9-3a42-436f-b952-9381485f1170",
+  "conductedBy": null,
+  "surveyBy": "Gallup Organization",
+  "study": "Gallup Poll",
+  "start": "02/01/2023",
+  "end": "02/23/2023",
+  "key": "approve_immig",
+  "qname": "R05",
+  "text": "Do you approve or disapprove of the way Joe Biden is handling...immigration?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    33
+   ],
+   [
+    "Disapprove",
+    65
+   ],
+   [
+    "No opinion",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120128,
+  "sid": "81d42479-d0e7-4193-a210-4f99d27d937e",
+  "qid": "b89c5056-7da5-413f-a2fa-f75d27381d42",
+  "conductedBy": "Ipsos",
+  "surveyBy": "Reuters",
+  "study": "Reuters/Ipsos Core Political Survey",
+  "start": "02/03/2023",
+  "end": "02/05/2023",
+  "key": "approve_immig",
+  "qname": "R14",
+  "text": "(Do you approve or disapprove of the way Joe Biden is handling the following issues?)...Immigration",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Strongly/Somewhat approve",
+    28
+   ],
+   [
+    "Strongly/Somewhat disapprove",
+    54
+   ],
+   [
+    "Don't know/Refused",
+    18
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120132,
+  "sid": "630e890e-a132-4aa7-b67b-c6440c3028f6",
+  "qid": "c0e935ed-7c09-47ac-8ab7-214a885160c3",
+  "conductedBy": null,
+  "surveyBy": "Quinnipiac University Polling Institute",
+  "study": "Quinnipiac University Poll",
+  "start": "02/09/2023",
+  "end": "02/14/2023",
+  "key": "approve_immig",
+  "qname": "R16",
+  "text": "Do you approve or disapprove of the way Joe Biden is handling...immigration issues?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    27
+   ],
+   [
+    "Disapprove ",
+    62
+   ],
+   [
+    "Don't know/No answer",
+    11
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120138,
+  "sid": "54370aa0-16af-488c-8add-02b0f22cfc61",
+  "qid": "3ab7693d-5723-4677-9bc9-a467214345de",
+  "conductedBy": "The AP-NORC Center for Public Affairs Research",
+  "surveyBy": "AP-NORC Center",
+  "study": "The February 2023 AP-NORC Center Poll",
+  "start": "02/16/2023",
+  "end": "02/20/2023",
+  "key": "approve_immig",
+  "qname": "R01",
+  "text": "Overall, do you approve or disapprove of the way Joe Biden is handling...immigration?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    39
+   ],
+   [
+    "Disapprove",
+    58
+   ],
+   [
+    "Don't know",
+    1
+   ],
+   [
+    "Skipped/Refused",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120139,
+  "sid": "be468559-d334-43af-9656-3e79d90e407f",
+  "qid": "2f3700a6-b2ee-42eb-b5e7-1c2917c2fd8d",
+  "conductedBy": "Beacon Research/Shaw & Co. Research",
+  "surveyBy": "Fox News",
+  "study": "Fox News Poll",
+  "start": "02/19/2023",
+  "end": "02/22/2023",
+  "key": "approve_immig",
+  "qname": "R07",
+  "text": "(Do you approve or disapprove of the way Joe Biden is handling the following issues?)...Immigration",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    36
+   ],
+   [
+    "Disapprove",
+    61
+   ],
+   [
+    "Don't know",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120198,
+  "sid": "b05be84e-3c24-496b-a3b3-6f9440fc0f19",
+  "qid": "40c80e2a-d6d9-4ef4-a4be-c23a311f41f0",
+  "conductedBy": "SSRS",
+  "surveyBy": "CNN",
+  "study": "CNN Poll",
+  "start": "03/01/2023",
+  "end": "03/31/2023",
+  "key": "approve_immig",
+  "qname": "R05",
+  "text": "Do you approve or disapprove of the way Joe Biden is handling...immigration?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    35
+   ],
+   [
+    "Disapprove",
+    63
+   ],
+   [
+    "No opinion",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120156,
+  "sid": "0e0d6e1d-784c-4ab6-a6da-f075f8cac64b",
+  "qid": "b2f059da-3f5d-492c-8951-81c0e729912c",
+  "conductedBy": "Ipsos",
+  "surveyBy": "Reuters",
+  "study": "Reuters/Ipsos Core Political Survey",
+  "start": "03/03/2023",
+  "end": "03/05/2023",
+  "key": "approve_immig",
+  "qname": "R13",
+  "text": "(Do you approve or disapprove of the way Joe Biden is handling the following issues?)...Immigration",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    32
+   ],
+   [
+    "Disapprove",
+    53
+   ],
+   [
+    "Don't know/Refused",
+    15
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120160,
+  "sid": "73136a6e-6bfd-4f0d-9ee2-f45a45bf56a6",
+  "qid": "7f711c3a-1944-4ce5-b5cb-edace9bd6a29",
+  "conductedBy": null,
+  "surveyBy": "Quinnipiac University Polling Institute",
+  "study": "Quinnipiac University Poll",
+  "start": "03/09/2023",
+  "end": "03/13/2023",
+  "key": "approve_immig",
+  "qname": "R17",
+  "text": "Do you approve or disapprove of the way Joe Biden is handling...immigration issues?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    27
+   ],
+   [
+    "Disapprove",
+    62
+   ],
+   [
+    "Don't know/No answer",
+    11
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120175,
+  "sid": "73b43dfb-7881-4f77-907f-6e70244354d1",
+  "qid": "e00fb5ad-34aa-4737-a423-79bd874a81a5",
+  "conductedBy": "Selzer & Co.",
+  "surveyBy": "Grinnell College",
+  "study": "Grinnell College National Poll",
+  "start": "03/14/2023",
+  "end": "03/19/2023",
+  "key": "approve_immig",
+  "qname": "R02",
+  "text": "Do you approve or disapprove of the way Joe Biden is handling...immigration?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    31
+   ],
+   [
+    "Disapprove",
+    54
+   ],
+   [
+    "Not sure",
+    15
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120239,
+  "sid": "4385abaf-3087-4193-b085-3c131d570403",
+  "qid": "e6b236a8-54d9-4e0f-b2ef-2786fe3724bc",
+  "conductedBy": "Ipsos",
+  "surveyBy": "Reuters",
+  "study": "Reuters/Ipsos Core Political Survey",
+  "start": "04/14/2023",
+  "end": "04/16/2023",
+  "key": "approve_immig",
+  "qname": "R14",
+  "text": "(Do you approve or disapprove of the way Joe Biden is handling the following issues?)...Immigration",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    27
+   ],
+   [
+    "Disapprove",
+    57
+   ],
+   [
+    "Don't know/Refused",
+    17
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120252,
+  "sid": "da0adc1e-f39c-40a8-bd4a-3d502a731528",
+  "qid": "36c7a69d-176a-48f6-9e35-028ab29b27a5",
+  "conductedBy": "Beacon Research/Shaw & Co. Research",
+  "surveyBy": "Fox News",
+  "study": "Fox News Poll",
+  "start": "04/21/2023",
+  "end": "04/24/2023",
+  "key": "approve_immig",
+  "qname": "R04",
+  "text": "(Do you approve or disapprove of the way Joe Biden is handling the following issues?)...Immigration",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    36
+   ],
+   [
+    "Disapprove",
+    61
+   ],
+   [
+    "Don't know",
+    4
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120273,
+  "sid": "709bf6b5-2e96-4ca3-937f-fa5203963a9b",
+  "qid": "a39f81a5-84b1-4115-b7b5-e18ab3d2adbb",
+  "conductedBy": "Ipsos",
+  "surveyBy": "Reuters",
+  "study": "Reuters/Ipsos Core Political Survey",
+  "start": "05/05/2023",
+  "end": "05/07/2023",
+  "key": "approve_immig",
+  "qname": "R14",
+  "text": "(Do you approve or disapprove of the way Joe Biden is handling the following issues?)...Immigration",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    26
+   ],
+   [
+    "Disapprove",
+    60
+   ],
+   [
+    "Don't know/Refused",
+    13
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120285,
+  "sid": "ce0a718e-96ca-42e9-8965-89ad8c04ccf4",
+  "qid": "47e4f514-41b1-47d1-9e3c-456ce5078dd5",
+  "conductedBy": null,
+  "surveyBy": "AP-NORC Center for Public Affairs Research",
+  "study": "AP-NORC Poll",
+  "start": "05/11/2023",
+  "end": "05/15/2023",
+  "key": "approve_immig",
+  "qname": "R05",
+  "text": "Overall, do you approve or disapprove of the way Joe Biden is handling...immigration?",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Approve",
+    31
+   ],
+   [
+    "Disapprove",
+    67
+   ],
+   [
+    "Don't know",
+    1e-07
+   ],
+   [
+    "Skipped/Refused",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120291,
+  "sid": "0005b2b0-3f74-44cf-a9d0-31e37db0c766",
+  "qid": "9be16b3b-e597-4ef3-9f4b-06411c982cc6",
+  "conductedBy": "SSRS",
+  "surveyBy": "CNN",
+  "study": "CNN Poll",
+  "start": "05/17/2023",
+  "end": "05/20/2023",
+  "key": "approve_immig",
+  "qname": "R03",
+  "text": " Do you approve or disapprove of the way Joe Biden is handling...immigration?",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Approve",
+    30
+   ],
+   [
+    "Disapprove",
+    69
+   ],
+   [
+    "No opinion",
+    1e-07
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120300,
+  "sid": "df460662-38b2-40ff-b97a-706fcc8d7bd0",
+  "qid": "4228caad-dc25-41f9-8a1c-575d176bf3c7",
+  "conductedBy": null,
+  "surveyBy": "Quinnipiac University Polling Institute",
+  "study": "Quinnipiac University Poll",
+  "start": "05/18/2023",
+  "end": "05/22/2023",
+  "key": "approve_immig",
+  "qname": "R19",
+  "text": "Do you approve or disapprove of the way Joe Biden is handling...immigration issues?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    25
+   ],
+   [
+    "Disapprove",
+    66
+   ],
+   [
+    "Don't know/No answer",
+    9
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120314,
+  "sid": "b2601730-d28c-40ca-bf62-db4ac8f1314e",
+  "qid": "a84e7c80-ae34-4849-9dbc-b6df6933f6f8",
+  "conductedBy": "Ipsos",
+  "surveyBy": "Reuters",
+  "study": "Reuters/Ipsos Core Political Survey",
+  "start": "06/02/2023",
+  "end": "06/05/2023",
+  "key": "approve_immig",
+  "qname": "R13",
+  "text": "(Do you approve or disapprove of the way Joe Biden is handling the following issues?)...Immigration",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    29
+   ],
+   [
+    "Disapprove",
+    55
+   ],
+   [
+    "Don't know/Refused",
+    15
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120384,
+  "sid": "4bde7440-a2bf-47fe-a289-d6ae55332134",
+  "qid": "a3e810cb-d457-4763-813a-9695ea64bea3",
+  "conductedBy": "Beacon Research/Shaw & Co. Research",
+  "surveyBy": "Fox News",
+  "study": "Fox News Poll",
+  "start": "06/23/2023",
+  "end": "06/26/2023",
+  "key": "approve_immig",
+  "qname": "R04",
+  "text": "(Do you approve or disapprove of the way Joe Biden is handling the following issues?)...Immigration",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    35
+   ],
+   [
+    "Disapprove",
+    62
+   ],
+   [
+    "Don't know",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120414,
+  "sid": "abb3ac98-3535-4702-ad6e-6367bd70e30c",
+  "qid": "aaa0dc69-e975-4e45-91d4-1c417eb99b92",
+  "conductedBy": "Ipsos",
+  "surveyBy": "Reuters",
+  "study": "Reuters/Ipsos Core Political Survey",
+  "start": "07/07/2023",
+  "end": "07/09/2023",
+  "key": "approve_immig",
+  "qname": "R13",
+  "text": "(Do you approve or disapprove of the way Joe Biden is handling the following issues?)...Immigration",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    31
+   ],
+   [
+    "Disapprove",
+    55
+   ],
+   [
+    "Don't know/Refused",
+    15
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120492,
+  "sid": "3ac352c3-e517-440b-9439-5573bc03638c",
+  "qid": "b3ac42ab-9290-4dee-9fb2-a30c065c50af",
+  "conductedBy": "Ipsos",
+  "surveyBy": "Reuters",
+  "study": "Reuters/Ipsos Core Political Survey",
+  "start": "08/04/2023",
+  "end": "08/06/2023",
+  "key": "approve_immig",
+  "qname": "R14",
+  "text": "(Do you approve or disapprove of the way Joe Biden is handling the following issues?)...Immigration",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    28
+   ],
+   [
+    "Disapprove",
+    57
+   ],
+   [
+    "Don't know/Refused",
+    15
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120629,
+  "sid": "8eab9834-44d0-4fb4-90c0-fdaa9f296572",
+  "qid": "cbc3674f-027c-4d4c-924e-2163053d47ee",
+  "conductedBy": "Ipsos",
+  "surveyBy": "PRRI",
+  "study": "PRRI American Values Survey",
+  "start": "08/25/2023",
+  "end": "08/30/2023",
+  "key": "approve_immig",
+  "qname": "R41",
+  "text": "Do you approve or disapprove of the job President Joe Biden is doing...handling immigration?...Strongly approve, somewhat approve, somewhat disapprove, strongly disapprove",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Strongly approve",
+    5
+   ],
+   [
+    "Somewhat approve",
+    26
+   ],
+   [
+    "Somewhat disapprove",
+    23
+   ],
+   [
+    "Strongly disapprove",
+    42
+   ],
+   [
+    "Skipped/Refused",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120540,
+  "sid": "918b9fa2-d9c5-464a-aed1-6dd4d8856822",
+  "qid": "02e9bf94-6586-4fe2-a579-51db768dc5ac",
+  "conductedBy": "Beacon Research/Shaw & Co. Research",
+  "surveyBy": "Fox News",
+  "study": "Fox News Poll",
+  "start": "09/09/2023",
+  "end": "09/12/2023",
+  "key": "approve_immig",
+  "qname": "R05",
+  "text": "(Do you approve or disapprove of the way Joe Biden is handling the following issues?)...Immigration",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    32
+   ],
+   [
+    "Disapprove",
+    64
+   ],
+   [
+    "Don't know",
+    4
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120551,
+  "sid": "f10d6d2b-ebe7-4dd3-b676-8c4e2365a76c",
+  "qid": "ccd2c05b-633a-4e0e-a06a-c641ba13adf5",
+  "conductedBy": "Abt Associates",
+  "surveyBy": "ABC News/Washington Post",
+  "study": "ABC News/Washington Post Poll",
+  "start": "09/15/2023",
+  "end": "09/20/2023",
+  "key": "approve_immig",
+  "qname": "R04",
+  "text": "Do you approve or disapprove of the way (Joe) Biden is handling...the immigration situation at the United States-Mexico border?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    23
+   ],
+   [
+    "Disapprove",
+    62
+   ],
+   [
+    "No opinion",
+    15
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120577,
+  "sid": "7db33d03-f1ca-4bb1-a357-c099ccc1f356",
+  "qid": "0d15f0a1-df13-4a9f-838b-f021a85512b6",
+  "conductedBy": "SSRS",
+  "surveyBy": "CNN",
+  "study": "CNN Poll",
+  "start": "10/04/2023",
+  "end": "10/09/2023",
+  "key": "approve_immig",
+  "qname": "R03",
+  "text": "Do you approve or disapprove of the way Joe Biden is handling...immigration?",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Approve",
+    32
+   ],
+   [
+    "Disapprove",
+    68
+   ],
+   [
+    "No opinion",
+    1e-07
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120578,
+  "sid": "b5f3651a-fa62-435c-a42f-19b8b74c75ce",
+  "qid": "ad317db4-d6cf-4f05-a561-466ab82ccb1c",
+  "conductedBy": "Ipsos",
+  "surveyBy": "ABC News",
+  "study": "ABC News/Ipsos Poll: October 2023",
+  "start": "10/13/2023",
+  "end": "10/14/2023",
+  "key": "approve_immig",
+  "qname": "R05",
+  "text": "Do you approve or disapprove of the way Joe Biden is handling...immigration and the situation at the United States-Mexico border?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    26
+   ],
+   [
+    "Disapprove",
+    70
+   ],
+   [
+    "Skipped",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120661,
+  "sid": "d43cab6e-cbd7-4dd3-8919-8d6e5f3ee2ef",
+  "qid": "0f765aa4-71f7-4883-9c7f-0aa59ec9e983",
+  "conductedBy": "Beacon Research/Shaw & Co. Research",
+  "surveyBy": "Fox News",
+  "study": "Fox News Poll",
+  "start": "11/10/2023",
+  "end": "11/13/2023",
+  "key": "approve_immig",
+  "qname": "R06",
+  "text": "(Do you approve or disapprove of the way Joe Biden is handling the following issues?)...Immigration",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    33
+   ],
+   [
+    "Disapprove",
+    64
+   ],
+   [
+    "Don't know",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120685,
+  "sid": "7eb88459-5a0c-43f0-b757-2834ab0747cf",
+  "qid": "ea8e0bd5-9198-4ab5-ab24-2ca15d3ec011",
+  "conductedBy": "AP-NORC Center for Public Affairs Research",
+  "surveyBy": "Associated Press/NORC at the University of Chicago",
+  "study": "AP-NORC Survey",
+  "start": "11/30/2023",
+  "end": "12/04/2023",
+  "key": "approve_immig",
+  "qname": "R05",
+  "text": "Overall, do you approve or disapprove of the way Joe Biden is handling...immigration?",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Approve",
+    28
+   ],
+   [
+    "Disapprove",
+    70
+   ],
+   [
+    "Don't know",
+    1e-07
+   ],
+   [
+    "Skipped/Refused",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120711,
+  "sid": "c715a63c-bfd7-4176-afe3-a8d5743251b3",
+  "qid": "2ca4f7f0-ecdf-43b9-a063-1d1fa88791e8",
+  "conductedBy": "Ipsos",
+  "surveyBy": "ABC News",
+  "study": "ABC News/Ipsos Poll",
+  "start": "01/04/2024",
+  "end": "01/08/2024",
+  "key": "approve_immig",
+  "qname": "R04",
+  "text": "Do you approve or disapprove of the way (Joe) Biden is handling the immigration situation at the United States--Mexico border?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    18
+   ],
+   [
+    "Disapprove",
+    63
+   ],
+   [
+    "Skipped/No opinion",
+    19
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120801,
+  "sid": "bef49c6e-75d0-48c0-a149-801cc5552348",
+  "qid": "a313fe65-72a7-44ab-b9e5-688fde8827b1",
+  "conductedBy": "SSRS",
+  "surveyBy": "CNN",
+  "study": "CNN Poll",
+  "start": "01/25/2024",
+  "end": "01/30/2024",
+  "key": "approve_immig",
+  "qname": "R02",
+  "text": "Do you approve or disapprove of the way Joe Biden is handling...immigration?",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Approve",
+    30
+   ],
+   [
+    "Disapprove",
+    70
+   ],
+   [
+    "No opinion",
+    1e-07
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120883,
+  "sid": "b8410dc6-71da-4b31-8515-269a6398e4b4",
+  "qid": "cb566b43-69b9-4335-bdf2-a54557916cb1",
+  "conductedBy": null,
+  "surveyBy": "Gallup Organization",
+  "study": "Gallup Poll",
+  "start": "02/01/2024",
+  "end": "02/20/2024",
+  "key": "approve_immig",
+  "qname": "R04",
+  "text": "Do you approve or disapprove of the way Joe Biden is handling...immigration?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    28
+   ],
+   [
+    "Disapprove",
+    67
+   ],
+   [
+    "No opinion",
+    5
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120895,
+  "sid": "fd83a4d6-8c33-428a-b197-d68a52795147",
+  "qid": "b29da0b5-b679-43af-ba1c-0c0a254595e1",
+  "conductedBy": "The AP-NORC Center for Public Affairs Research",
+  "surveyBy": "Associated Press/NORC at the University of Chicago",
+  "study": "The February 2024 AP-NORC Center Poll",
+  "start": "02/22/2024",
+  "end": "02/26/2024",
+  "key": "approve_immig",
+  "qname": "R04",
+  "text": "Overall, do you approve or disapprove of the way Joe Biden is handling...immigration?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    29
+   ],
+   [
+    "Disapprove",
+    68
+   ],
+   [
+    "Don't know",
+    1
+   ],
+   [
+    "Skipped/Refused ",
+    2
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120928,
+  "sid": "69ec23d5-06d2-4a67-8f8f-f99f35ae9117",
+  "qid": "b1087092-e3f2-4894-84a0-f29614dc18f8",
+  "conductedBy": "Ipsos",
+  "surveyBy": "ABC News",
+  "study": "ABC News/Ipsos poll: State of the Union, Biden-Trump issue matchups",
+  "start": "03/08/2024",
+  "end": "03/09/2024",
+  "key": "approve_immig",
+  "qname": "R07",
+  "text": "Do you approve or disapprove of the way Joe Biden is handling...immigration and the situation at the United States-Mexico border?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    29
+   ],
+   [
+    "Disapprove",
+    68
+   ],
+   [
+    "Skipped",
+    3
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120946,
+  "sid": "e005009d-bf35-4c47-851c-2da86df2b194",
+  "qid": "d73a333c-753e-4ed0-bda4-17e6d1265961",
+  "conductedBy": "AP-NORC Center for Public Affairs Research",
+  "surveyBy": "Associated Press",
+  "study": "AP-NORC Poll",
+  "start": "03/21/2024",
+  "end": "03/25/2024",
+  "key": "approve_immig",
+  "qname": "R04",
+  "text": "Overall, do you approve or disapprove of the way Joe Biden is handling...immigration?",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Approve",
+    31
+   ],
+   [
+    "Disapprove",
+    68
+   ],
+   [
+    "Don't know",
+    1e-07
+   ],
+   [
+    "Skipped/Refused",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121086,
+  "sid": "64bceed8-20ca-461d-bcc7-4981b300893b",
+  "qid": "da61b7ad-a81a-4ca1-a79f-29c3fe3979fc",
+  "conductedBy": "Siena College Research Institute",
+  "surveyBy": "New York Times",
+  "study": "New York Times Upshot/Siena College Poll",
+  "start": "04/07/2024",
+  "end": "04/11/2024",
+  "key": "approve_immig",
+  "qname": "R30",
+  "text": "(Tell me whether you approve or disapprove of the way Joe Biden handling each of the following issues as president....Strongly approve, somewhat approve, somewhat disapprove, strongly disapprove)...Immigration",
+  "subpop": "Asked of Form B half sample",
+  "notes": null,
+  "responses": [
+   [
+    "Strongly approve",
+    8
+   ],
+   [
+    "Somewhat approve",
+    24
+   ],
+   [
+    "Somewhat disapprove",
+    17
+   ],
+   [
+    "Strongly disapprove",
+    47
+   ],
+   [
+    "Don't know/Refused",
+    4
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120991,
+  "sid": "75ecf891-26b1-4531-b780-196167622323",
+  "qid": "e22ce973-7a63-4422-a597-7b72186ea8dd",
+  "conductedBy": "Hart Research Associates/Public Opinion Strategies",
+  "surveyBy": "NBC News",
+  "study": "NBC News Poll",
+  "start": "04/12/2024",
+  "end": "04/16/2024",
+  "key": "approve_immig",
+  "qname": "R20",
+  "text": "(Please tell me if you approve or disapprove of President (Joe) Biden's handling of each of the following.)...Border security and immigration",
+  "subpop": "Asked of From B half sample",
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    28
+   ],
+   [
+    "Disapprove",
+    69
+   ],
+   [
+    "No opinion (Vol.)",
+    2
+   ],
+   [
+    "Not sure",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121116,
+  "sid": "0f0296e8-8d3c-4b89-bcfd-29a6d2b5505b",
+  "qid": "7e2b57bb-3001-4263-a272-dcb23602ec02",
+  "conductedBy": "SSRS",
+  "surveyBy": "KFF",
+  "study": "KFF Michigan Survey of Women Voters",
+  "start": "05/23/2024",
+  "end": "06/05/2024",
+  "key": "approve_immig",
+  "qname": "R32",
+  "text": "(Do you approve or disapprove of the way President Joe Biden is handling each of the following?...Strongly approve, somewhat approve, somewhat disapprove, strongly disapprove)...Immigration and border security",
+  "subpop": "Asked of Democrats including leaners (44%)",
+  "notes": null,
+  "responses": [
+   [
+    "Strongly approve",
+    10
+   ],
+   [
+    "Somewhat approve",
+    55
+   ],
+   [
+    "Somewhat disapprove",
+    24
+   ],
+   [
+    "Strongly disapprove",
+    11
+   ],
+   [
+    "No answer",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121113,
+  "sid": "b26f56fc-5a06-4b93-b7e5-f9c509fd1436",
+  "qid": "ae1b5e8b-a2e1-4001-b786-bee2baed01c2",
+  "conductedBy": "SSRS",
+  "surveyBy": "KFF",
+  "study": "KFF Survey of Women Voters",
+  "start": "05/23/2024",
+  "end": "06/05/2024",
+  "key": "approve_immig",
+  "qname": "R32",
+  "text": "(Do you approve or disapprove of the way President Joe Biden is handling each of the following?...Strongly approve, somewhat approve, somewhat disapprove, strongly disapprove)...Immigration and border security",
+  "subpop": "Asked of Democrats including leaners (47%)",
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Strongly approve",
+    12
+   ],
+   [
+    "Somewhat approve",
+    46
+   ],
+   [
+    "Somewhat disapprove",
+    27
+   ],
+   [
+    "Strongly disapprove",
+    14
+   ],
+   [
+    "No answer",
+    1e-07
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121115,
+  "sid": "1eb5d6a8-8f01-4c30-9994-29fe0d9ad229",
+  "qid": "d0a219ed-6b0e-435d-98bb-77b37e364c23",
+  "conductedBy": "SSRS",
+  "surveyBy": "KFF",
+  "study": "KFF Arizona Survey of Women Voters",
+  "start": "05/23/2024",
+  "end": "06/05/2024",
+  "key": "approve_immig",
+  "qname": "R32",
+  "text": "(Do you approve or disapprove of the way President Joe Biden is handling each of the following?...Strongly approve, somewhat approve, somewhat disapprove, strongly disapprove)...Immigration and border security",
+  "subpop": "Asked of Democrats including leaners (41%)   ",
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Strongly approve",
+    10
+   ],
+   [
+    "Somewhat approve",
+    53
+   ],
+   [
+    "Somewhat disapprove",
+    26
+   ],
+   [
+    "Strongly disapprove",
+    11
+   ],
+   [
+    "No answer",
+    1e-07
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121120,
+  "sid": "c9b6a781-8f61-4b49-8ed1-d7b9bbbe221b",
+  "qid": "9e38b49b-39e4-48d5-b4d1-7e8c89a5abd6",
+  "conductedBy": "AP-NORC Center for Public Affairs Research",
+  "surveyBy": "Associated Press",
+  "study": "AP/NORC Poll",
+  "start": "06/20/2024",
+  "end": "06/24/2024",
+  "key": "approve_immig",
+  "qname": "R06",
+  "text": "Overall, do you approve or disapprove of the way Joe Biden is handling...immigration?",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Approve",
+    30
+   ],
+   [
+    "Disapprove",
+    69
+   ],
+   [
+    "Skipped/Refused",
+    1
+   ]
+  ]
+ }
+]

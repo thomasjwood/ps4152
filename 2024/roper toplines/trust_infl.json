@@ -1,0 +1,615 @@
+[
+ {
+  "archiveId": 31120663,
+  "sid": "eb3b9aba-d0d9-4c93-8f3d-66005cb624fc",
+  "qid": "08c259c3-c1e6-472e-abbc-5fe5665d427c",
+  "conductedBy": "SSRS",
+  "surveyBy": "KFF",
+  "study": "KFF Poll: November 2023 Health Tracking Poll/COVID-19 Vaccine Monitor",
+  "start": "10/31/2023",
+  "end": "11/07/2023",
+  "key": "trust_infl",
+  "qname": "R17",
+  "text": "Regardless of who you intend to vote for in the upcoming elections, which political party, the Democrats or the Republicans, do you trust to do a better job addressing each of the following?...Inflation, including the rising cost of household expenses",
+  "subpop": "Registered voters (82%)",
+  "notes": null,
+  "responses": [
+   [
+    "The Democratic Party",
+    45
+   ],
+   [
+    "The Republican Party",
+    54
+   ],
+   [
+    "No answer",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120637,
+  "sid": "75f38ab7-7b78-4a39-932a-bad9750bf08d",
+  "qid": "bb3c99e6-9566-442c-a6f5-46817374adf4",
+  "conductedBy": "Ipsos",
+  "surveyBy": "ABC News",
+  "study": "ABC News/Ipsos Poll: November 2023",
+  "start": "11/03/2023",
+  "end": "11/04/2023",
+  "key": "trust_infl",
+  "qname": "R18",
+  "text": "Which political party, the Democrats or the Republicans, do you trust to do a better job handling...inflation?...The Democrats, the Republicans, both equally, neither",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "The Democrats",
+    21
+   ],
+   [
+    "The Republicans",
+    35
+   ],
+   [
+    "Both equally",
+    10
+   ],
+   [
+    "Neither",
+    32
+   ],
+   [
+    "Skipped",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31120855,
+  "sid": "532ff5e5-34f9-4b6a-ac49-96b610b36102",
+  "qid": "8cf23eb8-b507-4092-bd7f-da424ef0314a",
+  "conductedBy": "Ipsos",
+  "surveyBy": "ABC News",
+  "study": "ABC News/Ipsos Poll: February 2024",
+  "start": "02/09/2024",
+  "end": "02/10/2024",
+  "key": "trust_infl",
+  "qname": "R04",
+  "text": "Who do you trust, Joe Biden or Donald Trump, to do a better job handling...inflation?...Biden, Trump, both equally, neither ",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Biden",
+    31
+   ],
+   [
+    "Trump",
+    41
+   ],
+   [
+    "Both equally",
+    3
+   ],
+   [
+    "Neither",
+    25
+   ],
+   [
+    "Skipped",
+    1e-07
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121042,
+  "sid": "b2d17f5a-4b92-4e05-a465-b7c144089983",
+  "qid": "65934dae-a387-43d5-81ca-4f0a22d80429",
+  "conductedBy": "Ipsos",
+  "surveyBy": "ABC News",
+  "study": "ABC News/Ipsos Poll",
+  "start": "04/25/2024",
+  "end": "04/30/2024",
+  "key": "trust_infl",
+  "qname": "R27",
+  "text": "(Who do you trust more to handle each of these issues, (Joe) Biden, (Donald) Trump, or do you not trust either of them to handle it?...Biden strongly, Biden somewhat, Trump, strongly, Trump, somewhat)...Inflation, meaning rising prices",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Biden, strongly",
+    14
+   ],
+   [
+    "Biden, somewhat",
+    17
+   ],
+   [
+    "Trump, strongly",
+    31
+   ],
+   [
+    "Trump, somewhat",
+    13
+   ],
+   [
+    "Don't trust either",
+    25
+   ],
+   [
+    "Skipped",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31121143,
+  "sid": "8028535d-8ab9-4bac-88b5-d6170d27916a",
+  "qid": "ab68a82b-70f1-417d-9665-4a6e31c8ad9a",
+  "conductedBy": "Ipsos",
+  "surveyBy": "ABC News/Washington Post",
+  "study": "Washington Post-ABC News-Ipsos Poll",
+  "start": "07/05/2024",
+  "end": "07/09/2024",
+  "key": "trust_infl",
+  "qname": "R25",
+  "text": "(Who do you trust more to handle each of these issues, (Joe) Biden, (Donald) Trump, or do you not trust either of them to handle it? Is that strongly or somewhat?)...Inflation, meaning rising prices",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Trust Biden more strongly",
+    14
+   ],
+   [
+    "Trust Biden more somewhat",
+    19
+   ],
+   [
+    "Trust Trump more somewhat",
+    14
+   ],
+   [
+    "Trust Trump more strongly",
+    30
+   ],
+   [
+    "Neither",
+    22
+   ],
+   [
+    "Skipped",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122066,
+  "sid": "f3d7852f-ce87-43a3-8bde-63f7ea208082",
+  "qid": "36858098-2a8f-4507-8699-9b99715d753f",
+  "conductedBy": "The AP-NORC Center for Public Affairs Research",
+  "surveyBy": "AP-NORC Center; USAFacts",
+  "study": "AP-NORC/USAFacts Poll: State of the Facts 2024",
+  "start": "07/29/2024",
+  "end": "08/08/2024",
+  "key": "trust_infl",
+  "qname": "R55",
+  "text": "(How much do you trust information from the federal government about the following topics?...A great deal, quite a bit, a moderate amount, only a little, not at all)...Inflation and the cost of living",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "A great deal",
+    7
+   ],
+   [
+    "Quite a bit",
+    19
+   ],
+   [
+    "A moderate amount",
+    27
+   ],
+   [
+    "Only a little",
+    25
+   ],
+   [
+    "Not at all",
+    21
+   ],
+   [
+    "Skipped/Refused",
+    1e-07
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122029,
+  "sid": "ef873727-dfd3-4f10-ad20-0244336d8765",
+  "qid": "7c455fb2-bb10-47b4-964d-d027119843b5",
+  "conductedBy": "Ipsos",
+  "surveyBy": "ABC News/Washington Post",
+  "study": "ABC News/Washington Post/Ipsos poll",
+  "start": "08/09/2024",
+  "end": "08/13/2024",
+  "key": "trust_infl",
+  "qname": "R31",
+  "text": "(Who do you trust more to handle each of these issues, (Kamala) Harris, (Donald) Trump, or do you not trust either of them to handle it?)...Inflation, meaning rising prices",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Trust Harris more strongly",
+    18
+   ],
+   [
+    "Trust Harris more somewhat",
+    18
+   ],
+   [
+    "Trust Trump more somewhat",
+    12
+   ],
+   [
+    "Trust Trump more strongly",
+    33
+   ],
+   [
+    "Neither",
+    18
+   ],
+   [
+    "Skipped",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122046,
+  "sid": "a83c25d5-1616-4cf6-affe-26b6b75b7e76",
+  "qid": "ed881121-9096-4d78-a9f8-33564cafd319",
+  "conductedBy": "Ipsos",
+  "surveyBy": "ABC News",
+  "study": "ABC News/Ipsos Poll",
+  "start": "08/23/2024",
+  "end": "08/27/2024",
+  "key": "trust_infl",
+  "qname": "R22",
+  "text": "(Who do you trust more to handle each of these issues, (Kamala) Harris, (Donald) Trump, or do you not trust either of them to handle it?...Strongly trust Harris, somewhat trust Harris, somewhat trust Trump, strongly trust Trump)...Inflation, meaning rising prices",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Strongly trust Harris",
+    19
+   ],
+   [
+    "Somewhat trust Harris",
+    16
+   ],
+   [
+    "Somewhat trust Trump",
+    12
+   ],
+   [
+    "Strongly trust Trump",
+    32
+   ],
+   [
+    "Neither",
+    19
+   ],
+   [
+    "Skipped",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122063,
+  "sid": "14961609-9a7d-4c68-963d-ce7f2e79f78d",
+  "qid": "0f195321-bbb2-4bed-aa00-a7a2addba291",
+  "conductedBy": "SSRS",
+  "surveyBy": "KFF",
+  "study": "KFF Poll: September 2024 Health Tracking Poll on Health Information and Trust",
+  "start": "08/26/2024",
+  "end": "09/04/2024",
+  "key": "trust_infl",
+  "qname": "R04",
+  "text": "Regardless of who you intend to vote for in the upcoming elections, which presidential candidate do you trust to do a better job dealing with each of the following?...Vice President Kamala Harris, former President Donald Trump, neither, someone else, both...The economy and inflation",
+  "subpop": null,
+  "notes": "* = Less than .5 percent.",
+  "responses": [
+   [
+    "Vice President Harris",
+    35
+   ],
+   [
+    "Former President Trump",
+    51
+   ],
+   [
+    "Neither",
+    13
+   ],
+   [
+    "Someone else",
+    1e-07
+   ],
+   [
+    "Both",
+    1e-07
+   ],
+   [
+    "No answer",
+    1e-07
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122072,
+  "sid": "bc35a4eb-fb93-425a-998a-3a3ca4a3b126",
+  "qid": "12100574-0bd0-47c6-8fad-132f92f8cfd7",
+  "conductedBy": "Ipsos",
+  "surveyBy": "ABC News",
+  "study": "ABC News/Ipsos Poll",
+  "start": "09/11/2024",
+  "end": "09/13/2024",
+  "key": "trust_infl",
+  "qname": "R31",
+  "text": "(Who do you trust more to handle each of these issues, (Kamala) Harris, (Donald) Trump, or do you not trust either of them to handle it?...Harris, strongly, Harris, somewhat, Trump, somewhat, Trump strongly, don't trust either)...Inflation, meaning rising prices",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Harris, strongly",
+    21
+   ],
+   [
+    "Harris, somewhat",
+    17
+   ],
+   [
+    "Trump, somewhat",
+    12
+   ],
+   [
+    " Trump, strongly",
+    33
+   ],
+   [
+    "Don't trust either",
+    16
+   ],
+   [
+    "Skipped",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122131,
+  "sid": "53342669-38a3-46b8-9bbd-c91c5bb31e35",
+  "qid": "8eb82c33-bae6-4c6d-9de8-cea53af90ee0",
+  "conductedBy": "Ipsos",
+  "surveyBy": "ABC News",
+  "study": "ABC News/Ipsos Poll",
+  "start": "10/04/2024",
+  "end": "10/08/2024",
+  "key": "trust_infl",
+  "qname": "R12",
+  "text": "(Who do you trust more to handle each of these issues, (Kamala) Harris, (Donald) Trump, or do you not trust either of them to handle it?)...Inflation, meaning rising prices",
+  "subpop": null,
+  "notes": null,
+  "responses": [
+   [
+    "Trust Harris more strongly",
+    20
+   ],
+   [
+    "Trust Harris more somewhat",
+    17
+   ],
+   [
+    "Trust Trump more somewhat",
+    13
+   ],
+   [
+    "Trust Trump more strongly",
+    31
+   ],
+   [
+    "Neither",
+    18
+   ],
+   [
+    "Skipped",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122174,
+  "sid": "b19ef1f5-7b18-424d-be71-64838e00bbac",
+  "qid": "905c2614-ad9e-43ac-879d-822fe97fe307",
+  "conductedBy": null,
+  "surveyBy": "Gallup",
+  "study": "Gallup Poll",
+  "start": "10/14/2024",
+  "end": "10/27/2024",
+  "key": "trust_infl",
+  "qname": "R02",
+  "text": "What is the most important factor or issue determining which candidate you are voting for in this year's presidential election?",
+  "subpop": "Asked of registered voters who plan to vote",
+  "notes": "Open-ended question. Respondents answered the question in their own words; these responses were coded by the survey organization into the listed response categories.",
+  "responses": [
+   [
+    "The economy",
+    21
+   ],
+   [
+    "Immigration/Border security",
+    13
+   ],
+   [
+    "Abortion/Women's rights",
+    9
+   ],
+   [
+    "Preservation of democracy",
+    8
+   ],
+   [
+    "Dislike a particular candidate",
+    5
+   ],
+   [
+    "Ethics/Morals/Decency/Honesty",
+    5
+   ],
+   [
+    "Maintain rule of law/Equal rights/Freedoms",
+    4
+   ],
+   [
+    "Competency/Common sense/Experience",
+    4
+   ],
+   [
+    "Candidate character",
+    3
+   ],
+   [
+    "Inflation/High cost of living",
+    3
+   ],
+   [
+    "Maintain integrity of United States government, constitution",
+    3
+   ],
+   [
+    "Foreign policy",
+    2
+   ],
+   [
+    "General policies",
+    2
+   ],
+   [
+    "Promise of a better life for Americans",
+    2
+   ],
+   [
+    "Party affiliation/Party platform",
+    2
+   ],
+   [
+    "Progressive policies",
+    1
+   ],
+   [
+    "International relations/National security",
+    1
+   ],
+   [
+    "Israel/Palestine situation",
+    1
+   ],
+   [
+    "Climate change/The environment",
+    1
+   ],
+   [
+    "Tax reform",
+    1
+   ],
+   [
+    "Criminal indictment",
+    1
+   ],
+   [
+    "LGBTQ rights",
+    1
+   ],
+   [
+    "Lack of trust in candidate",
+    1
+   ],
+   [
+    "Fear of war",
+    1
+   ],
+   [
+    "Balancing the budget/Federal budget deficit",
+    1
+   ],
+   [
+    "Kindness/Humanity/Respect/Civility",
+    1
+   ],
+   [
+    "Based on gender/race",
+    1
+   ],
+   [
+    "Homeland security",
+    1
+   ],
+   [
+    "Other",
+    2
+   ],
+   [
+    "None",
+    1
+   ],
+   [
+    "No opinion",
+    1
+   ]
+  ]
+ },
+ {
+  "archiveId": 31122169,
+  "sid": "0660a65c-8c82-48cc-8a2e-5a3f46cb80c2",
+  "qid": "7ee8948d-7411-4063-9370-d7dc873f1df5",
+  "conductedBy": "Ipsos",
+  "surveyBy": "ABC News",
+  "study": "ABC News/Ipsos Poll",
+  "start": "10/18/2024",
+  "end": "10/22/2024",
+  "key": "trust_infl",
+  "qname": "R19",
+  "text": "(Who do you trust more to handle each of these issues, (Kamala) Harris, (Donald) Trump, or do you not trust either of them to handle it?...Trust Harris more strongly, trust Harris more somewhat, trust Trump more somewhat, trust Trump more strongly, neither)...Inflation, meaning rising prices",
+  "subpop": "Registered voters",
+  "notes": null,
+  "responses": [
+   [
+    "Trust Harris more strongly",
+    22
+   ],
+   [
+    "Trust Harris more somewhat",
+    18
+   ],
+   [
+    "Trust Trump more somewhat",
+    11
+   ],
+   [
+    "Trust Trump more strongly",
+    35
+   ],
+   [
+    "Neither",
+    14
+   ],
+   [
+    "Skipped",
+    1
+   ]
+  ]
+ }
+]
